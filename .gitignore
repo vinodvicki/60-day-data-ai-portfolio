@@ -1,0 +1,12 @@
+# Portfolio-root ignores (applies to all days; each day folder also has its
+# own .gitignore). Small data files ARE committed — see AGENTS.md
+# "Data-commit rule": .gitignore must never exclude data/.
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+*.key
+*.log
