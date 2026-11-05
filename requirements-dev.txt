@@ -1,0 +1,8 @@
+# Shared dev tooling for the whole 60-day portfolio (all days).
+# Pinned to the exact versions verified in the Day 1 venv on 2026-11-05.
+# Install with: pip install -r requirements-dev.txt
+# Used by CI (.github/workflows/ci.yml, daily-project.yml) and by the
+# coder/tester/optimizer handoff gates. Runtime deps stay per-day in
+# <day>/requirements.txt — this file is lint/format only.
+ruff==0.17.4
+black==26.10.1
