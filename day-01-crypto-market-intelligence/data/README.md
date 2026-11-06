@@ -3,16 +3,29 @@
 ## Source
 
 - **Provider:** CoinGecko public API — https://api.coingecko.com/api/v3
-- **Attribution:** "Data source: CoinGecko (coingecko.com)"
+- **Attribution:** "Powered by [CoinGecko](https://www.coingecko.com) (coingecko.com)"
 - **Endpoints used:** `GET /coins/{id}/market_chart/range?vs_currency=usd&from=1762300800&to=1793836800`
   (preferred, exact range). Fallback `GET /coins/{id}/market_chart?vs_currency=usd&days=365`
   was **not** needed.
 - **Coins (slugs):** `bitcoin`, `ethereum`, `solana`
-- **Window:** 2025-11-05 → 2026-11-05 (365 days, daily granularity, 00:00 UTC)
+- **Window:** 2025-11-05 → 2026-11-05 (366 daily observations, 2025-11-05 → 2026-11-05, 365-day span, daily granularity, 00:00 UTC)
 - **Access date:** 2026-11-05
-- **Licence note:** CoinGecko data is free to use via the public API with
-  attribution. Raw bulk data is not redistributed or re-hosted; the cached
-  JSONs in `data/raw/` are kept for this project only.
+- **Licence note:** The code in this repo is MIT, but the CoinGecko data
+  is under separate CoinGecko terms, not MIT. The three verbatim raw
+  CoinGecko JSONs in `data/raw/` and the CSVs derived from them **are**
+  committed to this public repo as the provenance record for the
+  published numbers. CoinGecko API Terms Clause 6 bars selling, renting,
+  leasing, sub-licensing, re-distributing or syndicating API access
+  without an executed agreement; the Demo (free) plan does not include
+  commercial rights, and attribution alone does not grant them.
+  Redistribution or resale requires a custom licence. CoinGecko support
+  defines redistribution as providing data / API access for others to
+  retrieve and use beyond viewing it in the product, and says cached or
+  reformatted data is not automatically exempt. However, **no CoinGecko
+  page found states explicitly whether committing verbatim raw API JSON
+  to a public GitHub repo counts as redistribution**, so this is
+  unresolved and no legal certainty is claimed. The files are kept, not
+  deleted, while that question is open.
 
 ## Fetch outcome (recorded 2026-11-05)
 
@@ -22,7 +35,7 @@
   **not** hold on 2026-11-05.
 - **Rate limiting:** no 429 was hit. Calls were spaced ≥5 s apart, as planned.
 - **Data type: REAL CoinGecko data (not synthetic).**
-- **Fetch timestamp (UTC):** 2026-11-05T19:08:02.303734+00:00 (from
+- **Fetch timestamp (UTC):** 2026-11-05T19:19:01.617391+00:00 (from
   `data/processed/data_source.json`).
 
 ## Row counts and coverage
@@ -64,7 +77,8 @@ construction, not data errors.
   `[timestamp_ms, value]`). **Committed to the repo** — they are small
   (366 entries each, ~40 KB per file) and are part of the deliverable
   (`.gitignore` deliberately does NOT ignore `data/`). Regenerate with
-  `python src/data_pipeline.py`.
+  `python3 src/data_pipeline.py`. Offline, from the committed cache:
+  `python3 src/data_pipeline.py --offline  # no network; uses committed data/raw/*.json`.
 - `data/processed/crypto_daily.csv` — one row per coin per day:
   `date, coin, price, market_cap, volume` (date = YYYY-MM-DD, UTC).
 - `data/processed/crypto_metrics.csv` — `date, coin, daily_return,
@@ -74,8 +88,10 @@ construction, not data errors.
   (NaN for SOL); the full-window correlation is 0.906 (see
   `outputs/insights_summary.md`).
 - `data/processed/data_source.json` — `{"source": "live", "synthetic": false}`
-  plus generation timestamp; read by the Streamlit app and chart script
-  so a synthetic fallback would be labelled everywhere.
+  plus generation timestamp; from the next pipeline run onward it also
+  includes a `"seed"` key (42 when synthetic, null otherwise). It is read
+  by the Streamlit app and chart script so a synthetic fallback would be
+  labelled everywhere.
 
 ## Manual validation (one metric, by hand)
 
@@ -105,6 +121,29 @@ BTC drift 0.0008 σ 0.035, ETH drift 0.0006 σ 0.045, SOL drift 0.0005 σ 0.06;
 and records `"synthetic": true` in `data/processed/data_source.json`, which
 makes the app, charts and README label it SYNTHETIC everywhere. That path
 was **not** taken here — this dataset is live CoinGecko data.
+
+Synthetic output is written to
+`data/raw/{coin}_market_chart_synthetic.json` only — it never overwrites
+the live cache `data/raw/{coin}_market_chart.json`. When synthetic data is
+used, `data/processed/data_source.json` records `"synthetic": true` **and**
+`"seed": 42`. Synthetic data is 365 points (vs 366 live observations).
+`python3 src/data_pipeline.py --offline` (or `--use-cache`) uses only the
+committed cache, makes no network calls, never generates synthetic data,
+and fails (non-zero exit) if no cache exists.
+
+## Offline quick-start
+
+From a clean checkout, everything below runs fully offline from the
+committed data:
+
+```bash
+python3 src/data_pipeline.py --offline  # no network; uses committed data/raw/*.json
+python3 src/make_charts.py
+streamlit run src/app.py
+pytest tests/ -q  # runs fully offline from committed processed CSVs
+```
+
+A live fetch is 3 calls ≥5 s apart, with a possible 60 s retry on 429.
 
 ## Credentials
 

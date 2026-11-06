@@ -116,3 +116,283 @@ The task brief asked to check that `.gitignore` covers `data/raw/*.json`. It doe
   (every function in `src/data_pipeline.py` is called; the price-indexing
   one-liner is repeated in `app.py` and `make_charts.py` by design —
   two independent consumers, not shared logic worth extracting).
+
+---
+
+# Stage 2 verification — 2026-11-06 (Tester, independent re-run)
+
+**Tester:** Jarvis (subagent, independent verification — coder claims not trusted)
+**Date:** 2026-11-06 00:05–00:15 PST (2026-11-06 08:05–08:15 UTC)
+**Scope:** Stage 2 coder changes only (offline mode, synthetic isolation, "Powered by
+CoinGecko" attribution, 366-observation wording, 7 new tests). Day 1 content above is
+unchanged and kept intact.
+**Venv:** pre-built `.venv`, Python 3.12.3 — present, no installs made.
+**No live CoinGecko calls were made.** No source file was edited; the only write in the
+real tree is this report plus the re-captured `screenshots/dashboard.png` (smoke gate).
+All pipeline runs used `--offline` or forced fetch failure (patched `requests.get`) in
+scratch copies on the home filesystem (`~/stage2-scratch-*`, deleted afterwards — never
+`/tmp`, which is a 512 MB tmpfs).
+
+**Verdict: PASS with one pending-optimizer item (§9).** Checklist items 1–8 all pass.
+Item 9 fails its strict zero-hit grep only in docs the coder never claimed to rewrite
+(Day 1 README, root README, publish_checklist) plus intentionally-intact original
+sections of `plan.md`/`research_brief.md` — classified as pending optimizer work, not a
+coder defect. No code defect found; no file needs to be sent back to the coder.
+
+## Stage 2 — 1. Lint — PASS
+
+- `.venv/bin/python3 -m black --check src tests` → exit 0 ("4 files would be left unchanged").
+- `.venv/bin/python3 -m ruff check src tests` → exit 0 ("All checks passed!").
+- From portfolio root: `black --check agents scripts` → exit 0 (2 files unchanged);
+  `ruff check agents scripts` → exit 0.
+
+## Stage 2 — 2. Pytest — PASS (14 passed)
+
+- `.venv/bin/python3 -m pytest tests/ -q` → **14 passed in 1.36 s**, exit 0.
+  7 original tests unchanged + 7 new offline tests (`test_offline_uses_cache_without_network`,
+  `test_synthetic_never_overwrites_live_cache`, `test_synthetic_file_does_not_satisfy_cache`,
+  `test_committed_csvs_match_published_findings`, `test_make_charts_imports_offline`,
+  `test_app_and_charts_attribution`, `test_notebook_root_resolution`).
+- **No-network proof (two ways):** (a) code inspection — the only `requests` use in
+  `tests/test_pipeline.py` is `requests.get` monkeypatched to raise in the offline test
+  (line 143); all other tests use pure functions / local CSVs. (b) Re-ran pytest with
+  `socket.socket.connect` / `socket.create_connection` patched to raise
+  `AssertionError` before invoking `pytest.main` → **14 passed in 1.54 s** with sockets
+  blocked. No test makes a network call.
+
+## Stage 2 — 3. Offline clean-checkout run — PASS
+
+- Copied the day folder excluding `.venv` (rsync) to `~/stage2-scratch-offline`
+  (home filesystem, 2.4 MB; `cp --exclude` is not supported by GNU cp — the rsync
+  fallback was used; this matches one of the coder's two failed exec calls, see §10).
+- `python3 src/data_pipeline.py --offline` there → **exit 0**, printed
+  "Offline mode: using cached data/raw/ JSON (no network)." and **"Data source: CACHE"**,
+  366 rows/coin, returns −20.7% / −26.2% / −38.5%, correlation 0.906 (90d 0.890).
+- Re-ran the same command with sockets blocked via a `runpy` wrapper → exit 0, same
+  output: the offline path makes no network traffic.
+- **Regenerated CSVs byte-identical to committed:** `crypto_daily.csv`
+  sha256 `0b108f0d…b94` and `crypto_metrics.csv` sha256 `61e56c31…8968` — identical
+  before and after in both the scratch copy and the real tree. Raw live JSONs also
+  unchanged (sha256s in §5 below). No `*_synthetic.json` created.
+  `data_source.json` in the copy differed only in `generated_at_utc` (now
+  `{"source": "cache", "synthetic": false, "seed": null}` — the new `"seed"` key is
+  present as claimed; the committed file still has no `"seed"` key, see §10).
+- `python3 src/make_charts.py` in the copy → exit 0, "Charts written … (synthetic=False)",
+  4 PNGs written. Note: regenerated PNGs differ in bytes/size from the committed ones
+  (e.g. 01: 180,939 B vs committed 177,446 B) — **expected**, the footnote text/size
+  changed in Stage 2; not a defect.
+- `pytest tests/ -q` in the copy → **14 passed**, exit 0.
+- **No-cache offline:** copy with `data/raw/*.json` deleted →
+  `python3 src/data_pipeline.py --offline` → **exit 1** with the exact message
+  `Offline mode: no cached data/raw/*.json found; cannot fetch.` No synthetic files
+  were generated; `data/raw/` stayed empty.
+- Scratch copies deleted afterwards.
+
+## Stage 2 — 4. Synthetic isolation — PASS
+
+- In a no-cache scratch copy, fetch forced to fail by patching `requests.get` to raise
+  `requests.ConnectionError` (no real network attempt): pipeline printed
+  "Live fetch failed: forced failure …", "SYNTHETIC DATA — API unavailable; using
+  deterministic GBM fallback (seed=42).", "Data source: SYNTHETIC", exit 0.
+  All three `data/raw/{coin}_market_chart_synthetic.json` files were created;
+  **no** live `{coin}_market_chart.json` was created; `data_source.json` read
+  `{"source": "synthetic", "synthetic": true, "seed": 42}` (plus `generated_at_utc`).
+  Synthetic CSVs have 365 rows/coin as designed (vs 366 live).
+- Live-cache untouched: in a second scratch copy with the live cache present, calling
+  `save_outputs` with `DATA_SOURCE="synthetic"` left all three live
+  `{coin}_market_chart.json` files **byte-identical and mtime-identical**, while creating
+  the three `*_synthetic.json` files; `data_source.json` again `{"synthetic": true,
+  "seed": 42}`.
+- **Real tree:** `find` for `*_synthetic.json` under the portfolio (excluding `.venv`)
+  returns nothing; `data/raw/` contains only the 3 live JSONs.
+
+## Stage 2 — 5. CSV numbers spot-check (independent, committed CSVs only) — PASS
+
+Recomputed with plain pandas, no pipeline functions:
+
+| Check | Independent | Required | Match |
+|---|---|---|---|
+| Total return BTC / ETH / SOL | −20.7311% / −26.2432% / −38.4570% | −20.7% / −26.2% / −38.5% | ✅ |
+| Mean 30d vol BTC / ETH / SOL | 41.5303% / 57.4061% / 59.6907% | 41.5% / 57.4% / 59.7% | ✅ |
+| Max drawdown BTC / ETH / SOL | −44.7237% / −56.2421% / −62.8521% | −44.7% / −56.2% / −62.9% | ✅ |
+| BTC–ETH correlation full / latest 90d | 0.906306 / 0.890293 | 0.906 ± 0.002 / 0.890 ± 0.002 | ✅ |
+| BTC max drawdown (exact) | −44.723676%, peak **$105,951.50 on 2025-11-11**, trough **$58,566.09 on 2026-07-01** | −44.7237% ± 0.0001, same peak/trough | ✅ exact |
+| Rows | 366/coin, **1,098 total**; window **2025-11-05 → 2026-11-05** | same | ✅ |
+
+Committed hashes (unchanged through all of Stage 2 testing): raw BTC
+`00bb203e…5739`, ETH `34f060a7…8ee8a0`, SOL `e0b42676…3e08`; `crypto_daily.csv`
+`0b108f0d…b94`, `crypto_metrics.csv` `61e56c31…8968`.
+
+## Stage 2 — 6. Streamlit smoke test — PASS (port 8502)
+
+- `streamlit run src/app.py --server.port 8502 --server.headless true` (never 8501).
+- `GET http://localhost:8502/` → **HTTP 200** (6,467 bytes);
+  `GET /_stcore/health` → **HTTP 200** (`ok`).
+- Server log: "Uvicorn server started on :::8502", **no tracebacks, no errors**.
+  Note (not a failure): the log contains 12× `use_container_width` deprecation warnings
+  ("will be removed after 2025-12-31") — pre-existing Streamlit API deprecation; the
+  app renders fine. Optimizer may switch to `width='stretch'`/`'content'`.
+- **Real full-page screenshot** captured with Playwright/Firefox from the venv to
+  `screenshots/dashboard.png`: **1400×3600 PNG, 620,805 B**,
+  sha256 `ecfae996e295ba0671c968d907bcd83f8579e3ca534d40bd532089095a44af43`
+  (replaces the Day 1 capture, 604,065 B). Visually verified: title
+  "Crypto Market Intelligence — BTC vs ETH vs SOL (366 daily observations)",
+  prominent bold **"Powered by CoinGecko"** link directly under the title and again in
+  the footer, all 4 chart sections render, summary table shows −20.7% / −26.2% / −38.5%,
+  vols 41.5% / 57.4% / 59.7%, drawdowns −44.7% / −56.2% / −62.9%, correlation 0.906.
+  Rendered-page text check: "Powered by CoinGecko" present, "Data source: CoinGecko"
+  absent. Minor layout note: at 1400 px the summary table's rightmost column is
+  slightly cut off — pre-existing, not a Stage 2 change.
+- Server killed afterwards; **port 8502 verified free** (curl exit 7 / HTTP 000,
+  nothing listening, no Streamlit processes remain).
+
+## Stage 2 — 7. Notebook — PASS
+
+- `jupyter nbconvert --to notebook --execute notebooks/analysis.ipynb` **from the
+  project root** → exit 0, output written to a home-filesystem scratch path
+  (`~/stage2-nb-out-root.ipynb`, not `/tmp`); **7 code cells executed (counts 1–7),
+  0 error outputs**.
+- Same command **from `notebooks/`** → exit 0, same 7 cells, 0 errors.
+- Original `notebooks/analysis.ipynb` md5 unchanged afterwards
+  (`65bf06bf3ebdea71b2b8bb0c0acdbaaf`).
+- Cell 0 says "366 daily observations" and "Powered by CoinGecko"; cell 1 defines
+  `_find_root()` resolving from the notebook file location (`Path(__file__).parent.parent`)
+  with cwd fallbacks (needed — Jupyter does not define `__file__`); the specific old
+  line `Path.cwd().parent if (Path.cwd() / 'src').exists()` is gone (asserted by
+  `test_notebook_root_resolution`).
+- **Scratch-copy first-cell test:** notebook copied to `~/stage2-scratch-nb/` and
+  executed there → first cell raised **`FileNotFoundError: Could not locate
+  data/processed/crypto_daily.csv from the notebook location or working directory;
+  run this notebook from notebooks/ or the project root.`** — it names
+  `data/processed/crypto_daily.csv` and does **not** resolve to a `<scratch>/data/` path.
+- Scratch notebook outputs deleted afterwards.
+
+## Stage 2 — 8. Frozen-tree check — PASS
+
+All 13 required files exist on disk, no missing assets: root `README.md`,
+Day 1 `README.md`, `data/README.md`, all 4 charts (`01_price_indexed.png` 177,446 B,
+`02_rolling_volatility.png` 161,149 B, `03_drawdown.png` 174,698 B,
+`04_relative_volume.png` 215,332 B), `screenshots/dashboard.png` (620,805 B, new
+Stage 2 capture), both processed CSVs, all 3 raw live JSONs. Also verified present:
+`data/processed/data_source.json`, `outputs/insights_summary.md`, `plan.md`,
+`pyproject.toml`, `requirements.txt`, `research_brief.md`, `notebooks/analysis.ipynb`,
+`src/app.py`, `src/data_pipeline.py`, `src/make_charts.py`, `tests/test_pipeline.py`,
+`docs/multi-agent-workflow.md`, portfolio-root `requirements-dev.txt`.
+
+## Stage 2 — 9. Attribution / licensing grep — FAIL on strict grep; PENDING OPTIMIZER (not a coder defect)
+
+Coder-scope files are clean; the remaining hits are all in docs the coder did not
+claim to rewrite, or in intentionally-intact original sections. Exact hits:
+
+- **`"Data source: CoinGecko"`** — zero hits in `src/*.py` and in `app.py`/`make_charts.py`
+  (verified: header, footer and all 4 chart captions now say "Powered by CoinGecko").
+  Remaining hits: `day-01-crypto-market-intelligence/README.md:35`
+  (`("Data source: CoinGecko (coingecko.com)")` in the Dataset section);
+  `research_brief.md:98` and `plan.md:78,205` — original sections, intentionally intact
+  under the dated Stage-2 amendment notes at the top of both files; `tests/test_pipeline.py:255`
+  — only inside the guard assertion `assert "Data source: CoinGecko" not in text`.
+  Root `README.md`: **no** "Data source: CoinGecko" hit and **no** "Powered by CoinGecko"
+  hit either — it carries no CoinGecko attribution line at all (its rewrite is the
+  optimizer's job, as briefed — expected at this stage).
+- **`"Powered by CoinGecko"`** — present in `src/app.py` (lines 25, 96, 130, 151, 174, 221),
+  `src/make_charts.py` (lines 4, 58), `data/README.md`, `notebooks/analysis.ipynb`,
+  and the Stage-2 amendment notes in `research_brief.md`/`plan.md`. Absent from the
+  root README (pending optimizer rewrite, as above) and from the Day 1 README.
+- **`"365 days"` describing the window** — hits remain: root `README.md:21`
+  ("over 365 days"); `day-01-crypto-market-intelligence/README.md:18` ("past 365 days");
+  `research_brief.md:32,34`, `plan.md:17,22,34,204`, `publish_checklist.md:3` (original
+  sections / unrewritten docs). Only the allowed forms may remain: `days=365` params
+  and "365-day public-API cap" (`plan.md:136`, `README.md:157`, `app.py:224`,
+  `insights_summary.md:79`, `data/README.md:11` "365-day span") — those are correct.
+  The window is 366 daily observations over a 365-day span; "365 days" as the window
+  length is wrong in the listed lines.
+- **`"Source: CoinGecko"`** — remaining hits are historical/intentional only:
+  `plan.md:219` (original section), `src/data_pipeline.py:3` docstring
+  ("Source: CoinGecko public API" — a source description, not attribution wording),
+  `test_pipeline.py:250,256` (test docstring/guard), `test_report.md` Day 1 §6 and
+  `publish_checklist.md:17` (historical records). No chart/app/README footnote uses it.
+- **Classification:** the coder's claimed scope (src, data/README, brief/plan amendments,
+  `.gitignore`, tests, notebook) is fully compliant. The Day 1 README, root README and
+  publish_checklist were never claimed rewritten in Stage 2, so this is **not a defect
+  to send back to the coder** — it is the optimizer's next job (see "Optimizer first step").
+  It must be fixed before push: a public README still saying "Data source: CoinGecko"
+  and "past 365 days" contradicts the corrected app/charts.
+
+## Stage 2 — 10. Coder-claim cross-checks and notes
+
+- `src/data_pipeline.py`: synthetic writes only to `*_synthetic.json` (lines 277–293,
+  304–305), `"seed"` key always written (42 synthetic, else `None`), `--offline` /
+  `--use-cache` flag (lines 370–380) — all verified by code read **and** by the runs in
+  §3–§4 above.
+- `src/app.py`: title "(366 daily observations)" (line 23), prominent
+  `st.markdown("**Powered by [CoinGecko](https://www.coingecko.com)** …")` header
+  (line 25) and footer (line 221), all 4 captions "Powered by CoinGecko (coingecko.com)"
+  — verified in code and in the rendered page (§6).
+- `src/make_charts.py`: "Powered by CoinGecko" footnote `fontsize=10` (line 61) and
+  synthetic label `fontsize=10` (line 52) — verified.
+- `data/README.md`: honest data-terms wording (raw JSONs ARE committed, redistribution
+  question unresolved, no legal certainty claimed), offline quick-start, synthetic →
+  `*_synthetic.json`, seed 42 — verified by reading the file.
+- `research_brief.md` + `plan.md`: dated Stage-2 amendment notes (2026-11-05) at the top
+  of both, original sections intact; `plan.md` §4.4 gained the one line "Synthetic output
+  goes to data/raw/{coin}_market_chart_synthetic.json; the live … cache is never
+  overwritten." — verified.
+- `.gitignore` (day folder): contains `data/raw/*_synthetic.json`; does **not** ignore
+  `data/` or the live JSONs/CSVs — verified.
+- **Committed `data/processed/data_source.json` has no `"seed"` key** (confirmed:
+  `{"source": "live", "generated_at_utc": "2026-11-05T19:19:01.617391+00:00",
+  "synthetic": false}`) — the new format applies on the next pipeline run, as the coder
+  noted. Its timestamp **19:19:01 differs from the 19:08:02 recorded in `data/README.md`**
+  — confirmed pre-existing, not the coder's change; optimizer should align the README
+  timestamp (and its `data_source.json` description, which omits the new `"seed"` key)
+  on the next pipeline run.
+- **Coder's two failed exec calls — checked, no hidden failure.** I re-ran every check
+  myself from scratch; all passed. The failures are consistent with what I hit
+  independently: GNU `cp` rejects `--exclude` (exit 2 — the documented `/tmp` 512 MB
+  tmpfs copy failure) and the scratch-copy tooling around it. No deliverable shows any
+  trace of a failed step: lint, pytest (14/14, incl. socket-blocked), offline runs,
+  synthetic isolation, CSV numbers, Streamlit smoke, notebook and frozen-tree checks
+  all pass on re-run. Nothing is left unexplained in the tree.
+- **Notebook `_find_root` nuance (not a defect):** `Path.cwd()` still appears as a
+  fallback candidate in cell 1 — that is required, because Jupyter does not define
+  `__file__`; the scratch test in §7 proves it still fails cleanly outside the project.
+
+## Stage 2 summary
+
+| # | Check | Result |
+|---|---|---|
+| 1 | black + ruff (`src tests`, `agents scripts`) | **PASS — all exit 0** |
+| 2 | pytest | **PASS — 14/14, incl. socket-blocked re-run** |
+| 3 | Offline clean-checkout run | **PASS — exit 0, "Data source: CACHE", CSVs byte-identical, no-cache exit 1 with exact message** |
+| 4 | Synthetic isolation | **PASS — synthetic only to `*_synthetic.json`, live cache byte+mtime unchanged, `{"synthetic": true, "seed": 42}`, none in real tree** |
+| 5 | CSV numbers spot-check | **PASS — all returns/vols/drawdowns/correlations/peak-trough within tolerance** |
+| 6 | Streamlit smoke (port 8502) | **PASS — HTTP 200 / 200, real 1400×3600 screenshot, port freed** |
+| 7 | Notebook (root + notebooks/ + scratch) | **PASS — both exit 0, 7 cells, 0 errors; scratch raises FileNotFoundError naming `data/processed/crypto_daily.csv`** |
+| 8 | Frozen-tree check | **PASS — no missing assets** |
+| 9 | Attribution / "365 days" grep | **PENDING OPTIMIZER — Day 1 README:35 + root README:21 + publish_checklist:3 still stale; src/app/charts clean** |
+| 10 | Coder-claim cross-checks | **PASS — all verified; coder's failed exec calls explained, no hidden failure** |
+
+**Defects found: none in code.** One pending-docs item (§9) for the optimizer.
+No source files were modified during testing; committed data hashes are unchanged from
+the start of this session (see §5). Scratch copies and notebook outputs on the home
+filesystem were deleted after use.
+
+## Optimizer first step
+
+Rewrite the attribution and window wording in the three unrewritten docs, then re-run
+`pytest tests/ -q` and the frozen-tree check — no code changes are needed first:
+
+1. `day-01-crypto-market-intelligence/README.md:35` — change
+   `("Data source: CoinGecko (coingecko.com)")` to `("Powered by CoinGecko (coingecko.com)")`;
+   same file line 18 "past 365 days" → "past 366 daily observations (365-day span)".
+2. Root `README.md:21` — "over 365 days" → "over 366 daily observations (2025-11-05 → 2026-11-05)";
+   add the "Powered by CoinGecko" attribution line for Day 1; update the stale
+   "7 offline smoke tests" (How to run Day 1) to 14.
+3. `day-01-crypto-market-intelligence/publish_checklist.md:3` — "(BTC vs ETH vs SOL, 365 days)"
+   → "(366 daily observations)"; line 17 "Source: CoinGecko" footnote → "Powered by CoinGecko".
+4. Align `data/README.md` fetch timestamp (19:08:02) with committed
+   `data/processed/data_source.json` (19:19:01) and note the new `"seed"` key in its
+   `data_source.json` description. Optionally switch the `use_container_width`
+   deprecation warnings in `src/app.py` to `width='stretch'`/`'content'` (log noise only).
+5. Do **not** touch `plan.md`/`research_brief.md` original sections — the Stage-2 amendment
+   notes at their tops already supersede the old wording by design.

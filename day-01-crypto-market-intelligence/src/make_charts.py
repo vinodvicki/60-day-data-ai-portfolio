@@ -1,7 +1,7 @@
 """Generate the four static README charts from data/processed/*.csv.
 
-Run: python -m src.make_charts  (from the project root, after the pipeline)
-Every chart carries a "Source: CoinGecko" footnote and, when the data is
+Run: python3 -m src.make_charts  (from the project root, after the pipeline)
+Every chart carries a "Powered by CoinGecko" footnote and, when the data is
 synthetic, a SYNTHETIC DATA label. Educational analysis only.
 """
 
@@ -49,16 +49,16 @@ def _finish(fig, ax, title, ylabel, source_note=True):
             ha="right",
             color="red",
             fontweight="bold",
-            fontsize=9,
+            fontsize=10,
         )
     if source_note:
         fig.text(
             0.01,
             0.01,
-            "Source: CoinGecko (coingecko.com) | "
+            "Powered by CoinGecko (coingecko.com) | "
             "Educational analysis only — not investment advice",
             ha="left",
-            fontsize=8,
+            fontsize=10,
             color="#555555",
         )
     fig.tight_layout(rect=[0, 0.04, 1, 1])

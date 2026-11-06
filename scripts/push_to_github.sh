@@ -1,32 +1,34 @@
 #!/usr/bin/env bash
-# Push script — 60-Day Data Analytics + AI Portfolio, Day 1
-# (Crypto Market Intelligence Dashboard)
+# Push script — 60-Day Data Analytics + AI Portfolio
 #
-# PREREQUISITE — DO THIS FIRST, BY HAND ON GITHUB:
-#   Victor must create the EMPTY public repo
-#   https://github.com/vinodvicki/60-day-data-ai-portfolio
-#   (GitHub > New repository > name "60-day-data-ai-portfolio" > Public >
-#   do NOT tick "Add a README", "Add .gitignore" or "Choose a license" —
-#   the repo must be completely empty, otherwise this push will be rejected.)
-#   This script does NOT create the repo and does NOT push until that
-#   empty repo exists. If the remote does not exist, `git push` will fail
-#   with "repository not found" and nothing will have been uploaded.
+# Current route (Stage 2, 2026-11-05): the remote repo already exists —
+# https://github.com/vinodvicki/60-day-data-ai-portfolio (public, on main;
+# head commit 961e4200 as of 2026-11-05). This script does the normal
+# route: git add/commit/push for ordinary files.
+#
+# Files the GitHub App token CANNOT push must NOT go through this script:
+#   - .github/workflows/* (no workflows permission — the API returns 403)
+#   - any PNG that fails via the API
+# Those are uploaded via the browser: fetch a GitHub device code from
+# Gmail, sign in in the browser, upload the file(s), then verify live.
 #
 # What this script does (from the portfolio root):
 #   1. git init (only if this folder is not already a git repo)
 #   2. git add -A   (respects .gitignore: .venv, __pycache__, .env, *.key,
 #      .streamlit/secrets.toml are excluded; small data/ files ARE committed)
-#   3. git commit -m "Day 01: crypto market intelligence dashboard"
+#   3. git commit -m "${1:-Stage 2: offline mode, attribution and licensing fixes}"
+#      (pass the real message as $1)
 #   4. git branch -M main
 #   5. git remote add origin https://github.com/vinodvicki/60-day-data-ai-portfolio.git
 #      (skipped if a remote named origin already exists)
 #   6. git push -u origin main
 #
+# Usage: bash scripts/push_to_github.sh ["commit message"]
 # Run from anywhere:  bash scripts/push_to_github.sh
 # (or: ./scripts/push_to_github.sh — it is executable.)
 # After it runs, verify on https://github.com/vinodvicki/60-day-data-ai-portfolio
 # that README.md renders, the 4 charts and screenshots/dashboard.png display,
-# and the CI workflows show green.
+# and the CI workflow shows green.
 
 set -euo pipefail
 
@@ -55,6 +57,10 @@ test -f day-01-crypto-market-intelligence/screenshots/dashboard.png
 test -f day-01-crypto-market-intelligence/data/processed/crypto_daily.csv
 test -f day-01-crypto-market-intelligence/data/processed/crypto_metrics.csv
 test -f day-01-crypto-market-intelligence/LICENSE
+test -f day-01-crypto-market-intelligence/data/raw/bitcoin_market_chart.json
+test -f LICENSE
+test -f .github/workflows/ci.yml
+test ! -e .github/workflows/daily-project.yml
 echo "Frozen-tree check passed (all referenced assets present)."
 echo "Files staged for commit (excluding ignored .venv / __pycache__ / .env / *.key):"
 git status --porcelain | head -50 || true
@@ -67,7 +73,7 @@ echo "== Step 4: git commit =="
 if git diff --cached --quiet; then
   echo "Nothing new to commit — skipping commit (tree already committed?)."
 else
-  git commit -m "Day 01: crypto market intelligence dashboard"
+  git commit -m "${1:-Stage 2: offline mode, attribution and licensing fixes}"
   echo "Committed."
 fi
 
@@ -84,13 +90,11 @@ else
 fi
 
 echo "== Step 7: git push -u origin main =="
-echo "NOTE: this requires the empty public repo vinodvicki/60-day-data-ai-portfolio"
-echo "to already exist on GitHub. If it does not, this step will fail and nothing"
-echo "will have been uploaded — create the repo on GitHub and re-run this script."
+echo "NOTE: the remote already exists; this push updates \`main\`."
 git push -u origin main
 
 echo "== DONE =="
 echo "Verify at: https://github.com/vinodvicki/60-day-data-ai-portfolio"
 echo "- README renders, charts + screenshots/dashboard.png display"
-echo "- Actions tab: CI workflows run (see publish_checklist.md for the known"
-echo "  ci.yml / daily-project.yml overlap — both will run on Day 1 changes)"
+echo "- Actions tab: the single consolidated \`ci.yml\` runs; if it was edited,"
+echo "  it must have been uploaded via the browser route (see header), not via this script."

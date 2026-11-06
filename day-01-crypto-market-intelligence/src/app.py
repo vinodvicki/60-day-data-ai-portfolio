@@ -20,9 +20,9 @@ st.set_page_config(
     page_title="Crypto Market Intelligence — BTC vs ETH vs SOL",
     layout="wide",
 )
-st.title("Crypto Market Intelligence — BTC vs ETH vs SOL (365 days)")
-st.caption(
-    "Data source: CoinGecko (coingecko.com) | "
+st.title("Crypto Market Intelligence — BTC vs ETH vs SOL (366 daily observations)")
+st.markdown(
+    "**Powered by [CoinGecko](https://www.coingecko.com)** | "
     "Educational analysis only — not investment advice."
 )
 
@@ -93,7 +93,7 @@ fig = px.line(
 fig.update_layout(legend_title_text="Coin")
 st.plotly_chart(fig, use_container_width=True)
 st.caption(
-    "Source: CoinGecko. Indexed prices make momentum comparable "
+    "Powered by CoinGecko (coingecko.com). Indexed prices make momentum comparable "
     "across coins with very different price levels."
 )
 
@@ -127,7 +127,7 @@ st.plotly_chart(
 st.caption(
     "Volume is a liquidity proxy (exchange-reported 24h volume, "
     "not order-book depth). Relative volume = 1 means volume is at "
-    "its 30-day average. Source: CoinGecko."
+    "its 30-day average. Powered by CoinGecko (coingecko.com)."
 )
 
 # --- 3. Rolling volatility ------------------------------------------------------
@@ -148,7 +148,7 @@ st.plotly_chart(
 )
 st.caption(
     "Realised volatility: std. dev. of daily returns over 30 days, "
-    "annualised with √365 (crypto trades every day). Source: CoinGecko."
+    "annualised with √365 (crypto trades every day). Powered by CoinGecko (coingecko.com)."
 )
 
 # --- 4. Drawdown timeline -------------------------------------------------------
@@ -171,7 +171,7 @@ st.plotly_chart(
 )
 st.caption(
     "Drawdown = price / running peak − 1. 0% means the coin is at a "
-    "new high for the window. Source: CoinGecko."
+    "new high for the window. Powered by CoinGecko (coingecko.com)."
 )
 
 # --- Summary table ---------------------------------------------------------------
@@ -217,9 +217,9 @@ st.write(
 )
 
 st.divider()
-st.caption(
-    "Data source: CoinGecko (coingecko.com). "
+st.markdown(
+    "Powered by [CoinGecko](https://www.coingecko.com). "
     "Educational analysis only — not investment advice. "
-    "Close prices only (no OHLC); daily granularity; 365-day window "
-    "is the public-API limit."
+    "Close prices only (no OHLC); daily granularity; 366 daily observations "
+    "(365-day span) is the public-API limit."
 )

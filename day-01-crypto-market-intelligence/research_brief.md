@@ -1,3 +1,5 @@
+**Stage-2 amendment (2026-11-05):** §5 below still records the original wording. Current wording is: attribution is 'Powered by CoinGecko' (CoinGecko API Terms Clause 3, legible, size 10+); synthetic data is written to data/raw/*_synthetic.json and never overwrites the live cache; the committed raw CoinGecko JSONs are kept in this public repo and the licensing tension is documented honestly in data/README.md — the question whether that counts as redistribution is unresolved, no legal certainty is claimed. See data/README.md for the current statement.
+
 # Day 1 — Crypto Market Intelligence Dashboard: Research Brief
 
 **Project:** 60-Day Data Analytics + AI Portfolio, Day 1

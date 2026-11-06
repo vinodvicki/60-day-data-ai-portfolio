@@ -1,6 +1,6 @@
 # Day 1 — Publish checklist (Publisher / Reviewer final review)
 
-**Project:** Crypto Market Intelligence Dashboard (BTC vs ETH vs SOL, 365 days)
+**Project:** Crypto Market Intelligence Dashboard (BTC vs ETH vs SOL, 366 daily observations)
 **Review date:** 2026-11-05 · **Reviewer:** Jarvis (publisher/reviewer role)
 **Repo target:** `vinodvicki/60-day-data-ai-portfolio` (public, to be created by Victor)
 **Status: READY TO PUSH — blocked only by the unblockers in §6 below. No code or
@@ -14,7 +14,7 @@ content defect remains.**
 |---|---|---|---|
 | 1 | Problem statement + audience/decision-maker written | **PASS** | `README.md` "Problem" + "Audience" sections; `plan.md` §1–2 |
 | 2 | Data provenance documented: source, endpoint, window, fetch date, keyless/Demo-key outcome, row counts | **PASS** | `data/README.md` — CoinGecko `market_chart/range`, window 2025-11-05 → 2026-11-05, accessed 2026-11-05, keyless HTTP 200 for all 3 coins, 366 rows/coin, 1,098 total, no gaps/duplicates |
-| 3 | 2+ labelled charts produced (target 4 + summary table) | **PASS** | 4 PNGs in `outputs/charts/` (01 price indexed, 02 rolling volatility, 03 drawdown, 04 relative volume), all 1500×750, titled, axes labelled with units, "Source: CoinGecko" footnote; summary table in `outputs/insights_summary.md` + in-app table |
+| 3 | 2+ labelled charts produced (target 4 + summary table) | **PASS** | 4 PNGs in `outputs/charts/` (01 price indexed, 02 rolling volatility, 03 drawdown, 04 relative volume), all 1500×750, titled, axes labelled with units, "Powered by CoinGecko" footnote; summary table in `outputs/insights_summary.md` + in-app table |
 | 4 | 3 findings + 1 actionable recommendation in `outputs/insights_summary.md` (no investment advice) | **PASS** | Exactly 3 findings (momentum, volatility/drawdown, liquidity) + 1 analytical recommendation (add a non-crypto comparator; track turnover weekly); "Educational analysis only — not investment advice" stated; grep finds no buy/sell language outside disclaimers |
 | 5 | README with setup instructions, sample outputs (embedded charts + dashboard screenshot), and limitations | **PASS** | `README.md` — setup sequence (venv → pip install → pipeline → make_charts → streamlit → pytest), embeds all 4 charts + `screenshots/dashboard.png`, "Limitations" section, MIT licence note |
 | 6 | No credentials in the repo; no huge files committed | **PASS** | Secret grep clean (see §4); no `.env`/`.key`/`.pem`/`secrets.toml` anywhere; largest file `screenshots/dashboard.png` 604,065 B; `data/` total 368 KB (largest single file 160,869 B) — under the 1 MB/file and 5 MB/day limits |

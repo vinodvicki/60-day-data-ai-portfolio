@@ -1,3 +1,5 @@
+**Stage-2 amendment (2026-11-05):** §§4.4–4.5 below still record the original wording. Current wording is: attribution is 'Powered by CoinGecko' (CoinGecko API Terms Clause 3, legible, size 10+); synthetic data is written to data/raw/*_synthetic.json and never overwrites the live cache; the committed raw CoinGecko JSONs are kept in this public repo and the licensing tension is documented honestly in data/README.md — the question whether that counts as redistribution is unresolved, no legal certainty is claimed. See data/README.md for the current statement.
+
 # Day 1 — Crypto Market Intelligence Dashboard: Build Plan
 
 **Project:** 60-Day Data Analytics + AI Portfolio, Day 1
@@ -69,6 +71,7 @@ A third-party guide claims `/market_chart` "now requires a demo key on the publi
 1. Reuse a cached copy in `data/raw/` if one exists from a previous successful fetch.
 2. Otherwise generate a **clearly labelled synthetic dataset** for development only: geometric Brownian motion, seeded per coin — BTC daily drift 0.0008, σ 0.035; ETH drift 0.0006, σ 0.045; SOL drift 0.0005, σ 0.06; 365 daily points from 2025-11-05; starting prices BTC $100,000 / ETH $3,500 / SOL $180; volumes as log-normal noise around each coin's typical daily volume.
 3. Mark **every chart, the app banner, and the README: "SYNTHETIC DATA — API unavailable on <date>"** and re-fetch real data before publishing. Never present synthetic data as real CoinGecko data.
+   Synthetic output goes to data/raw/{coin}_market_chart_synthetic.json; the live data/raw/{coin}_market_chart.json cache is never overwritten.
 
 ### 4.5 Attribution & licence
 

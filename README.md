@@ -1,8 +1,9 @@
 # 60-Day Data Analytics + AI Portfolio
 
 **60 days. 60 projects. 20 industries.** One publishable, end-to-end
-real-world data + AI project per day, built to the roadmap in
-`60_Day_Data_Analytics_AI_GitHub_Project_Roadmap_0_4qxt.pdf`.
+real-world data + AI project per day, built to the roadmap source document
+held locally (`60_Day_Data_Analytics_AI_GitHub_Project_Roadmap_0_4qxt.pdf`,
+**not committed to this repo**).
 
 Each day: define one decision-maker, one practical problem and 2–3 questions →
 obtain public or synthetic data (with source, date range and terms noted) →
@@ -18,12 +19,12 @@ code, README, requirements, charts and example results.
 
 | Day | Project | Sector | Status |
 |---|---|---|---|
-| [01](day-01-crypto-market-intelligence/) | Crypto Market Intelligence Dashboard — BTC vs ETH vs SOL over 365 days | Crypto | ✅ Done (2026-11-05) |
+| [01](day-01-crypto-market-intelligence/) | Crypto Market Intelligence Dashboard — BTC vs ETH vs SOL over 366 daily observations (2025-11-05 → 2026-11-05) | Crypto | ✅ Done (2026-11-05) |
 | 02 | Crypto Risk & Volatility Analyzer | Crypto | Planned |
 | 03 | Crypto Market Anomaly Detector | Crypto | Planned |
 | 04–60 | See the roadmap catalog | — | Planned |
 
-Day 1 headline findings (live CoinGecko data, 2025-11-05 → 2026-11-05):
+Day 1 headline findings (live CoinGecko data (Powered by CoinGecko), 366 daily observations, 2025-11-05 → 2026-11-05):
 BTC −20.7%, ETH −26.2%, SOL −38.5% total return; max drawdowns −44.7% /
 −56.2% / −62.9%; BTC–ETH daily-return correlation 0.906. Full detail in
 [Day 1](day-01-crypto-market-intelligence/) →
@@ -45,8 +46,8 @@ BTC −20.7%, ETH −26.2%, SOL −38.5% total return; max drawdowns −44.7% /
 - **Documented provenance:** data source, collection date, endpoint, row
   counts and licence/usage constraints in `data/README.md`.
 - **Reproducible:** pinned `requirements.txt` (exact `==` versions verified
-  in the build venv), `python src/data_pipeline.py` → charts → app runs from
-  a clean checkout.
+  in the build venv), `python3 src/data_pipeline.py --offline  # offline from committed data` →
+  `python3 src/make_charts.py` → app runs from a clean checkout.
 - **Validated:** at least one metric checked by hand, independently of the
   pipeline, and recorded in `data/README.md`.
 - **At least two well-labelled visualisations** (title, axes with units,
@@ -58,7 +59,7 @@ BTC −20.7%, ETH −26.2%, SOL −38.5% total return; max drawdowns −44.7% /
 - **No credentials, no private data, no huge raw files** committed.
   `.gitignore` excludes `.venv/`, `__pycache__/`, `.env`, secrets — but does
   NOT ignore `data/` (small project datasets are part of the deliverable).
-- **CI** (`.github/workflows/ci.yml`) runs tests + lint on every push and
+- **CI** (the single consolidated `.github/workflows/ci.yml`) runs tests + lint on every push and
   pull request.
 
 How the days are built: see [`docs/multi-agent-workflow.md`](docs/multi-agent-workflow.md)
@@ -69,13 +70,16 @@ publisher/reviewer), its token-lean rules, and the Day 1 retrospective.
 
 ```bash
 cd day-01-crypto-market-intelligence
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-python src/data_pipeline.py     # fetch CoinGecko -> data/processed/*.csv
+python3 src/data_pipeline.py --offline  # no network; uses committed cache
+python3 src/make_charts.py  # regenerate outputs/charts/*.png
 streamlit run src/app.py        # dashboard at http://localhost:8501
-pytest tests/ -q                # 7 offline smoke tests
+pytest tests/ -q                # 14 offline tests
 ```
+
+A live fetch (`python3 src/data_pipeline.py`) is 3 calls ≥5 s apart with a possible 60 s retry on 429.
 
 Each later day follows the same layout (`README.md`, `requirements.txt`,
 `.gitignore`, `LICENSE`, `research_brief.md`, `plan.md`, `data/`,
@@ -83,5 +87,4 @@ Each later day follows the same layout (`README.md`, `requirements.txt`,
 
 ## License
 
-MIT — see [`day-01-crypto-market-intelligence/LICENSE`](day-01-crypto-market-intelligence/LICENSE).
-Copyright (c) 2026 Victor.
+Code: MIT — see [LICENSE](LICENSE). Copyright (c) 2026 Victor. Third-party CoinGecko data is **not** covered by the MIT licence; it is under separate CoinGecko terms — see `day-01-crypto-market-intelligence/data/README.md` (the redistribution question is unresolved; no legal certainty is claimed).

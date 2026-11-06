@@ -15,7 +15,7 @@ liquidity dried up, and how deep and long the worst falls were.
 
 **Business question:** *How did Bitcoin and Ethereum differ in price
 momentum, realized volatility, liquidity proxies, and drawdown over the
-past 365 days?* Solana is included as a third comparator where it adds
+past 366 daily observations?* Solana is included as a third comparator where it adds
 contrast, not as a co-lead.
 
 **Audience:** retail crypto observers who want a plain-English answer to
@@ -32,7 +32,7 @@ recommendation, no price prediction, no investment advice.**
 ## Dataset
 
 - **Source:** CoinGecko public API — https://api.coingecko.com/api/v3
-  ("Data source: CoinGecko (coingecko.com)")
+  (Powered by [CoinGecko](https://www.coingecko.com))
 - **Endpoint:** `GET /coins/{bitcoin,ethereum,solana}/market_chart/range?vs_currency=usd&from=1762300800&to=1793836800`
 - **Date accessed:** 2026-11-05. **Keyless (no API key) — HTTP 200 for all
   three coins.** No Demo key was needed or used.
@@ -42,8 +42,11 @@ recommendation, no price prediction, no investment advice.**
   `[timestamp_ms, value]`; price/market cap/volume in USD) → cleaned to
   `date, coin, price, market_cap, volume`.
 - **Terms:** CoinGecko data is free via the public API with attribution;
-  raw bulk data is not redistributed or re-hosted. Full provenance,
-  including the manual metric validation, is in [`data/README.md`](data/README.md).
+  the raw JSONs ARE committed to this public repo as provenance — whether
+  that counts as redistribution under CoinGecko's terms is unresolved, and
+  no legal certainty is claimed. The Demo plan has no commercial rights;
+  attribution alone does not grant them. Full statement, including the
+  manual metric validation, is in [`data/README.md`](data/README.md).
 - **Data type: REAL CoinGecko data (not synthetic).** If the API had been
   unreachable, a deterministic synthetic fallback (seed 42) would have been
   used and labelled SYNTHETIC everywhere — that was not needed.
@@ -57,8 +60,8 @@ Code is formatted with `black` and linted with `ruff`; both must pass
 (`black --check src tests`, `ruff check src tests`). Dev tools are pinned
 in the portfolio-root `requirements-dev.txt` (ruff 0.17.4, black 26.10.1);
 lint/format settings live in `pyproject.toml`. CI runs the same checks
-on every push / pull request (see `.github/workflows/ci.yml` at the portfolio
-root).
+on every push / pull request (see `.github/workflows/ci.yml` — the single
+consolidated workflow — at the portfolio root).
 
 ## Method
 
@@ -118,14 +121,16 @@ those two coins; the summary table at the bottom covers all three coins.*
 ## How to run
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-python src/data_pipeline.py     # fetch CoinGecko -> data/processed/*.csv
-python src/make_charts.py       # regenerate outputs/charts/*.png
+python3 src/data_pipeline.py    # fetch CoinGecko -> data/processed/*.csv
+python3 src/make_charts.py      # regenerate outputs/charts/*.png
 streamlit run src/app.py        # dashboard at http://localhost:8501
-pytest tests/ -q                # 7 offline smoke tests
+pytest tests/ -q                # 14 offline tests
 ```
+
+Offline quick-start: `python3 src/data_pipeline.py --offline  # no network; uses the committed data/raw/*.json cache`. A clean checkout runs fully offline from the committed processed CSVs (charts/app/tests), and a live fetch is 3 calls ≥5 s apart with a possible 60 s retry on 429.
 
 The notebook runs top-to-bottom with Jupyter:
 `jupyter nbconvert --to notebook --execute notebooks/analysis.ipynb`.
@@ -154,9 +159,9 @@ The notebook runs top-to-bottom with Jupyter:
 
 ## Limitations
 
-- Close prices only (no OHLC/ATR); daily granularity; the 365-day window
-  is the public-API cap, and the November 2025 peaks sit at the very start
-  of the window.
+- Close prices only (no OHLC/ATR); daily granularity; 366 daily
+  observations (365-day span) is the public-API cap, and the November 2025
+  peaks sit at the very start of the window.
 - Volume is a liquidity *proxy* (exchange-reported 24h volume, not
   order-book depth).
 - Correlation (0.906 BTC–ETH) describes co-movement, not causation.
@@ -165,4 +170,4 @@ The notebook runs top-to-bottom with Jupyter:
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Copyright (c) 2026 Victor.
+Code: MIT — see [LICENSE](LICENSE) and the portfolio-root [LICENSE](../../LICENSE). Copyright (c) 2026 Victor. Third-party CoinGecko data is **not** covered by the MIT licence; it is under separate CoinGecko terms — see `data/README.md` for the full data-licensing note (including the unresolved redistribution question; no legal certainty is claimed).

@@ -13,10 +13,18 @@ Fetch rules (see research_brief.md / plan.md):
   Never hard-code or commit a key.
 - If fetch fails and no cache exists, deterministic synthetic GBM data
   (seed=42) is generated and clearly labelled SYNTHETIC everywhere.
+  Synthetic output goes to data/raw/{coin}_market_chart_synthetic.json
+  only — it never overwrites the live cache
+  data/raw/{coin}_market_chart.json.
+- Offline mode: `python3 src/data_pipeline.py --offline` (or
+  `--use-cache`) uses only the committed data/raw/*.json cache, makes no
+  network calls, never generates synthetic data, and exits non-zero if
+  no cache exists.
 """
 
 from __future__ import annotations
 
+import argparse
 import json
 import os
 import time
@@ -266,14 +274,26 @@ def max_drawdown_info(df: pd.DataFrame) -> dict[str, dict]:
 def save_outputs(daily: pd.DataFrame, metrics: pd.DataFrame, raw: dict) -> None:
     """Write raw JSONs to data/raw/, CSVs to data/processed/.
 
+    Raw JSON destination depends on DATA_SOURCE: when "synthetic", each
+    coin is written ONLY to data/raw/{coin}_market_chart_synthetic.json
+    and the live cache data/raw/{coin}_market_chart.json is never
+    written, touched, or deleted. When "live" or "cache", each coin is
+    written to data/raw/{coin}_market_chart.json and no
+    *_synthetic.json file is written.
+
     Also writes data/processed/data_source.json recording whether the
     data is live CoinGecko data, cached data, or synthetic (read by the
     Streamlit app and the charts so SYNTHETIC is labelled everywhere).
+    The JSON always carries a "seed" key: 42 when synthetic, else None.
     """
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
     for coin, payload in raw.items():
-        (RAW_DIR / f"{coin}_market_chart.json").write_text(json.dumps(payload))
+        if DATA_SOURCE == "synthetic":
+            dest = RAW_DIR / f"{coin}_market_chart_synthetic.json"
+        else:
+            dest = RAW_DIR / f"{coin}_market_chart.json"
+        dest.write_text(json.dumps(payload))
     daily.to_csv(PROCESSED_DIR / "crypto_daily.csv", index=False)
     metrics.to_csv(PROCESSED_DIR / "crypto_metrics.csv", index=False)
     (PROCESSED_DIR / "data_source.json").write_text(
@@ -282,6 +302,7 @@ def save_outputs(daily: pd.DataFrame, metrics: pd.DataFrame, raw: dict) -> None:
                 "source": DATA_SOURCE,
                 "generated_at_utc": datetime.now(UTC).isoformat(),
                 "synthetic": DATA_SOURCE == "synthetic",
+                "seed": 42 if DATA_SOURCE == "synthetic" else None,
             },
             indent=2,
         )
@@ -319,6 +340,9 @@ def generate_synthetic(seed: int = 42) -> dict[str, dict]:
 
 
 def _load_cache() -> dict[str, dict] | None:
+    # Loads only the exact live-cache filenames
+    # {coin}_market_chart.json; a *_synthetic.json file alone never
+    # satisfies the cache (it is ignored here by construction).
     cached = {}
     for coin in COINS:
         path = RAW_DIR / f"{coin}_market_chart.json"
@@ -333,33 +357,58 @@ def main() -> None:
 
     Reads an optional Demo key ONLY from the COINGECKO_DEMO_API_KEY
     environment variable — never from a file in the repo.
+
+    --offline / --use-cache: skip the network entirely; use only the
+    committed data/raw/*.json cache (never generate synthetic data).
+    Exits non-zero if no cache exists.
     """
     global DATA_SOURCE
+    parser = argparse.ArgumentParser(
+        description="Crypto Market Intelligence pipeline: fetch, clean, metrics."
+    )
+    parser.add_argument(
+        "--offline",
+        "--use-cache",
+        dest="offline",
+        action="store_true",
+        help="Use cached data/raw/*.json only; make no network calls "
+        "and never generate synthetic data",
+    )
+    args = parser.parse_args()
     api_key = os.environ.get("COINGECKO_DEMO_API_KEY") or None
     raw: dict[str, dict] | None = None
-    try:
-        print(
-            "Fetching CoinGecko market_chart/range (no key first unless "
-            "COINGECKO_DEMO_API_KEY is set) ..."
-        )
-        raw = fetch_all_coins(api_key=api_key)
-        DATA_SOURCE = "live"
-        print("Live CoinGecko fetch succeeded.")
-    # Any fetch failure falls back to cache, then synthetic (plan §4.4).
-    except Exception as exc:  # noqa: BLE001
-        print(f"Live fetch failed: {exc}")
+    if args.offline:
         cached = _load_cache()
-        if cached is not None:
-            raw = cached
-            DATA_SOURCE = "cache"
-            print("Using cached data/raw/ JSON.")
-        else:
-            raw = generate_synthetic(seed=42)
-            DATA_SOURCE = "synthetic"
+        if cached is None:
+            print("Offline mode: no cached data/raw/*.json found; cannot fetch.")
+            raise SystemExit(1)
+        raw = cached
+        DATA_SOURCE = "cache"
+        print("Offline mode: using cached data/raw/ JSON (no network).")
+    else:
+        try:
             print(
-                "SYNTHETIC DATA — API unavailable; using deterministic "
-                "GBM fallback (seed=42). Do not present as real data."
+                "Fetching CoinGecko market_chart/range (no key first unless "
+                "COINGECKO_DEMO_API_KEY is set) ..."
             )
+            raw = fetch_all_coins(api_key=api_key)
+            DATA_SOURCE = "live"
+            print("Live CoinGecko fetch succeeded.")
+        # Any fetch failure falls back to cache, then synthetic (plan §4.4).
+        except Exception as exc:  # noqa: BLE001
+            print(f"Live fetch failed: {exc}")
+            cached = _load_cache()
+            if cached is not None:
+                raw = cached
+                DATA_SOURCE = "cache"
+                print("Using cached data/raw/ JSON.")
+            else:
+                raw = generate_synthetic(seed=42)
+                DATA_SOURCE = "synthetic"
+                print(
+                    "SYNTHETIC DATA — API unavailable; using deterministic "
+                    "GBM fallback (seed=42). Do not present as real data."
+                )
 
     daily = pd.concat([clean_chart(raw[c], c) for c in COINS], ignore_index=True)
     metrics = compute_metrics(daily)
@@ -379,10 +428,18 @@ def main() -> None:
         f"  BTC-ETH daily-return correlation (full window): {corr['full']:.3f} "
         f"(latest 90d: {corr['latest_90d']:.3f})"
     )
-    print(
-        "Wrote data/raw/*.json, data/processed/crypto_daily.csv, "
-        "data/processed/crypto_metrics.csv"
-    )
+    if DATA_SOURCE == "synthetic":
+        print(
+            "Wrote data/raw/*_market_chart_synthetic.json "
+            "(synthetic — live cache untouched), "
+            "data/processed/crypto_daily.csv, "
+            "data/processed/crypto_metrics.csv"
+        )
+    else:
+        print(
+            "Wrote data/raw/*.json, data/processed/crypto_daily.csv, "
+            "data/processed/crypto_metrics.csv"
+        )
 
 
 if __name__ == "__main__":
