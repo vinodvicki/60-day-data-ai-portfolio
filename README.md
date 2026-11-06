@@ -20,7 +20,7 @@ code, README, requirements, charts and example results.
 | Day | Project | Sector | Status |
 |---|---|---|---|
 | [01](day-01-crypto-market-intelligence/) | Crypto Market Intelligence Dashboard — BTC vs ETH vs SOL over 366 daily observations (2025-11-05 → 2026-11-05) | Crypto | ✅ Done (2026-11-05) |
-| 02 | Crypto Risk & Volatility Analyzer | Crypto | Planned |
+| [02](day-02-crypto-risk-volatility-analyzer/) | Crypto Risk & Volatility Analyzer — BTC vs ETH vs SOL over 366 daily observations (2025-11-06 → 2026-11-06) | Crypto | ✅ Built (2026-11-06), pending publish |
 | 03 | Crypto Market Anomaly Detector | Crypto | Planned |
 | 04–60 | See the roadmap catalog | — | Planned |
 
@@ -29,6 +29,14 @@ BTC −20.7%, ETH −26.2%, SOL −38.5% total return; max drawdowns −44.7% /
 −56.2% / −62.9%; BTC–ETH daily-return correlation 0.906. Full detail in
 [Day 1](day-01-crypto-market-intelligence/) →
 [`outputs/insights_summary.md`](day-01-crypto-market-intelligence/outputs/insights_summary.md).
+
+Day 2 headline findings (live CoinGecko data (Powered by CoinGecko), 366 daily observations, 2025-11-06 → 2026-11-06):
+BTC −26.8%, ETH −34.7%, SOL −45.1% total return; max drawdowns −44.7% /
+−56.2% / −62.9%, none recovered by 2026-11-06; BTC–ETH daily-return
+correlation 0.908; Sharpe −0.49 / −0.41 / −0.65; one-day VaR 95% −3.4% /
+−4.7% / −5.3%. Full detail in
+[Day 2](day-02-crypto-risk-volatility-analyzer/) →
+[`outputs/insights_summary.md`](day-02-crypto-risk-volatility-analyzer/outputs/insights_summary.md).
 
 ## Roadmap phases
 
