@@ -1,3 +1,18 @@
+# Single consolidated workflow (Stage 2, 2026-11-05): replaces ci.yml
+# (Day-1-only job) + daily-project.yml. No CoinGecko API calls in CI —
+# all tests are offline.
+#
+# Per changed day folder (day-NN-*):
+#   pip install -r <day>/requirements.txt
+#   pip install -r requirements-dev.txt   (shared ruff + black, pinned)
+#   ruff check <day>/src <day>/tests
+#   black --check <day>/src <day>/tests
+#   pytest <day>/tests/ -q
+#   python -m src.make_charts (from <day>; offline, reads committed CSVs)
+#   jupyter nbconvert --to notebook --execute <day>/notebooks/analysis.ipynb
+# Any step failing fails the job. No network calls to project APIs are made
+# in CI — tests are offline smoke tests only.
+
 name: CI
 
 on:
@@ -5,24 +20,67 @@ on:
   pull_request:
 
 jobs:
-  day-01:
+  changed-days:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: day-01-crypto-market-intelligence
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Install dependencies
+
+      - name: Lint root tooling (orchestrator + runner)
+        shell: bash
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          pip install -r ../requirements-dev.txt
-      - name: Lint (black + ruff)
+          pip install -r requirements-dev.txt
+          python -m ruff check agents scripts
+          python -m black --check agents scripts
+
+      - name: Find changed day folders
+        id: changed
+        shell: bash
         run: |
-          python -m black --check src tests
-          python -m ruff check src tests
-      - name: Tests
-        run: python -m pytest tests/ -q
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE="origin/${{ github.base_ref }}"
+          else
+            BASE="${{ github.event.before }}"
+          fi
+          # Fall back to the previous commit when the event base is empty
+          # (e.g. first push of a branch).
+          if [ -z "$BASE" ] || [ "$BASE" = "0000000000000000000000000000000000000000" ]; then
+            BASE="HEAD~1"
+          fi
+          DAYS=$(git diff --name-only "$BASE"...HEAD -- 'day-*' \
+            | sed -E 's#^(day-[0-9]+[^/]*)/.*#\1#' | sort -u | tr '\n' ' ')
+          echo "days=$DAYS" >> "$GITHUB_OUTPUT"
+          echo "Changed day folders: ${DAYS:-none}"
+
+      - name: Lint and test each changed day
+        if: steps.changed.outputs.days != ''
+        shell: bash
+        run: |
+          set -e
+          python -m pip install --upgrade pip
+          pip install -r requirements-dev.txt
+          for DAY in ${{ steps.changed.outputs.days }}; do
+            echo "=== $DAY ==="
+            python -m pip install -r "$DAY/requirements.txt"
+            python -m ruff check "$DAY/src" "$DAY/tests"
+            python -m black --check "$DAY/src" "$DAY/tests"
+            python -m pytest "$DAY/tests/" -q
+            # Chart smoke: regenerate charts offline from the committed
+            # CSVs, assert the 4 PNGs exist and are non-empty, then
+            # restore the tree so CI leaves no diff behind.
+            (cd "$DAY" && python -m src.make_charts)
+            test "$(find "$DAY/outputs/charts" -maxdepth 1 -name '*.png' | wc -l)" -eq 4
+            for PNG in "$DAY"/outputs/charts/*.png; do test -s "$PNG"; done
+            git checkout -- "$DAY/outputs/charts"
+            # Notebook smoke: execute the notebook end to end. nbconvert
+            # ships with the jupyter pin in Day 1 requirements.txt; if a
+            # future day lacks it, skip this step for that day (do not add
+            # a new dependency).
+            jupyter nbconvert --to notebook --execute "$DAY/notebooks/analysis.ipynb" --output /tmp/nb-out.ipynb
+          done
