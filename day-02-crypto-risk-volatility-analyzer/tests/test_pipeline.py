@@ -304,7 +304,11 @@ def _notebook_first_code_cell_source():
 
 
 def test_notebook_find_root_resolves():
-    namespace: dict = {}
+    # Tell the exec'd cell where the notebook lives, as Jupyter/nbconvert
+    # would: _find_root() resolves from the notebook's own location, so the
+    # test must not depend on pytest's working directory (CI runs from the
+    # repo root, not the day folder).
+    namespace: dict = {"__file__": str(PROJECT_ROOT / "notebooks" / "analysis.ipynb")}
     exec(_notebook_first_code_cell_source(), namespace)  # noqa: S102
     assert namespace["_find_root"]() == PROJECT_ROOT
 
