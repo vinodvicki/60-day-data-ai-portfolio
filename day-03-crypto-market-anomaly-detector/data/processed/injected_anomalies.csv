@@ -1,0 +1,31 @@
+date,coin,type,magnitude,construction
+2025-12-21,bitcoin,price_spike,0.09540186511818727,4.0x trailing return std
+2025-12-25,ethereum,price_spike,0.13339151216049772,4.0x trailing return std
+2026-01-16,bitcoin,price_spike,0.10875583656206128,4.0x trailing return std
+2026-01-25,ethereum,price_spike,0.14200461267243678,4.0x trailing return std
+2026-02-07,solana,price_spike,0.1780057532233619,4.0x trailing return std
+2026-02-11,bitcoin,price_spike,0.2019155694588725,4.0x trailing return std
+2026-03-06,bitcoin,price_spike,0.27372552134858885,4.0x trailing return std
+2026-03-18,solana,price_spike,0.14542906718448864,4.0x trailing return std
+2026-03-24,ethereum,price_spike,0.15185696908412608,4.0x trailing return std
+2026-04-06,ethereum,volume_surge,5.0,5.0x trailing mean volume
+2026-04-21,solana,price_spike,0.1298231416004339,4.0x trailing return std
+2026-04-28,bitcoin,volume_surge,5.0,5.0x trailing mean volume
+2026-05-30,solana,volume_surge,5.0,5.0x trailing mean volume
+2026-06-11,ethereum,volume_surge,5.0,5.0x trailing mean volume
+2026-06-14,solana,volume_surge,5.0,5.0x trailing mean volume
+2026-06-24,bitcoin,volume_surge,5.0,5.0x trailing mean volume
+2026-07-05,solana,volume_surge,5.0,5.0x trailing mean volume
+2026-07-15,ethereum,volume_surge,5.0,5.0x trailing mean volume
+2026-07-20,bitcoin,volume_surge,5.0,5.0x trailing mean volume
+2026-08-13,bitcoin,joint_shock,0.04472741501390798,3.0x trailing return std + 5.0x trailing mean volume
+2026-08-16,ethereum,volume_surge,5.0,5.0x trailing mean volume
+2026-08-26,solana,joint_shock,0.0821120137829946,3.0x trailing return std + 5.0x trailing mean volume
+2026-09-02,ethereum,joint_shock,0.1130017073660274,3.0x trailing return std + 5.0x trailing mean volume
+2026-09-19,solana,joint_shock,0.11986395511356376,3.0x trailing return std + 5.0x trailing mean volume
+2026-09-25,bitcoin,joint_shock,0.0690288104526832,3.0x trailing return std + 5.0x trailing mean volume
+2026-10-17,bitcoin,joint_shock,0.08058317173900492,3.0x trailing return std + 5.0x trailing mean volume
+2026-10-17,ethereum,joint_shock,0.06848340260302166,3.0x trailing return std + 5.0x trailing mean volume
+2026-10-22,solana,joint_shock,0.07432774062521952,3.0x trailing return std + 5.0x trailing mean volume
+2026-11-01,ethereum,joint_shock,0.08136042372344665,3.0x trailing return std + 5.0x trailing mean volume
+2026-11-01,solana,joint_shock,0.09188519498008774,3.0x trailing return std + 5.0x trailing mean volume

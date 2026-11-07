@@ -1,0 +1,15 @@
+{
+  "source": "live",
+  "generated_at_utc": "2026-11-07T15:54:55.049030+00:00",
+  "synthetic": false,
+  "seed": null,
+  "window": {
+    "from": "2025-11-07",
+    "to": "2026-11-07"
+  },
+  "coins": [
+    "bitcoin",
+    "ethereum",
+    "solana"
+  ]
+}

@@ -1,0 +1,13 @@
+# Day 3 — Crypto Market Anomaly Detector
+# Pinned to the exact versions verified in the local venv (Python 3.12.3)
+# on 2026-11-07. Install with: pip install -r requirements.txt
+pandas==3.1.1
+numpy==2.5.4
+matplotlib==3.11.2
+plotly==7.1.0
+streamlit==1.66.1
+requests==2.34.2
+pytest==9.2.0
+scikit-learn==1.9.1
+jupyter==1.1.1
+nbformat==5.11.1
