@@ -22,7 +22,8 @@ code, README, requirements, charts and example results.
 | [01](day-01-crypto-market-intelligence/) | Crypto Market Intelligence Dashboard — BTC vs ETH vs SOL over 366 daily observations (2025-11-05 → 2026-11-05) | Crypto | ✅ Done (2026-11-05) |
 | [02](day-02-crypto-risk-volatility-analyzer/) | Crypto Risk & Volatility Analyzer — BTC vs ETH vs SOL over 366 daily observations (2025-11-06 → 2026-11-06) | Crypto | ✅ Done (2026-11-06) |
 | [03](day-03-crypto-market-anomaly-detector/) | Crypto Market Anomaly Detector — 54 flagged days (baseline rules + Isolation Forest) over 366 daily observations (2025-11-07 → 2026-11-07) | Crypto | ✅ Done (2026-11-07) |
-| 04–60 | See the roadmap catalog | — | Planned |
+| [04](day-04-youtube-video-performance-analyzer/) | YouTube Video Performance Analyzer — 244 videos, 143 channels, median 611 views/day, 2.20% engagement | Social media | ✅ Done (2026-11-08) |
+| 05–60 | See the roadmap catalog | — | Planned |
 
 Day 1 headline findings (live CoinGecko data (Powered by CoinGecko), 366 daily observations, 2025-11-05 → 2026-11-05):
 BTC −20.7%, ETH −26.2%, SOL −38.5% total return; max drawdowns −44.7% /
@@ -47,6 +48,11 @@ the two methods together found 30 of 30 (recall 1.00, precision 0.974).
 Full detail in
 [Day 3](day-03-crypto-market-anomaly-detector/) →
 [`outputs/insights_summary.md`](day-03-crypto-market-anomaly-detector/outputs/insights_summary.md).
+
+Day 4 headline findings (live YouTube Data API v3 data, 244 videos from 143 channels, fetched 2026-11-08):
+median 611 views/day, median engagement 2.20%; best topic AI & ML 914 views/day (n=68, solid groups n≥10); best length Long 15–30 min 851 views/day (n=41); top quartile 3,124 vs 380 views/day, engagement 2.01% vs 2.32% (reach ≠ engagement); best weekday Wednesday 878 views/day (n=34). Full detail in
+[Day 4](day-04-youtube-video-performance-analyzer/) →
+[`outputs/insights_summary.md`](day-04-youtube-video-performance-analyzer/outputs/insights_summary.md).
 
 ## Roadmap phases
 
