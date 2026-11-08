@@ -1,0 +1,28 @@
+{
+  "source": "live",
+  "generated_at_utc": "2026-11-08T14:10:43.847252+00:00",
+  "synthetic": false,
+  "seed": null,
+  "queries": [
+    "data analytics",
+    "machine learning tutorial",
+    "Python data analysis",
+    "artificial intelligence explained",
+    "SQL tutorial"
+  ],
+  "max_results_per_query": 50,
+  "video_count": 244,
+  "channel_count": 143,
+  "quota_units_used": 508,
+  "api": "youtube-data-api-v3",
+  "top_up": null,
+  "fetch_date": "2026-11-08",
+  "counts": {
+    "candidates": 250,
+    "unique_after_dedupe": 244,
+    "dropped_live_or_upcoming": 0,
+    "dropped_no_view_count": 0,
+    "dropped_missing_details": 0,
+    "final_videos": 244
+  }
+}
