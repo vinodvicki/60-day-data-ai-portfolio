@@ -1,0 +1,36 @@
+{
+  "source": "live",
+  "generated_at_utc": "2026-11-09T14:18:01Z",
+  "synthetic": false,
+  "seed": null,
+  "video_ids": [
+    "fa8k8IQ1_X0",
+    "5KmopXwjXik",
+    "HXV3zeQKqGY",
+    "7S_tz1z_5bA",
+    "aircAruvnKk",
+    "SSKVgrwhzus",
+    "t2oOFs4WgI0",
+    "yZvFH7B6gKI",
+    "qrbf9DtR3_c",
+    "aZ5EsdnpLMI",
+    "pCJ15nGFgVg",
+    "9f-GarcDY58"
+  ],
+  "window_start": "2025-11-09T00:00:00Z",
+  "window_end": "2026-11-09T23:59:59Z",
+  "max_pages_per_video": 3,
+  "comment_count_fetched": 1600,
+  "comment_count_analysed": 1462,
+  "quota_units_used": 16,
+  "api": "youtube-data-api-v3",
+  "filters": {
+    "fetched": 1600,
+    "duplicates": 0,
+    "owner": 10,
+    "empty": 0,
+    "outside_window": 108,
+    "non_latin": 20,
+    "analysed": 1462
+  }
+}

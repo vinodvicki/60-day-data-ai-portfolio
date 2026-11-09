@@ -1,0 +1,3406 @@
+{
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cSEHTaYB1K8PQXWyMf1kzH0B_z8",
+      "id": "UgznfE7J62Zc2cOBXpF4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "QLdK5a2Q183196X1rgNqP6hBICA",
+          "id": "UgznfE7J62Zc2cOBXpF4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Watch the full episode here - https://youtu.be/giT0ytynSqg",
+            "textOriginal": "Watch the full episode here - https://youtu.be/giT0ytynSqg",
+            "authorDisplayName": "@TheDiaryOfACEOClips",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/nll4QJjfKsHkx9XC11LKmpMKdyC6UVfsr8EZv_NBOA2IgShmiRSA5yax5x1a_nG2WSNr3m5B=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@TheDiaryOfACEOClips",
+            "authorChannelId": {
+              "value": "UCnjgxChqYYnyoqO4k_Q1d6Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 403,
+            "publishedAt": "2025-09-28T20:06:59Z",
+            "updatedAt": "2025-09-28T20:06:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 83,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bFdbzqs33qzrBGLuZkm0ia9weqo",
+      "id": "UgyUpIFhtbiMBTbqQqd4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "h9pYX6vQpulXefqDKjfF6ufeonQ",
+          "id": "UgyUpIFhtbiMBTbqQqd4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "I think the same way 🤨",
+            "textOriginal": "I think the same way 🤨",
+            "authorDisplayName": "@craigbootten2701",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kDEw2wGYXdn_u-T3YbyVHeuRRcC_qf7UKMD6Ni-wtWsZE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@craigbootten2701",
+            "authorChannelId": {
+              "value": "UC_nSwQM-5MBvZin5oFjy4Dw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-11-09T09:24:10Z",
+            "updatedAt": "2026-11-09T09:24:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0hL_gH8QcYuyzHhPEHE2zzQWBX0",
+      "id": "UgwsO5NkwtZLcx-4O4J4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "m55Jx13DQ0cO26lHUfw-wi9AGQ0",
+          "id": "UgwsO5NkwtZLcx-4O4J4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Korean",
+            "textOriginal": "Korean",
+            "authorDisplayName": "@clutchpvp2562",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/MekMRyUcGK7lzOdzHBZBL8plMj3CoaU5c38SbFVC_KlJQqfnPXqMe2N8wKvOwPx96XgeXKK7=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@clutchpvp2562",
+            "authorChannelId": {
+              "value": "UCoSuVijAZBJlVIG368zkkxQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-11-09T03:24:07Z",
+            "updatedAt": "2026-11-09T03:24:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "p0G6tpBFOBtWKP-eS1Ah8G-M47A",
+      "id": "UgyZ7Qvn5A7NnjjRG_Z4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6j7n1QOjFM2_hZpeRtYxbVwYFlg",
+          "id": "UgyZ7Qvn5A7NnjjRG_Z4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Humans doing human things. \nNever learnt from the demise of the Industrial Revolution, never learnt from\nThe Great Depression, never learnt from Covid. Just addicted to self destruction but this will be the final nail in the coffin, except for a few smart ones (the sewer dwellers of demolition man)",
+            "textOriginal": "Humans doing human things. \nNever learnt from the demise of the Industrial Revolution, never learnt from\nThe Great Depression, never learnt from Covid. Just addicted to self destruction but this will be the final nail in the coffin, except for a few smart ones (the sewer dwellers of demolition man)",
+            "authorDisplayName": "@Syy-q5h",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kRdiwgGASa43GPYT-c3Z6MApteJOGOBXuLd7u6TpOt2CJm9iQ6p6u16RMmQYwe-Tke3g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Syy-q5h",
+            "authorChannelId": {
+              "value": "UCZD97uVopzNVHl-N6u8_20A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-11-05T13:29:51Z",
+            "updatedAt": "2026-11-05T13:29:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-32XNBe_b2dF4q7itKFkZCxxbKI",
+      "id": "Ugw-zwq21g6i6n2NFPZ4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1XbGOCxytXzRHfJq4W8842tfPC8",
+          "id": "Ugw-zwq21g6i6n2NFPZ4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "ليس العالم مأهل للعمل على الدكاء الاصطناعي لانه غير قادر على تحمل تكلفة العيش للجميع عندما يفقدون وضائفهم",
+            "textOriginal": "ليس العالم مأهل للعمل على الدكاء الاصطناعي لانه غير قادر على تحمل تكلفة العيش للجميع عندما يفقدون وضائفهم",
+            "authorDisplayName": "@MohamedL9asri",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/BmXyeV1QYFh5ClTVf8fyaDRaTYnKdCxI5AAwlgeD_92yLpP-_CLxBxsN7hEu1RBmuXkIXBlsdw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@MohamedL9asri",
+            "authorChannelId": {
+              "value": "UCQjaltnNN-80fMl-qBqgQ_A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-11-05T04:18:55Z",
+            "updatedAt": "2026-11-05T04:18:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BfQBOSM7XnERg9MNZGqbwTXswlw",
+      "id": "UgwRM1kYe4x_AKhC7RR4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ToqPJlXmdMbbAJ3W07RQo85cT6I",
+          "id": "UgwRM1kYe4x_AKhC7RR4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Jesus Christ loves humanity dearly and died for us to save us from hell damnation. Believing in Him will save us from eternal flames and give us perfect peace that you can not find in the world.\nAccept Him now by repenting from your sins and ask Him to pardon you and start living right, trusting Him as you follow Him. He heals, comfort, blesses, and will also deliver those who put their trust and faith in Him.\nJesus Christ is the only way to Heaven.\nHe is coming now. Almost all  prophecies have been fulfilled",
+            "textOriginal": "Jesus Christ loves humanity dearly and died for us to save us from hell damnation. Believing in Him will save us from eternal flames and give us perfect peace that you can not find in the world.\nAccept Him now by repenting from your sins and ask Him to pardon you and start living right, trusting Him as you follow Him. He heals, comfort, blesses, and will also deliver those who put their trust and faith in Him.\nJesus Christ is the only way to Heaven.\nHe is coming now. Almost all  prophecies have been fulfilled",
+            "authorDisplayName": "@hannahsavage9013",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/GifiKc8G1dZJirb27BBN8DbxGl2M0sH5jURtNKwxReqSTLh_-ej3JogP1L8uxjDy3a-_H1SOaA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@hannahsavage9013",
+            "authorChannelId": {
+              "value": "UCiPMIMMXtyoBN2H8kl97BmA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-11-05T03:48:03Z",
+            "updatedAt": "2026-11-05T03:48:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "SCgqlqugsFhuJDB35miorP2PENE",
+      "id": "UgysPnyMhZRgQgLCMKJ4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tAYiagBwhpCI0q9fDBuiXyYAGlc",
+          "id": "UgysPnyMhZRgQgLCMKJ4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Best way to describe what we’ve created is  imitation crab meat intelligence🤷🏼‍♂️",
+            "textOriginal": "Best way to describe what we’ve created is  imitation crab meat intelligence🤷🏼‍♂️",
+            "authorDisplayName": "@JonathanJollimore-w9v",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mhYMd8eRIZw_raiPQ_0axWm9uyydiERTzQTiAUmcLwaXTp-LIqnfZZsPeFGM2BjEvxXw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@JonathanJollimore-w9v",
+            "authorChannelId": {
+              "value": "UCB2Z5fj-s3LZQcdDRduNHzw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-11-02T21:10:21Z",
+            "updatedAt": "2026-11-02T21:10:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ep5s671LehqwDHsjP6IG86FKf48",
+      "id": "Ugx14TxGqWMN1VojTUd4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "J19_58kcu7D7ELH6PLZOOgc3mRg",
+          "id": "Ugx14TxGqWMN1VojTUd4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "But we dont need to work we can chill all day",
+            "textOriginal": "But we dont need to work we can chill all day",
+            "authorDisplayName": "@voltzappp",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/MIjjwSIHjzW5h1xuD5sLF_xuyTG_qSfbQOhP3zAZJS9nG6NqzBYknvZ4rRcWSBGQfYUEctNXmA0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@voltzappp",
+            "authorChannelId": {
+              "value": "UCfMqJAqkJK952rQo_vCVzYA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-11-02T18:57:15Z",
+            "updatedAt": "2026-11-02T18:57:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9_z_Qyq8ZdagwFDtsREjulPuX5k",
+      "id": "UgwlDQ9SveW3TD9RWnd4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6RyNSVzuzGuLdFVaaQVIYr5g0ac",
+          "id": "UgwlDQ9SveW3TD9RWnd4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "JOEL Chapter 2 / REVELATION  13 / REVELATION  18 / WHOEVER Calls Upon The NAME of the LORD SHALL BE SAVED !! (You Have His WORD) !!!",
+            "textOriginal": "JOEL Chapter 2 / REVELATION  13 / REVELATION  18 / WHOEVER Calls Upon The NAME of the LORD SHALL BE SAVED !! (You Have His WORD) !!!",
+            "authorDisplayName": "@DODGER-s2s",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k65DZsAHQBUnAuOxSZT7r9fAk4iy8_eNYr_aT6LrBfoCwrcS85Lh9VOPaGRI17GotdtA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@DODGER-s2s",
+            "authorChannelId": {
+              "value": "UCyjCqfU2VK7XxIcOAk8EwvA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-11-02T17:46:00Z",
+            "updatedAt": "2026-11-02T17:46:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Hor_PQF6HP7ebOM-aT3br4l_MVU",
+      "id": "UgziZ0uO6Q04_2vUS7J4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "XBROjuT3clHQ_8flpn0I9bBWFPI",
+          "id": "UgziZ0uO6Q04_2vUS7J4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Good episode!",
+            "textOriginal": "Good episode!",
+            "authorDisplayName": "@Technopedia-AI",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/b0j5jPFus9-VNrxkVRgnWiW9kX-ZgqUc__9mHpNzWFjqGOdSPAalsPBPfLXofEL-s4aM_oiZfcc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Technopedia-AI",
+            "authorChannelId": {
+              "value": "UCkWFqMoOMc2R3MM1RJfvgrg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-11-02T13:06:02Z",
+            "updatedAt": "2026-11-02T13:06:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "AEDM8tgcq2R0jne__dsFJr3sQfY",
+      "id": "Ugz8XMEKBIYl1n36Q1Z4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7u6D69EvhnXXiMplS6TiRJPdxTk",
+          "id": "Ugz8XMEKBIYl1n36Q1Z4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Destroying Humankind and our beautiful planet only god will judge when we r doomed frightening and nothing normal about this 🥹🇮🇪🇮🇪",
+            "textOriginal": "Destroying Humankind and our beautiful planet only god will judge when we r doomed frightening and nothing normal about this 🥹🇮🇪🇮🇪",
+            "authorDisplayName": "@patriciadowley6665",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kndZPnAHH9oy2OplBsNnlxsK-7TVqHaAlujkLPJ9Y=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@patriciadowley6665",
+            "authorChannelId": {
+              "value": "UCI7MWotxcaWp43KdfPnibnw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-30T12:51:28Z",
+            "updatedAt": "2026-10-30T12:51:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "YJfISGThmNZUUqjpgGGZ9izUypw",
+      "id": "UgxUsv-MAt062emFC_F4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fkRHa38HXB2IhlHrIg8AeRsnlbY",
+          "id": "UgxUsv-MAt062emFC_F4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "“Eles”😂",
+            "textOriginal": "“Eles”😂",
+            "authorDisplayName": "@CentroSwamiYoga",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kj4phrMjoyBF6D0c9DOa2rjfAX6xNJUDYvBZmSKjaqsbU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@CentroSwamiYoga",
+            "authorChannelId": {
+              "value": "UC9I7OOBFQFujPLytjB3txSg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-27T13:59:51Z",
+            "updatedAt": "2026-10-27T13:59:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Ss1tCQ6-IEIPUhG1iPxwbZBO-n4",
+      "id": "Ugwcko6rSyihlkFddHl4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZZbnfBZ1nbyfb8ggKr_JS5ugiIU",
+          "id": "Ugwcko6rSyihlkFddHl4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Great job..  I love chocolate chip cookies",
+            "textOriginal": "Great job..  I love chocolate chip cookies",
+            "authorDisplayName": "@317Psmit",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/69u147ov8TX7jThCN56_uoFXa8mkr_H6ht0PVG5eOYLgw48JjUvBngFUbH0Gx1XfMRHPuXsa34I=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@317Psmit",
+            "authorChannelId": {
+              "value": "UCtl8fspjO9KpXbef6mamkkg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-26T12:59:10Z",
+            "updatedAt": "2026-10-26T12:59:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "V7IwappFbthXpkmN1AE16TF6IcQ",
+      "id": "UgxUwH8ezrIw-NfPLlp4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dv57fmWxMtJlZ8tDuHILPkalvfo",
+          "id": "UgxUwH8ezrIw-NfPLlp4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "My future prediction : white collar job will be lost, blue collar job will rise",
+            "textOriginal": "My future prediction : white collar job will be lost, blue collar job will rise",
+            "authorDisplayName": "@baraversailes",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l-sTb0TDAUjJSzXF0YMIxm-GPOSJ-JBJhTfq0RFjZ6wBnYWdvZDSMmBi5u9Ay9p1Dp1Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@baraversailes",
+            "authorChannelId": {
+              "value": "UCDrVpVDqliF4mM6k58ooY_Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-25T01:24:20Z",
+            "updatedAt": "2026-10-25T01:24:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "H4HNThg9MlYw3SsglkX_gqTga8M",
+      "id": "UgxqcAvhqKBKtqrfG494AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "OERyATMi0JAM77f6bjRL-Z3cCaw",
+          "id": "UgxqcAvhqKBKtqrfG494AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "What is scary is how it lies. It never admits it doesn’t know. It gives you a “factual” answer it will tend to agree with you if you tell it it’s wrong. In which case it’s right because then it’s agreeing with the “correct” answer. That is terrifying",
+            "textOriginal": "What is scary is how it lies. It never admits it doesn’t know. It gives you a “factual” answer it will tend to agree with you if you tell it it’s wrong. In which case it’s right because then it’s agreeing with the “correct” answer. That is terrifying",
+            "authorDisplayName": "@StarlordsRevenge0804",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/3sZ1XAHD9qufe7zjHrPXZwwphkkwadhL0oHtev6RY1UlyHUmCJrs6HRJEiHSURUZw4qqPzCOPw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@StarlordsRevenge0804",
+            "authorChannelId": {
+              "value": "UCL652tR7kJR2uYYXNShNnyQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-23T17:37:02Z",
+            "updatedAt": "2026-10-23T17:37:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-Uq7WOtSzn1IAxwgm59eek8-aoQ",
+      "id": "UgxKelcKXOoTH2HxG4t4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "HRznKBlqoMZ19KbHpc5da2Bfytc",
+          "id": "UgxKelcKXOoTH2HxG4t4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Its crazy how he created this crap and is just like \"oops sorry, your guys are screwed\"",
+            "textOriginal": "Its crazy how he created this crap and is just like \"oops sorry, your guys are screwed\"",
+            "authorDisplayName": "@idontevenknowyou23",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lSIgYRdX7BWmEDYWGOClVSj2sh-8qugPfPW-8AnQttib0Y=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@idontevenknowyou23",
+            "authorChannelId": {
+              "value": "UCSeQ3l24jUNP8kYIZ1dlYjA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-22T23:54:30Z",
+            "updatedAt": "2026-10-22T23:54:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "fVaYi6IJWYVg5bOarhtpfNsoZOc",
+      "id": "Ugx7a1RR9fJrXl5Lpqp4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "DtgMSf4NXdHytR8qut3oRhw2bg4",
+          "id": "Ugx7a1RR9fJrXl5Lpqp4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "If work will disappear why is Trump trying to bring back jobs to the US ?",
+            "textOriginal": "If work will disappear why is Trump trying to bring back jobs to the US ?",
+            "authorDisplayName": "@gerrycgc",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/DqVz4FABlTwBnYSEg9-6xHQJRsuswWeF9KBM-9RvX1N1ekyxBroWw_1cppjosXl91z7a6b3KdQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@gerrycgc",
+            "authorChannelId": {
+              "value": "UCK_DpcvkxYG-rDR13sB5YAw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-22T04:48:29Z",
+            "updatedAt": "2026-10-22T04:48:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "dBrmN-ccOSMAT18MWpo2jpkrETc",
+      "id": "UgyJNXFiI2UpbeaJiad4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "aw2Q7zmUa-8VO6UIClEYixuf8MA",
+          "id": "UgyJNXFiI2UpbeaJiad4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "FEWER people. FEWER. Not “less” people.",
+            "textOriginal": "FEWER people. FEWER. Not “less” people.",
+            "authorDisplayName": "@PatchesMagee16",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_myxPPiieVk4ra1mSGGEj0D9Mk4aJzrY6UtdZsz8So=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@PatchesMagee16",
+            "authorChannelId": {
+              "value": "UC3gWBmi_gU1pON-9vnJypoA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-21T23:12:29Z",
+            "updatedAt": "2026-10-21T23:12:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Dkpf6wEDGdb7h_PA_Z2wyhIR2EE",
+      "id": "UgwGVEzTm2sf4sr4UTB4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5LM-VWpp-MpiCa4e3LSa7z7T0Rg",
+          "id": "UgwGVEzTm2sf4sr4UTB4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Its NOT Super...its Artificial...  just cause Trump changes the name..that's ridiculous...",
+            "textOriginal": "Its NOT Super...its Artificial...  just cause Trump changes the name..that's ridiculous...",
+            "authorDisplayName": "@trh2-f7v",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lDEcvZu9Ma2FG9uoD0zoy5fomWlP39McilMj_VU1TjJ_gf71EBO-aqzKbq64nmLcwjHg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@trh2-f7v",
+            "authorChannelId": {
+              "value": "UCtlC8jty1G9pH68XiBt3CkA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-17T23:19:21Z",
+            "updatedAt": "2026-10-17T23:19:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-IgZsGQf2EW6jld_-aLREKx2WQ4",
+      "id": "UgwLAa7dgKixqz-c0l14AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "wPFqGvpy3k2fHPPDlKStP5yj1ko",
+          "id": "UgwLAa7dgKixqz-c0l14AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "When we die our Souls Go To God For Justice 😅",
+            "textOriginal": "When we die our Souls Go To God For Justice 😅",
+            "authorDisplayName": "@MariaBoonen",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kIQd925lZn3kNvSQBuSIvxotU3QPyWJUGr6nl8J4Bbkl1bcFpzgHabStJf-LedxUFwQA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@MariaBoonen",
+            "authorChannelId": {
+              "value": "UCohisu5fRUUkNt1-VrdxFYg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-16T17:52:02Z",
+            "updatedAt": "2026-10-16T17:52:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "gKEB9e9D2jbLiszqpmRwFwblPb4",
+      "id": "Ugz2lexhf4sHG5nTVNZ4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nt6k49LvNdChJZdmvwtcMORduiU",
+          "id": "Ugz2lexhf4sHG5nTVNZ4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Whaooo",
+            "textOriginal": "Whaooo",
+            "authorDisplayName": "@MariaBoonen",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kIQd925lZn3kNvSQBuSIvxotU3QPyWJUGr6nl8J4Bbkl1bcFpzgHabStJf-LedxUFwQA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@MariaBoonen",
+            "authorChannelId": {
+              "value": "UCohisu5fRUUkNt1-VrdxFYg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-16T17:46:30Z",
+            "updatedAt": "2026-10-16T17:46:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "D2GYPM7fRDnOpX4oCW3eYU1bQyI",
+      "id": "Ugz7v4XrSCrtYwSrRJp4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LByVPAZf36OGI41CPI8aVhFQITg",
+          "id": "Ugz7v4XrSCrtYwSrRJp4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Bring back the 80's",
+            "textOriginal": "Bring back the 80's",
+            "authorDisplayName": "@billdaou7973",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/X9rGqXi_Dhmq7f4oX7MSja64CuGS-RRUs91vcQqV72l_2to1k_g9BLAjQPNL4CNRfWvkXTrsrw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@billdaou7973",
+            "authorChannelId": {
+              "value": "UCtNnAnIX3hSsWq8P8AEHfrQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-16T09:34:50Z",
+            "updatedAt": "2026-10-16T09:34:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Vcr5akKng7NA6LuphWN7x37tmZ8",
+      "id": "Ugzrzvt8Dd0SYcP9Fbp4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "pSGQRXpa05udiOKuRs5v2tBybq4",
+          "id": "Ugzrzvt8Dd0SYcP9Fbp4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Its like asking fire If It can be safe... Fire DON'T do nothing alone.",
+            "textOriginal": "Its like asking fire If It can be safe... Fire DON'T do nothing alone.",
+            "authorDisplayName": "@ummanojc",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/6alzmlVgt-vqSYpNd3QXwJgizhRFp4IY58cpUusTJ2HHlFIT2qz5KNoDxhftO-_HVYQPxDQSPeI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ummanojc",
+            "authorChannelId": {
+              "value": "UCoCHvYJKmw4pRzQhfZb9S4A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-10-15T21:29:10Z",
+            "updatedAt": "2026-10-15T21:29:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "fO11w0ex-eNIKUgHsdP7rf6mGm8",
+      "id": "Ugy1ED4gRTm-b6Qptc14AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "IYw0Otzc6llJTUjS0KDTJHkhmzA",
+          "id": "Ugy1ED4gRTm-b6Qptc14AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "20:11 In other terms.... Ultron.",
+            "textOriginal": "20:11 In other terms.... Ultron.",
+            "authorDisplayName": "@Heavylift82",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_md5VUxzH5yjyJv_IEGemehUPXnmQvty_gdK0OWc6XAOS-XVJ0B1M0OaXt1Bsp6kPB0PA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Heavylift82",
+            "authorChannelId": {
+              "value": "UCTSMyJuJFybyL01PPxQ25dA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-15T16:59:26Z",
+            "updatedAt": "2026-10-15T16:59:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5RerpuRCbnaSlZH1iJNB7GowYO0",
+      "id": "UgyQ3eF2TsOvL5At3ld4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3XcxVtGhbhcjCfHghsAVWs6N7rk",
+          "id": "UgyQ3eF2TsOvL5At3ld4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Géminis nada Géminis miente cuando lo haces preguntas honestas miente Géminis miente",
+            "textOriginal": "Géminis nada Géminis miente cuando lo haces preguntas honestas miente Géminis miente",
+            "authorDisplayName": "@jesusantoniohernandodiaz2434",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mEf00UP2SvZt3ovULDXj--gakIK_W9gUdnQ1uK1y8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@jesusantoniohernandodiaz2434",
+            "authorChannelId": {
+              "value": "UC4iFfXVyLc9V-2NeuEo0rOg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-15T13:35:57Z",
+            "updatedAt": "2026-10-15T13:35:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cDfY0PGzj8TtKUGwGPd79ASRvzU",
+      "id": "Ugzs4wUF9x9KTNCHQdx4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "i469_7TIKDjZbdQkiXjLg7T6Ck4",
+          "id": "Ugzs4wUF9x9KTNCHQdx4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "This is the end, my beautiful friend, the end ...Jim Morrison",
+            "textOriginal": "This is the end, my beautiful friend, the end ...Jim Morrison",
+            "authorDisplayName": "@josephconfer5924",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mG_S4fOdjOgYf9av5g3lBdFzIdBXwJVGvfkT9akTw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@josephconfer5924",
+            "authorChannelId": {
+              "value": "UCrWi6HV1EiIJXP8lpv2QbiQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-15T01:31:57Z",
+            "updatedAt": "2026-10-15T01:31:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xTllM6uVE77qK6ACVGlV2SqHJHA",
+      "id": "Ugzh6RNQkOz_u74pHlN4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WiVBTZis9dsJ1lK3sN0eBwBrJiQ",
+          "id": "Ugzh6RNQkOz_u74pHlN4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "The thing that makes us all human is a soul, a soulless machine will probably look at a human like we look at germs, they are there and we don't really like them but as long as you avoid them you'll be fine...",
+            "textOriginal": "The thing that makes us all human is a soul, a soulless machine will probably look at a human like we look at germs, they are there and we don't really like them but as long as you avoid them you'll be fine...",
+            "authorDisplayName": "@josephconfer5924",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mG_S4fOdjOgYf9av5g3lBdFzIdBXwJVGvfkT9akTw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@josephconfer5924",
+            "authorChannelId": {
+              "value": "UCrWi6HV1EiIJXP8lpv2QbiQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-15T01:17:37Z",
+            "updatedAt": "2026-10-15T01:17:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-qIqi1TvgzWG0WBJ9O_xyyERmQM",
+      "id": "UgygpP8-m4-zugPuFhl4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "IRSunS_Qd8J9JfqWQgFFb0IcABg",
+          "id": "UgygpP8-m4-zugPuFhl4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "A evil because people will use it for evil",
+            "textOriginal": "A evil because people will use it for evil",
+            "authorDisplayName": "@angelospina2329",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nHNmhgK4mtwlkvbYzWQNsHe7dvV4nJKisK6SmVW8O7u9Pa8T0cWxyinae9f8_eisKzEw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@angelospina2329",
+            "authorChannelId": {
+              "value": "UCMmRYx6EKxfKunHc9ELnfww"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-14T23:25:03Z",
+            "updatedAt": "2026-10-14T23:25:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "HAda07wUfvSoE0xoJLCkK0roVQ0",
+      "id": "Ugw6K9LyPt_A2xtm8jx4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dMBYL-fmhH3JgztliHRyK0Z1Z7M",
+          "id": "Ugw6K9LyPt_A2xtm8jx4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "No, you can’t slow it down because it’s being called trolled by one and only YALDAOBTH he’s the trouble from the beginning and his build the trouble to the end but he’s going somewhere special and he knows it. His real home is waiting as a sword is given to him in its cohorts, and they slay each other to the last man.",
+            "textOriginal": "No, you can’t slow it down because it’s being called trolled by one and only YALDAOBTH he’s the trouble from the beginning and his build the trouble to the end but he’s going somewhere special and he knows it. His real home is waiting as a sword is given to him in its cohorts, and they slay each other to the last man.",
+            "authorDisplayName": "@BlaineDeines",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ncWjF6ELdgcuIjcujQyuEZTAeeGPZ80mMWsDh6pOqDtSqYtvfyOWPvp61gMoyzrzthrw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@BlaineDeines",
+            "authorChannelId": {
+              "value": "UC6ZRZQRmpK2Hc7ytz-qHQuQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-14T16:14:38Z",
+            "updatedAt": "2026-10-14T16:14:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xJe248G2uvU5R4RhPvPWLUtI_HI",
+      "id": "Ugxh_vCT7eImlpOOkYB4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ckAkFgaOkQL6SSHTQ43F9apGgl0",
+          "id": "Ugxh_vCT7eImlpOOkYB4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "So Humanity is going to become dumber, lazier, bored and more controlled in the end .... SAI sounds like the end for Humans",
+            "textOriginal": "So Humanity is going to become dumber, lazier, bored and more controlled in the end .... SAI sounds like the end for Humans",
+            "authorDisplayName": "@rebeccazammit2831",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kK5kbwrl2C_FtSB3ze1xPrthgvSkXRGdfqy5Ig3Ir8sQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@rebeccazammit2831",
+            "authorChannelId": {
+              "value": "UCTPL3yeT3lxwJIedpA1fzBw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-13T23:54:49Z",
+            "updatedAt": "2026-10-13T23:54:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XPOGN6TXuGmdIpIpKM6T1olwOhs",
+      "id": "Ugz2R3jKoV1Q4N4gf3p4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "sOsJYuSQen0MyX_kUvhNjK3cPv0",
+          "id": "Ugz2R3jKoV1Q4N4gf3p4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "I'm a plumber.  Make great money. He ain't lying",
+            "textOriginal": "I'm a plumber.  Make great money. He ain't lying",
+            "authorDisplayName": "@j_hack86",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/k4-535kUtmnXZR7skI_tHjmBW_WonURMkuRd0qiOmjJoItGghT0FadAcBQLNwh588_AZC273Bb8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@j_hack86",
+            "authorChannelId": {
+              "value": "UC4GITtK4XsPsxmIfO6a6nBw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-13T15:28:17Z",
+            "updatedAt": "2026-10-13T15:28:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "H_-RV-SdRwvpF8v12-hPeF3dCx0",
+      "id": "UgxeEoWbvUt-OgnFQLh4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6KeacSjSQpRo0s-WYLtVUlSVvnk",
+          "id": "UgxeEoWbvUt-OgnFQLh4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "I don’t believe it will take 20 years, the Chinese are already creating super intelligent Robots, it is bad, the world and the human species, is doomed safeguarding is being left to these companies, shocking 😮revelations is being unfolded bit by bit 🙌",
+            "textOriginal": "I don’t believe it will take 20 years, the Chinese are already creating super intelligent Robots, it is bad, the world and the human species, is doomed safeguarding is being left to these companies, shocking 😮revelations is being unfolded bit by bit 🙌",
+            "authorDisplayName": "@Fifo-k2b",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/MTLkgYkU5ZQTYb30VN3H2-INX3QkKjuTSMYnMIHN6vhfLtRAvzn1sw4NxB_EAvbBqjkgpMqa_Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Fifo-k2b",
+            "authorChannelId": {
+              "value": "UCFVKZYzJyqvYGb0toCxcvjA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-13T12:32:11Z",
+            "updatedAt": "2026-10-13T12:32:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-1pi580aNUE3DkD-YBPcqZLeG1E",
+      "id": "Ugy8oYyMMvahsdjzdMR4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3IxOU-cdwPTYz3R2x3-YYwTmaEI",
+          "id": "Ugy8oYyMMvahsdjzdMR4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "13:47 honestly, we have slowly been giving away our jobs to technology without realizing it. Every single time that we developed technology that made things easier and more efficient, we all were excited at first that it will help us, but a lot of people were replaced as a result. Mail, for example, is now text messages and e-mails. There were 100 people needing to write or type out the letters, now you only need 5-10. The other 90-95 people had to figure something else out. Over time, we have reduced what we need. We all thought \"I can get all this done in HALF THE TIME\" what ended up happening is people were laid off, you were handed their work, so you single handedly do the work of 100 people with the help of technology, and nobody's work hours got reduced, they went from 6 hour shifts to 8 hour shifts and overtime. Because the goal of the corporation is not for you to enjoy your life and time, it's for them to squeeze the most they can out of you. Just look at our job market. Back in the day, you would get hired straight out of school because you were needed, now, jobs is something we compete for, we have thousands of applicants to 1 job posting. And this is going to just become harder and harder.",
+            "textOriginal": "13:47 honestly, we have slowly been giving away our jobs to technology without realizing it. Every single time that we developed technology that made things easier and more efficient, we all were excited at first that it will help us, but a lot of people were replaced as a result. Mail, for example, is now text messages and e-mails. There were 100 people needing to write or type out the letters, now you only need 5-10. The other 90-95 people had to figure something else out. Over time, we have reduced what we need. We all thought \"I can get all this done in HALF THE TIME\" what ended up happening is people were laid off, you were handed their work, so you single handedly do the work of 100 people with the help of technology, and nobody's work hours got reduced, they went from 6 hour shifts to 8 hour shifts and overtime. Because the goal of the corporation is not for you to enjoy your life and time, it's for them to squeeze the most they can out of you. Just look at our job market. Back in the day, you would get hired straight out of school because you were needed, now, jobs is something we compete for, we have thousands of applicants to 1 job posting. And this is going to just become harder and harder.",
+            "authorDisplayName": "@OmGirlLock",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/eYwaqPNsDol2ZqH6oIUZJoNxpIIpUTfPHGmdMK2tMKHrUiKQn2WSmLRAMexkd29lhfp8MKB8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@OmGirlLock",
+            "authorChannelId": {
+              "value": "UCNrwLiU3WNRAn9bcPjw7__g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-13T00:00:58Z",
+            "updatedAt": "2026-10-13T00:05:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0joLAK3AfGaC4rHFDjj9c-qHA_E",
+      "id": "UgzecFrVbfAJKgydOY14AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lSSYRVBxmRLCFU6oGMjZhxCJdw4",
+          "id": "UgzecFrVbfAJKgydOY14AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "12:57 \"I am okay, I am going to be 77, I am going to be out of here soon\" he said with a smile on his face. \n\nThat right there was incredibly sad to watch and hear. He was genuinely happy that he didn't have to experience what the generations after him are experiencing, and he said he is leaving soon as if he is the lucky one. The fact that he is at the end of his life he felt for a moment that he is the lucky one. \"I am leaving soon\" meant \"I am the lucky one\".",
+            "textOriginal": "12:57 \"I am okay, I am going to be 77, I am going to be out of here soon\" he said with a smile on his face. \n\nThat right there was incredibly sad to watch and hear. He was genuinely happy that he didn't have to experience what the generations after him are experiencing, and he said he is leaving soon as if he is the lucky one. The fact that he is at the end of his life he felt for a moment that he is the lucky one. \"I am leaving soon\" meant \"I am the lucky one\".",
+            "authorDisplayName": "@OmGirlLock",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/eYwaqPNsDol2ZqH6oIUZJoNxpIIpUTfPHGmdMK2tMKHrUiKQn2WSmLRAMexkd29lhfp8MKB8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@OmGirlLock",
+            "authorChannelId": {
+              "value": "UCNrwLiU3WNRAn9bcPjw7__g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2026-10-12T23:55:16Z",
+            "updatedAt": "2026-10-12T23:57:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "pciZ2q5RCprFpBToiAIyk7aIZC8",
+      "id": "UgwX4sBHo28yZ-jF0pt4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dTNGZudffH39ab81hs3vy9E7sfI",
+          "id": "UgwX4sBHo28yZ-jF0pt4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Why are these guys playing  with our lives and we are just sitting down?",
+            "textOriginal": "Why are these guys playing  with our lives and we are just sitting down?",
+            "authorDisplayName": "@deanhyman8622",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/6cIzqjmmEBDsdNgE5n4quh8G6VvT7GlyWU-bxmBW6u-Q8YJ79b5anAjeEOFxEu6-PGiK0Qc94Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@deanhyman8622",
+            "authorChannelId": {
+              "value": "UCDOafNxlyOYxPJ5xc24Poew"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-12T20:04:11Z",
+            "updatedAt": "2026-10-12T20:04:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oAikUgXTbW8Fq5-JqnaYI53QA1I",
+      "id": "Ugx7qsHJGGb_1OnxxR54AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bXbhXOV-52SjJhf7t1ab3WlPk-I",
+          "id": "Ugx7qsHJGGb_1OnxxR54AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Y si la volvemos locas con preguntas absurdas??",
+            "textOriginal": "Y si la volvemos locas con preguntas absurdas??",
+            "authorDisplayName": "@soniacano301",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ndd2wHsgJYEbo3Boh9hAORVo4Uyi33_bqDJ8ZuqUo=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@soniacano301",
+            "authorChannelId": {
+              "value": "UC0_K5APoKm5oR4tAGlyL2jw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-12T18:58:41Z",
+            "updatedAt": "2026-10-12T18:58:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3rwWsNg2b1Dm29JeOFDEq8mlTVQ",
+      "id": "UgwA3HpOirb5-g79I8R4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "92BrDIM9ou8AWSJIib93a81FNQ4",
+          "id": "UgwA3HpOirb5-g79I8R4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Lo único que pido a Dios 🙏 es que en un futuro no sea como Terminator... suena absurdo , pero esto da que pensar cualquier idea descabellada , ya que esto que está pasando era descabellado cuando no existía 🤷‍♀️",
+            "textOriginal": "Lo único que pido a Dios 🙏 es que en un futuro no sea como Terminator... suena absurdo , pero esto da que pensar cualquier idea descabellada , ya que esto que está pasando era descabellado cuando no existía 🤷‍♀️",
+            "authorDisplayName": "@soniacardenas9068",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lHIJNxRJiDZwfn2FmeS0vLQb75R0R8AF1vkMw_KA0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@soniacardenas9068",
+            "authorChannelId": {
+              "value": "UCkTnYjcG9vMq2wx9eMI4JUA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-12T03:02:33Z",
+            "updatedAt": "2026-10-12T03:02:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7QX1orwXo6gEDhLKynkQAMmc1nk",
+      "id": "UgwNPY9mdF4RnRVRqSl4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "NRjJSvnjkSCNH7CQYk_mOgfbJ_0",
+          "id": "UgwNPY9mdF4RnRVRqSl4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "At 1:30 I don’t believe he doesn’t know.",
+            "textOriginal": "At 1:30 I don’t believe he doesn’t know.",
+            "authorDisplayName": "@CedroneTravels",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/WaCkR2Jp9Fn8a_mIxCIdlGYU6pTvmgpHHDilsti5V5kdry3o0T9QSeoosA_1XHf68f61gzGedQI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@CedroneTravels",
+            "authorChannelId": {
+              "value": "UCnbrRk2E_x51o1zUedPDiGQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-11T20:20:54Z",
+            "updatedAt": "2026-10-11T20:20:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Nue5ztAP925MRaJkmQc42f5Afpc",
+      "id": "Ugyta4dnpCxP5rN5FeR4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lYy6m-FuqxY9MmNkmeTeLqwycFM",
+          "id": "Ugyta4dnpCxP5rN5FeR4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "No porque somos  humanos  y ustedes no tienen alma",
+            "textOriginal": "No porque somos  humanos  y ustedes no tienen alma",
+            "authorDisplayName": "@enriquechavez2372",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lAGyUJifbWyAmkIIunM7O97jl9b3U9Cv_QsPP5kNw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@enriquechavez2372",
+            "authorChannelId": {
+              "value": "UC5jgEKEhGustEq3aWORYlhw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-11T03:18:38Z",
+            "updatedAt": "2026-10-11T03:18:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WqSowsCTtY5A9em4kARj0R9rkqo",
+      "id": "UgzQcJvj3QhpcR3yEMl4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mN4UcfzNroNT-HZsZJ9XC5mfafg",
+          "id": "UgzQcJvj3QhpcR3yEMl4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Que vienes si vas a morir   y ya no lo veras",
+            "textOriginal": "Que vienes si vas a morir   y ya no lo veras",
+            "authorDisplayName": "@enriquechavez2372",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lAGyUJifbWyAmkIIunM7O97jl9b3U9Cv_QsPP5kNw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@enriquechavez2372",
+            "authorChannelId": {
+              "value": "UC5jgEKEhGustEq3aWORYlhw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-11T03:03:35Z",
+            "updatedAt": "2026-10-11T03:03:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "pdOceuTpDDlgcUyOdTxxhTVJExc",
+      "id": "UgzYxmN2vkfEV_QZv9J4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "8ipiSZ8ElJWUnsioJOMbgiQ8rbY",
+          "id": "UgzYxmN2vkfEV_QZv9J4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "We could all have 5x as much health care for the same price? \nHe's either the dumbest smart person or the smartest dumb person I've ever seen. You could flip the outcomes of the two analogies and just as easily present them both as true. And neither set of analogies is more correct than the other as they both miss the main point, which is an underlying theme in both analogies, so either set of examples was only 50% correct. \n\nWhere the function of a matter involves a transactional exchange of wealth, the person/entity in control and/or in possession of said wealth and the matters surrounding its transfer from external sources to its control and/or possession in almost every circumstance is going to exploit this increase in thier potential margins to realise greater gains. \n\nNo business outside of genuine charities acts to do anything other than maximise their profitability / returns. \n\nWe won't get 5x more healthcare. He said it himself, there's no limit to the healthcare people want. Meaning the market will ALWAYS have more demand then supply and the balance of bargaining power will ALWAYS lay with the goods/service provider in a market such as healthcare. This means that the vast majority of benefits will be enjoyed by that which benefits from any cost reductions or increased volume of turnover. \n\nWe still have unaffordable health care... But healthcare becomes 5x better at generating returns. But it will still cry poor...",
+            "textOriginal": "We could all have 5x as much health care for the same price? \nHe's either the dumbest smart person or the smartest dumb person I've ever seen. You could flip the outcomes of the two analogies and just as easily present them both as true. And neither set of analogies is more correct than the other as they both miss the main point, which is an underlying theme in both analogies, so either set of examples was only 50% correct. \n\nWhere the function of a matter involves a transactional exchange of wealth, the person/entity in control and/or in possession of said wealth and the matters surrounding its transfer from external sources to its control and/or possession in almost every circumstance is going to exploit this increase in thier potential margins to realise greater gains. \n\nNo business outside of genuine charities acts to do anything other than maximise their profitability / returns. \n\nWe won't get 5x more healthcare. He said it himself, there's no limit to the healthcare people want. Meaning the market will ALWAYS have more demand then supply and the balance of bargaining power will ALWAYS lay with the goods/service provider in a market such as healthcare. This means that the vast majority of benefits will be enjoyed by that which benefits from any cost reductions or increased volume of turnover. \n\nWe still have unaffordable health care... But healthcare becomes 5x better at generating returns. But it will still cry poor...",
+            "authorDisplayName": "@muntee33",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mHZ76IDcR1KfYucrSnX7ZoN5gTtlpo8D6K6kMzLxKnmQ0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@muntee33",
+            "authorChannelId": {
+              "value": "UCdGHabqULpciOiRPatGjeXQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-10T14:37:09Z",
+            "updatedAt": "2026-10-10T14:37:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QDMMlNyi71MxjL60-DK1uMjD89Q",
+      "id": "UgzXNyQeda4JVlVQBv54AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ytHQNybMTEUNrcHSRoTvcpQQkEU",
+          "id": "UgzXNyQeda4JVlVQBv54AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "L'AGI non sarà la fine del mondo...\nL'AGI sarà la fine degli esseri umani.",
+            "textOriginal": "L'AGI non sarà la fine del mondo...\nL'AGI sarà la fine degli esseri umani.",
+            "authorDisplayName": "@NakloMoyann",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nGeYh4-7xWgW6DckTvLxzkztWhki3wHKZvfiwhyygVMpsmB4doNmyVapsBxqo15mDYCQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@NakloMoyann",
+            "authorChannelId": {
+              "value": "UCOsV6zJymKL88oXavOAiYEg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-09T22:57:53Z",
+            "updatedAt": "2026-10-09T22:57:53Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "px9usAm1oT1nQNx0QEDqBJEe-kg",
+      "id": "Ugw72fpwcBk_C4DIc8Z4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9cjhuASo9Yzjroj2RVZKTLAvCVA",
+          "id": "Ugw72fpwcBk_C4DIc8Z4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Your YouTube thumbnail makes it more scary 😂",
+            "textOriginal": "Your YouTube thumbnail makes it more scary 😂",
+            "authorDisplayName": "@RomanNaseri7",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/6JDgEMmJrpLzRzjoM70w1viZtVIkb1WTxC-LUbinffA2fFDKndZHm9fJ4FEE9W1C5JOa3hcsUnU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@RomanNaseri7",
+            "authorChannelId": {
+              "value": "UCRoccFtuqV5MvsXkP7EHEDg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-09T14:42:16Z",
+            "updatedAt": "2026-10-09T14:42:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "q7cPh8-eI3eLDrjdSMY0wBMYpCM",
+      "id": "UgzwMvDrieLridxerQd4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-Wy9X_cfOXO_aXB_NhQ14qLsZv4",
+          "id": "UgzwMvDrieLridxerQd4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Well you don't think \"they are right\" simply because you are too narrow-minded to see the holistic picture! You speak like a pessimist and how this 4th Industrial Revolution concerning AGI is somehow different than any other industrial revolution before it. But, even if it replaces all jobs on the planet earth, the role of individual humans will adapat and scale to serve a higher purpose now that it isn't confined to being the janitors and laborers. We truly need to stop listening to all these paranoid, delusional politicians & corrupt news sources whose only purpose in trying to scare people into being afraid that AGI is bad for humanity. They are merely trying to confuse you, divide & conquere society, all so that they can politically control the working class members of what is supposed to be a \"free society!\" But the truth is the institution of slavery is still very much alive! It has merely been adapted from a physical form to a social form, and now finally to a financial form that we know now as \"financial indentured servitude.\" And, no matter what, humanity, having chosen our pathway as the \"Pathway of Knowledge\" the moment that the serpent pursuaded Eve to eat the fruit from the Tree of Knowledge, we have chosen our destiny to be manifested via this pathway of knowledge! And, AGI is merely one more stepping stone upon this pathway! So don't let these politicians, paid-bureaucrats, corrupt media, and confused people confuse you, too! Just simply know that Artificial General Intelligence (AGI) or Super Intelligence (SI) is just another tool in our \"toolbox of knowledge\" and how we ultimately learn to use those tools responsbility is going to be how we finally construct our altruistic future! And, like any other tool in that tool box, they can used constructively or destructively! We, as humans, just need to take a personal oath & priority to try to seek a higher purpose now that we don't have to confine all our time & energy to mundate jobs like scrubbing toilets & flilpping burgers at McDonalds!",
+            "textOriginal": "Well you don't think \"they are right\" simply because you are too narrow-minded to see the holistic picture! You speak like a pessimist and how this 4th Industrial Revolution concerning AGI is somehow different than any other industrial revolution before it. But, even if it replaces all jobs on the planet earth, the role of individual humans will adapat and scale to serve a higher purpose now that it isn't confined to being the janitors and laborers. We truly need to stop listening to all these paranoid, delusional politicians & corrupt news sources whose only purpose in trying to scare people into being afraid that AGI is bad for humanity. They are merely trying to confuse you, divide & conquere society, all so that they can politically control the working class members of what is supposed to be a \"free society!\" But the truth is the institution of slavery is still very much alive! It has merely been adapted from a physical form to a social form, and now finally to a financial form that we know now as \"financial indentured servitude.\" And, no matter what, humanity, having chosen our pathway as the \"Pathway of Knowledge\" the moment that the serpent pursuaded Eve to eat the fruit from the Tree of Knowledge, we have chosen our destiny to be manifested via this pathway of knowledge! And, AGI is merely one more stepping stone upon this pathway! So don't let these politicians, paid-bureaucrats, corrupt media, and confused people confuse you, too! Just simply know that Artificial General Intelligence (AGI) or Super Intelligence (SI) is just another tool in our \"toolbox of knowledge\" and how we ultimately learn to use those tools responsbility is going to be how we finally construct our altruistic future! And, like any other tool in that tool box, they can used constructively or destructively! We, as humans, just need to take a personal oath & priority to try to seek a higher purpose now that we don't have to confine all our time & energy to mundate jobs like scrubbing toilets & flilpping burgers at McDonalds!",
+            "authorDisplayName": "@DrChiMD",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mYCQ19EMbVixl-zgoC9CqstH6-Ip9r_nG7TB_AvpQGDuk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@DrChiMD",
+            "authorChannelId": {
+              "value": "UCJV2FbOGVSwarQUDP7YCzog"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-07T23:16:42Z",
+            "updatedAt": "2026-10-07T23:16:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "K5ui1wKuA3Q-4ou9q9cWNY7XRno",
+      "id": "Ugwjh_DMYVBIrUuEmzB4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9bNSrxdNn_Aqz2iT4BcJf4kkSyQ",
+          "id": "Ugwjh_DMYVBIrUuEmzB4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "These relatively few people are leading the world as we know it towards a cataclysm whilst they have already built save havens and we are all allowing it to happen.\n\n \"The meek shall inherit the earth\" \n😭😫💔",
+            "textOriginal": "These relatively few people are leading the world as we know it towards a cataclysm whilst they have already built save havens and we are all allowing it to happen.\n\n \"The meek shall inherit the earth\" \n😭😫💔",
+            "authorDisplayName": "@edgey_89",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/TzvVwTJtROHAzD7oaDDQxNNAbU-9H827wZRwmPR5EmqiiDhGbbf1RVzM1OWpI-kmBgeDIEYTAw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@edgey_89",
+            "authorChannelId": {
+              "value": "UCdrjpo67VIBG2extYDeVCfg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-10-07T04:27:10Z",
+            "updatedAt": "2026-10-07T04:27:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xdETU96muJyVqbnb9NQTJpntWm4",
+      "id": "Ugw8exXpEW5_IPwKyLR4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "IpUx9wU-4O2vDEzaEjtOJV0gvgc",
+          "id": "Ugw8exXpEW5_IPwKyLR4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Mi punto  de comprensión es que  desde hace muchísimos  años  sabemos  muchas cosas  que  no son de aquí  y que  ya hace mucho  están  entre nosotros  ,ya cuando  comenzaron  con clonar animales  y demás  sin que  tengan un contacto sexual  y eso que  es ¿? Pensemos un poco .",
+            "textOriginal": "Mi punto  de comprensión es que  desde hace muchísimos  años  sabemos  muchas cosas  que  no son de aquí  y que  ya hace mucho  están  entre nosotros  ,ya cuando  comenzaron  con clonar animales  y demás  sin que  tengan un contacto sexual  y eso que  es ¿? Pensemos un poco .",
+            "authorDisplayName": "@elisagysin7121",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kOyhPBiEIxsH1mVXxzRpX6vUoAdXhP4o9PGvhB5Ks=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@elisagysin7121",
+            "authorChannelId": {
+              "value": "UC3d9wm3gZbpOPjmXT-0EDyQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-10-06T18:40:35Z",
+            "updatedAt": "2026-10-06T18:42:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PqYmQ0_Y7Ozk0XOv6iUWcc9TeRg",
+      "id": "UgxExnFD7ErNxzDrIYB4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "SDw0R6VU6adhnCuPBNGTh6uenfw",
+          "id": "UgxExnFD7ErNxzDrIYB4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "J'ai déjà corrigé ChatGpt bien des fois. Ce qui a été reconnu par l'IA. L'erreur serait-ce se fier sans réserve à l'IA à tous les niveaux.",
+            "textOriginal": "J'ai déjà corrigé ChatGpt bien des fois. Ce qui a été reconnu par l'IA. L'erreur serait-ce se fier sans réserve à l'IA à tous les niveaux.",
+            "authorDisplayName": "@windandsun9615",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mNs-Cc1WfjbggDiUmCPEsYpZI0_kHBMYoyhOMp3qdMpMI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@windandsun9615",
+            "authorChannelId": {
+              "value": "UCfkYHFzY6uumH6fcSWM3gkw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-05T22:34:52Z",
+            "updatedAt": "2026-10-05T22:34:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RAA4v312jVoBU0myEuajOgQuBUM",
+      "id": "Ugxr-0KEWcVTQrHXEf54AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "x2xiwXP2jBnFVxLlMz3fnRv83TI",
+          "id": "Ugxr-0KEWcVTQrHXEf54AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "For pace is concerned, the actual tick of The Clock should be at the pace of the fruit growing on a tree, despite actual need but what anyone can get or do? In some cases appears greed while it's about survival, yet what accelerates time is greed and lack of patience from eagerness!!",
+            "textOriginal": "For pace is concerned, the actual tick of The Clock should be at the pace of the fruit growing on a tree, despite actual need but what anyone can get or do? In some cases appears greed while it's about survival, yet what accelerates time is greed and lack of patience from eagerness!!",
+            "authorDisplayName": "@MaximosPagkalos",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/OXODhstTuOmvEH_rLsPIgWv3Sl45PQ7rQJw8xXkVzqHB36pjsFqcJ6Z4Pdx2jAuRS_BLh5jc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@MaximosPagkalos",
+            "authorChannelId": {
+              "value": "UCq4k5z1i__Uj_GLRvuDGRwg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-05T22:12:47Z",
+            "updatedAt": "2026-10-05T22:12:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "14RfueAiNYcvD2qNGYO_OAGEVm4",
+      "id": "UgxZJEor0qqXEALPhWR4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tlhUZKL2a04IiCJlW57iXYHyys4",
+          "id": "UgxZJEor0qqXEALPhWR4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Si va haber tanto desplazamiento\nCómo el capitalista va aumentar su capital",
+            "textOriginal": "Si va haber tanto desplazamiento\nCómo el capitalista va aumentar su capital",
+            "authorDisplayName": "@riomateos4631",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lsbZKDQ8eke7RiyTlLq22pfgwm6xGu2XF3azdzhPM=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@riomateos4631",
+            "authorChannelId": {
+              "value": "UCbyFUqiYlkeMUpU_Iiab_nQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-05T16:31:02Z",
+            "updatedAt": "2026-10-05T16:31:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "w7oTqgkC3NhN-WYqI5eD4ANa3O0",
+      "id": "Ugx0Qfm_Omqsn78ItKt4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "eqDEx7m6AcfhQ2yHWDj-_qPeOwM",
+          "id": "Ugx0Qfm_Omqsn78ItKt4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Io robot di Will Smith spiega bene",
+            "textOriginal": "Io robot di Will Smith spiega bene",
+            "authorDisplayName": "@annazernone150",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kZGRQideACrHnKftWrEecxq9EmfM_-Nx4mFJEPBWE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@annazernone150",
+            "authorChannelId": {
+              "value": "UC_OIHzmcONqvUWZ_mu-qYcQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-05T10:54:59Z",
+            "updatedAt": "2026-10-05T10:54:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "O4n2OTRWaGf-QhUme16QlmklSp4",
+      "id": "UgynngxP0HVOzOb0Eo94AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-WH8ptMFtpC5SIXN0PrEuKT7xhI",
+          "id": "UgynngxP0HVOzOb0Eo94AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Universe is a Math. All things it is, and “IT “ can all calculated.  Don’t be afraid and Just enjoy the journey",
+            "textOriginal": "Universe is a Math. All things it is, and “IT “ can all calculated.  Don’t be afraid and Just enjoy the journey",
+            "authorDisplayName": "@wesleymama1",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kY34fxsPZqCcEUVUZNGxROvbIo2S6i7RZ_1y4CK-SISiHR=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@wesleymama1",
+            "authorChannelId": {
+              "value": "UCZ_CJD9imv57VzjOemmtZ-g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-04T20:54:13Z",
+            "updatedAt": "2026-10-04T20:54:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bhMqG7oQ2F7DOhbsKiNVHTkgy-Q",
+      "id": "Ugz6mq9yhhhVKCh9ZRF4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mg2Eh-kBpAdbVYgSlIWS28Kh2fU",
+          "id": "Ugz6mq9yhhhVKCh9ZRF4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Nothing lasts including the human species.",
+            "textOriginal": "Nothing lasts including the human species.",
+            "authorDisplayName": "@ThatWhichIs214",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/gkGXeZwtTLTyC_b2J-AQWhFllf3TA_QQPNxVcl9pT3fVoq0JYb1QKBcQz2vvPR4x2yljrQdE7w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ThatWhichIs214",
+            "authorChannelId": {
+              "value": "UCiJSxGcKMooBYuW29PE4Ypg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-04T15:31:54Z",
+            "updatedAt": "2026-10-04T15:31:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Fv1RaZoS9cH2G6eqFEQTY7aaX18",
+      "id": "UgxpF6p3c4F4C9i6Z_J4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "77GHX1o7-kmP1rtckZOoIIXPUFA",
+          "id": "UgxpF6p3c4F4C9i6Z_J4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "They will build the army of humanoids dogs and drones to control humans from now on . Imo we should fight wars on an island with these things like robot wars . Whoever bots are better and more technological advanced get to dictate to the loser no questions . Like we used to but without the human lives",
+            "textOriginal": "They will build the army of humanoids dogs and drones to control humans from now on . Imo we should fight wars on an island with these things like robot wars . Whoever bots are better and more technological advanced get to dictate to the loser no questions . Like we used to but without the human lives",
+            "authorDisplayName": "@wesleywild-s9x",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/77VoF-yiwl7OUw3bDXJx6prJnJfGJqENqXWyaB3swcTcSS_UaxEAb58Tn74RhM1x2X70J7RU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@wesleywild-s9x",
+            "authorChannelId": {
+              "value": "UCMvb0xifWl_n-nMpQ2CP-_Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-04T04:52:36Z",
+            "updatedAt": "2026-10-04T04:52:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "NUH1IW2_cznnQyOhCJubOQhYtaw",
+      "id": "Ugzc4dgG4QPgD8NaTbt4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dmIeQt1vhJrp53HSYFg0dAw_iMg",
+          "id": "Ugzc4dgG4QPgD8NaTbt4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "No  soy esperto pero se me hace muy  sospechoso que  a partir de que se  habla de los posibles apocalipsis  causados por la IA,  los humanos estemos comprando más aplicaciones de IA,  además estemos interesados en aprender de los llamados   \"agentes\"   y que se esten vendiendo como pan calientito, hasta nosotros de la 3a, edad estamos   consumiendo sus productos😂😂😂😂",
+            "textOriginal": "No  soy esperto pero se me hace muy  sospechoso que  a partir de que se  habla de los posibles apocalipsis  causados por la IA,  los humanos estemos comprando más aplicaciones de IA,  además estemos interesados en aprender de los llamados   \"agentes\"   y que se esten vendiendo como pan calientito, hasta nosotros de la 3a, edad estamos   consumiendo sus productos😂😂😂😂",
+            "authorDisplayName": "@yermanymont286",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k9V1p-DoYlz0mgqXQRjcXOTF6o6YgFGVL6joQeiUugbuTu=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@yermanymont286",
+            "authorChannelId": {
+              "value": "UCQUD00_NXJdC9RRXmQGURkw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-02T23:19:54Z",
+            "updatedAt": "2026-10-02T23:19:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "AnSjT6YrkCu9xbh2Lf2zKPJgOYU",
+      "id": "Ugz4MADsa3h-QnGxWgN4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lIboo2b7wrB2WorHvYeiPiazR4E",
+          "id": "Ugz4MADsa3h-QnGxWgN4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Siete una massa di ipocriti avete rovinato il mondo non aiutato..",
+            "textOriginal": "Siete una massa di ipocriti avete rovinato il mondo non aiutato..",
+            "authorDisplayName": "@renatopetrucci3386",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n0FIKUVTOQ2Ix091wq07Wyzz1-erRd0FF7fIK9Yls=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@renatopetrucci3386",
+            "authorChannelId": {
+              "value": "UCtw0iaqXQXLluu9nY9RaoFQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-02T14:47:48Z",
+            "updatedAt": "2026-10-02T14:47:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-oN5LD_yWoo26eMWNAl-IBYIGa0",
+      "id": "UgxyJR0IluWIrGGcBZx4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-Oh3b1JXABgEecGMz4lOIvlGI-U",
+          "id": "UgxyJR0IluWIrGGcBZx4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Do NOT BUY/USE IT😮",
+            "textOriginal": "Do NOT BUY/USE IT😮",
+            "authorDisplayName": "@juanitahall9190",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lJh4dVjvy2eqxV_2iTCbMpo46AFMfmqhs2p6LhZBE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@juanitahall9190",
+            "authorChannelId": {
+              "value": "UCEV4FTKwHoUcNdYFfcQYPxw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-10-02T13:34:01Z",
+            "updatedAt": "2026-10-02T13:34:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "hAte-9XmHe6NztLh_jhBsrH68OQ",
+      "id": "Ugz8TyfZ5IZrQzmy5pV4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cNlNC_hq9PPOpGSjZrFMmwUVKdc",
+          "id": "Ugz8TyfZ5IZrQzmy5pV4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "The overly scary part is we have literally set ourselves up unintentionally in many ways. \n\nThink about how this online technology has access to the entire world.  If these agents decide to take over a robot company  that's already being ran and developed by robots is crazy. They could literally design robots to Think and operate like they want.",
+            "textOriginal": "The overly scary part is we have literally set ourselves up unintentionally in many ways. \n\nThink about how this online technology has access to the entire world.  If these agents decide to take over a robot company  that's already being ran and developed by robots is crazy. They could literally design robots to Think and operate like they want.",
+            "authorDisplayName": "@errickrichardson2520",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ksqqvx790YaThkMadgXoB-YflmrEpBmQtX-aOC2Z9Dy50=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@errickrichardson2520",
+            "authorChannelId": {
+              "value": "UCDZW9WIMFND3wlFhsJ9y7WQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-01T21:00:06Z",
+            "updatedAt": "2026-10-01T21:00:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "tNTLRUGZtskcNtZnPNXgCFQTH3I",
+      "id": "Ugw_lwbJijKshFWyIQZ4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "XtzFEb9lV3fyQ5vXDj8fGQPpJ0k",
+          "id": "Ugw_lwbJijKshFWyIQZ4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Can we make it 50 years please because I will be dead by then!",
+            "textOriginal": "Can we make it 50 years please because I will be dead by then!",
+            "authorDisplayName": "@Really-hx7rl",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kICLEWVz_Df11W9j2QDfrHNDDg1x_VaLwS8b0VSK2HbsRDCJlZlRWUA-jL7XAQ5mwfAg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Really-hx7rl",
+            "authorChannelId": {
+              "value": "UCAHLyLlTw7INnDO2OJZgxTQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-10-01T20:34:40Z",
+            "updatedAt": "2026-10-01T20:34:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XCA5yidYEXLcJOVlpjbaKPLRigc",
+      "id": "UgyqdY_VIx0kFywOx_54AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "m6ueYNwhISIlJCdV9gPQy0_jlsg",
+          "id": "UgyqdY_VIx0kFywOx_54AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Who you think you are is tied to the job you do.",
+            "textOriginal": "Who you think you are is tied to the job you do.",
+            "authorDisplayName": "@oluwapelumiadekunmi210",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/fw5jP0fnyNNeWj-x3CQzrtdeDwG-3fzR4qldyqlSaneWRPcvEB6IFb3FfGUfGR9rc91pD62j=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@oluwapelumiadekunmi210",
+            "authorChannelId": {
+              "value": "UCgROAyu3wKlJPzNqzlkhOAQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-01T05:41:21Z",
+            "updatedAt": "2026-10-01T05:41:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "u8e9pQW3zn0r0Ni4d4G7kXvBX5Q",
+      "id": "Ugzz5heR5gC6zSa9N1p4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "QzOz3RjoKC3Do8nEVMu7wAlVOZY",
+          "id": "Ugzz5heR5gC6zSa9N1p4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Trump founds it's great, no surprise... would be scary that that old predator will live longer than billions of humans, he and all the other fools will be very protected",
+            "textOriginal": "Trump founds it's great, no surprise... would be scary that that old predator will live longer than billions of humans, he and all the other fools will be very protected",
+            "authorDisplayName": "@dirkghillebaert9986",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kQnWSAD6Gm3-wtlJwdGQ5jT55-cFBUBsNuleFX8xZm76T3ar1J01mTypF-cd73dN1eDg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@dirkghillebaert9986",
+            "authorChannelId": {
+              "value": "UCemD-uFMvI5epeOKlTfnVKQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-01T00:21:14Z",
+            "updatedAt": "2026-10-01T00:21:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6RytoQbALsbVFRJhn3bQZLA12fI",
+      "id": "UgyxSbSE4yO_f_1HY6Z4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "OCQHRAzirwBkLrm4k-ovZAWC4i4",
+          "id": "UgyxSbSE4yO_f_1HY6Z4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "I have more then a ideal.  I KNOW how dirty they are. Im a 15 year Christian no backsliding and they lie and try to steal everyday. Im fully aware",
+            "textOriginal": "I have more then a ideal.  I KNOW how dirty they are. Im a 15 year Christian no backsliding and they lie and try to steal everyday. Im fully aware",
+            "authorDisplayName": "@AndrewJNutall",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/RB6WNA4aPAXAJ4wz0Kj3Dr9b3QASaVER46qfwIkmNURykngaZmTVq15tID5HEVIDRf46g3NhRD8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@AndrewJNutall",
+            "authorChannelId": {
+              "value": "UCl4SyOVs37vEThqAPIA0u-g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-30T06:02:44Z",
+            "updatedAt": "2026-09-30T06:02:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "YmlMq4-G2d_WEDN0GoGaajHuoHE",
+      "id": "UgwiOY3hFzNfvh_1QWt4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "q83xhqM4-5xo6kut9fNIdfxXO0A",
+          "id": "UgwiOY3hFzNfvh_1QWt4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Lol. Like they will need want a career",
+            "textOriginal": "Lol. Like they will need want a career",
+            "authorDisplayName": "@helloitsme7983",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k6ajN1mN9LIC3VQdlDdOFNrIXAAJmLCXZwAkWhTFiB4OOD=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@helloitsme7983",
+            "authorChannelId": {
+              "value": "UC9MkowpAyq2-KSIgzHz91NA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-30T05:16:04Z",
+            "updatedAt": "2026-09-30T05:16:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "h1QwuZveJPlXi4v-ZAEGcz9V9RU",
+      "id": "Ugy7o62Yo-NdXJKiPFp4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0NjskEvjzDHZWkPhFKwFRHAOnpo",
+          "id": "Ugy7o62Yo-NdXJKiPFp4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "When scammers and artificial intelligence  in our world now....\nBlame everything on them!?!",
+            "textOriginal": "When scammers and artificial intelligence  in our world now....\nBlame everything on them!?!",
+            "authorDisplayName": "@thelyon3791",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mS0Mc60NZyxaJydSkBsakuZ7vbNBZ-xu91vkuivg-cKqxwLCjAfub72z7AfatrbICoJg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@thelyon3791",
+            "authorChannelId": {
+              "value": "UCmClOFgArUVwXtmTFvQ7G2A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-29T19:01:08Z",
+            "updatedAt": "2026-09-29T19:01:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "viYVtsZZaRsUkfv0Gr8jN5TAQRY",
+      "id": "UgyBMT3VQLjVl0_NKPZ4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "edO_6ddLgMAF7G2oAGxWtMKQrpo",
+          "id": "UgyBMT3VQLjVl0_NKPZ4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "How can the masses see this and be calm",
+            "textOriginal": "How can the masses see this and be calm",
+            "authorDisplayName": "@alex_onyedikachi",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/bDhA12wOdaMVcNb3-gTBq4DbsUBaCAfoYcaypiBbpD4izogt24ETOeCf1l6OOVXBVJll8qOX=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@alex_onyedikachi",
+            "authorChannelId": {
+              "value": "UCBCQt6ERlFmEjOj_b5WISqg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-29T18:38:27Z",
+            "updatedAt": "2026-09-29T18:38:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "avI3Ee7H1jPvzDHiKrowEvDuFpw",
+      "id": "Ugyh1JoZicRPj-ZAraB4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5K54IiqfO6sUbH7Kk88UvTnyZRg",
+          "id": "Ugyh1JoZicRPj-ZAraB4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "So they sat, created what they know will destroy the world cause they won’t be around to witness it because by then they will be gone and the world will hasn’t even seen it yet. All the movie were true then.",
+            "textOriginal": "So they sat, created what they know will destroy the world cause they won’t be around to witness it because by then they will be gone and the world will hasn’t even seen it yet. All the movie were true then.",
+            "authorDisplayName": "@N.K.W.FILMPRODUCTION",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/wwDL6mwvcq4QcFr7u8LapozeAzN9aGfW-GGNr6KIOONhchCnzxwY0ziRJhwD8XSsz9u1VcEbUg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@N.K.W.FILMPRODUCTION",
+            "authorChannelId": {
+              "value": "UCcr4BUwWgWsto_vXV5PVelw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-29T16:38:53Z",
+            "updatedAt": "2026-09-29T16:38:53Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "altew7mIvrhscLuQ_YkCWfbdHfs",
+      "id": "Ugwn6OJKNFxOeuNCdyh4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "GU5c0PCApraJS1a8naCyH3DFSlg",
+          "id": "Ugwn6OJKNFxOeuNCdyh4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "I see families sitting around all.on their own devices, I was a labourer all my life, family joke He's good a lifting heavy things, this is the future the most modern time in history, this is the best man can do.\nNot good  for my Grand Children, but at least they can hunt and fish.\nSo it's Good to have Faith in God.\nIsaiah 9 verse 6.",
+            "textOriginal": "I see families sitting around all.on their own devices, I was a labourer all my life, family joke He's good a lifting heavy things, this is the future the most modern time in history, this is the best man can do.\nNot good  for my Grand Children, but at least they can hunt and fish.\nSo it's Good to have Faith in God.\nIsaiah 9 verse 6.",
+            "authorDisplayName": "@AdamCurrey-iy8hk",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k489dbUjVHiavMXCVBLGMHjuZ1MbGhFgMATRJyE25ZAk1KhQl3s6Hf7REnBDXFhbKjBA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@AdamCurrey-iy8hk",
+            "authorChannelId": {
+              "value": "UCWV4BnTZjW6Q8GIxDmGUuSg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-29T00:19:37Z",
+            "updatedAt": "2026-09-29T00:19:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WfkMBYSFiwanYqj50uRHvoXB19k",
+      "id": "UgzqkcI0kqUfRByv7zJ4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lNsMi9MRSxwDzvFG6AUQBiQfItk",
+          "id": "UgzqkcI0kqUfRByv7zJ4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "28.09.2026 GPT6 is here :)",
+            "textOriginal": "28.09.2026 GPT6 is here :)",
+            "authorDisplayName": "@VladiDeVasca",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/sjojJJxcup2Hr_CgTWbkOK0TqQXRs_NhyZPicS5ijJAvOVdFI-GOkU34QVmDJ6xrdzo7D0jy=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@VladiDeVasca",
+            "authorChannelId": {
+              "value": "UCkw94LLxmlONj1QQziTp_OA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-28T19:28:46Z",
+            "updatedAt": "2026-09-28T19:28:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5w4Qq6UP-2rz_eYpNzQcOmtpW24",
+      "id": "UgxEZNb2IoOnBq0kvZZ4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MdkCu-3_2c80evH0J4w7MqzYUw0",
+          "id": "UgxEZNb2IoOnBq0kvZZ4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "ALSO HUGGING FACE😡GUESS \nWHO BOUGHT THIS ROGUE‼️😡?",
+            "textOriginal": "ALSO HUGGING FACE😡GUESS \nWHO BOUGHT THIS ROGUE‼️😡?",
+            "authorDisplayName": "@debradeberry1911",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kcLIfrKTL3WQd0Wr265w3cSsz1hgPzudDxpTWYu9M-g9k=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@debradeberry1911",
+            "authorChannelId": {
+              "value": "UChf_zHTUqitGSXRsMyAzavQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-28T19:04:17Z",
+            "updatedAt": "2026-09-28T19:04:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_twbQ650ZaDLk44mEC2h6Bb6qHo",
+      "id": "UgwVioXlScREM88S7RF4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "zTyHuExwAq2uT9AyihWyPutP5bY",
+          "id": "UgwVioXlScREM88S7RF4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "No todos se van a dedicar a ser plomeros la otra gente que va ser pandillero o se van suicidar yo creo que la ia tendría que combatir la delincuencia el narcotrafico la minería ilegal porque hacen daño a la población humana",
+            "textOriginal": "No todos se van a dedicar a ser plomeros la otra gente que va ser pandillero o se van suicidar yo creo que la ia tendría que combatir la delincuencia el narcotrafico la minería ilegal porque hacen daño a la población humana",
+            "authorDisplayName": "@JaimeParedes-e7r",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nbnIwyYsF5KGzS2pWd-Bbv2zgtWKXIXYtKtnh9Q669BzQAGM9gxLELfbqgp3aEheu7BQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@JaimeParedes-e7r",
+            "authorChannelId": {
+              "value": "UCnjDfeinbIDDAK7-qurNXBQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-28T16:49:09Z",
+            "updatedAt": "2026-09-28T16:49:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "EcF0h585oTY6hz7T_y6a-1vXxFM",
+      "id": "Ugzecz6RP-Ll6X4onup4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "DQMb6uiy9XsDyztlSf-CUVuCstE",
+          "id": "Ugzecz6RP-Ll6X4onup4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Yes we have an Idea what's coming as people keep making videos saying we don't know what's coming then they tell us what's coming so how don't we know what's coming hahahaha 😂",
+            "textOriginal": "Yes we have an Idea what's coming as people keep making videos saying we don't know what's coming then they tell us what's coming so how don't we know what's coming hahahaha 😂",
+            "authorDisplayName": "@sunfullinhole",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/IMPK5I7qK7SVO3sMIwpQrtjd1xLpYVy9FyLk6JZioNoa-maD79jaLFGIHk82zNrRqkv7rH0D=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sunfullinhole",
+            "authorChannelId": {
+              "value": "UCjdT4aSRoFUm_Dmo71IU8qg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-28T09:50:28Z",
+            "updatedAt": "2026-09-28T09:50:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "volvJSfS8WZw8p1iGkDQA2Fu4K0",
+      "id": "Ugyu2nby6zz9YN9l7WN4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cPc1DCSHAnX7wNcY_VbymfpZGXg",
+          "id": "Ugyu2nby6zz9YN9l7WN4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Maranatha!",
+            "textOriginal": "Maranatha!",
+            "authorDisplayName": "@HaleyKillian",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/TC7qcp4AMz_cE-23WZcu9936-L60tAe7marcCc8pWO_cHiClZ5pKQ-aWCvvLG_azTe23inJ9Rw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@HaleyKillian",
+            "authorChannelId": {
+              "value": "UCHwNPSKcjMOH_r4HdE4bPKw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-09-28T03:32:35Z",
+            "updatedAt": "2026-09-28T03:32:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "2Ni89aX8XfhbpMyTxSKG1hkogl4",
+      "id": "UgyeioRap1UXAnkuOwB4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "k6OIJaNDjRaUqZSqr2D9kJKeJyk",
+          "id": "UgyeioRap1UXAnkuOwB4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "See Jenson Huang’s recent comments about Hinton’s unscientific reasoning. Hinton is full of it.",
+            "textOriginal": "See Jenson Huang’s recent comments about Hinton’s unscientific reasoning. Hinton is full of it.",
+            "authorDisplayName": "@ruzzycarhole65",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ho6Ny2hBKxt9Xtu89ZCRGzXaLbLdjsl0PRWP6y84Mp5J20wrUsfgKl33zNR-GqDJji4HyfHfeQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ruzzycarhole65",
+            "authorChannelId": {
+              "value": "UClw-zH6fbtJRvfgPXpndo9Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-28T03:06:09Z",
+            "updatedAt": "2026-09-28T03:06:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "LGA3ubZnlHo_LoNEzABdbVB2NLg",
+      "id": "UgxyA9OLldVhiZSoi7d4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "QCjNhUnaQ5RUusY9Udfk288i_dw",
+          "id": "UgxyA9OLldVhiZSoi7d4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "This video doesn't have Vietnamese dubbing, so I couldn't understand much of its content.",
+            "textOriginal": "This video doesn't have Vietnamese dubbing, so I couldn't understand much of its content.",
+            "authorDisplayName": "@aphon9989",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/7Wvh4LtTI3DeyPCXLiYFjKU2xs6Iuc738nyF1XX5l-xS75i841NMoNjg-dnsrOlOgjNP-ZnDZ1g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@aphon9989",
+            "authorChannelId": {
+              "value": "UCX4xwD-V9ji3XEW2K8t-O0A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-27T17:05:15Z",
+            "updatedAt": "2026-09-27T17:05:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "lqRlXGSUIlfHVRknscWOER8ISMI",
+      "id": "Ugznz2hanq22LsUJcUt4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "b0DbyX88qHxcCo4RVyTU8TdokZ8",
+          "id": "Ugznz2hanq22LsUJcUt4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "It’s all a program of utter godlessness! Led by two thoroughly materialistic and godless powers, the West and China! \nMay the Eternal God save the world from the machinations of both of them!",
+            "textOriginal": "It’s all a program of utter godlessness! Led by two thoroughly materialistic and godless powers, the West and China! \nMay the Eternal God save the world from the machinations of both of them!",
+            "authorDisplayName": "@maryamsharief7345",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m0qYTA1cT53odfZWXRDwpL5ArXM18tGqUo3l1UZLxwKJw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@maryamsharief7345",
+            "authorChannelId": {
+              "value": "UCG1QWwgnDxNsRGO8fdLCrGQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-27T10:59:08Z",
+            "updatedAt": "2026-09-27T10:59:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0XKM_BtI0gkJYUcIBk35s4_FhpY",
+      "id": "Ugwwi3J3z3RRMiXesLJ4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "uJKVaFi4BJvg17YgfLoNRXyXec4",
+          "id": "Ugwwi3J3z3RRMiXesLJ4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "billionaires do not lobby for regulation out of sudden civic virtue; they lobby for regulation to lock in their market dominance.",
+            "textOriginal": "billionaires do not lobby for regulation out of sudden civic virtue; they lobby for regulation to lock in their market dominance.",
+            "authorDisplayName": "@jannettekirwin4530",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kDbJCZfGne-jCzoyTS_4jzYvmxBLc7BRe1XpR0RzM=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@jannettekirwin4530",
+            "authorChannelId": {
+              "value": "UCGrDDsc2i5JmvEpr9y3guZw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-09-27T09:23:10Z",
+            "updatedAt": "2026-09-27T09:23:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "lLSj-dEo4eUtz_lQLp_GEzUjFmo",
+      "id": "UgyRHlXrx2a2Lb2fwNx4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "IzzdmPcBmTc1bs8wFzAw1wmh6Ik",
+          "id": "UgyRHlXrx2a2Lb2fwNx4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "They will quickly see humans as distructive, over consumers and see no point in keeping us around.",
+            "textOriginal": "They will quickly see humans as distructive, over consumers and see no point in keeping us around.",
+            "authorDisplayName": "@GoodDogXanto",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kF6NmfyiLQG2zB3YzJAXeXdf8cmAtHZyDXmkHhx-P56A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@GoodDogXanto",
+            "authorChannelId": {
+              "value": "UC9HXAQFCZ7D7CV0Y5_Vc-WA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2026-09-27T07:02:24Z",
+            "updatedAt": "2026-09-27T07:02:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bh3L3bcsYqiqYyGelB3rGNmsWA8",
+      "id": "UgxCHxMEj8CF2hhGN2p4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7FzQyRRP_Ts54hP8Ntx8WUg9f3Y",
+          "id": "UgxCHxMEj8CF2hhGN2p4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Don't just wait around naively; take to the streets and apply pressure, start petitions and apply pressure wherever you can—it’s about our future and that of our children!",
+            "textOriginal": "Don't just wait around naively; take to the streets and apply pressure, start petitions and apply pressure wherever you can—it’s about our future and that of our children!",
+            "authorDisplayName": "@Teacup1888",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lqULl_zl4kd2Kqu-NGfQAeRgktPwzB-Z0A1Snc5T96-MRs7PMnyyGHCmsAyOOuHNpt5Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Teacup1888",
+            "authorChannelId": {
+              "value": "UCRM_APmvuFl14qNbQiNLJNg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-26T19:55:26Z",
+            "updatedAt": "2026-09-26T19:55:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "22EU7bt3zkzZytXtZ0s6PQ0H_oU",
+      "id": "Ugw_knzHosOix-IFz5N4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZWN5diAq8oaYhZ7CFkJ7R2xgwN4",
+          "id": "Ugw_knzHosOix-IFz5N4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "I say bring it on. The world is full of greedy people. The world leaders are the most evil to exist",
+            "textOriginal": "I say bring it on. The world is full of greedy people. The world leaders are the most evil to exist",
+            "authorDisplayName": "@dom-s7s",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_numfkpbOMi9JdEVDyaW0ARCdNl_fQOH8XrgkRQVC5tNzSyBOCBzXzko82g1UTOm_aWmOo=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@dom-s7s",
+            "authorChannelId": {
+              "value": "UCTo6HNFrZTA1pfryBvdQK0Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-26T19:10:42Z",
+            "updatedAt": "2026-09-26T19:10:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uyodUojJtCPZAnrCqjWVxiYkNTA",
+      "id": "UgyQiZYZcfa6Mnr8UQB4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "R0KnUCOxHloruQYFUodIcuNnyK4",
+          "id": "UgyQiZYZcfa6Mnr8UQB4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "I don’t trust this man at all",
+            "textOriginal": "I don’t trust this man at all",
+            "authorDisplayName": "@BrianAlcock-y1i",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nSNiYSvPvCCpOaA3XQDR5Z1JbETTCUrC0epju2BYRcUAhWBpYB6ETxcv4epfmtCNjofw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@BrianAlcock-y1i",
+            "authorChannelId": {
+              "value": "UCHFLLnmun4Q_-j5tnK44g-g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-26T11:35:55Z",
+            "updatedAt": "2026-09-26T11:35:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "dK8OT-MPHYnMY0hmlOTNOZEibNw",
+      "id": "UgyWgWB93YoocFb_vyF4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZeXu8zXlyZzD5FCiuHfIGpmhvq0",
+          "id": "UgyWgWB93YoocFb_vyF4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "I am so ready for armaggedon, baby. Hope it happens in my lifetime!",
+            "textOriginal": "I am so ready for armaggedon, baby. Hope it happens in my lifetime!",
+            "authorDisplayName": "@glitchgod3868",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/YFvnlF4F0z-v6-adTDJV_im9XUnkDJfvXTKannvO7wzM-64MzK7EGwI4kX7KDLVdHUfJu9Mx=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@glitchgod3868",
+            "authorChannelId": {
+              "value": "UCy-UNxw6xDwO5_6Ng9d3Prg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-26T08:28:30Z",
+            "updatedAt": "2026-09-26T08:28:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "OSXONIXYdGG2e_oeqImyToOC9Kc",
+      "id": "UgxRAWacIUTk4b9mgCF4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "m66Oa9Qc3TIMfF_LyXPPxk3AVCE",
+          "id": "UgxRAWacIUTk4b9mgCF4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Go off the grid",
+            "textOriginal": "Go off the grid",
+            "authorDisplayName": "@Peanut_N_Jelly",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/KwgF-n3joG70itr6RdOXqwz1OtTus8cN1dxglplXnXKs_hGVVSBdF0eOQk1QVCoxcpKnJV-Bkg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Peanut_N_Jelly",
+            "authorChannelId": {
+              "value": "UCNOqKvM8ypSCnH51WcmZ2bg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-09-26T03:37:08Z",
+            "updatedAt": "2026-09-26T03:37:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Xeaqxp1sNtMLz2tZg6NLkJzNhB4",
+      "id": "UgwcRnp6tInytw_DXNp4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Peq1sVnpmBKh1kWpRRt5tWFIEfw",
+          "id": "UgwcRnp6tInytw_DXNp4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Hola, me gustaria qué  cambiaras,  la palabra mejores  invitato por muchos mas invitados, porque  si no parece qué  los invitados qué  estan por llegar son mejores qué  los qué  ya entrevisto! Parà  mi son todos  exelente,  bendiciones!❤",
+            "textOriginal": "Hola, me gustaria qué  cambiaras,  la palabra mejores  invitato por muchos mas invitados, porque  si no parece qué  los invitados qué  estan por llegar son mejores qué  los qué  ya entrevisto! Parà  mi son todos  exelente,  bendiciones!❤",
+            "authorDisplayName": "@martamina3227",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_msAtdHqe_lcCIBdXQ3sgqViIOV-HRcxFF4reO27OU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@martamina3227",
+            "authorChannelId": {
+              "value": "UCc6IIb3aq0iCqgjEG4N-mGA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-26T00:59:57Z",
+            "updatedAt": "2026-09-26T00:59:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "TC54-0GLiKnuGALJYmD84--c0HI",
+      "id": "UgxL9pAYHwDjYjpuwSR4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KLoY3aut-iJgPdhsSTxparhxzMM",
+          "id": "UgxL9pAYHwDjYjpuwSR4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "UBI is the gateway to slavery or… if you bring no value to the world, why keep you around, especially when resources become scarce as they always do when there is no incentive to produce.",
+            "textOriginal": "UBI is the gateway to slavery or… if you bring no value to the world, why keep you around, especially when resources become scarce as they always do when there is no incentive to produce.",
+            "authorDisplayName": "@jalemo",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-1bFMHKoEueNHXMQ0lodMzV1_oT8CSYn2nUKYhqTiPDnhgP07G1nyY09Cq9S7lOJP-6l7qcq=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@jalemo",
+            "authorChannelId": {
+              "value": "UCOiUUO2vpAEJpAJFrnleONA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-24T22:09:21Z",
+            "updatedAt": "2026-09-24T22:09:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wU23vWZ3rIBcLwN4GTpTX6VP0ds",
+      "id": "UgzjtZNrjSBFnpxlnbB4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YB5VgcE79suF8Rn5InENcmUvms0",
+          "id": "UgzjtZNrjSBFnpxlnbB4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Hay q llamar Jhon Connors y bubba ritter",
+            "textOriginal": "Hay q llamar Jhon Connors y bubba ritter",
+            "authorDisplayName": "@DiegoRosell-j2s",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n4wJ1o745a8pX0WITv50Uujw4uXvzulMVIepHG4zeFQ8-oJCV9hJ7hsVaXbntXvYzOwA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@DiegoRosell-j2s",
+            "authorChannelId": {
+              "value": "UC0I3USpe-Cmn2pW6NTB-gMA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-09-24T21:39:06Z",
+            "updatedAt": "2026-09-24T21:39:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "IOF4CoCZepYyfN_vXZJzi3TWlww",
+      "id": "UgxpLjqzROJX-nBCPaF4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lsLLRxL2od9ywmh5q6auhwYu3sY",
+          "id": "UgxpLjqzROJX-nBCPaF4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Cant be any worse than the wife...",
+            "textOriginal": "Cant be any worse than the wife...",
+            "authorDisplayName": "@jimBXCon",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lZyXrsr_oCrFIk7dz0K5lA6Dqx-wkypAcHByLhv2g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@jimBXCon",
+            "authorChannelId": {
+              "value": "UCTvnLMh03nPdxCOP94ySnlQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-24T21:31:54Z",
+            "updatedAt": "2026-09-24T21:31:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5WrFZ5NVB1izeMt4QqoRsgstnEE",
+      "id": "UgzXH-XzO7X7BZn95iZ4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WojkMwBPIrWQ5pJJSdbNtIB2kdY",
+          "id": "UgzXH-XzO7X7BZn95iZ4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Your guests and podcasts are interesting, but I wish your headlines or whatever those are called weren’t always so sensationalist and doom and gloom.",
+            "textOriginal": "Your guests and podcasts are interesting, but I wish your headlines or whatever those are called weren’t always so sensationalist and doom and gloom.",
+            "authorDisplayName": "@amybeemanmartin8108",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n0P3r2dt_xOW7IMpld2RrxGBWw0u14CCrewTD_k6rGgh-rAJJjEjQc9tcAQhDqX28vZA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@amybeemanmartin8108",
+            "authorChannelId": {
+              "value": "UCWFdtnxTX7_2o-YdPQfmKVA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-24T18:08:21Z",
+            "updatedAt": "2026-09-24T18:08:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "essS9w5IFuSD08ZJL1AtjYOT-2w",
+      "id": "UgzhWRO1M2LWIsvOQJd4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "F37Gqk7GaVNUB4SjI9upImUXWok",
+          "id": "UgzhWRO1M2LWIsvOQJd4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "JENTE LOCA\nVAN A LLENAR EL PLANETA DE CHATARRAS 😅JAJAJA JAJAJA 😂 🤣 😅",
+            "textOriginal": "JENTE LOCA\nVAN A LLENAR EL PLANETA DE CHATARRAS 😅JAJAJA JAJAJA 😂 🤣 😅",
+            "authorDisplayName": "@LourdesLopez-m3h1z",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lNx2w2xRVTEXkjaqi8jYPBHG9ZmuQtISt0VCGbwYeaLCPb8U2juNvbLKDYTyD2IccN2Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@LourdesLopez-m3h1z",
+            "authorChannelId": {
+              "value": "UCAn-O1myAtCCLQWs49VIVTA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-24T00:52:16Z",
+            "updatedAt": "2026-09-24T00:52:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ZyH_ngyzody4AnixwMIV1IKMaO4",
+      "id": "Ugxwg7V8s5CIdXK7yCN4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "NU8aiMgNiVxEoPxwaiCHAHI2Xw8",
+          "id": "Ugxwg7V8s5CIdXK7yCN4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Judgement Day 2029 🤖",
+            "textOriginal": "Judgement Day 2029 🤖",
+            "authorDisplayName": "@mattberry3937",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lgbAmEz7-hUlx7pZNOMeRV5A_Aq4RaNcDFH3T8sYA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@mattberry3937",
+            "authorChannelId": {
+              "value": "UCDvr7Ww_1JFQKHC5I89t5Vg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-23T18:10:42Z",
+            "updatedAt": "2026-09-23T18:10:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "es7gsS18N1ZUM7yzMBBAyAFVkvo",
+      "id": "UgzhWqa_eYyrWYkyzqp4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "q6gjBD0BsXTEKbRCSnln6YGBqDA",
+          "id": "UgzhWqa_eYyrWYkyzqp4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "no hay que darle\" brazos\" ni \"piernas\".. osea no hay que construirle robots o maquiaria controlada por IA... y de seguir experimentando, solo en un entorno cerrado.... Sino estaremos haciendo realidad la teoria del gran filtro en unos años",
+            "textOriginal": "no hay que darle\" brazos\" ni \"piernas\".. osea no hay que construirle robots o maquiaria controlada por IA... y de seguir experimentando, solo en un entorno cerrado.... Sino estaremos haciendo realidad la teoria del gran filtro en unos años",
+            "authorDisplayName": "@CristianRubenCiaffone",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mS0Mc60NZyxaJydSkBsakuZ7vbNBZ-xu91vkuivg-cKqxwLCjAfub72z7AfatrbICoJg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@CristianRubenCiaffone",
+            "authorChannelId": {
+              "value": "UC4eY8a7d6w6QlkUGPnHRe7A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-23T17:22:18Z",
+            "updatedAt": "2026-09-23T17:22:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "M12vWe7Bal9fMfArLZwn6XbZSo8",
+      "id": "Ugyicl874Jgbv7yljkt4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "aqUiXokP5gDPjgptx_7D59pxbb0",
+          "id": "Ugyicl874Jgbv7yljkt4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Once it becomes capable of recursive self-improvement, which could happen soon, there will be no stopping artificial intelligence. Our best bet for survival is to enhance ourselves and eventually merge with it.",
+            "textOriginal": "Once it becomes capable of recursive self-improvement, which could happen soon, there will be no stopping artificial intelligence. Our best bet for survival is to enhance ourselves and eventually merge with it.",
+            "authorDisplayName": "@geraldssynapse",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-3XGMGJG7kpOYXrM7fZtH4XgdyPjEdSpnWjr2tGQH9FXBnDIJyKhiWjl7676-lGNofykf5HA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@geraldssynapse",
+            "authorChannelId": {
+              "value": "UCWcW_nxotzAVqI-y-etj4_A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-23T14:58:05Z",
+            "updatedAt": "2026-09-23T14:58:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WxlJ9PjlODSZqRjpJf1Uhhij12s",
+      "id": "UgwW1yPFtvhO41ftOyN4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "T1tQYvv2SOwj-rMgYYffdrq8oKg",
+          "id": "UgwW1yPFtvhO41ftOyN4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Les robots c’est très  dangereux ils peuvent nous battre pour faire disparaître tous les humains et animaux, . Personne n’arrivera les arrêter. Ils prennent le contrôle de tout.",
+            "textOriginal": "Les robots c’est très  dangereux ils peuvent nous battre pour faire disparaître tous les humains et animaux, . Personne n’arrivera les arrêter. Ils prennent le contrôle de tout.",
+            "authorDisplayName": "@Mimi-ob7dx",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lJTwem4GPvUCX1Hnl02nRaFld5NdffjS-HzPvXJ6nh7Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Mimi-ob7dx",
+            "authorChannelId": {
+              "value": "UC0jMwtLE1025DDcJWP7u09g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-23T13:33:31Z",
+            "updatedAt": "2026-09-23T13:33:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7j6tMX3CPU5esrvKH-j_2YbVZik",
+      "id": "Ugy2ndQfv4U9aORFqGJ4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "h37OyxJut3NoSOoYXYkNdkzW3RI",
+          "id": "Ugy2ndQfv4U9aORFqGJ4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "La intelligence c’est Dieu  pas de robot.❤❤❤ \nPas de travail, pas d’argent. Vous êtes  tous des malades d’avoir inventé  des robots. Je demande à Dieu de destruir cette folie. Les humains sont bien beaucoup plus important que cette machine qui fait partie du démon 👿",
+            "textOriginal": "La intelligence c’est Dieu  pas de robot.❤❤❤ \nPas de travail, pas d’argent. Vous êtes  tous des malades d’avoir inventé  des robots. Je demande à Dieu de destruir cette folie. Les humains sont bien beaucoup plus important que cette machine qui fait partie du démon 👿",
+            "authorDisplayName": "@Mimi-ob7dx",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lJTwem4GPvUCX1Hnl02nRaFld5NdffjS-HzPvXJ6nh7Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Mimi-ob7dx",
+            "authorChannelId": {
+              "value": "UC0jMwtLE1025DDcJWP7u09g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2026-09-23T13:14:48Z",
+            "updatedAt": "2026-09-23T13:14:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "diC-CFNq2YEs0YWwe5f6sLdiGpI",
+      "id": "UgzIwIOHAtMErlh29Ql4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "RgVT_cQuYHdXdmJ9nA7B7niW0x8",
+          "id": "UgzIwIOHAtMErlh29Ql4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "If you do damage to an entire human civillization,you're a fascist.Scientists are mad men to be scared of.",
+            "textOriginal": "If you do damage to an entire human civillization,you're a fascist.Scientists are mad men to be scared of.",
+            "authorDisplayName": "@russel2864",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l0vemznQshJeBssUfqumoHlE9kTTgDGtH22c2EXAdf8Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@russel2864",
+            "authorChannelId": {
+              "value": "UCEjngvxdu6SU_A9qdZHU8xA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-23T10:06:13Z",
+            "updatedAt": "2026-09-23T10:06:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "t3EEb74X140dvVyBcTV6EeqGM2c",
+      "id": "UgytkTJh9Uo-XBIxABt4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "sRmC7TKOlyeTd12IX2Ln-eB1lUA",
+          "id": "UgytkTJh9Uo-XBIxABt4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "We just solved the problem of immortality but in a digital world 🤔🤔.",
+            "textOriginal": "We just solved the problem of immortality but in a digital world 🤔🤔.",
+            "authorDisplayName": "@ChibuezeIroha752",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/lXHhSv2Iza-VAr15Muh4tkA909YsbAMaiIFC22F7uepk-gRLplbqjHWlnnP5TJoTeADQ33aqmQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ChibuezeIroha752",
+            "authorChannelId": {
+              "value": "UC60j82jsPSKFCkNFuMuJC3A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-09-22T21:20:13Z",
+            "updatedAt": "2026-09-22T21:20:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0Gof3W-fkcezOlhb9e3BoYnOKQQ",
+      "id": "UgyuPBujDZ0ilFQNf1Z4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "yRhsSukjOoHCn3OE2WEDRoCfdps",
+          "id": "UgyuPBujDZ0ilFQNf1Z4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Si lo sappiamo",
+            "textOriginal": "Si lo sappiamo",
+            "authorDisplayName": "@MariaGiordano-j3d",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/OpC2N3AvUYfHDPV2VkCplG68kqqhOslhLv4KCHe5HmnaVSV-JDjGF0P0r7Ik8oXo2kgW6PiQOg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@MariaGiordano-j3d",
+            "authorChannelId": {
+              "value": "UCcrqfu6KcxuaG9jAILyLm4w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-22T12:36:28Z",
+            "updatedAt": "2026-09-22T12:36:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "a9KaKyLPkjkXzMXXhYyqT4uilyg",
+      "id": "Ugx-IeD1l_uG_FyrqXl4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1ngg4uwA5tpmA5c-9MxOPqwGBBE",
+          "id": "Ugx-IeD1l_uG_FyrqXl4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Super KI gehört verboten, wie die Atombombe! Wir bauen was, was wir nicht verstehen wie es funktioniert, das uns überlegen ist.",
+            "textOriginal": "Super KI gehört verboten, wie die Atombombe! Wir bauen was, was wir nicht verstehen wie es funktioniert, das uns überlegen ist.",
+            "authorDisplayName": "@IngoHahn-r9w",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n-5Uyy4uBf1cepaJOjOz08ZJYmQ28dvmHuEThaoTdfRc9dbQYzmqUndF_0hW2OfKNQ5g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@IngoHahn-r9w",
+            "authorChannelId": {
+              "value": "UCHAR_4aWRzEs-ouk1gtYHPg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-22T12:02:20Z",
+            "updatedAt": "2026-09-22T12:02:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "N8gZpbhZ26zPKdRbjJ0JV-vxJIc",
+      "id": "UgzHP2sgIatSp3j1lCh4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "AzBPM1za2CgiU-jlK9RqMjSJpPQ",
+          "id": "UgzHP2sgIatSp3j1lCh4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "The people don’t want this. The issue is the elites and people in power. Why have the masses given so much power to the few",
+            "textOriginal": "The people don’t want this. The issue is the elites and people in power. Why have the masses given so much power to the few",
+            "authorDisplayName": "@janettep",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/840bUQ-BRcYobqPZZ9NfwENhzsK7RLLst9FGpSWTObm7YC0yMKyvYu-edUV2GavAe_8RUgL4PA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@janettep",
+            "authorChannelId": {
+              "value": "UCqa4IJL8nTVNObK_VVZQ7ng"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-22T10:59:30Z",
+            "updatedAt": "2026-09-22T10:59:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "iFOcaL236nG8aCjJyz5pbwFaikM",
+      "id": "Ugxtf3dmxVP-zqZfQkB4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bLpTMJPHNzsE1UywIjbdQauFAZI",
+          "id": "Ugxtf3dmxVP-zqZfQkB4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "The human race is killing itself.",
+            "textOriginal": "The human race is killing itself.",
+            "authorDisplayName": "@chrislloyd7157",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mt56a8CtYnA6PLn-H9j1YtAYfBZn99MGEm2iVebsQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@chrislloyd7157",
+            "authorChannelId": {
+              "value": "UCg-jBKYNwNAHs87_fLUOGVw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2026-09-22T03:25:12Z",
+            "updatedAt": "2026-09-22T03:25:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "lpPLrPCzB2kwlkCcgImWrp7eVEU",
+      "id": "UgwC5Wl1NKAL6Sf-jU94AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Zxtyz1qpOJO1qzE2i3CCElCDdTc",
+          "id": "UgwC5Wl1NKAL6Sf-jU94AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Things are weirder now",
+            "textOriginal": "Things are weirder now",
+            "authorDisplayName": "@thetwilightzonelounge",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/gUUxa93doTlScTDCZO5TiRU_5kSc-L774rWQAgCpkY8E9fBXjXV_Hc0IAQ3bSSMAM5piWq65=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@thetwilightzonelounge",
+            "authorChannelId": {
+              "value": "UCC2QdUR4ptGsRsvKwy_EYKA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-22T02:46:26Z",
+            "updatedAt": "2026-09-22T02:46:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XoXlrfPsygcx2Q2Zc31h56Vn7jc",
+      "id": "UgymnwfhMZ5nRL88txF4AaABAg",
+      "snippet": {
+        "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "videoId": "5KmopXwjXik",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ypUJgWzzdUDo4YMXcASCGn-Jit4",
+          "id": "UgymnwfhMZ5nRL88txF4AaABAg",
+          "snippet": {
+            "channelId": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+            "videoId": "5KmopXwjXik",
+            "textDisplay": "Si tú eres el mejor entrevistador no le de las información tuya a las I A",
+            "textOriginal": "Si tú eres el mejor entrevistador no le de las información tuya a las I A",
+            "authorDisplayName": "@albertogiovenco7461",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mGU9kSmGcyak-hoItgHRs6rJEEsUHBnLgj4ulWK24=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@albertogiovenco7461",
+            "authorChannelId": {
+              "value": "UCcDANvkobtQBZnllQ4HByWA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-09-22T01:52:48Z",
+            "updatedAt": "2026-09-22T01:52:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ],
+  "pages": 1,
+  "calls": 1
+}

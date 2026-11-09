@@ -1,0 +1,3406 @@
+{
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "eat1eages9JhzAamavVSrm_JupQ",
+      "id": "UgxkjQkm2EWDZ5Qdaid4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "CPSOFvxNuKHCwaXhN7uc_mNM-3U",
+          "id": "UgxkjQkm2EWDZ5Qdaid4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "🔥Microsoft AI Engineer Program - https://www.simplilearn.com/ai-engineer-course?utm_campaign=9f-GarcDY58&utm_medium=Comments&utm_source=Youtube\n🔥IIT Kanpur - Professional Certificate Course in Generative AI and Machine Learning - https://www.simplilearn.com/iitk-professional-certificate-course-ai-machine-learning?utm_campaign=9f-GarcDY58&utm_medium=Comments&utm_source=Youtube\n🔥Michigan Engineering Professional Certificate in AI and Machine Learning - https://www.simplilearn.com/professional-aiml-program?utm_campaign=9f-GarcDY58&utm_medium=Comments&utm_source=Youtube\n🔥IITM Pravartak - Professional Certificate in Generative AI Machine Learning and Intelligent Control Systems - https://www.simplilearn.com/generative-ai-ml-intelligent-control-systems-course?utm_campaign=9f-GarcDY58&utm_medium=Comments&utm_source=Youtube\n🔥IIT BHU - Post Graduate Certificate Program in Artificial Intelligence & Machine Learning - https://www.simplilearn.com/pgp-generative-ai-machine-learning-agentic-ai?utm_campaign=9f-GarcDY58&utm_medium=Comments&utm_source=Youtube",
+            "textOriginal": "🔥Microsoft AI Engineer Program - https://www.simplilearn.com/ai-engineer-course?utm_campaign=9f-GarcDY58&utm_medium=Comments&utm_source=Youtube\n🔥IIT Kanpur - Professional Certificate Course in Generative AI and Machine Learning - https://www.simplilearn.com/iitk-professional-certificate-course-ai-machine-learning?utm_campaign=9f-GarcDY58&utm_medium=Comments&utm_source=Youtube\n🔥Michigan Engineering Professional Certificate in AI and Machine Learning - https://www.simplilearn.com/professional-aiml-program?utm_campaign=9f-GarcDY58&utm_medium=Comments&utm_source=Youtube\n🔥IITM Pravartak - Professional Certificate in Generative AI Machine Learning and Intelligent Control Systems - https://www.simplilearn.com/generative-ai-ml-intelligent-control-systems-course?utm_campaign=9f-GarcDY58&utm_medium=Comments&utm_source=Youtube\n🔥IIT BHU - Post Graduate Certificate Program in Artificial Intelligence & Machine Learning - https://www.simplilearn.com/pgp-generative-ai-machine-learning-agentic-ai?utm_campaign=9f-GarcDY58&utm_medium=Comments&utm_source=Youtube",
+            "authorDisplayName": "@SimplilearnOfficial",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ddQ7tbkFH0piMgZrY4c9UY8djYVf-2EcAMjhMReZ65ITHPk8m_-cWladTN3PVtMTclmvkmlr=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@SimplilearnOfficial",
+            "authorChannelId": {
+              "value": "UCsvqVGtbbyHaMoevxPAq9Fg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2023-06-26T06:39:21Z",
+            "updatedAt": "2026-10-01T06:58:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "k4WTjLXty-50BHp4EcF1ViACQIY",
+      "id": "UgzxAP6aPyiAl2O1Cc94AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BnapFvYhtyCK1n6qtu5lueOFVOM",
+          "id": "UgzxAP6aPyiAl2O1Cc94AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "This performance is really helpful I did not expect it to be this good.",
+            "textOriginal": "This performance is really helpful I did not expect it to be this good.",
+            "authorDisplayName": "@sureshsolanki1478",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k9WuTMN-o6JYChlBbcv3KvWxCHEiDgGBfG6klwgNQ7ue8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sureshsolanki1478",
+            "authorChannelId": {
+              "value": "UC436swM80ooWdIwZuE0VMGA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-10-25T17:13:59Z",
+            "updatedAt": "2026-10-25T17:13:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6SDKUKqomu0TmbqZMIRH0--kPBM",
+      "id": "UgwWD4iyosqzP0PC7ux4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "TvkTZIPfRG2D-mPRLsUrpyuYrZY",
+          "id": "UgwWD4iyosqzP0PC7ux4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "ohh, already found it in the description.\nThanks @simplilearnOfficial",
+            "textOriginal": "ohh, already found it in the description.\nThanks @simplilearnOfficial",
+            "authorDisplayName": "@AdokuEmmanuel-ny7ox",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/EXwYP4C7aXp35hiNZWJ_WhAfkQQ4yFYhFQP-9tERlYJuXm9AKsI4rs445sK6ACCobDFaXTcACQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@AdokuEmmanuel-ny7ox",
+            "authorChannelId": {
+              "value": "UCFyvyF0fvp9tJn703BBKEow"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-08-19T12:18:51Z",
+            "updatedAt": "2026-08-19T12:18:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_2rHfMM1ZCF1Jx4NzsWR0ZQiozs",
+      "id": "UgwMDqa7VTUds5RIwzx4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0zGLD_rYxesHRdKXY5y87hnNAhU",
+          "id": "UgwMDqa7VTUds5RIwzx4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "wow, such a great way to start my ML journery, i would appreciate if i can get the dataset to practice",
+            "textOriginal": "wow, such a great way to start my ML journery, i would appreciate if i can get the dataset to practice",
+            "authorDisplayName": "@AdokuEmmanuel-ny7ox",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/EXwYP4C7aXp35hiNZWJ_WhAfkQQ4yFYhFQP-9tERlYJuXm9AKsI4rs445sK6ACCobDFaXTcACQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@AdokuEmmanuel-ny7ox",
+            "authorChannelId": {
+              "value": "UCFyvyF0fvp9tJn703BBKEow"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-08-18T13:12:19Z",
+            "updatedAt": "2026-08-18T13:12:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "fNd7m7Z9J3Se2aT2FJTjBLUN5HA",
+      "id": "Ugxc_YC6lTzatHg8eXN4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Tn77zQ_JX_yvKrb7JGhdWNhQGik",
+          "id": "Ugxc_YC6lTzatHg8eXN4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "21🎉6🎉26",
+            "textOriginal": "21🎉6🎉26",
+            "authorDisplayName": "@regularbasis9295",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lvxXxlfDD311GS56nRnIU6lX4YbEijMtGxr0TkUysqgQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@regularbasis9295",
+            "authorChannelId": {
+              "value": "UCuyzmIfobfjo6K8R5rUbakQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-06-21T13:05:27Z",
+            "updatedAt": "2026-06-21T13:05:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Ft-RG1FYo3EzmowEVHMD4_IvnIY",
+      "id": "UgxomjPg5Q2K5u28Nht4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "uHZ_GTt3f_aW-7BBE2DFVrNPPKI",
+          "id": "UgxomjPg5Q2K5u28Nht4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "3:09:43 FANTASTIC STUFF 👏 👌🏽 🙌",
+            "textOriginal": "3:09:43 FANTASTIC STUFF 👏 👌🏽 🙌",
+            "authorDisplayName": "@regularbasis9295",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lvxXxlfDD311GS56nRnIU6lX4YbEijMtGxr0TkUysqgQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@regularbasis9295",
+            "authorChannelId": {
+              "value": "UCuyzmIfobfjo6K8R5rUbakQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-06-19T13:16:20Z",
+            "updatedAt": "2026-06-19T13:16:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "aTGfk7O4ckV-lzFIbbG6D-A6Wmc",
+      "id": "UgzZUhHzh0dsPCKwk_R4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "P4WgJKveCPH2PAsLRIg8pqV1osk",
+          "id": "UgzZUhHzh0dsPCKwk_R4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "very helpful video, thanks a lot",
+            "textOriginal": "very helpful video, thanks a lot",
+            "authorDisplayName": "@HARSHPARASAR-d5l3h",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Bpu8T4KPsgjVgJ2Q5fZVNfdoxkRXkqjfvXV113hqeGlY026nsgvdSlxEhucY69SS2E0W4gFvzA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@HARSHPARASAR-d5l3h",
+            "authorChannelId": {
+              "value": "UC3bhx1KTCpI13ijyNEf-Ewg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2026-04-08T17:22:41Z",
+            "updatedAt": "2026-04-08T17:22:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "X5V3srW-YRjsmajuho4_jYqQANE",
+      "id": "UgwsAMfTK30X7o4hZxp4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dGKZ-zsWoJA_NvLPAMXXT1EWizk",
+          "id": "UgwsAMfTK30X7o4hZxp4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hi sir\nPlease I need the files for this video",
+            "textOriginal": "Hi sir\nPlease I need the files for this video",
+            "authorDisplayName": "@godwillappiatse9021",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nE5OsKONMDfQ_J9YOElDeL_p2DM14Vg_0PwPItmrI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@godwillappiatse9021",
+            "authorChannelId": {
+              "value": "UCeabHMX0MBOMCdiIiJlGI4Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2026-01-13T15:54:11Z",
+            "updatedAt": "2026-01-13T15:54:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "97OoLOsplN-SBNJdIaw1aER1oMk",
+      "id": "UgzmU0cCES8sHtOXCNp4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BRoA2YuolBe9F4O_z4FMkWYLK1Q",
+          "id": "UgzmU0cCES8sHtOXCNp4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "hello! great video! i was requesing for the companies data test file",
+            "textOriginal": "hello! great video! i was requesing for the companies data test file",
+            "authorDisplayName": "@realgamer8436",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nhJ8JF2-PJuoGO8reGKkeKn21xRvzwOFp5hIacj8MkBLI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@realgamer8436",
+            "authorChannelId": {
+              "value": "UCN2H9a9x7dOspUg5bdZaiVw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-12-23T12:40:01Z",
+            "updatedAt": "2025-12-23T12:40:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "GL-KwNgfzO0Yq_LoUAwhpHYf15Q",
+      "id": "UgzZ_IzZSUhXPfrC21Z4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YWmPeL7ittRoVSIps5kAkEPgPmE",
+          "id": "UgzZ_IzZSUhXPfrC21Z4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "thanks",
+            "textOriginal": "thanks",
+            "authorDisplayName": "@GhostDaddy87",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/fnlLtwbFSnmgXZlNAeziAPdbiaM3nd40RKxiBiXywQjyrff_O7BzFoJLzUi-3goC8Qgf9lVwUA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@GhostDaddy87",
+            "authorChannelId": {
+              "value": "UCSo_2kcr2djUDRSAKPyUQaQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-11-25T05:05:03Z",
+            "updatedAt": "2025-11-25T05:05:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "b8g2_aqusLbJdtA47qCW6uWzifY",
+      "id": "UgyMhc7yRA5iNbNl4-l4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3LLCKJaby5DvodVcEjRcCn2sWGM",
+          "id": "UgyMhc7yRA5iNbNl4-l4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Very good starter set",
+            "textOriginal": "Very good starter set",
+            "authorDisplayName": "@sharathbantwal",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l8VMAPaQsdz8WhaR8yxj18JoG9sFnRI7-Z63M9oige22A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sharathbantwal",
+            "authorChannelId": {
+              "value": "UCBDp7fBgYqC_c1wB1ULVxYg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-05-07T18:20:19Z",
+            "updatedAt": "2025-05-07T18:20:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "2MdKnuipP7YiSD5HAWFV7Jdckfc",
+      "id": "UgyXb11jCDEZUxmlJFd4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "hHHVz_OnK-SbXGUBzArLKV2cEJk",
+          "id": "UgyXb11jCDEZUxmlJFd4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "can you provide the datasets please?",
+            "textOriginal": "can you provide the datasets please?",
+            "authorDisplayName": "@Me_Bavanthi",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/hw-zDV5fv9Yuv_mXSdOoEAFl22Z3jUS-jMvGM2q8IPNCV23uccsa7KLfADfvkmp0jeGozhfz4w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Me_Bavanthi",
+            "authorChannelId": {
+              "value": "UCLNhXn9DBcgr3goPVR8iumw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2024-06-18T02:53:55Z",
+            "updatedAt": "2024-06-18T02:53:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "O93p0anwDN5itMUssSEAcWcoxCI",
+      "id": "UgzG4_OLqMvNLwPesMp4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mxkecJEhlkV5mbXH-_kZKmC8bs8",
+          "id": "UgzG4_OLqMvNLwPesMp4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hi . Is it possible to send the dataset . Want to give it a try by myself",
+            "textOriginal": "Hi . Is it possible to send the dataset . Want to give it a try by myself",
+            "authorDisplayName": "@swaruppaul-ih8vr",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/2dvT8YMdBIQVwiGSqI1q5lAlFnD9PALpzeZsNlSjnpn69-MmSxo4ATuaw3bdIy5HqPOS0TaXCg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@swaruppaul-ih8vr",
+            "authorChannelId": {
+              "value": "UCbIvVATZYlG_Q0G2f7lAefQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2024-06-13T07:58:10Z",
+            "updatedAt": "2024-06-13T07:58:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ZD1dRkl9-jNpdsyO4PSppmNwuo0",
+      "id": "UgyP3p7f9fcGp_aDC314AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "PGhnApZ8q2CCoIA49J5c4mN68Ro",
+          "id": "UgyP3p7f9fcGp_aDC314AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "I hope you can add subtitle for this video :(",
+            "textOriginal": "I hope you can add subtitle for this video :(",
+            "authorDisplayName": "@tranhuubach5311",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kXSKgz02MTo6c3rA8akY6_zIu9IHwiALOYv-RiztUEwSc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@tranhuubach5311",
+            "authorChannelId": {
+              "value": "UCA5d4fcXcyLWtIOT8irSrjQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-12-05T19:24:38Z",
+            "updatedAt": "2023-12-05T19:24:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "MgRWf0DYBzm9v70y0RCaDo3-i14",
+      "id": "Ugx-HHW4yyYAJRyvu_N4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "zyCwxPQVwRjlRncjXgQMGRrExrA",
+          "id": "Ugx-HHW4yyYAJRyvu_N4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hello! thanks, but just please give us the subtitle.",
+            "textOriginal": "Hello! thanks, but just please give us the subtitle.",
+            "authorDisplayName": "@bazrafshan-l3e",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/nTqnfuVZgPj9YHBlwlvUkXd-3dLAlhLEQgyhGt62qd2NeAVKv3kmc9VQ2mxR63w-ee4QZLdvng=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@bazrafshan-l3e",
+            "authorChannelId": {
+              "value": "UC4G9w4ir7pPtZDwgeOdgXIQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-12-04T08:00:36Z",
+            "updatedAt": "2023-12-04T08:00:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "v1BB7TFw40RjjBv9QJOwcL0PWEQ",
+      "id": "Ugx-M_Y2aMCA_d0Uu0d4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Jyi-UuE2DP3hPs7VlszZtHiT__s",
+          "id": "Ugx-M_Y2aMCA_d0Uu0d4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hello it would be great opportunity to work on different algorithms on this dataset .Can you pls provide me the dataset",
+            "textOriginal": "Hello it would be great opportunity to work on different algorithms on this dataset .Can you pls provide me the dataset",
+            "authorDisplayName": "@37shubhamgupta64",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kkiZMtkBeW6z-u0dQxX7OptbXLFW2f6c1WsVQnrVw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@37shubhamgupta64",
+            "authorChannelId": {
+              "value": "UCQBYF1g7ExYTYQ8JUhTTFYg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-11-24T04:49:33Z",
+            "updatedAt": "2023-11-24T04:49:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "e_WieLoqE5R_LY92xZAoiEQ1H00",
+      "id": "UgyVv3sQM4JvhnscQXh4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xxM3-MprkF9lfrrgaLVbcekknwc",
+          "id": "UgyVv3sQM4JvhnscQXh4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "very nice explanation.Thank you.",
+            "textOriginal": "very nice explanation.Thank you.",
+            "authorDisplayName": "@divyavinod6131",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_noq4lfwZsz8Jj6h7sgnOiiMPLXlYLccY_Jxh1EiyQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@divyavinod6131",
+            "authorChannelId": {
+              "value": "UCSWE3z-LL5J6NjWchMDh1AQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-11-19T05:24:26Z",
+            "updatedAt": "2023-11-19T05:24:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XP1R0QXwr1vUOLiHJ8hENkIbpx0",
+      "id": "Ugw3asn2MoH14C79LGZ4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1EX2UGlttED03rMTj1bPAUozxA4",
+          "id": "Ugw3asn2MoH14C79LGZ4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Its great I think you should publish a book about machine learning",
+            "textOriginal": "Its great I think you should publish a book about machine learning",
+            "authorDisplayName": "@juctxy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k6ik9k6NPqHs0kvMwv9SpZyE9qUk9AxeJZJ9_zucX5-Srt4Jkr8so6gIcmOMBS08yveQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@juctxy",
+            "authorChannelId": {
+              "value": "UCrnW4hXBSI68E1UYN3yyj8w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-10-15T07:57:09Z",
+            "updatedAt": "2023-10-15T07:57:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uX91Xmm-9UPxS3Mk4I_0JKy3--M",
+      "id": "UgyCPB3hPT8b2RXiast4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "OChXerrud-og6181mg9uLtEPNAE",
+          "id": "UgyCPB3hPT8b2RXiast4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Thanks for the great vid. could i get the datasets please? thanks",
+            "textOriginal": "Thanks for the great vid. could i get the datasets please? thanks",
+            "authorDisplayName": "@manideepavadootha1907",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/0zO7EdGtpsXwyUb9P10LlbO_AeDY94Jc6DfEIWBru5VBF5u7_OjKMZRyFKTmltWPGB_wQFXv29c=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@manideepavadootha1907",
+            "authorChannelId": {
+              "value": "UCS98j0gYCR5Vjd5eqzRI0DQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-06-13T07:52:15Z",
+            "updatedAt": "2023-06-13T07:52:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "gjShL5sPfKV6k54qYOJLf7C62wE",
+      "id": "UgwabCsqGz9qfulfuTl4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "VgRblIraLQ2FfqVjh8ciGxwlUC8",
+          "id": "UgwabCsqGz9qfulfuTl4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Make for us a video on how to make an API or an application using python and Sckit Learn library,\n\nBecause we will not just be doing it in Jupiter notebook,\n\nKindly make that video I will really appreciate",
+            "textOriginal": "Make for us a video on how to make an API or an application using python and Sckit Learn library,\n\nBecause we will not just be doing it in Jupiter notebook,\n\nKindly make that video I will really appreciate",
+            "authorDisplayName": "@Coach_Blue_254",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/yYIOUbNZM8KfCvcXXAuUvF99XgXrtUx7XH2RS0BkqICwLfA80ZDNS9AZDjKe31O-C_d0r6p2GA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Coach_Blue_254",
+            "authorChannelId": {
+              "value": "UCxExMjC2990QzO_9ASbBZsQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-06-02T18:43:19Z",
+            "updatedAt": "2023-06-02T18:43:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "T4uRFOaGDdl_h5rs_jPAH64MWjk",
+      "id": "UgyfwIl4vrTR6O-5sIZ4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qJoMdFbVp9E4umtSXgp8qBTDY2k",
+          "id": "UgyfwIl4vrTR6O-5sIZ4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Please provide me CSV file used here",
+            "textOriginal": "Please provide me CSV file used here",
+            "authorDisplayName": "@riddhigaudani4759",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/HM2M6TpRVZPwQSM90UNPqp8yimjSc18Z5wYySurS2yyrXZTwWm0QZ3yCuLtKAsmnB4h1Xf7fGA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@riddhigaudani4759",
+            "authorChannelId": {
+              "value": "UCDA6ULKowmCeZZJKWw0S-EQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-31T16:44:29Z",
+            "updatedAt": "2023-05-31T16:44:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "jhBSm7Vv9kHN0FDgEyoEmg3uoyk",
+      "id": "UgxpN9Fiy3lvq_uaJ6N4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "CyCeMA5coRISu_UgL2nRaLmCtD0",
+          "id": "UgxpN9Fiy3lvq_uaJ6N4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Excellent tutorial and the best i have seen so far on internet. Thanks.😀😃",
+            "textOriginal": "Excellent tutorial and the best i have seen so far on internet. Thanks.😀😃",
+            "authorDisplayName": "@rlgcwm",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nSIrpnYl9uVp8eT20BRtTjNUW7GIskBfbvTOd0MkkfpNg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@rlgcwm",
+            "authorChannelId": {
+              "value": "UCC2edTTsFzf_G_eJC6ag0dQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-04-11T07:05:57Z",
+            "updatedAt": "2023-04-11T07:05:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "NSYREDHtyfP-Tk6Q1QoF6niCek8",
+      "id": "UgxqCuvR48mkOxcLye54AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2PyJ4ODubsq5DlMGiLwWX-UWF2I",
+          "id": "UgxqCuvR48mkOxcLye54AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "This video is just awesome!!",
+            "textOriginal": "This video is just awesome!!",
+            "authorDisplayName": "@incognito3k",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kFwxAaEhs6fQNlEf0l5jZz09QA1C6t6c83n6XVO58b6UQtz5Kh4MrQFDulLXPWJgsdguk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@incognito3k",
+            "authorChannelId": {
+              "value": "UCmMKYjnE6CYbnLikyh2RNfg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-11-07T00:39:41Z",
+            "updatedAt": "2022-11-07T00:39:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "qqLqkYOgAh5IrxPR1aWgDd4O2Ig",
+      "id": "UgxoPHkL09-Sa17WHEh4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Z6ICcTeuuQa99WPflTIvVk731yo",
+          "id": "UgxoPHkL09-Sa17WHEh4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Brilliant vedio ❤️❤️😍😍🙏🙏🙏🙏",
+            "textOriginal": "Brilliant vedio ❤️❤️😍😍🙏🙏🙏🙏",
+            "authorDisplayName": "@Siddhartha082",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/nao6MRLLt0FZTkNV2v-d7HZwufIYDv4Ddj2NeofLZdLwbnOc1nPdoTvpXx2v3z6iUNjqpKIiNQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Siddhartha082",
+            "authorChannelId": {
+              "value": "UCdS_8BSECDYsUhTlXte658w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-08-11T16:35:12Z",
+            "updatedAt": "2022-08-11T16:35:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3-fUhuq6tEK1BWJPmy4aOLfLgwg",
+      "id": "UgxdfYsrqsYjE9keHDp4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "HJkB9O02K2cOY1HSEiEkoaA4RTg",
+          "id": "UgxdfYsrqsYjE9keHDp4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "can you please provide the dataset for DecisionTree.Thank you",
+            "textOriginal": "can you please provide the dataset for DecisionTree.Thank you",
+            "authorDisplayName": "@pasunurisrinidhi6399",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k2Ah3inSnv6TQN-9qsSyqXKbP9cxvXmO5S99-TJjo=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@pasunurisrinidhi6399",
+            "authorChannelId": {
+              "value": "UCm1anOObwDkZaSJ-bqTD7yw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-07-24T14:47:28Z",
+            "updatedAt": "2022-07-24T14:47:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "pls-T1osgl9Fty7mCR5Kmre0yBM",
+      "id": "Ugw8kwCmiPKsCd2B3PN4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2Whnh6STEsPxJh46pLJsMEZGRNE",
+          "id": "Ugw8kwCmiPKsCd2B3PN4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Thanks for an intuitive video, really enjoyed it. It would be great if you can send me the datasets that have been used in this course.",
+            "textOriginal": "Thanks for an intuitive video, really enjoyed it. It would be great if you can send me the datasets that have been used in this course.",
+            "authorDisplayName": "@pratikmalkan2578",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lImWjpMrIvdRovD-M6t404B4iy4JtBgKSvugbuhj_RH1T6wD48Xs1RhVDJF9ywMr1Udg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@pratikmalkan2578",
+            "authorChannelId": {
+              "value": "UCVP6UxQgk6AcRFn-7V5rRqA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2022-07-21T03:09:42Z",
+            "updatedAt": "2022-07-21T03:09:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "36COeUhPliTmz9tMOmz-JZ_FOJE",
+      "id": "UgwFlW4ap_eTZnQcBjB4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "D60jd0W_nKDnbAY7QAX5WejWGjc",
+          "id": "UgwFlW4ap_eTZnQcBjB4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Will watch this soon.\nVery grateful to Simplilearn. Thank you so much for sharing your knowledge with us.🙏",
+            "textOriginal": "Will watch this soon.\nVery grateful to Simplilearn. Thank you so much for sharing your knowledge with us.🙏",
+            "authorDisplayName": "@d4doe949",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nZAu6CNvgm-JpBK4Fvb4J43W9ahyyxv8UD5UBhmyUbeRMORs1BrrOoUhSF1HHip9sZUg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@d4doe949",
+            "authorChannelId": {
+              "value": "UCg8vfJm9Xq5jqdVW3xj7Smw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-07-02T22:00:04Z",
+            "updatedAt": "2022-07-02T22:00:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "HOW8GMWpWdLgsTxlyXF_kM9AUdk",
+      "id": "UgyZ9SltsUd9ePZTN8B4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ohGPXSHIUHKOLH3PiMaRgY0CSu8",
+          "id": "UgyZ9SltsUd9ePZTN8B4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hello, how do I get the datasets",
+            "textOriginal": "Hello, how do I get the datasets",
+            "authorDisplayName": "@oamenmodupe6323",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ki7tM5lEiusxykymf-Njp8SqwWfJ0lA0gx24PUWev-B38=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@oamenmodupe6323",
+            "authorChannelId": {
+              "value": "UCJLoyZguYHoQfp263ZEt_Mw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-06-21T09:50:13Z",
+            "updatedAt": "2022-06-21T09:50:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bjmEImoNKhQf_494ul1ppXBKNbI",
+      "id": "UgxFoMOJcUbNQPc1lwN4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nYdTHqbNpJHMK8TrT1M0pyE3aIg",
+          "id": "UgxFoMOJcUbNQPc1lwN4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Nicely explained.. Possible to get the dataset and csv files  ?",
+            "textOriginal": "Nicely explained.. Possible to get the dataset and csv files  ?",
+            "authorDisplayName": "@richamanitjain",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/gOv672BQJ6R0JkcQGQNAL3LovJF5ZRofRxKebUUVyhRxQenp3l_31qGBfLoKQGlCsXrE9FI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@richamanitjain",
+            "authorChannelId": {
+              "value": "UC6C4pCYBSJYQxXbut4VWB0w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-05-31T12:49:56Z",
+            "updatedAt": "2022-05-31T12:49:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "JBrMZcDxZ931NvJaCt4ITx7lkD0",
+      "id": "UgyzbH8Q0Sas2PE0Pqh4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7BrttYCKXWrU2k_sUdQWSfr6HTg",
+          "id": "UgyzbH8Q0Sas2PE0Pqh4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hey, can you guys please provide with subtitles for people with hearing issues. It is way difficult for me.",
+            "textOriginal": "Hey, can you guys please provide with subtitles for people with hearing issues. It is way difficult for me.",
+            "authorDisplayName": "@tamalmajumder7160",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l7z5UgY9OiOkckyhn7RKy5U_JMyqeGxLxMWdHw03clGbM=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@tamalmajumder7160",
+            "authorChannelId": {
+              "value": "UC7T9fXa-KBIvNmE9shFUo2Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-05-23T16:41:02Z",
+            "updatedAt": "2022-05-23T16:41:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "1iOzJqzcXsMrLI26K5Vv-RBUqkQ",
+      "id": "UgxaR9VlKC0gziRyHt14AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dvaLEZwjZtDJTFNSYen0B8AR4o4",
+          "id": "UgxaR9VlKC0gziRyHt14AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hi, good tutorial. Started learning linear regression. Can you please share the data set used in linear regression (companies dataset). Thanks",
+            "textOriginal": "Hi, good tutorial. Started learning linear regression. Can you please share the data set used in linear regression (companies dataset). Thanks",
+            "authorDisplayName": "@pavanrameshpatchipulusu2612",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mOVGzzk7XdLOBR0yEh8Ryedw144xKFcf-kIVr_nc2b_xk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@pavanrameshpatchipulusu2612",
+            "authorChannelId": {
+              "value": "UCkWMPozIloeMA5ckX1yQBkQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-05-17T11:18:41Z",
+            "updatedAt": "2022-05-17T11:18:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "1vGULlPq13AuYMSoT7FlA5WgaIQ",
+      "id": "UgzYIFotzutldlPeK4J4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "igbGUgDvJlHipI8382Wi2-VlXxY",
+          "id": "UgzYIFotzutldlPeK4J4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "are kuch simple nahi ho raha hai,,, mera refund do bus",
+            "textOriginal": "are kuch simple nahi ho raha hai,,, mera refund do bus",
+            "authorDisplayName": "@Abhik9595",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/V8Sf581eAjIQ1CAc79G8pel8EYl6qaAmCNGHNdqtBUzfLEMEFiaJ1NI4BmtH0X02cQHkY6pduA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Abhik9595",
+            "authorChannelId": {
+              "value": "UCuFgwygb_M8FegRxwjyZfng"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-04-12T12:16:11Z",
+            "updatedAt": "2022-04-12T12:16:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XAjmoW6b9hAYlO0ycAJGzRT3xDQ",
+      "id": "UgySmPY8aPrAOUaR5FV4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9JN7AnQj4HHlwH6MA3cg2gMkVlU",
+          "id": "UgySmPY8aPrAOUaR5FV4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Why the audio quality is so unpleasant?",
+            "textOriginal": "Why the audio quality is so unpleasant?",
+            "authorDisplayName": "@fahimhossain6685",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kJqCsybTz1x-n8Vxu_rltIMyolZw17TesjPEFVqTFprA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@fahimhossain6685",
+            "authorChannelId": {
+              "value": "UCYLLS5bVltMhScy7G4pmOuQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-03-25T08:35:58Z",
+            "updatedAt": "2022-03-25T08:35:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "M9k8kHG8SMD6CtFPbDcqQp7o8Yc",
+      "id": "UgyIVJqZpMFgZWwMD2B4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vF0IJ0HnMhy1DoRQ3UmTxcTLov0",
+          "id": "UgyIVJqZpMFgZWwMD2B4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hi Sir,\nIn Linear Regression at 54:00, we have 4 input label column but we are getting (large no. of regression coefficients) that is slope values. Why ? We should get only 4 slope coefficient value.",
+            "textOriginal": "Hi Sir,\nIn Linear Regression at 54:00, we have 4 input label column but we are getting (large no. of regression coefficients) that is slope values. Why ? We should get only 4 slope coefficient value.",
+            "authorDisplayName": "@SandeepSinghRana502",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-Udq3sbjrrkPWzSHcbUyFVUAifXAlIjMyr7lN9S_tK0y5giFrIcRYKRYxmKbBDgrCSSZAkWy=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@SandeepSinghRana502",
+            "authorChannelId": {
+              "value": "UCipsVAw5GtgdPi6xdrU2y5w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2022-03-22T03:27:50Z",
+            "updatedAt": "2022-03-22T03:27:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-iNaFstUvlnmY9Gq1l8SalaVa6A",
+      "id": "UgyFLT0hiyRvSxpPemJ4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "gOHgwXzh0EONGm17CTyn_U0j2Ho",
+          "id": "UgyFLT0hiyRvSxpPemJ4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "7:18 Scenario 1 & 2: unsupervise, Scenario 3: supervised",
+            "textOriginal": "7:18 Scenario 1 & 2: unsupervise, Scenario 3: supervised",
+            "authorDisplayName": "@syedrizwanali27",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kvaWlKfsS__lMNWYTvIY7VoonD0Bqz1EtASyNMi3EjpRA-=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@syedrizwanali27",
+            "authorChannelId": {
+              "value": "UCsFeYgURkdEdnpLfZrV2-Wg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-02-25T06:35:05Z",
+            "updatedAt": "2022-02-25T06:35:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Smz0Bekl3XF99N3Z0hTNMM8oLd8",
+      "id": "UgzDUDM-HGHO1dve2Th4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "rZt2WkAH3-5XkN5Z1YXvDvqOhyQ",
+          "id": "UgzDUDM-HGHO1dve2Th4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "hi, on the logistics regression tutorial, where are you getting the images dataset from? Thank you",
+            "textOriginal": "hi, on the logistics regression tutorial, where are you getting the images dataset from? Thank you",
+            "authorDisplayName": "@jennytong8855",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nnIRUmuuO6W_tIk9D-YmL6t0uNruYgC8TeTjvYqXKl6c9FXiAP47jKyuLrHos6hE_DZw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@jennytong8855",
+            "authorChannelId": {
+              "value": "UCAlkA5ZcQZNrisW39wGcg0w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-02-24T02:55:34Z",
+            "updatedAt": "2022-02-24T02:55:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "URg4EcwZ1tbaOBGVL0htvhPHOUo",
+      "id": "UgzpztMBCwWWGeHo5Qp4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1q7xAfCDOPl40fUI7ON_BEr-JZw",
+          "id": "UgzpztMBCwWWGeHo5Qp4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "At sometimes I didn't understand what they are telling .. Please add a captions to this tutorial . It is very much helpfull . Please consider this .",
+            "textOriginal": "At sometimes I didn't understand what they are telling .. Please add a captions to this tutorial . It is very much helpfull . Please consider this .",
+            "authorDisplayName": "@vijayalakshmi.t6924",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/dnCqX0gY6ZkpgzrL-bv-mHzWY6vZJzAhiVYURm8KujTyGlXpfIb18vOnSt6hTGfuA2ByPkF6Xw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@vijayalakshmi.t6924",
+            "authorChannelId": {
+              "value": "UCzOyP5TjyPHPyJR-3fqWYcw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-01-21T14:02:25Z",
+            "updatedAt": "2022-01-21T14:02:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uzWCc-ZGO3wfeOhmQ1P_wYYM_x0",
+      "id": "UgyR_IRtkadCAvOsxi94AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "e3gT5ts9nHIxGE1D15Nt3fA7ddY",
+          "id": "UgyR_IRtkadCAvOsxi94AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hello Sir,\nThanks for giving such wonderful lectures on this topic!\nI have a doubt on one hot encoding in linear regression.....categorical_features = [3] is not working ...showing an error.....how can i rectify this?????????i tried with column transformer instead but output changed to different values ....",
+            "textOriginal": "Hello Sir,\nThanks for giving such wonderful lectures on this topic!\nI have a doubt on one hot encoding in linear regression.....categorical_features = [3] is not working ...showing an error.....how can i rectify this?????????i tried with column transformer instead but output changed to different values ....",
+            "authorDisplayName": "@PavendanKumar",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/knUqSJb4gW17evS64Cz0D639_JZe4CYcQPfAl-eK99Are5L4x7c11f9D9l8iga164Agkcmmo8_o=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@PavendanKumar",
+            "authorChannelId": {
+              "value": "UC4Vv_tzyF8-MCmQhEW04k9A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2021-12-15T03:27:01Z",
+            "updatedAt": "2021-12-15T03:27:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "J7p6avSY2ZewmenTZa_TO65qdcM",
+      "id": "UgyQ7pzoLG_wUWAaZ7J4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "XETHbrntzF3mROLx3Cbwz2gEsFU",
+          "id": "UgyQ7pzoLG_wUWAaZ7J4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "all the viedeos have very bad sound quality dam sure pls check",
+            "textOriginal": "all the viedeos have very bad sound quality dam sure pls check",
+            "authorDisplayName": "@beyondthehorizon7778",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/8Z3rb-urWHc7ZVFo1rbllO6S7NqhRU6Esvbw9jI8hXXBxMKVaDXwl6BY-_6G2hykp9j0mT6aVQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@beyondthehorizon7778",
+            "authorChannelId": {
+              "value": "UCAucg3h4By8HrmE2-MD1edg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2021-12-03T07:16:11Z",
+            "updatedAt": "2021-12-03T07:16:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "l2dKrU0yiKk0hVtAF7jZVPRvoEY",
+      "id": "UgxwwJnFrO_q_jL3sfx4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "awwHfJYHAtZ5tfFlEs5a-XEIt1E",
+          "id": "UgxwwJnFrO_q_jL3sfx4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "quiz =\nsupervised \nsupervised \nunsupervised",
+            "textOriginal": "quiz =\nsupervised \nsupervised \nunsupervised",
+            "authorDisplayName": "@nikhilreddy4582",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_meQwL-XohtdVl64TGQdm7a0McD_Rr4xsRd9PXPndnLiuI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@nikhilreddy4582",
+            "authorChannelId": {
+              "value": "UCEO1QYkC3OWIT6_38_L4Fug"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-11-14T03:45:05Z",
+            "updatedAt": "2021-11-14T03:45:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ChtHLJlwYiYSQTA1uYCs2rlvxyc",
+      "id": "UgwS3O-M5XVa0I4sfUB4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6vtUKBXGEef1vjlJqJHf8XHWSp8",
+          "id": "UgwS3O-M5XVa0I4sfUB4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Please share the data file for Naive Bayes method shopping example. Can you send it to my email ID?",
+            "textOriginal": "Please share the data file for Naive Bayes method shopping example. Can you send it to my email ID?",
+            "authorDisplayName": "@gbstechtutor",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/XI202Lpnc1hlJtJCGcXuDeb0PPiiSuRFjPDe42YicD_QACFfsOtrOTE78qi8oAHEunMx-aL9aw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@gbstechtutor",
+            "authorChannelId": {
+              "value": "UCQl5_E57Ck7EZ5AwfP0DoYw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-10-26T09:24:40Z",
+            "updatedAt": "2021-10-26T09:24:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vs1Arki2bBkhQID6PLMES2M5qW0",
+      "id": "Ugxg6v1SNHo7BPt7F614AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "it3MLicmCz5LW_cDrKJzrQ8bDrA",
+          "id": "Ugxg6v1SNHo7BPt7F614AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Refer Naive Bayes Method. Time Stamp 4:22:24: The probability of a Purchase on a weekday P(B) = P(Weekday) has been given as 11/30. Weekday stats show: Probability of Buy as 9/24. Please explain how to arrive at 11/30 for probability of buy.",
+            "textOriginal": "Refer Naive Bayes Method. Time Stamp 4:22:24: The probability of a Purchase on a weekday P(B) = P(Weekday) has been given as 11/30. Weekday stats show: Probability of Buy as 9/24. Please explain how to arrive at 11/30 for probability of buy.",
+            "authorDisplayName": "@gbstechtutor",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/XI202Lpnc1hlJtJCGcXuDeb0PPiiSuRFjPDe42YicD_QACFfsOtrOTE78qi8oAHEunMx-aL9aw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@gbstechtutor",
+            "authorChannelId": {
+              "value": "UCQl5_E57Ck7EZ5AwfP0DoYw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-10-26T09:21:53Z",
+            "updatedAt": "2021-10-26T09:21:53Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-xVZ38fOs2R8LkxRFZthDakv6I8",
+      "id": "Ugx5vnJNhxKmN_EENoB4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "K4NZTDaCRzX3NGEfsJGVpO8x6dw",
+          "id": "Ugx5vnJNhxKmN_EENoB4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Thanks for amazing tutorial, I'm looking for. Really good explanation and concept. it will be good if you will  send practice dataset",
+            "textOriginal": "Thanks for amazing tutorial, I'm looking for. Really good explanation and concept. it will be good if you will  send practice dataset",
+            "authorDisplayName": "@aniketchauhan9627",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lHAayjMVI-nIV_HXLMg-hKxsGfnbSa8zTsaVFfcihxaQpz=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@aniketchauhan9627",
+            "authorChannelId": {
+              "value": "UC6wobEOQb2qH1GW9-Eih83A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-09-05T02:43:07Z",
+            "updatedAt": "2021-09-05T02:43:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cJfV_iJrXuX7Q6YhHUD1_8Ji7UA",
+      "id": "UgwjCXklE6y7vDUyeHt4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vu0ChTYNPAHfXjYajVOyvmS713o",
+          "id": "UgwjCXklE6y7vDUyeHt4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "I want to work with the datasets that you work with. So please send me an E-mail",
+            "textOriginal": "I want to work with the datasets that you work with. So please send me an E-mail",
+            "authorDisplayName": "@ayyappaswamykambala7355",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kH1z_-vWB-IJpqYY6PlLt5_7wtCX69rdgMA2qEnK_yOy4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ayyappaswamykambala7355",
+            "authorChannelId": {
+              "value": "UCQjkol3vUuRTSrlnRQ0tIFQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-08-07T21:08:13Z",
+            "updatedAt": "2021-08-07T21:08:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uOJWWNG2daNWF0ksZVgYnGuNr7E",
+      "id": "UgxKIW-XI9H8FGWHhyZ4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "adpfWzviOWCOCs3KexxxezrIW_I",
+          "id": "UgxKIW-XI9H8FGWHhyZ4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "The explanation was good. Thanks a lot for sharing your valuable time and knowledge. It would be great if would have put all the practice datasets in the description.",
+            "textOriginal": "The explanation was good. Thanks a lot for sharing your valuable time and knowledge. It would be great if would have put all the practice datasets in the description.",
+            "authorDisplayName": "@IMMANUELDAVIDSONURKRA",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kf5iU-tF4Yf3f77tJgp_Bi7O0KMf2uf-XZd97caN0Ovz3N5sWcy3faByUleBblQUb7uQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@IMMANUELDAVIDSONURKRA",
+            "authorChannelId": {
+              "value": "UCcbUDZOkFd_ObD4uHWqvOFg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-07-31T11:49:07Z",
+            "updatedAt": "2021-07-31T11:49:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "sI3lJ7IQiNj-BfEydou3_Z0NfWI",
+      "id": "Ugwlc2BHZ6h3YXKBrat4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ztOOt3zvXLSYcIyoIJJCrc-HAKs",
+          "id": "Ugwlc2BHZ6h3YXKBrat4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "It's really a great.. I can't believe how to make the learning simple... Thank you.. expected more videos",
+            "textOriginal": "It's really a great.. I can't believe how to make the learning simple... Thank you.. expected more videos",
+            "authorDisplayName": "@sadrulalom1627",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nZS-njvqp45RG4lqhoV4fCv-weYS_HSpfVFg_4Cj4e2DEF=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sadrulalom1627",
+            "authorChannelId": {
+              "value": "UCBH_XjFBA8sUwvzwQT_4o-g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2021-07-30T09:23:09Z",
+            "updatedAt": "2021-07-30T09:23:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9Hek7Z55_Kju1b_gY-LARqIe9e0",
+      "id": "UgxkFgLgodKPvDWO2ZZ4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "rZNqcAsidFxy0ybw2Wmze9J0jqE",
+          "id": "UgxkFgLgodKPvDWO2ZZ4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Will you please  make video on python library used in machine learning",
+            "textOriginal": "Will you please  make video on python library used in machine learning",
+            "authorDisplayName": "@nirmalavhad662",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nbREjDsLR2AGU4hXUG0phRqUXC2yxq7EMDO7JwRi5c6nU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@nirmalavhad662",
+            "authorChannelId": {
+              "value": "UCACXmxprNX3ZW6FhkLbswiQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-07-29T13:21:45Z",
+            "updatedAt": "2021-07-29T13:21:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xdtFE3e8O6tQ4aZew9h_qizZ-yY",
+      "id": "UgzuJ4fh-VF-vpthHf54AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "uw0GfRJwLiGaEbqMTQal18ThTpg",
+          "id": "UgzuJ4fh-VF-vpthHf54AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "could you send the data set please",
+            "textOriginal": "could you send the data set please",
+            "authorDisplayName": "@aiswaryasahoo5843",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nZJH8TLpH43bM7x6HMTlupECxzN1Wlqw5l6dsyYIN0f_o4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@aiswaryasahoo5843",
+            "authorChannelId": {
+              "value": "UCs46AktZZU0j7hK_QfM6dGw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-07-27T05:19:35Z",
+            "updatedAt": "2021-07-27T05:19:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BxK9CFMVUTyRMkpaQWgGtBdeNJg",
+      "id": "UgwihKsQXgOHCOGmFTV4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-eqopm5l1jACzqbMZjc5PHqIrv0",
+          "id": "UgwihKsQXgOHCOGmFTV4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Great tutorial! If possible please provide practice datasets for me too. My email: samikaran.adhikari@gmail.com",
+            "textOriginal": "Great tutorial! If possible please provide practice datasets for me too. My email: samikaran.adhikari@gmail.com",
+            "authorDisplayName": "@samikaranadhikari9739",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/B3ePksNRMZ4j2bX26JCWlKIOdufXujtWgosfnnn5bTlSM9Rz3wywD4RgN3GoSQD33MUDZBtpSg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@samikaranadhikari9739",
+            "authorChannelId": {
+              "value": "UCgkVqPGg_hwzP-GYG4Zga2A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-07-09T13:15:02Z",
+            "updatedAt": "2021-07-09T13:15:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9eWM0b0RFYWPdZENtq8t5ZsrEUI",
+      "id": "UgyvdIEREQHd2a5jDH14AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ehXpAqxgFZnxRChurnRYgNKJ-7A",
+          "id": "UgyvdIEREQHd2a5jDH14AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "This tutorial is really one of a kind  🔥\n\nIt's time to get hands-on with it .\nCould you please share the data sets at akshatkumar097@gmail.com .\nThanks in advance.",
+            "textOriginal": "This tutorial is really one of a kind  🔥\n\nIt's time to get hands-on with it .\nCould you please share the data sets at akshatkumar097@gmail.com .\nThanks in advance.",
+            "authorDisplayName": "@RaunakKumar-ht1md",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kTPs8ZVHUC9Bw1uBz7oiwGGhX4VcTcGsCiLTiOFvA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@RaunakKumar-ht1md",
+            "authorChannelId": {
+              "value": "UCozkiZKC_2_2O6Ykt2gPQOw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-07-08T22:55:29Z",
+            "updatedAt": "2021-07-08T22:55:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "1iugomvotgkRcRIxa7UgRsc_V1w",
+      "id": "UgxpjQd4SdY5AdGFcvZ4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "wWGkU6D7e6C436vbNUDqUueGl-U",
+          "id": "UgxpjQd4SdY5AdGFcvZ4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Thank you for this excellent tutorial. is it possible to have the data set, so I can try it. can I have your email to ask for the data set?",
+            "textOriginal": "Thank you for this excellent tutorial. is it possible to have the data set, so I can try it. can I have your email to ask for the data set?",
+            "authorDisplayName": "@jinjiyanazadi7811",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lkYXRdb0CH4KtaINjJIHzeEYq3M_mxRXTg9H6v_1NcoZk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@jinjiyanazadi7811",
+            "authorChannelId": {
+              "value": "UCafMvV-cZVYP_ogDY-8H5Ig"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-07-07T09:39:09Z",
+            "updatedAt": "2021-07-07T09:39:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VmvYUDwkPlDxOe3E8Jtyb3Vajws",
+      "id": "Ugyw4A6UH3nvdoLj6QB4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7aHtF4OyR_LKG13iIhPPoWdBV5I",
+          "id": "Ugyw4A6UH3nvdoLj6QB4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "I love this channel than edureka because of animated explaination \nHats off to  your working\n❤️❤️",
+            "textOriginal": "I love this channel than edureka because of animated explaination \nHats off to  your working\n❤️❤️",
+            "authorDisplayName": "@AbhishekMishra-nx6ro",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mE-9USQEvktt6foECVAhCmMBRufWxaCytvQDd6oIQUGlw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@AbhishekMishra-nx6ro",
+            "authorChannelId": {
+              "value": "UCV8vZWStzT6hiZ8jH2bEQeA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2021-06-27T18:27:46Z",
+            "updatedAt": "2021-06-27T18:27:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "lh6-JI8v3HRglVztWwvw-1RdYFc",
+      "id": "UgxjVwulRpjpJjGTEzp4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Xvty2PHPE-VRRLMguwBTlzajD-U",
+          "id": "UgxjVwulRpjpJjGTEzp4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "can I please get the datasets my email is tanmaygarde36@gmail.com",
+            "textOriginal": "can I please get the datasets my email is tanmaygarde36@gmail.com",
+            "authorDisplayName": "@gardetanmay5457",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/R8WuyUAMrwiKscHKYPogsi4d2zNjPP61X-NnWe_K-XS_MZ83OY5M17-Wi2wCbBwi1Yp-Y5zw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@gardetanmay5457",
+            "authorChannelId": {
+              "value": "UCnmPvkbohIFiQMkhUdMw75g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-20T16:23:47Z",
+            "updatedAt": "2021-06-20T16:23:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "SRHjIQCA46uQq8Yhqj_loJJq160",
+      "id": "UgwYamLLzsHnifT9Tsh4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_v1P_vXIpWUoUxbg5YoL8WnA13o",
+          "id": "UgwYamLLzsHnifT9Tsh4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Great video , May I request data set at reach2nirbhay@gmail.com, please ?",
+            "textOriginal": "Great video , May I request data set at reach2nirbhay@gmail.com, please ?",
+            "authorDisplayName": "@reach2nirbhay",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l6GjZ_YjTh5wj8kwKwf0BnerwZSTvp5KvBoKQVk-mc-ia5=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@reach2nirbhay",
+            "authorChannelId": {
+              "value": "UCy8ldzrSTkSo357QUT1fbjw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2021-06-20T09:22:56Z",
+            "updatedAt": "2021-06-20T09:22:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uE1rflMchxTO9bo2sFYLxKybY9w",
+      "id": "UgxMUN5oc-ac8vDyugF4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "XOP-bM1nmp9nfQI1-poWahJY8Jw",
+          "id": "UgxMUN5oc-ac8vDyugF4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "This is a great tutorial. Could you please send me the datasets used in this tutorial to andrewkimati@gmail.com",
+            "textOriginal": "This is a great tutorial. Could you please send me the datasets used in this tutorial to andrewkimati@gmail.com",
+            "authorDisplayName": "@andrewkimati6662",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lU3GI85euG5AO43RUMQK7guhlAU_W2CwEDPUibgUGeMyc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@andrewkimati6662",
+            "authorChannelId": {
+              "value": "UC25mmhz6SOAvY5f_PE1nOyQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-18T20:21:09Z",
+            "updatedAt": "2021-06-18T20:21:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bDdekXrpZ2R75ziBdVeCp0aFnD0",
+      "id": "UgzR_ZMB31hXxNcVgqZ4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZMOXeVPlu9JAzZVhAVG0tspM_ik",
+          "id": "UgzR_ZMB31hXxNcVgqZ4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Is it possible to get the dataset? I want to implement the codes by myself. Thank you in advance.",
+            "textOriginal": "Is it possible to get the dataset? I want to implement the codes by myself. Thank you in advance.",
+            "authorDisplayName": "@devarpitasinha8649",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k5Ii8MsCUjibqVHZtWNQaw_6eOXhyk-Fih62ceAHccvHI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@devarpitasinha8649",
+            "authorChannelId": {
+              "value": "UCZ14qNBz0ahpEZKjFN_pArw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 9,
+            "publishedAt": "2021-06-18T16:43:50Z",
+            "updatedAt": "2021-06-18T16:43:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "p5FxdAAVpqUynyYmX_Cx6_7mV_Q",
+      "id": "UgxpEtCCc5SUrOZ1Qkx4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "K5JpMzOw6QTisDdIFhvy4hpoAA0",
+          "id": "UgxpEtCCc5SUrOZ1Qkx4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Thanks for this amazing tutorial simplilearn. Can you please help me with the datasets. peppa_pig_00@outlook.com",
+            "textOriginal": "Thanks for this amazing tutorial simplilearn. Can you please help me with the datasets. peppa_pig_00@outlook.com",
+            "authorDisplayName": "@gwenngoi2919",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ATsOj0BtLhwwE7JEpiJ4FTY3zov8x_f8YiZH5YH7ybcNYbvDT3t0UYqlueNPJB9Sv1mlLIqpdg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@gwenngoi2919",
+            "authorChannelId": {
+              "value": "UC2F5lQZPZAKsMoJkxoXreeA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-18T02:49:55Z",
+            "updatedAt": "2021-06-18T02:49:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "kmKKuGJ7r0rxLh6J5oLHvd8SjVk",
+      "id": "Ugz5R20RX43JpuuczA94AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KzUswo3yQT06j9D1dpcFP3eSxgs",
+          "id": "Ugz5R20RX43JpuuczA94AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Great tutorial! Can you please share the datasets used here to my mail id: somosreee@gmail.com?",
+            "textOriginal": "Great tutorial! Can you please share the datasets used here to my mail id: somosreee@gmail.com?",
+            "authorDisplayName": "@somosreeghosh8824",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l9dLlDPx8NQZKrxNXQgb5vit3UqEh3ZkCYAGm6QRk70t7K=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@somosreeghosh8824",
+            "authorChannelId": {
+              "value": "UCEzLFM5u1jupYWd08VDKUrg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-17T07:58:58Z",
+            "updatedAt": "2021-06-17T07:58:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "yhX7JjlCR7HFDbuqresuQmRbx2w",
+      "id": "Ugx54wsgQYj27V-Uy0F4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "V1jcVku7bMR-w3h8HE-4tJ5rQEs",
+          "id": "Ugx54wsgQYj27V-Uy0F4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Nice tutorial!! Can you please send me the datasets used in this tutorial to prosenjit.dhole@gmail.com",
+            "textOriginal": "Nice tutorial!! Can you please send me the datasets used in this tutorial to prosenjit.dhole@gmail.com",
+            "authorDisplayName": "@prosenjitdhole",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nLiV9t8Qenmy-y99XxoGpmKzTIkto61ZPDhgckicMutGQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@prosenjitdhole",
+            "authorChannelId": {
+              "value": "UCOZ_hUV13ViY8cSUuUAMFgQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-15T16:14:47Z",
+            "updatedAt": "2021-06-15T16:14:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "MCcwNYWhYzc0gUAWuphrsZXFTo0",
+      "id": "UgwqB12kXpIbvMoVUzZ4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "w2Ei_y9e1eG4q-nBctSO2SxvUzY",
+          "id": "UgwqB12kXpIbvMoVUzZ4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hii good to watch this\nCan u send me the datasets used above \nMy mail id : mothukuri22082001@gmail.com",
+            "textOriginal": "Hii good to watch this\nCan u send me the datasets used above \nMy mail id : mothukuri22082001@gmail.com",
+            "authorDisplayName": "@Blessed_triune_God",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/k-ttOkyarGxns07DHa8EZkaAWrWc4Ahbsz4kDy9hVwS2TytUiJhfJGZGApmFzTdGUtj43MiLM2s=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Blessed_triune_God",
+            "authorChannelId": {
+              "value": "UC8cg0e1ZnSa0hC7ooDxonrQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-15T15:39:35Z",
+            "updatedAt": "2021-06-15T15:39:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "jG-_3s8i25ibXiFL-yfFKbEMpZA",
+      "id": "UgyhiNdl8tba8JWY-GV4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "FbJK62vjeQhggJARx5FEDg72ViA",
+          "id": "UgyhiNdl8tba8JWY-GV4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "@simplilearn,  please send over datasets to shashi.bvrit@gmail.com",
+            "textOriginal": "@simplilearn,  please send over datasets to shashi.bvrit@gmail.com",
+            "authorDisplayName": "@Shashank42065",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/7sVuE5alvyq2P4-YDMZHRklSLy0FRK0DUorfmvWWZdKVDXcLoS4MEvl85K5rp65SNGg-5zKUZg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Shashank42065",
+            "authorChannelId": {
+              "value": "UC6SXyBfG1Q-4UfvFMK6cTmQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-12T07:05:55Z",
+            "updatedAt": "2021-06-12T07:05:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oYJWT_Lz8SAId6VCDRWXZaCXWG8",
+      "id": "UgwdPMvuoGiXv1aLp4B4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LoFR_FOprLKcrlzr5MBKXtKrpV8",
+          "id": "UgwdPMvuoGiXv1aLp4B4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "It's a great tutorial \nCan I get dataset at padmavathidevi71625@gmail.com please",
+            "textOriginal": "It's a great tutorial \nCan I get dataset at padmavathidevi71625@gmail.com please",
+            "authorDisplayName": "@Padmavathi1609",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/EQXw973BYT9zKZSUv-6NLZYHGW8t8REsTGSBBhTiXgrGHwfpskmyAQOX7FbDn2VL3uMKmsxIOw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Padmavathi1609",
+            "authorChannelId": {
+              "value": "UCFddnO4g1_doEK2Atbp2PeA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-11T19:29:27Z",
+            "updatedAt": "2021-06-11T19:29:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Zix-bInzW5FPxdoDiaeyjGeEqX0",
+      "id": "UgwWzLB6tVpMs190fNd4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "FqqnT8nN3nGokRKOj4heDi6BLmE",
+          "id": "UgwWzLB6tVpMs190fNd4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hlo sir i also want a datasets please provide on my gmail id\nsweetayushijain456@gmail.com",
+            "textOriginal": "Hlo sir i also want a datasets please provide on my gmail id\nsweetayushijain456@gmail.com",
+            "authorDisplayName": "@ayushijain4158",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kCCwt1nb-ZK0ohUGa-Aj7RTzG3bRbx9GHVxd7H9gN5r4I=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ayushijain4158",
+            "authorChannelId": {
+              "value": "UCPYRUcHuGP_sBfsD4b-qFfA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-07T16:46:17Z",
+            "updatedAt": "2021-06-07T16:46:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-1oWE-8VlQFUjWYXweZVMYaMdiA",
+      "id": "UgxQIY1tBGBgxHYRT4t4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "IGY1J2afA7zRJmNZCwS-HHh-JCU",
+          "id": "UgxQIY1tBGBgxHYRT4t4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Thank you for this great tutorial. Can you please share the data sets on nastia.tetervak@gmail.com? Thank you! :)",
+            "textOriginal": "Thank you for this great tutorial. Can you please share the data sets on nastia.tetervak@gmail.com? Thank you! :)",
+            "authorDisplayName": "@anastasiiatetervak2858",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mc8kpuM0QsULKw5QboZfZ73ytzjA6cME-rgvSgd54EXeI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@anastasiiatetervak2858",
+            "authorChannelId": {
+              "value": "UCPKZ0iIBvkhrgLLB2uePB7w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-06T13:47:24Z",
+            "updatedAt": "2021-06-06T13:47:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "TsQkL2nscaID9Ddf_4K7nxByNHo",
+      "id": "Ugwvzo4vzFk0XH1H_aR4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "V8Y7S-ON_tqdNroo8S0O3xIpOd4",
+          "id": "Ugwvzo4vzFk0XH1H_aR4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Can u please provide the dataset used in it to tharuntejamittapelly@gmail.com",
+            "textOriginal": "Can u please provide the dataset used in it to tharuntejamittapelly@gmail.com",
+            "authorDisplayName": "@mittapellytharunteja9056",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nCWPtObt2YSYsJkMVuCD9anbex_ILKH4jkyeSZRaQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@mittapellytharunteja9056",
+            "authorChannelId": {
+              "value": "UCcs3MFtV7w9RGuNTpEZku9A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-05T14:24:24Z",
+            "updatedAt": "2021-06-05T14:24:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0kloXvOn3kwILas7GvIWUTmrmo4",
+      "id": "Ugx12fBPFFOcHCfC76Z4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Lpxlrwq9B9OdI9Fhfhv2cC3wMcg",
+          "id": "Ugx12fBPFFOcHCfC76Z4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hello, Thanks for this Tutorial \nCan you please provide me the Datasets used in this tutorial.\nPlease mail them to heliyahasani@hotmail.com\nThanks!!",
+            "textOriginal": "Hello, Thanks for this Tutorial \nCan you please provide me the Datasets used in this tutorial.\nPlease mail them to heliyahasani@hotmail.com\nThanks!!",
+            "authorDisplayName": "@heliyahasani1605",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lL3a2p2kIBbgir_m-rckUr5pkGbwR1ycPtuGmQT3WUuLmQz_5O7czOh4UrUqhwiCJ0IA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@heliyahasani1605",
+            "authorChannelId": {
+              "value": "UC_ig6DPu1rSAfEhs1CmKZkw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-03T11:55:31Z",
+            "updatedAt": "2021-06-03T11:55:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "TFTv-F8pUW1BWrNDnT2h3_Kxnx4",
+      "id": "UgzttL4NxNLDEtUlD2B4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "E0vpvtb5kmxF-ZfLxarkvk-aVcc",
+          "id": "UgzttL4NxNLDEtUlD2B4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hii,thanks for the great tutorial,could u plzzz send the dataset csv files to this mail(scimmiaud@gmail.com)",
+            "textOriginal": "Hii,thanks for the great tutorial,could u plzzz send the dataset csv files to this mail(scimmiaud@gmail.com)",
+            "authorDisplayName": "@udayd2920",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mWSUl4ivrHe6kUW2xuj-hh66X_sbXEOf8YwGOCs-J-wA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@udayd2920",
+            "authorChannelId": {
+              "value": "UCiabzyBqWWZM7Q3UyTxrsIw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-06-03T09:40:18Z",
+            "updatedAt": "2021-06-03T09:40:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "d358TQ_u0RmGD8agqPNMUzJpLwo",
+      "id": "UgzOYF3QyJKy8q1cjDJ4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "50NQMtUf8l7zylHuS-HD9q267cI",
+          "id": "UgzOYF3QyJKy8q1cjDJ4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Could you please share with me the dataset. rawiafe@gmail.com",
+            "textOriginal": "Could you please share with me the dataset. rawiafe@gmail.com",
+            "authorDisplayName": "@rachelwiafe1801",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mzrZFTioMygnWT2OV5o2Wxc9W2ZjLbZjFK_QvOh08=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@rachelwiafe1801",
+            "authorChannelId": {
+              "value": "UCYepoqy7wzbnUx6JJXNOgFQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-06-03T08:35:43Z",
+            "updatedAt": "2021-06-03T08:35:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oeLgn7jM2wqJX-IV3GU4sEZ2MRE",
+      "id": "UgxFf01_ICEWP_kK-DN4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "iQta2l-FqmfzSblCN8QIDqNrYF4",
+          "id": "UgxFf01_ICEWP_kK-DN4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Thank you for the great tutorial. Can I have 1000_companies.csv file please?",
+            "textOriginal": "Thank you for the great tutorial. Can I have 1000_companies.csv file please?",
+            "authorDisplayName": "@gunjanlimbachiya4057",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kE0vUf3p1IyZDpVtMofZeO7MzP8wzi5o9tcLaLqxTxBc0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@gunjanlimbachiya4057",
+            "authorChannelId": {
+              "value": "UCvZmFawoYRi63l3zy0kPktg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-05-31T14:34:14Z",
+            "updatedAt": "2021-05-31T14:34:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-nBcczSTDkGMTN_ZJdpT2ML2YAo",
+      "id": "Ugz3KXx1m5jqKg6fShp4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "VcPDeEZ5VhXkhiTLWkvJ9pX2IMU",
+          "id": "Ugz3KXx1m5jqKg6fShp4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "It was a very simple and informative video which made my conceptions regarding Machine Learning crystal clear. Thanks to Simplilearn for this videos. May I get the datasets used in this tutorial. It would be very helpful for me. My email Id is baruahpragyatjyoti@gmail.com",
+            "textOriginal": "It was a very simple and informative video which made my conceptions regarding Machine Learning crystal clear. Thanks to Simplilearn for this videos. May I get the datasets used in this tutorial. It would be very helpful for me. My email Id is baruahpragyatjyoti@gmail.com",
+            "authorDisplayName": "@pragyatjyotibaruah6061",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lmA0rPd9i_HJ12aLcn6-IXVmAMeq-5-jeA6ahQWnPr6uE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@pragyatjyotibaruah6061",
+            "authorChannelId": {
+              "value": "UCU2YGod7hPby4h1JeFKGzcQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-05-30T14:19:13Z",
+            "updatedAt": "2021-05-30T14:19:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "zkUvJariR_GHRzB-qJkVJvMTS7g",
+      "id": "Ugzk7q34VuBOUeMV__J4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tYgGGLEnHvo8GZxL_Vq8gkMkQjI",
+          "id": "Ugzk7q34VuBOUeMV__J4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "can I get the slide used in this tutorial?",
+            "textOriginal": "can I get the slide used in this tutorial?",
+            "authorDisplayName": "@moinuddinmaruf9592",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_khsebiuClgBfNJh8AyA18kmrtxCsz57khUl8U8rfswfYzi=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@moinuddinmaruf9592",
+            "authorChannelId": {
+              "value": "UCZPW2siFD9hP6PtBxIX3Ttg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-05-30T04:43:54Z",
+            "updatedAt": "2021-05-30T04:43:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VirXWNPwIzOVNvssOqmJXbjO7aA",
+      "id": "Ugy3_jiJtO9t66W9s-V4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "DOLKsVr3TJ9yGkdf3QKc2jjB49M",
+          "id": "Ugy3_jiJtO9t66W9s-V4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "The video tutorial is good. Could you please share the dataset file you used in the tutorial with mehtashaina12@gmail.com? It will be very helpful. Thanks.",
+            "textOriginal": "The video tutorial is good. Could you please share the dataset file you used in the tutorial with mehtashaina12@gmail.com? It will be very helpful. Thanks.",
+            "authorDisplayName": "@shainamehta408",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_neAWLH7sZOed0nxggmhltv1elkeHlOQumeJrdVd-uJprIR_0tQYDxrh34wywukW1kbeQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@shainamehta408",
+            "authorChannelId": {
+              "value": "UCQ5ojhLXdT2V7g3GXSehUQA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-05-29T14:56:10Z",
+            "updatedAt": "2021-05-29T14:56:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "4ijQlroSwFy0FCdtgs7HMNdZrGI",
+      "id": "Ugwak6KGtI3XKi2qz2F4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mykWHdAhj0YKJWhwSoSt_MlxYNY",
+          "id": "Ugwak6KGtI3XKi2qz2F4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "I wish the video should include subtitle because some intructors’ voices are hard to listen to",
+            "textOriginal": "I wish the video should include subtitle because some intructors’ voices are hard to listen to",
+            "authorDisplayName": "@anhuynh5677",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/DKxehkVK0O7TrM8Oj3TOkz9TqIFGh0mmNWtutWDbh-3bl4IEXlZ04t5IyhNmzV1y0LvqRPXkfoY=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@anhuynh5677",
+            "authorChannelId": {
+              "value": "UC5ln5uoTRbJiT2o4LQ4OrbQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-05-08T05:54:46Z",
+            "updatedAt": "2021-05-08T05:54:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "lZ5KeGzsStSPp_6HVuw-jTHs2o4",
+      "id": "Ugyd-XCLLDYk0V-qu3p4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Rtdeveayeay_-sayEaXv04BPzGQ",
+          "id": "Ugyd-XCLLDYk0V-qu3p4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Will you please again explain that how to find best fit line in linear regression ?",
+            "textOriginal": "Will you please again explain that how to find best fit line in linear regression ?",
+            "authorDisplayName": "@harshnagarkar5939",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mywga-ijnbzI1lKncqlqMe3OUNRZ2xErZ8XFSDQOS3Ig=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@harshnagarkar5939",
+            "authorChannelId": {
+              "value": "UCJ9gAGCBrcQNQrfK2SbOGzA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-05-06T04:21:09Z",
+            "updatedAt": "2021-05-06T04:21:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "NfUdcH50F1awTU1_X7gXPgZbFsk",
+      "id": "Ugw6uFXVnhgdK6KoXQh4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9ObZvV9fKzhqUEc6jNxmLUHfxeM",
+          "id": "Ugw6uFXVnhgdK6KoXQh4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Dene waala jab bhi deta deta chhapar phad ke thankyou for such amazing course huge respect ✊🙏🏻🙏🏻🙏🏻",
+            "textOriginal": "Dene waala jab bhi deta deta chhapar phad ke thankyou for such amazing course huge respect ✊🙏🏻🙏🏻🙏🏻",
+            "authorDisplayName": "@Sprintwalashreyas",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kSGfJDEc-ehaGCvwnyuNBr8kfhML-Yew76Nj8hUUSrrke4-fZIU5cLYjQMy1xZcxRHzA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Sprintwalashreyas",
+            "authorChannelId": {
+              "value": "UC3IaU8FDvtvIL_CjTub2qxw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 15,
+            "publishedAt": "2021-05-02T03:20:02Z",
+            "updatedAt": "2021-05-02T03:20:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xGlpfRq_KvOm9QCjVx3eYXgmdL4",
+      "id": "UgxJ7_wPU5rT0XSHD2l4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WwUgX6D5bCxzGZhaSjijiga27LQ",
+          "id": "UgxJ7_wPU5rT0XSHD2l4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "stuck with out csv. kindly help",
+            "textOriginal": "stuck with out csv. kindly help",
+            "authorDisplayName": "@arunkv5610",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nPaIgCmvFZy4mqoy2APJiaENt6kTusxoLeBATzJ7agXj8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@arunkv5610",
+            "authorChannelId": {
+              "value": "UCm2K6_Vk4cc998tF_bJj0WA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-04-30T13:31:44Z",
+            "updatedAt": "2021-04-30T13:31:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Mz74kYOC823XjNjC9ik-t3g2R9E",
+      "id": "UgypwEFI-zq3BhHW9kh4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "rpBCYs9S8HK-APnxRehcoRcMZiY",
+          "id": "UgypwEFI-zq3BhHW9kh4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "cn i get the dataset that is used in descision tree module",
+            "textOriginal": "cn i get the dataset that is used in descision tree module",
+            "authorDisplayName": "@kumarankit6244",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/8ahXWPyrtmmaJKsxawf13IqmDkf0vvIuBc1LOidxxQdJNFEVQjCfQC0yYummoJrE-aCHKVgRBZg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@kumarankit6244",
+            "authorChannelId": {
+              "value": "UCnvcGLDsNJ884UKKFnMr5-g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-04-21T16:20:29Z",
+            "updatedAt": "2021-04-21T16:20:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Z4cmLwePm-KvFiKwumxuRTmnKqo",
+      "id": "UgxzK-j6bQBJBLwLfuJ4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7Qpd3KHfF7WbSik7F6kLcYO6U7U",
+          "id": "UgxzK-j6bQBJBLwLfuJ4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Great tutorials ..! Loved it ... Please provide CSV datasets to get some hands-on experience ...",
+            "textOriginal": "Great tutorials ..! Loved it ... Please provide CSV datasets to get some hands-on experience ...",
+            "authorDisplayName": "@shubhamkulkarni2137",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mp3Uy-Y5uaV5lPuLczBddy3T3OBtQYX-QpmZca0zE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@shubhamkulkarni2137",
+            "authorChannelId": {
+              "value": "UCWvVRcKpQbtTtHHeptVFFQg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-04-11T05:08:01Z",
+            "updatedAt": "2021-04-11T05:08:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "iuG0h_YhMbxcaewGHoaWhdsnpP0",
+      "id": "Ugz2DU0LaXM-RHiyqs14AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1M2pF8pMp1T7Unrsnui9Q0NS7_0",
+          "id": "Ugz2DU0LaXM-RHiyqs14AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Thanks a lot for this wonderful tutorial.",
+            "textOriginal": "Thanks a lot for this wonderful tutorial.",
+            "authorDisplayName": "@itshiraljain",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/w0IrCPp0wE94uCFCWOmzkLTahhGQ8rQfdygOPvvWyh4bDxLSPeYlpOGUKnJcemCjdWMSQ_vVqQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@itshiraljain",
+            "authorChannelId": {
+              "value": "UCguablDCQoL2wG5D6k-U51g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-04-06T20:21:05Z",
+            "updatedAt": "2021-04-07T02:23:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "At-fFhR1p-rmvUNc8ugzVc2JqxE",
+      "id": "Ugw3ppD3seG0xInKFBt4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vy_3h7yK4R4LBbG_2BvYLJHnkOY",
+          "id": "Ugw3ppD3seG0xInKFBt4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Great session.  Could you please share the datasets and note book files to my email.",
+            "textOriginal": "Great session.  Could you please share the datasets and note book files to my email.",
+            "authorDisplayName": "@sreekanthboya1559",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kEPViB0b6GEXBj0Fx3Dbx-L2ggGkCLtgEWt6s3Ki-lrfDR=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@sreekanthboya1559",
+            "authorChannelId": {
+              "value": "UCT2yjSxWKGpfhvWloIzrHHA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-04-03T12:29:24Z",
+            "updatedAt": "2021-04-03T12:29:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5Die8-lZXNVRPW-ut8zuR47jc-A",
+      "id": "Ugx8qN5uUVfW-tgdCix4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "uPfUjVp-ea4VL0iXqsNfQtvlYQ8",
+          "id": "Ugx8qN5uUVfW-tgdCix4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Great work! can you provide me all the csv files ?\nrambh2803@gmail.com",
+            "textOriginal": "Great work! can you provide me all the csv files ?\nrambh2803@gmail.com",
+            "authorDisplayName": "@ramb5374",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nojDVfyi-w7pvWVTCKNj2KA0566C2ZIoS9dndQUOw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ramb5374",
+            "authorChannelId": {
+              "value": "UCW5YHn2e3pDykekF2aHHbeg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-03-31T04:29:05Z",
+            "updatedAt": "2021-03-31T04:29:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "yQI78R2VcAliK-tNKtjT1cxGrdE",
+      "id": "UgxNA8jAIr7641tFTOZ4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Q9nX3Cr1G-BiB02zMVMrhdy3r8c",
+          "id": "UgxNA8jAIr7641tFTOZ4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Are you  a  Real",
+            "textOriginal": "Are you  a  Real",
+            "authorDisplayName": "@a1utkarsh",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mq7UKCk9jSlPfAZSJ5PztnyzJVeVNZBUjqHUqDPq8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@a1utkarsh",
+            "authorChannelId": {
+              "value": "UCTlZYZ9Rkj94MXW2dIZ5hJA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-03-19T06:06:51Z",
+            "updatedAt": "2021-03-19T06:06:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7y7XbPVBWSVSgIDeXlPLOrY2DWA",
+      "id": "UgwEmBwbrcpmDXUHMB94AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "FFo7X9DhI0S700Gw3qV1TIz_8qU",
+          "id": "UgwEmBwbrcpmDXUHMB94AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "This is sooo helpful.\nplease provide the data sets to my mail Id : vivekkanna.j@gmail.com\n\nthanks again",
+            "textOriginal": "This is sooo helpful.\nplease provide the data sets to my mail Id : vivekkanna.j@gmail.com\n\nthanks again",
+            "authorDisplayName": "@VivekkannaJayaprakash",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_knfq4P-rn0fVP4oVBWu-p1-vcNOYKFKdyDFUNu4TkM_94=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@VivekkannaJayaprakash",
+            "authorChannelId": {
+              "value": "UCpKVnuGpGQ8gr-M04Pbfoew"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-03-10T13:12:48Z",
+            "updatedAt": "2021-03-10T13:12:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0dGnYM6yEHdFo_pl4x1wim_h-r0",
+      "id": "UgzvAdW_6I9nMPJVrlt4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "o8wfWyW3BU6d1PU7IV8IWDYyg2Q",
+          "id": "UgzvAdW_6I9nMPJVrlt4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Dear team, I will like to appreciate the efforts put into this. I have learned a lot than i would have done on my own in a month. I will like to request for the datasets and codes used in this video material. My email is royalflames1@yahoo.com. Thank you",
+            "textOriginal": "Dear team, I will like to appreciate the efforts put into this. I have learned a lot than i would have done on my own in a month. I will like to request for the datasets and codes used in this video material. My email is royalflames1@yahoo.com. Thank you",
+            "authorDisplayName": "@adir9290",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nFaB11e4zJJvE495m5Ky1qExvLIuicin-50-4g_7_fdX6n=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@adir9290",
+            "authorChannelId": {
+              "value": "UCwpJDLP-1eN-Wksra9sO-yg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-03-03T10:04:10Z",
+            "updatedAt": "2021-03-03T10:04:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Bnxh4LCMZTrKUYnirC2S8tND3mU",
+      "id": "Ugzs5RjUYlZ_zHTxsld4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "oaEj1qNaYwp9Flxx3FzNGeV3Pyc",
+          "id": "Ugzs5RjUYlZ_zHTxsld4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Ppt was easy and impressive, and the course contents started from scratch and  explained with sufficient examples thank you simplilearn",
+            "textOriginal": "Ppt was easy and impressive, and the course contents started from scratch and  explained with sufficient examples thank you simplilearn",
+            "authorDisplayName": "@duhithashety",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kkSP1Ak-3ODYwREfXCMplgr4jgwj7DmuR538S1Bs8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@duhithashety",
+            "authorChannelId": {
+              "value": "UCA43wtUSKCQR0UC4vQrhd5Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-25T06:35:52Z",
+            "updatedAt": "2021-02-25T06:35:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-w_zFvN79WzqIaUUDfDmy64iIsE",
+      "id": "Ugx3qIcsS4EFeqTMcsh4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "veYQFtdKZVJtT6s5incu_-B6-IQ",
+          "id": "Ugx3qIcsS4EFeqTMcsh4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hi SimpliLearn, Could I please have the dataset? I",
+            "textOriginal": "Hi SimpliLearn, Could I please have the dataset? I",
+            "authorDisplayName": "@asmaayasin3631",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ljAvFcwBZbm_I8TvJLjFzR1uQiCtMA6hQADHX1JOpooks=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@asmaayasin3631",
+            "authorChannelId": {
+              "value": "UCcI_Pe4s6f0xiXVjFmDxVRw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-18T21:08:17Z",
+            "updatedAt": "2021-02-18T21:08:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "JkVPzJD_UvA83wAk2s37vpGXcQY",
+      "id": "UgwExsdq0iV_sSTrq0x4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "w8tWc21kJwvbgY9gYYW_ZyWeDCs",
+          "id": "UgwExsdq0iV_sSTrq0x4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hi SimpliLearn, Could I please have the dataset? I",
+            "textOriginal": "Hi SimpliLearn, Could I please have the dataset? I",
+            "authorDisplayName": "@asmaayasin3631",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ljAvFcwBZbm_I8TvJLjFzR1uQiCtMA6hQADHX1JOpooks=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@asmaayasin3631",
+            "authorChannelId": {
+              "value": "UCcI_Pe4s6f0xiXVjFmDxVRw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-18T21:07:49Z",
+            "updatedAt": "2021-02-18T21:07:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8Iw9ISL9EqcPQctl6xVEUm4MSLM",
+      "id": "UgylKFDjl9cUVPpm1Pp4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "CQWQfWL6O1GcDnbaXQBvleO4dxc",
+          "id": "UgylKFDjl9cUVPpm1Pp4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Would have been great if algo were explained in sequence, I mean first all supervised then unsupervised and also some in class quiz",
+            "textOriginal": "Would have been great if algo were explained in sequence, I mean first all supervised then unsupervised and also some in class quiz",
+            "authorDisplayName": "@d4devotion",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/d-EhlS64naOBj8fDb1GmznsSDy9VOyblJKsq8WZNle0C12X2_PGjNnpKG_ppWjW4xga5Yw_n5cQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@d4devotion",
+            "authorChannelId": {
+              "value": "UC2UsqqJydnQiRPpacMARqRA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-16T09:58:00Z",
+            "updatedAt": "2021-02-16T09:58:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RVs7k8h_7AknaRfV5Zi9TsncJSE",
+      "id": "Ugx8TGQQWPggZHrJNqR4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LG6QR4sCSuLezEMZ3zGhDfYg4AM",
+          "id": "Ugx8TGQQWPggZHrJNqR4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Thanks",
+            "textOriginal": "Thanks",
+            "authorDisplayName": "@user-nobody506",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/KJLI2snbnpYVZDVv_5eRgVYnXHV6KVXzqgBPOnBpZYf7PiNZcH2bYi66XuEseE8EgnNuaxAooQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@user-nobody506",
+            "authorChannelId": {
+              "value": "UCtO5VC6jOFvwKlHe6Z1mZjg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-02-11T21:26:03Z",
+            "updatedAt": "2021-02-11T21:26:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UBPuVDZ3Cpwz2mAHY073lITz3QM",
+      "id": "UgxSe65zcf0tBipCJrJ4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "t3ZVs40mTPcoODXK1oWOZuBM_zU",
+          "id": "UgxSe65zcf0tBipCJrJ4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "I'm watching machine learning course on youtube is always recommend on my home",
+            "textOriginal": "I'm watching machine learning course on youtube is always recommend on my home",
+            "authorDisplayName": "@warriorv8360",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nEMox0SdT76HlMPIEt9qG10FGYR6hX8mdqC28BxLaLLlc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@warriorv8360",
+            "authorChannelId": {
+              "value": "UCIPyp9nM3U_wu-Jp-UUCR-Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 9,
+            "publishedAt": "2021-02-11T21:11:49Z",
+            "updatedAt": "2021-02-11T21:11:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7JUbem_4Rvfx9-8i8goq0LvLhxM",
+      "id": "Ugxj4vGaJVVqzzjkLWJ4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BODxWU21J_JyRLmokHSTrwuGKOY",
+          "id": "Ugxj4vGaJVVqzzjkLWJ4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "It was hard for me because i am in grade 8th",
+            "textOriginal": "It was hard for me because i am in grade 8th",
+            "authorDisplayName": "@16.pranavsnair14",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mxRCkW73xBMVC5VUA3iO5QUUOztyVAFHag0sqCsByVG8G_=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@16.pranavsnair14",
+            "authorChannelId": {
+              "value": "UCwqipySzEzHIBQEBbzAIggQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2021-02-04T16:56:43Z",
+            "updatedAt": "2021-02-04T16:56:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "GkguCOqKiESz_ioad9SskujyJ4M",
+      "id": "UgwB8U-U-YChyv4ndAV4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "gmglC-KrTQWvvClB2ZT-C73Uyh4",
+          "id": "UgwB8U-U-YChyv4ndAV4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Would you please send me the dataset used in the video.\r\nanuja.bokhare@gmail.com\r\nThanks!",
+            "textOriginal": "Would you please send me the dataset used in the video.\r\nanuja.bokhare@gmail.com\r\nThanks!",
+            "authorDisplayName": "@dr.anujabokhare8138",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lOkRQYLVHoK-ukNROtxr6GNLDZ-yToKY212I95swc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@dr.anujabokhare8138",
+            "authorChannelId": {
+              "value": "UCVSGt7QaxqHwAQ-9g1CAfaw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-02-04T07:31:06Z",
+            "updatedAt": "2021-02-04T07:31:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "YjATIYxN70sOs32ZHqQuMJtB25o",
+      "id": "UgyDfBRZsB0vp-fc90F4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vUsdjMvOHhK5Aj65PaABTViCHsQ",
+          "id": "UgyDfBRZsB0vp-fc90F4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Very Nice video. Thanks, sharing this! Could you please put a link for the datsets used in the video? Would like to download them to practice and code along. (Y)",
+            "textOriginal": "Very Nice video. Thanks, sharing this! Could you please put a link for the datsets used in the video? Would like to download them to practice and code along. (Y)",
+            "authorDisplayName": "@a.ma.m8047",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kKZpiMEBvO9Nb1jzQUyscG4vSgdx6SCu9EWG5oKVU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@a.ma.m8047",
+            "authorChannelId": {
+              "value": "UCjC2OmmuDpRZIJYe03CwhxA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-02-01T16:30:07Z",
+            "updatedAt": "2021-02-01T16:30:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Hxh4P6ZE9lxG2GGm7sgS6r7oAbk",
+      "id": "UgxFDpYYj6VOlFf2FrV4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "G-Ypbcant860iqJ2Ohl0qqFn9yU",
+          "id": "UgxFDpYYj6VOlFf2FrV4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Hey simplilearn i have been studying from the tutorials but cant find the datasets can u please provide me the datasets as early plz...🙏🏻",
+            "textOriginal": "Hey simplilearn i have been studying from the tutorials but cant find the datasets can u please provide me the datasets as early plz...🙏🏻",
+            "authorDisplayName": "@tuhinkumar4397",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lQkL4VyHE1iysPKnCirRsbPL-dGriRpOrfll0fujQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@tuhinkumar4397",
+            "authorChannelId": {
+              "value": "UCFEb2Ojsz8WhhQ5RAzFEjFA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-01-21T10:29:14Z",
+            "updatedAt": "2021-01-21T10:29:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Ywf_MF-rtDYtOjGY66l2MnCnivs",
+      "id": "UgxcjEZMfQSLZnrYKeh4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "X6vqrh8xB8M2wwp5hZhGAM1EqF0",
+          "id": "UgxcjEZMfQSLZnrYKeh4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "This is full course",
+            "textOriginal": "This is full course",
+            "authorDisplayName": "@SumitSingh-xm2sc",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kEiN7x53fISDnSGBHWVnPSTStlmODbghvrrS4dkYV_SxQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@SumitSingh-xm2sc",
+            "authorChannelId": {
+              "value": "UC2a3669qTkWhMSiv70rdqqg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-01-15T08:24:45Z",
+            "updatedAt": "2021-01-15T08:24:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "iQIDI_KhBXKUN5Wbd_aPFypYO4Q",
+      "id": "Ugx4J75UDwFzSworHSB4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vkKZQCYsyUPj6whz1PhEajtTtrE",
+          "id": "Ugx4J75UDwFzSworHSB4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "This really great tutorial.",
+            "textOriginal": "This really great tutorial.",
+            "authorDisplayName": "@joysonaj3953",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lnEW4lAI1uPd42Eh_TSHmTqMfkuyrdYwfEVMTUu5SkF8w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@joysonaj3953",
+            "authorChannelId": {
+              "value": "UCvTavh_LYmZR_PpK1hd8cDA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2021-01-09T21:53:51Z",
+            "updatedAt": "2021-01-09T21:53:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "w-H2ZIDDV6Xd7QKXQ0JmfWeriX4",
+      "id": "UgwoFIphlo3m55sAzmx4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "sX0PlZXP2Aw24LcLf5h4IHyqTrM",
+          "id": "UgwoFIphlo3m55sAzmx4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "Can please also ask , for the k means example , you load the CHINA & FLOWER image , where are you actually taking does images from , m a bit confused because i wanted to compress my own image",
+            "textOriginal": "Can please also ask , for the k means example , you load the CHINA & FLOWER image , where are you actually taking does images from , m a bit confused because i wanted to compress my own image",
+            "authorDisplayName": "@snikiweperfect",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lrKZ7_RtDgrNd-sNCfadiFiPvVH0roSaff-dHUaj3Txa-O=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@snikiweperfect",
+            "authorChannelId": {
+              "value": "UCoKo7hBzXM8HqEaXoXmd6uw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2020-12-30T09:29:35Z",
+            "updatedAt": "2020-12-30T09:29:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "HS80t6MHpSLVtlH6T2BqYHqk0zk",
+      "id": "UgwDZcUyING7YQS1p7t4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "jUWYSaeuejea4tZO4TaVTaoSgcY",
+          "id": "UgwDZcUyING7YQS1p7t4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "hi , for the code where you predicting digits(logistic regression) , after importing the libraries you load the digits (1:14:33), i just wanted to understand something , where do you load these digits from coz you just type 'load_digits' but you do not put any directory where you taking these digits from ??",
+            "textOriginal": "hi , for the code where you predicting digits(logistic regression) , after importing the libraries you load the digits (1:14:33), i just wanted to understand something , where do you load these digits from coz you just type 'load_digits' but you do not put any directory where you taking these digits from ??",
+            "authorDisplayName": "@snikiweperfect",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lrKZ7_RtDgrNd-sNCfadiFiPvVH0roSaff-dHUaj3Txa-O=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@snikiweperfect",
+            "authorChannelId": {
+              "value": "UCoKo7hBzXM8HqEaXoXmd6uw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2020-12-30T08:16:07Z",
+            "updatedAt": "2020-12-30T08:16:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "U4GzMcf1sEG__VQS4NnIhw9z4ew",
+      "id": "UgwGoHyamRyLu9S-Brt4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Ggfl4F0q5Kli0SmNa00fm6BTvbQ",
+          "id": "UgwGoHyamRyLu9S-Brt4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "It's a very great tutorial ever found on youtube, Thanks a lot for sharing your valuable time and knowledge. It would be great if would have put all the practice datasets in the description.",
+            "textOriginal": "It's a very great tutorial ever found on youtube, Thanks a lot for sharing your valuable time and knowledge. It would be great if would have put all the practice datasets in the description.",
+            "authorDisplayName": "@imranshaikh115",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kwhT3ltLgLquRwNxqdm7D_iT0yY6_x2ZeqlGmKXYptZM4D=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@imranshaikh115",
+            "authorChannelId": {
+              "value": "UCBLfUH2Xd9bDvNUWcGpr9kA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 21,
+            "publishedAt": "2020-12-22T06:51:05Z",
+            "updatedAt": "2020-12-22T06:51:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 4,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "mJeUq2IHK0fslP-sd4WvSJnMjRI",
+      "id": "UgzmeEbiX2ZwIFaS5zl4AaABAg",
+      "snippet": {
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "videoId": "9f-GarcDY58",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "SOzPvLqKFOVg3uE2rGS8oW-Iytk",
+          "id": "UgzmeEbiX2ZwIFaS5zl4AaABAg",
+          "snippet": {
+            "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+            "videoId": "9f-GarcDY58",
+            "textDisplay": "I need company.csv file",
+            "textOriginal": "I need company.csv file",
+            "authorDisplayName": "@adityakumarbiswal9094",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m2osnmS6VXOXHcc8a1PEC97bP88wdKMdPQPYZShiTTzm_B=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@adityakumarbiswal9094",
+            "authorChannelId": {
+              "value": "UCX9-jWVyRSM9RvGafZR9BbQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2020-12-19T15:30:40Z",
+            "updatedAt": "2020-12-19T15:30:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    }
+  ],
+  "pages": 1,
+  "calls": 1
+}
