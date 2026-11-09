@@ -23,7 +23,8 @@ code, README, requirements, charts and example results.
 | [02](day-02-crypto-risk-volatility-analyzer/) | Crypto Risk & Volatility Analyzer — BTC vs ETH vs SOL over 366 daily observations (2025-11-06 → 2026-11-06) | Crypto | ✅ Done (2026-11-06) |
 | [03](day-03-crypto-market-anomaly-detector/) | Crypto Market Anomaly Detector — 54 flagged days (baseline rules + Isolation Forest) over 366 daily observations (2025-11-07 → 2026-11-07) | Crypto | ✅ Done (2026-11-07) |
 | [04](day-04-youtube-video-performance-analyzer/) | YouTube Video Performance Analyzer — 244 videos, 143 channels, median 611 views/day, 2.20% engagement | Social media | ✅ Done (2026-11-08) |
-| 05–60 | See the roadmap catalog | — | Planned |
+| [05](day-05-social-media-sentiment-analyzer/) | Social Media Sentiment Analyzer — 1,462 comments on 12 videos, 40.6% positive (rule-based model), validation accuracy 0.617 | Social media | ✅ Done (2026-11-09) |
+| 06–60 | See the roadmap catalog | — | Planned |
 
 Day 1 headline findings (live CoinGecko data (Powered by CoinGecko), 366 daily observations, 2025-11-05 → 2026-11-05):
 BTC −20.7%, ETH −26.2%, SOL −38.5% total return; max drawdowns −44.7% /
@@ -53,6 +54,16 @@ Day 4 headline findings (live YouTube Data API v3 data, 244 videos from 143 chan
 median 611 views/day, median engagement 2.20%; best topic AI & ML 914 views/day (n=68, solid groups n≥10); best length Long 15–30 min 851 views/day (n=41); top quartile 3,124 vs 380 views/day, engagement 2.01% vs 2.32% (reach ≠ engagement); best weekday Wednesday 878 views/day (n=34). Full detail in
 [Day 4](day-04-youtube-video-performance-analyzer/) →
 [`outputs/insights_summary.md`](day-04-youtube-video-performance-analyzer/outputs/insights_summary.md).
+
+Day 5 headline findings (live YouTube Data API v3 data, 1,462 top-level
+comments on 12 videos, fetched 2026-11-09, 16 quota units):
+40.6% positive, 52.6% neutral, 6.8% negative as classified by our own
+rule-based lexicon model — but 55.3% of comments matched no lexicon word
+and are neutral by default; AI & ML the most negative topic (13.3%
+negative, n=294); 59.0% of comments matched no theme; human validation
+(n=120) accuracy 0.617, macro-F1 0.613. Full detail in
+[Day 5](day-05-social-media-sentiment-analyzer/) →
+[`outputs/insights_summary.md`](day-05-social-media-sentiment-analyzer/outputs/insights_summary.md).
 
 ## Roadmap phases
 
