@@ -24,7 +24,8 @@ code, README, requirements, charts and example results.
 | [03](day-03-crypto-market-anomaly-detector/) | Crypto Market Anomaly Detector — 54 flagged days (baseline rules + Isolation Forest) over 366 daily observations (2025-11-07 → 2026-11-07) | Crypto | ✅ Done (2026-11-07) |
 | [04](day-04-youtube-video-performance-analyzer/) | YouTube Video Performance Analyzer — 244 videos, 143 channels, median 611 views/day, 2.20% engagement | Social media | ✅ Done (2026-11-08) |
 | [05](day-05-social-media-sentiment-analyzer/) | Social Media Sentiment Analyzer — 1,462 comments on 12 videos, 40.6% positive (rule-based model), validation accuracy 0.617 | Social media | ✅ Done (2026-11-09) |
-| 06–60 | See the roadmap catalog | — | Planned |
+| [06](day-06-viral-content-trend-explorer/) | Viral Content Trend Explorer — 472 videos, 406 channels, AI & ML and SQL accelerating, Python fading | Social media | ✅ Done (2026-11-10) |
+| 07–60 | See the roadmap catalog | — | Planned |
 
 Day 1 headline findings (live CoinGecko data (Powered by CoinGecko), 366 daily observations, 2025-11-05 → 2026-11-05):
 BTC −20.7%, ETH −26.2%, SOL −38.5% total return; max drawdowns −44.7% /
@@ -64,6 +65,18 @@ negative, n=294); 59.0% of comments matched no theme; human validation
 (n=120) accuracy 0.617, macro-F1 0.613. Full detail in
 [Day 5](day-05-social-media-sentiment-analyzer/) →
 [`outputs/insights_summary.md`](day-05-social-media-sentiment-analyzer/outputs/insights_summary.md).
+
+Day 6 headline findings (live YouTube Data API v3 data, 472 recently
+published data/AI videos in two 30-day cohorts, 236 per window, fetched
+2026-11-10, 1,019 quota units): AI & Machine Learning accelerating
+(+6.36 pp, +24.2%, 77 vs 62 videos) and SQL accelerating (+3.81 pp,
++20.9%, 52 vs 43); Python fading (−8.05 pp, −21.6%, 69 vs 88); Career /
+BI & Visualisation / General Data Analytics insufficient data; velocity,
+backtest and sentiment snapshot all empty by consequence — no recent
+video aged ≥ 7 days (all 10 query-windows truncated at 50, recent window
+effectively Nov 8–9 vs Oct 8–10); median engagement 1.49%. Full detail in
+[Day 6](day-06-viral-content-trend-explorer/) →
+[`outputs/insights_summary.md`](day-06-viral-content-trend-explorer/outputs/insights_summary.md).
 
 ## Roadmap phases
 
