@@ -1,0 +1,2252 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "LyCr4HqBtqW0plz9oroaAPfrZKM",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 172372,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kwzQouglJreBX9sFi_eMhVCpC9k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zuiJMU_yNxw"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T23:00:14Z",
+        "channelId": "UCqHxAHVjrhZKB2ARXIY0nSw",
+        "title": "DISTINCT, 고객이 같아도 다른 행이라고? [ SQLD 핵심 08 ]",
+        "description": "SQLD 핵심 08 · DISTINCT. 표의 값을 따라 계산 과정을 비교하고 핵심 규칙을 정리합니다. DISTINCT는 SELECT 목록에 고른 모든 값 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zuiJMU_yNxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zuiJMU_yNxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zuiJMU_yNxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zuiJMU_yNxw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zuiJMU_yNxw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ourfuture_studio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T23:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6Zo6NQfoAo0HkFqf8v5agnkYCMk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tOJcrMdzaLI"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T22:40:06Z",
+        "channelId": "UC7MHPc_gNAFZ-E5oBjdY-lQ",
+        "title": "Why Your Index Fails: The Range Column Trap! 🛑 #sql #database #programming",
+        "description": "Why is your composite index performing a slow partial scan even when both columns are in your WHERE clause? Look at the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tOJcrMdzaLI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tOJcrMdzaLI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tOJcrMdzaLI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tOJcrMdzaLI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tOJcrMdzaLI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Data Musings",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T22:40:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vQrdqSwBeO-Xc0POVwB87k9UyO4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7Fgx0oASbAM"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T22:35:06Z",
+        "channelId": "UCfkY6lKEjFOWtTOi3pea9qA",
+        "title": "SQL Tutorial for Beginners #5 | AND, OR, NOT, IN, BETWEEN without the classic traps",
+        "description": "SQL Tutorial for Beginners: Episode 5 of SyntaxPilot's free SQL full course, with real-life examples for every concept. AND, OR ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Fgx0oASbAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Fgx0oASbAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Fgx0oASbAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Fgx0oASbAM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Fgx0oASbAM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SyntaxPilot",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T22:35:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WdaxE0aacISwlYbqxmcJzEG6RuA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uDQAH2DNfts"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T21:45:38Z",
+        "channelId": "UCoSgWjG6i4_Udq0K1GnXO9A",
+        "title": "WHERE vs HAVING 🔥 SQL Interview Question Marathi madhe #shorts",
+        "description": "Visit our website for detailed Tutorials & Notes: Full tutorials here : https://www.codemarathi.in Free tutorials | Practical ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uDQAH2DNfts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uDQAH2DNfts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uDQAH2DNfts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uDQAH2DNfts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uDQAH2DNfts/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/uDQAH2DNfts/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Code Marathi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T21:45:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yWP1rI6q7PJapIfBh25AF0GsrNo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hbfRVebghRE"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T20:21:32Z",
+        "channelId": "UC7lU1iDH_ewN-TxZWbNGeXg",
+        "title": "El SI de SQL  CASE WHEN #aprendesql #aprender  #educacion #excelparaprincipiantes  #SQL #AprendeSQL",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hbfRVebghRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hbfRVebghRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hbfRVebghRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hbfRVebghRE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hbfRVebghRE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "datosen60",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T20:21:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HUh1ScvRB5Nhg643lhH3AIRXMVg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9LBPvlhcijI"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:30:29Z",
+        "channelId": "UCBhv7P0AmgT795eUpiFPjXQ",
+        "title": "SQL Server Interview Questions | #sqlserver #sql #coding #job  | @madesimplemssql",
+        "description": "SQL Server Interview Questions Part - 115 | #dataanalytics #sql #coding #learnsql | @madesimplemssql Preparing for a SQL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9LBPvlhcijI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9LBPvlhcijI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9LBPvlhcijI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9LBPvlhcijI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9LBPvlhcijI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Made Simple MSSQL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:30:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QzPXNXe0Y6D5GjAafm8WpWdkGXk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "krpC4gmKjuU"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:28:03Z",
+        "channelId": "UChJuckpv2YohJfUl1wboa4w",
+        "title": "🤔 ¿Qué es SQL y para qué sirve? El lenguaje detrás de tus aplicaciones 💾",
+        "description": "Sabes qué tecnología trabaja detrás de muchas aplicaciones, páginas web y sistemas empresariales? En este vídeo descubrirás ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/krpC4gmKjuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/krpC4gmKjuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/krpC4gmKjuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/krpC4gmKjuU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/krpC4gmKjuU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tú, Yo, Excel y Power BI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:28:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2Cg-TJgvU1EojLZughql7InQdYA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vn2ZrIzc5yw"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T18:30:17Z",
+        "channelId": "UCwYskbcXzb4_q01gx_6Phuw",
+        "title": "Lesson 1: How to Install Microsoft |SQL Server| Step by Step Tutorial  by @SIMAUTOMATIONTUTORIAL",
+        "description": "In this video, you will learn how to download and install Microsoft SQL Server from scratch. This tutorial is perfect for beginners ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vn2ZrIzc5yw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vn2ZrIzc5yw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vn2ZrIzc5yw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vn2ZrIzc5yw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vn2ZrIzc5yw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SIM AUTOMATION TUTORIAL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T18:30:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JWLahiGrEjpzxMlLqvX9JDZbp4k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4AXkFbG5WUA"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T18:00:38Z",
+        "channelId": "UCNATJvbV3o4eUah6862xuaA",
+        "title": "Aynı Anda Milyonlarca İşlem: Dağıtık SQL Nedir? 🍔 #shorts",
+        "description": "Dev sistemler aynı anda milyonlarca işlemi, hesaplar hiç şaşmadan nasıl işler? Çok popüler bir hamburgerci düşünün: kapıda ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4AXkFbG5WUA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4AXkFbG5WUA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4AXkFbG5WUA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4AXkFbG5WUA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4AXkFbG5WUA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/4AXkFbG5WUA/sardefault.jpg",
+            "width": 941,
+            "height": 1672
+          }
+        },
+        "channelTitle": "Ali Orhun Akkirman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T18:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RibCHlhl1TJRIFw3NusrkhJJPTA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ovHUHZlCsME"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T17:49:14Z",
+        "channelId": "UC2Yt8PQfdnZbHaPHzkoFNMA",
+        "title": "سمعتDDL– DM – DQLلكن إيه الفرق بينهم؟  #dataanalysis  #excel #sql #postgresql #sqltutorial #tutorial",
+        "description": "الفيديو ده تمهيد مهم جدًا للخطوات الجاية، لأننا هنبدأ بعده ندخل عمليًا في إنشاء الـDatabase والـTables ونبني عليها واحدة واحدة. يمكن تكون ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ovHUHZlCsME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ovHUHZlCsME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ovHUHZlCsME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ovHUHZlCsME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ovHUHZlCsME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "M Analytics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T17:49:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ka09a8V9mpMja0l3iWrN8dSgImg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jphhcKXoXes"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T17:45:23Z",
+        "channelId": "UCKYyUQIccIAc_qY8rfqlnpA",
+        "title": "SQL Puzzle #8: How Many Rows? UNION vs UNION ALL",
+        "description": "UNION removes duplicates, so this query returns 2 rows. UNION ALL keeps them and would return 3. Answer A. Got it right?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jphhcKXoXes/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jphhcKXoXes/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jphhcKXoXes/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jphhcKXoXes/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jphhcKXoXes/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PLSQL Lab Notes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T17:45:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4pii9WPLPlx_fDwmFi5mtqylBVE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bRKBF_uuZZw"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T17:31:23Z",
+        "channelId": "UCxb9WkLrEH3BcK6pemfSJ4w",
+        "title": "SQL CASE Statement Explained in 15 Seconds",
+        "description": "SQL CASE Statement Explained in Just 15 Seconds! Want to learn SQL easily? The SQL CASE statement works like IF-ELSE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bRKBF_uuZZw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bRKBF_uuZZw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bRKBF_uuZZw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bRKBF_uuZZw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bRKBF_uuZZw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Devnexmedia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T17:31:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SkT-hW5QC67ubWaD2X2GiDNVzxc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jsDZDrKcBQM"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T17:23:30Z",
+        "channelId": "UCKYyUQIccIAc_qY8rfqlnpA",
+        "title": "SQL Puzzle #7: MOD(-7, 3) in Oracle",
+        "description": "In Oracle, MOD keeps the sign of the first number: MOD(-7, 3) returns -1. Answer C. Got it right? Follow for harder ones. Subscribe: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jsDZDrKcBQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jsDZDrKcBQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jsDZDrKcBQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jsDZDrKcBQM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jsDZDrKcBQM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PLSQL Lab Notes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T17:23:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WNiR02lMxlwMlpgwh0HLQtw8MCU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hJ98ltb8MD0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T17:20:37Z",
+        "channelId": "UCKYyUQIccIAc_qY8rfqlnpA",
+        "title": "SQL Puzzle #6: SUBSTR(&#39;Oracle&#39;, 0, 3)",
+        "description": "In Oracle, a start position of 0 is treated as 1, so SUBSTR('Oracle', 0, 3) returns 'Ora'. Answer A. Got it right? Follow for harder ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hJ98ltb8MD0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hJ98ltb8MD0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hJ98ltb8MD0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hJ98ltb8MD0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hJ98ltb8MD0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PLSQL Lab Notes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T17:20:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IctPowwyt0Cvt1btfw-kLpn3dfQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sVgZx3D85m0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:38:57Z",
+        "channelId": "UCVlKTvKMcQamDg0irD3jIjw",
+        "title": "🔢 SQL Order By: Master Data Sorting Quickly",
+        "description": "Ever wonder how to organize your database results with precision? In this quick tutorial, we break down the SQL ORDER BY ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sVgZx3D85m0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sVgZx3D85m0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sVgZx3D85m0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sVgZx3D85m0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sVgZx3D85m0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SQL in Seconds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:38:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "edpv8hW736BWUjgD87uCxE08KVg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-boXsS1rz5s"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:00:31Z",
+        "channelId": "UCnY9lXjyamU-L9uwwuNfm9A",
+        "title": "Curso de SQL desde R #01: Introducción",
+        "description": "Empezamos un curso en D0AR para saber cómo conectar nuestro código de R con bases de datos SQL, ¡fundamental para ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-boXsS1rz5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-boXsS1rz5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-boXsS1rz5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-boXsS1rz5s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-boXsS1rz5s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "D0AR -  Academia de R",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WYlKQk7LSsqYyBzFHpdNwPQVpp4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6p26TTG5xto"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T15:50:52Z",
+        "channelId": "UCUYf9CHKyBmaYykn-YnJILw",
+        "title": "I Spent 2 Hours on One SQL JOIN... With AI #shorts",
+        "description": "I spent 2 hours on one JOIN with AI. It invented columns. Then triple-counted revenue with a fan-out JOIN. The problem wasn't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6p26TTG5xto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6p26TTG5xto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6p26TTG5xto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6p26TTG5xto/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6p26TTG5xto/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AI2sql",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T15:50:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u7r30-9uCq-scSjMI-KfF2q0Bls",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "acuw9smz66Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T15:12:00Z",
+        "channelId": "UCQYO2p7JMcCp-9xIZxGP2Sg",
+        "title": "Complex SQL Query Explained CTE DENSE RANK Top 2 Products",
+        "description": "Master complex SQL queries by ranking products with CTE and DENSE RANK. This tutorial simplifies advanced database logic, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/acuw9smz66Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/acuw9smz66Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/acuw9smz66Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/acuw9smz66Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/acuw9smz66Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/acuw9smz66Q/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Manish Sharma",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T15:12:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mhg_508ia9kUI78R1rwnERjQEBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hpmflKTgUbY"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:40:33Z",
+        "channelId": "UCKYyUQIccIAc_qY8rfqlnpA",
+        "title": "SQL BOSS #1: ADD_MONTHS and the Last Day of the Month",
+        "description": "Boss puzzle: what do these two ADD_MONTHS calls return? ADD_MONTHS(DATE '2026-01-31', 1) and ADD_MONTHS(DATE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hpmflKTgUbY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hpmflKTgUbY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hpmflKTgUbY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hpmflKTgUbY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hpmflKTgUbY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PLSQL Lab Notes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:40:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P06PQdIf7vkOHNYne57vEUOAfrY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tmlvqbl8NTY"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:32:59Z",
+        "channelId": "UCJ_lIrPR-vJP4Vi3VjnLjJg",
+        "title": "Snowflake Training for Beginners | Complete Snowflake Tutorial from Basics | DataPoint Masters",
+        "description": "Snowflake Training for Beginners - Complete Snowflake Tutorial Welcome to DataPoint Masters! In this video, you'll learn ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tmlvqbl8NTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tmlvqbl8NTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tmlvqbl8NTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tmlvqbl8NTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tmlvqbl8NTY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DATA POINT MASTERS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:32:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QbG3qmF9JHdRaF6Sv2B-WJ9_7uw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZEy7F7gP4iU"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:22:08Z",
+        "channelId": "UCT8OQPNkhq58LOREgRD4eYQ",
+        "title": "How many rows does a CROSS JOIN return in SQL? | Ep 27 #shorts",
+        "description": "Three sizes and two colours give six rows, not three. How many rows does this return? SELECT size, colour FROM sizes CROSS ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZEy7F7gP4iU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZEy7F7gP4iU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZEy7F7gP4iU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZEy7F7gP4iU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZEy7F7gP4iU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/ZEy7F7gP4iU/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "VisualSQL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:22:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I18ghsfssETkFms8tz3OsWXlCIA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0RxzGlM1mJ4"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:20:23Z",
+        "channelId": "UCT8OQPNkhq58LOREgRD4eYQ",
+        "title": "How do you do a self join in SQL? | Ep 26 #shorts",
+        "description": "This self join looks right. Is the boss in the result? SELECT e.emp_id, e.name, m.name AS manager FROM employees e INNER ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0RxzGlM1mJ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0RxzGlM1mJ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0RxzGlM1mJ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0RxzGlM1mJ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0RxzGlM1mJ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/0RxzGlM1mJ4/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "VisualSQL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:20:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IT8F0PLfz0JwVl9fXWxPHQ9l4h4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3gnd5FOZ0pY"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:18:24Z",
+        "channelId": "UCZWz9rqyOktMAsB-yJKh2hA",
+        "title": "Se registró con el nombre “admin” aunque ya existía y accedió al panel de administración 👤🔓",
+        "description": "Detrás de una web suele haber una base de datos que guarda los usuarios y sus contraseñas. El usuario con más privilegios es ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3gnd5FOZ0pY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3gnd5FOZ0pY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3gnd5FOZ0pY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3gnd5FOZ0pY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3gnd5FOZ0pY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/3gnd5FOZ0pY/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Moises Castillo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:18:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qmZNHTySmbGyLXjki5UP5PE0MEU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YXyS67w-338"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:08:33Z",
+        "channelId": "UCKYyUQIccIAc_qY8rfqlnpA",
+        "title": "SQL Puzzle #5: ROUND(2.5) and ROUND(-2.5)",
+        "description": "Oracle rounds half away from zero: 3 and -3. Answer B. (Some languages round to even.) Follow for puzzle #6: SUBSTR with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YXyS67w-338/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YXyS67w-338/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YXyS67w-338/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YXyS67w-338/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YXyS67w-338/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PLSQL Lab Notes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:08:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o2VlcdFVZIHi6Iya4GR-7F7GB8Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FNyWl8oUx1s"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:04:06Z",
+        "channelId": "UCKYyUQIccIAc_qY8rfqlnpA",
+        "title": "SQL Puzzle #4: COUNT(x) with a NULL",
+        "description": "COUNT(column) skips NULLs; COUNT(*) does not. Column holds 1, NULL, 3 = answer B (2). Follow for puzzle #5: ROUND.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FNyWl8oUx1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FNyWl8oUx1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FNyWl8oUx1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FNyWl8oUx1s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FNyWl8oUx1s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PLSQL Lab Notes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:04:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jzxqnv4NqVlOTRCVnjhmXM-TrT4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0DRsHS3sFcY"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:00:19Z",
+        "channelId": "UCdx2cU2_cSmjstDS34SdrFQ",
+        "title": "10 SQL Features You&#39;re Probably Missing",
+        "description": "From COALESCE to window functions: 10 SQL features, counted down, that make your queries shorter, faster, and easier to read.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0DRsHS3sFcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0DRsHS3sFcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0DRsHS3sFcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0DRsHS3sFcY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0DRsHS3sFcY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "𝗦𝘁𝗮𝗿𝗖𝗼𝗱𝗲 𝗞𝗵",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bmYTXyh2_fAGjDTDu3upu-4h2Dc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VizgxADdpPk"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:51:42Z",
+        "channelId": "UCSp_I2Eqk-DuMGmSkriXHqQ",
+        "title": "SQL WHERE and ORDER BY Clauses Explained  SQL Server Tutorial for Beginners",
+        "description": "Welcome to another lesson in the Data Career World SQL Tutorial Series! In this video, you'll learn how to use the SQL `WHERE`, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VizgxADdpPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VizgxADdpPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VizgxADdpPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VizgxADdpPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VizgxADdpPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Data Career World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:51:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6ou7dYi8noRJATDkwabKzClO7T0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "utID_cNWe3o"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:38:48Z",
+        "channelId": "UC-XMW7qS8uzUNtL8rkcLa1g",
+        "title": "Episode 3 | How Text-to-SQL Works | Convert English into SQL Using AI",
+        "description": "In Episode 3, we will learn how Text-to-SQL works through a practical demonstration using ChatGPT. Instead of writing complex ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/utID_cNWe3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/utID_cNWe3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/utID_cNWe3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/utID_cNWe3o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/utID_cNWe3o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digital Studio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:38:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TN-WECZ_2_qfdcqJetd4tKZqNng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AomGXoPDdBw"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:34:46Z",
+        "channelId": "UCANhOO7Y0l4KdqIVDgazVNQ",
+        "title": "What is SQL? An Excel sheet stops at 1,048,576 rows. How do apps find your orders? SELECT FROM WHERE",
+        "description": "What is SQL? An Excel sheet stops at 1048576 rows. The apps you use every day hold far more than that, and still find your row in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AomGXoPDdBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AomGXoPDdBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AomGXoPDdBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AomGXoPDdBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AomGXoPDdBw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/AomGXoPDdBw/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Duck Streak",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:34:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3oqHK1CiI8i41BGrbpNVmcbunzg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T5ns_WFV_Qg"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:30:29Z",
+        "channelId": "UCBhv7P0AmgT795eUpiFPjXQ",
+        "title": "SQL Server Interview Questions | #sqlserver #sql #coding #learnsql | @madesimplemssql",
+        "description": "SQL Server Interview Questions Part - 114 | #dataanalytics #sql #coding #learnsql | @madesimplemssql Preparing for a SQL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T5ns_WFV_Qg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T5ns_WFV_Qg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T5ns_WFV_Qg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T5ns_WFV_Qg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T5ns_WFV_Qg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Made Simple MSSQL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:30:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zueHGD_BiB-pQxc3Aeunurlj_OM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rxWWo4m356A"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:21:23Z",
+        "channelId": "UCsSUJsckEsDBOf79Ap4flmQ",
+        "title": "SQL Interview Prep: Solve 5 Advanced Data Problems Step-by-Step",
+        "description": "Master SQL WHERE Clause With Real Sales Data Master the SQL WHERE clause in under 60 seconds! In this quick tutorial, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rxWWo4m356A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rxWWo4m356A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rxWWo4m356A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rxWWo4m356A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rxWWo4m356A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/rxWWo4m356A/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Tech - Jroshan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:21:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gAjRcIKNHFW8L5Ni1usjb1JsGTg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Lsl1vlm7S90"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:16:02Z",
+        "channelId": "UCwLKWRYYb9eS6ACisTaVB1w",
+        "title": "Print Each Character of a Word on Its Own Row | Walmart SQL interview question #sql",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lsl1vlm7S90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lsl1vlm7S90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lsl1vlm7S90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Lsl1vlm7S90/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Lsl1vlm7S90/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CodeWithVivek",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:16:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1vVKxOs8flE4VHAHENpTo5zseNE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bSBOXjIj-AE"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T12:59:02Z",
+        "channelId": "UCnLm_y7Fgg18oiY92kobOsA",
+        "title": "SQL CREATE TABLE Explained in 60 Seconds 🚀 | PostgreSQL Beginner Tutorial",
+        "description": "Before you can query data, you need a place to store it. In this SQL Shorts episode, learn how to create your very first table using ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bSBOXjIj-AE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bSBOXjIj-AE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bSBOXjIj-AE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Prasanth Code Verse",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T12:59:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rp67ObTsx1I_1vYpZrCv9tKgLlk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AAY-S1QTBzs"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T12:45:37Z",
+        "channelId": "UC2CVbIZ3WHwZjWeDzRYYNdg",
+        "title": "How Do Banks Prevent Database Errors? 🤯 | Database Transactions Explained #Shorts",
+        "description": "What happens when a database operation fails halfway through? Does your data become incorrect? That's exactly why ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AAY-S1QTBzs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AAY-S1QTBzs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AAY-S1QTBzs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AAY-S1QTBzs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AAY-S1QTBzs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/AAY-S1QTBzs/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Tech Nanban",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T12:45:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_rBDK6oGQOQbweUsnw-krV5Eep0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s-JF5Zb9Aro"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T12:36:29Z",
+        "channelId": "UCKfMiUc2nISOuDnNssi-5mQ",
+        "title": "Stop writing UNION in SQL when you really need UNION ALL! ⚠️",
+        "description": "Stop writing UNION in SQL when you really need UNION ALL! ⚠️ Combining datasets from multiple queries is fundamental, but ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s-JF5Zb9Aro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s-JF5Zb9Aro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s-JF5Zb9Aro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s-JF5Zb9Aro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s-JF5Zb9Aro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Data Query Lab",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T12:36:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "shBs6JK_ZIGBwF8-X9-n-DhE1RM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AsZUqxANTrw"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T12:25:28Z",
+        "channelId": "UCV6ylJydlrOnF7RN1qzxW-w",
+        "title": "WHERE vs HAVING in SQL | Interview Question. #SQL #SQLInterview #SQLTips #LearnSQL #Shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AsZUqxANTrw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AsZUqxANTrw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AsZUqxANTrw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AsZUqxANTrw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AsZUqxANTrw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DotNetFSE-1247",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T12:25:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uchTUDzXIJBHa0JxtegaPRtV2dc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "43uz5hyHLRs"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T11:20:35Z",
+        "channelId": "UC6tTJER1rWg4z4CNqUfaAHw",
+        "title": "Amazon SQL Interview Question 🔥",
+        "description": "Find customers with more than 50% order returns using Excel and SQL. Explained step by step in Kannada! Subscribe to Data ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/43uz5hyHLRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/43uz5hyHLRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/43uz5hyHLRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/43uz5hyHLRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/43uz5hyHLRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/43uz5hyHLRs/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Data with Madhu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T11:20:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M4RkzLYsCNoWpNzDJbs99rh0QAY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JrWOkEp9BkY"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T11:07:59Z",
+        "channelId": "UCKYyUQIccIAc_qY8rfqlnpA",
+        "title": "SQL Puzzle #2: NOT IN and NULL",
+        "description": "SELECT 'yes' FROM dual WHERE 1 NOT IN (2, NULL); Yes, no rows, or error? Answer: B. NOT IN with a NULL in the list never ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JrWOkEp9BkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JrWOkEp9BkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JrWOkEp9BkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JrWOkEp9BkY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JrWOkEp9BkY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PLSQL Lab Notes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T11:07:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pblMWDgX6pjutoifSm-w9_irUQA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eQL-n_WsGL0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T10:27:05Z",
+        "channelId": "UCKYyUQIccIAc_qY8rfqlnpA",
+        "title": "SQL Puzzle #1: NULL = NULL (3 seconds)",
+        "description": "Does NULL = NULL return a row in Oracle? Pick A, B or C before the timer ends. Answer: B. NULL = NULL is UNKNOWN, not ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eQL-n_WsGL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eQL-n_WsGL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eQL-n_WsGL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eQL-n_WsGL0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eQL-n_WsGL0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PLSQL Lab Notes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T10:27:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cuTTqWehkqjiF6hes3HQkxuzT68",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7xK7Zut1zfw"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T10:21:16Z",
+        "channelId": "UC3-2I86-8nyJ7lf-dj0KhMg",
+        "title": "SQLD 하루 한 문제 216 | EMP(SAL)에 NULL만 2행 있다. SELECT SUM(SAL) FROM EMP 결과는?",
+        "description": "EMP(SAL)에 NULL만 2행 있다. SELECT SUM(SAL) FROM EMP 결과는? #SQLD, #SQLD공부, #SQLD시험, #SQLD기출유형, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7xK7Zut1zfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7xK7Zut1zfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7xK7Zut1zfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7xK7Zut1zfw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7xK7Zut1zfw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "hoho",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T10:21:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OCTECzCLRPJz42CVGopECh2USV8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oS2o8PjUZfI"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T10:17:51Z",
+        "channelId": "UCCsWiq810qF0ZIjq-6Xp6vg",
+        "title": "SQL DELETE এর পর কয়টি রেকর্ড থাকবে? | HSC ICT SQL #shorts",
+        "description": "এই SQL কোয়েরির ফলাফল কী? DELETE FROM Student WHERE City = 'Rangpur'; SELECT COUNT(*) FROM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oS2o8PjUZfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oS2o8PjUZfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oS2o8PjUZfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sohoj ICT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T10:17:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ut9FTsav1ZrP3LK2z3_q4eddGyw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JYdFN4iLCv4"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T08:29:53Z",
+        "channelId": "UCu8rcxIs08gCMMX6eHtRBUw",
+        "title": "Как работает JOIN в SQL: INNER, LEFT, RIGHT, FULL, CROSS и SELF наглядно",
+        "description": "SQL JOIN соединяет данные из таблиц. Но какие строки попадут в результат, где появятся NULL и почему одна запись ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JYdFN4iLCv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JYdFN4iLCv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JYdFN4iLCv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JYdFN4iLCv4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JYdFN4iLCv4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/JYdFN4iLCv4/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "MIKORIX",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T08:29:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-W58BP_XvuJA4q8a_8eMM3J2bkc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JDC9vGOWSes"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T07:49:18Z",
+        "channelId": "UCi1gsipZTD7bv5KhZL6xRzQ",
+        "title": "SQL Session 4 | SQL Tutorial for Beginners | Introduction to SQL &amp; Database Basics",
+        "description": "Description Welcome to SQL Session 4! In this session, you will learn the fundamentals of SQL (Structured Query Language), the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JDC9vGOWSes/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JDC9vGOWSes/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JDC9vGOWSes/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JDC9vGOWSes/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JDC9vGOWSes/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "graduatesofttech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T07:49:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ix--HdpzGQVZqaTeSItvxUBgiZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I3TJMxECmlU"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T07:26:41Z",
+        "channelId": "UCUYf9CHKyBmaYykn-YnJILw",
+        "title": "SQL Interview Quiz: NOT IN vs NOT EXISTS (one returns 0 rows!) #shorts",
+        "description": "Interview question: which query finds customers with NO orders? A) NOT IN (subquery) B) NOT EXISTS (subquery) Same goal.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I3TJMxECmlU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I3TJMxECmlU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I3TJMxECmlU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I3TJMxECmlU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I3TJMxECmlU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AI2sql",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T07:26:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lP_jaC8jlwUtdwW9b_Qrj7-pAV4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vVBLIhztEV4"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T06:35:36Z",
+        "channelId": "UCWpBx1AieRnyPa-4qtFFevg",
+        "title": "🔥 SQL Interview Challenge! Can You Find the 2nd Highest Salary? 😱 | Data Analyst #Shorts",
+        "description": "Can you solve this SQL Interview Question? Learn how to find the Second Highest Salary using SQL MAX() and Subquery.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vVBLIhztEV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vVBLIhztEV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vVBLIhztEV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vVBLIhztEV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vVBLIhztEV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DataFix",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T06:35:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1hpTDA491FxQr5A7kCyQgrDzMMw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5IOUs_0h6RU"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T06:30:13Z",
+        "channelId": "UCxJaSbXVK-k1Bt66v0M-55g",
+        "title": "sql dialects",
+        "description": "sqlserver #sql #sqltutorial #sqltutorialforbeginners #sqlforbeginners.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5IOUs_0h6RU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5IOUs_0h6RU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5IOUs_0h6RU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5IOUs_0h6RU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5IOUs_0h6RU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "learnMSSQLServer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T06:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uJ15XHy1Qfq8RvK2YIz1-agyQVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wXCaKb8nMNM"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T05:18:21Z",
+        "channelId": "UCVlKTvKMcQamDg0irD3jIjw",
+        "title": "💻 Master SQL: GROUP BY vs. HAVING Rules",
+        "description": "Struggling to remember when to use GROUP BY versus HAVING in your SQL queries? This concise tutorial breaks down the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wXCaKb8nMNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wXCaKb8nMNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wXCaKb8nMNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wXCaKb8nMNM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wXCaKb8nMNM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SQL in Seconds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T05:18:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UpbMBCqFUFJRg2s0VUNtRk3bIGY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "viN5_PgBlVw"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T03:30:33Z",
+        "channelId": "UCVN7PnJnuKQ65QLmWjFvhiw",
+        "title": "STAGING TABLE | 100 Features in 100 days! #database #sql",
+        "description": "Subscribe for new tech videos every week Other social media channels here: https://linktr.ee/connor Check out Oracle Database ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/viN5_PgBlVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/viN5_PgBlVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/viN5_PgBlVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/viN5_PgBlVw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/viN5_PgBlVw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/viN5_PgBlVw/sardefault.jpg",
+            "width": 1778,
+            "height": 3160
+          }
+        },
+        "channelTitle": "SQL and Database explained!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T03:30:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D0kXZvOWmuw7i9uzqWwsfcPpI2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JqJzs-9lgdk"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T03:04:36Z",
+        "channelId": "UC7lU1iDH_ewN-TxZWbNGeXg",
+        "title": "Totales con GROUP BY en SQL",
+        "description": "GROUP BY con SUM y COUNT, filtrado con HAVING, y ordenado con ORDER BY #sql #aprendesql #analisis #sqlfacil ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JqJzs-9lgdk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JqJzs-9lgdk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JqJzs-9lgdk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JqJzs-9lgdk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JqJzs-9lgdk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "datosen60",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T03:04:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BZsGivE11sHXzi8lnDV6bbJCYmc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l58QUh6DCAo"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T03:00:34Z",
+        "channelId": "UCtODxUNvdRVT_Jlgx0SIDrQ",
+        "title": "This SQL Query Returns ZERO Rows. Why? (NOT IN + NULL)",
+        "description": "This query returns zero rows, and nobody can see why. We want every customer who has never placed an order: SELECT name ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l58QUh6DCAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l58QUh6DCAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l58QUh6DCAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l58QUh6DCAo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l58QUh6DCAo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "sthithapragna",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T03:00:34Z"
+      }
+    }
+  ]
+}

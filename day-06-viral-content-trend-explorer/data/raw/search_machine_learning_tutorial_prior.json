@@ -1,0 +1,2262 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "f8DK0XCwp85BqJkPQOyjovgjSWQ",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "daWSj8EOXTqAHkMIadHMBgid2oQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rtmQD9UaSL0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T18:48:17Z",
+        "channelId": "UC_qbdWG_xbcVI7dlwrhxG5g",
+        "title": "What is Machine Learning? 🏠 Explained with House Price Prediction | AI Engineer #7",
+        "description": "What is Machine Learning, and how does it actually work? In this episode of the AI Engineering series, we'll understand ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rtmQD9UaSL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rtmQD9UaSL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rtmQD9UaSL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rtmQD9UaSL0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rtmQD9UaSL0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Artisan Lab",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T18:48:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1DRicfEMoY_iqV8bMyQyT5cofnY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9h06ZiPDK6k"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T18:36:53Z",
+        "channelId": "UCpso5LiIX2g-jHDzM3sdRTg",
+        "title": "AI vs Machine Learning vs Generative AI 🤖 | What&#39;s the Difference?",
+        "description": "Are Artificial Intelligence, Machine Learning, and Generative AI all the same? Not quite! While these technologies are closely ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9h06ZiPDK6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9h06ZiPDK6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9h06ZiPDK6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9h06ZiPDK6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/9h06ZiPDK6k/sardefault.jpg",
+            "width": 352,
+            "height": 625
+          }
+        },
+        "channelTitle": "Skillcubator Training and Placement Institute",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T18:36:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r-9bZteOBVqc-rC3krtGBq3ZWmo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_TqHpiInnpk"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T18:11:14Z",
+        "channelId": "UCrLPV3s0uoQ3bGO6pETBi8g",
+        "title": "Python Tutorial in Odia | Chapter 2: Variables, Data Types &amp; Type Casting",
+        "description": "Welcome back to Chapter 2 of our complete Python Master Series on Skills Matter! In this video, we move from theory to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_TqHpiInnpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_TqHpiInnpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_TqHpiInnpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_TqHpiInnpk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_TqHpiInnpk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SKILLS MATTER ODIA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T18:11:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cUxEZGpNWkXSVkYLVJcYfcAmu68",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QUAqZu2fbG0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T18:05:49Z",
+        "channelId": "UCaWr151FxUolhTYbO1lgKWg",
+        "title": "measurement device ( tutorial oscilloscope)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QUAqZu2fbG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QUAqZu2fbG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QUAqZu2fbG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QUAqZu2fbG0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QUAqZu2fbG0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Raikal Hakim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T18:05:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LbPxd5wrC8iWHx7cI-kpWfGEG0o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "48SF60yp8LQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T18:00:22Z",
+        "channelId": "UCuwJoiGWRxPYStBp0l0WuZw",
+        "title": "Learning How To Beatbox #Shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/48SF60yp8LQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/48SF60yp8LQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/48SF60yp8LQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/48SF60yp8LQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/48SF60yp8LQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Luke Davidson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T18:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iTNgLcQztwoTLWDLsJPVoVPFkbg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sE_Xkuy3Eu0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T16:48:32Z",
+        "channelId": "UCCJk22vUcfhckYbH7qh1gyw",
+        "title": "LD Heatmaps · 9. Statistics | DataViz Pro Tutorial",
+        "description": "The Statistics button in LD Heatmaps: the bivariate r² × D' summary, the Subpopulation Structure tool, and LD block detection with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sE_Xkuy3Eu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sE_Xkuy3Eu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sE_Xkuy3Eu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sE_Xkuy3Eu0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sE_Xkuy3Eu0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PlantNura",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T16:48:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uJNnL2J0HwvleFjoQ-atwN7Zl58",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jpa6bOe60eU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T16:24:36Z",
+        "channelId": "UCh83D831l5Nfi4yIsxrcLKw",
+        "title": "#khusus yang punya chatsmockk",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jpa6bOe60eU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jpa6bOe60eU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jpa6bOe60eU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jpa6bOe60eU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jpa6bOe60eU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": " 🎀α𝘆υm𝗶ҽ🥣 ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T16:24:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g41FQbiToqdHmhhupX2GAEurUUQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J9NQTYUP6k0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T16:24:57Z",
+        "channelId": "UCdCR4-uYOg5ju-IUuDnfnQA",
+        "title": "How the Top 1% Use Claude Code Differently",
+        "description": "Join the Agentic Academy: https://skool.com/scrapes Get customers from ChatGPT: https://dub.sh/rankspot-yt Don't miss the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J9NQTYUP6k0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J9NQTYUP6k0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J9NQTYUP6k0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J9NQTYUP6k0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J9NQTYUP6k0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/J9NQTYUP6k0/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Simon Scrapes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T16:24:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FCZCGOKnoKs-3-cVLmtyId0gu7E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kCua1Zj-Pb0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T15:00:39Z",
+        "channelId": "UC4NxzcYe3Bkpp62FNMmvVDA",
+        "title": "AI vs Machine Learning vs Deep Learning",
+        "description": "shorts #ai #artificialintelligence #tech.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kCua1Zj-Pb0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kCua1Zj-Pb0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kCua1Zj-Pb0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kCua1Zj-Pb0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kCua1Zj-Pb0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Unfold AI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T15:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_f37pMYCV8pbTPJq3nx-IR-XEKw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7BTHM000us4"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T13:00:28Z",
+        "channelId": "UCb6tunLXIlcTPuAgxok2u1Q",
+        "title": "The 3 BEST AI Indicators on TradingView – Ranked Worst to Best (With Proof!)",
+        "description": "The 3 BEST AI Indicators on TradingView – Ranked Worst to Best (With Proof!) We tested the best AI trading indicator contenders ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7BTHM000us4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7BTHM000us4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7BTHM000us4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7BTHM000us4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7BTHM000us4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/7BTHM000us4/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "Flux Charts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T13:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0yktDYGsY7Eaz08jaV5qh19K-iQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2XrK-0R62uY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T13:00:11Z",
+        "channelId": "UCfdLRU02ubhIpmDIh7j9kHA",
+        "title": "World&#39;s Fastest Skewb Tutorial",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2XrK-0R62uY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2XrK-0R62uY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2XrK-0R62uY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2XrK-0R62uY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2XrK-0R62uY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Z3Cubing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T13:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hcx14RpX9_dRk3YwgXpCchyaLBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eY8FLXATA4c"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T12:30:23Z",
+        "channelId": "UCopJCPVvHty_wjZ1CRYXQFA",
+        "title": "Mouth Drawing Tutorial ✏️ | 3 Angles Step by Step | DrawingClassIN #shorts",
+        "description": "Mouth Drawing Tutorial ✏️ | 3 Angles Step by Step | DrawingClassIN #shorts Learn how to draw realistic lips from front, 3/4, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eY8FLXATA4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eY8FLXATA4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eY8FLXATA4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eY8FLXATA4c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eY8FLXATA4c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DrawingVid56",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T12:30:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yq18IFt5bMHg_YJWTto-w5c91PQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FNdejnVobIo"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T12:19:49Z",
+        "channelId": "UCnX3cCSmkL9OYpLOIvIqmFg",
+        "title": "Today I learned [modules]in Python 🐍 #machinelearning #aimlstudent #motivation #technology",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FNdejnVobIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FNdejnVobIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FNdejnVobIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FNdejnVobIo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FNdejnVobIo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "heena kousar ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T12:19:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "83yecE0b0dDDbwq-fDo7bkmFocM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OjKylTDkxAk"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T12:03:05Z",
+        "channelId": "UC8rR-i29Io48fD3bDd0paZw",
+        "title": "Don&#39;t Risk Your Career: Avoid These AI Impacted Jobs (And Target These Ones)",
+        "description": "The IT job market is changing rapidly because of AI and automation. In this video, we'll explore the best and riskiest IT jobs for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OjKylTDkxAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OjKylTDkxAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OjKylTDkxAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OjKylTDkxAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OjKylTDkxAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/OjKylTDkxAk/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Saumya Singh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T12:03:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g1ZC654-vVQZCyYw35brwX8QRdU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RhSLrPEVDVY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T11:25:25Z",
+        "channelId": "UCYxQgVPXLIRxx-A5JgXvRVw",
+        "title": "Learning Driving in 5 Minute #driving #beginnerdriver #Gear #car",
+        "description": "Learning Driving in 5 Minute #driving #beginnerdriver #Gear #automobile #drivingexperience #shorts #drivingclass ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RhSLrPEVDVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RhSLrPEVDVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RhSLrPEVDVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RhSLrPEVDVY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RhSLrPEVDVY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "India motor driving school ( Jaipur )",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T11:25:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "73s402QOW0ys1onYI8bpKQy3mYo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FE5RLTpc4g8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T11:00:00Z",
+        "channelId": "UCrNZxEYI-Ca8Bp8KdhD92NQ",
+        "title": "💻🤖 Day 2 | Hands-on Machine Learning with Python 🚀",
+        "description": "Another day of learning, coding, and exploring the world of Artificial Intelligence! ✨ Our Day 2 workshop on Machine Learning ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FE5RLTpc4g8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FE5RLTpc4g8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FE5RLTpc4g8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FE5RLTpc4g8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FE5RLTpc4g8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KLEBCA Rajajinagar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T11:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3TJ6524SfJZYBrPBcVYfNDkeX54",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oKF2_86PiMI"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T10:43:03Z",
+        "channelId": "UC7-VAyNcYQiTNMp1RF5VLpQ",
+        "title": "Python Can Do EVERYTHING! 🐍 | 20 Powerful Python Combinations You Must Know 🚀",
+        "description": "Python Can Do EVERYTHING! | 20 Powerful Python Combinations You Must Know Did you know Python can be used for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oKF2_86PiMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oKF2_86PiMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oKF2_86PiMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oKF2_86PiMI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oKF2_86PiMI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vaishnavi Kurmi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T10:43:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "afGQmfGZZrut1BuE05V8k8wOf2w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SYVPCSnLhcY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T10:00:10Z",
+        "channelId": "UCkVfrGwV-iG9bSsgCbrNPxQ",
+        "title": "AI No Longer Needs Backpropagation #ai #machinelearning #datascience",
+        "description": "Source: https://qlabs.sh/research/dust.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SYVPCSnLhcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SYVPCSnLhcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SYVPCSnLhcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SYVPCSnLhcY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SYVPCSnLhcY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/SYVPCSnLhcY/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Better Stack",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T10:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sa8VX_QLxtLY_zzNOFbHwCV8kPU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DchcCA5q0Fg"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T09:25:02Z",
+        "channelId": "UCngGnB1LJqQ7vAADP0kA4Ew",
+        "title": "🌍 Air Quality Prediction Using Machine Learning | Python Project 🤖💨 #shorts",
+        "description": "Air Quality Prediction Using Machine Learning | Python Project #Shorts Can Machine Learning predict air quality in Indian ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DchcCA5q0Fg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DchcCA5q0Fg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DchcCA5q0Fg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DchcCA5q0Fg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DchcCA5q0Fg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Arpita Singh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T09:25:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K0w1ojc5SbqqZ6YSgoxkVBtqP8c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XhWu_da2sQ8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T09:00:35Z",
+        "channelId": "UCDtOjXmyo_-VA1xRs9_V8_w",
+        "title": "Alat Deteksi Suhu Panas + Alarm Otomatis! - Tutorial IoT TinkerCad Anak SMP #5",
+        "description": "Tutorial membuat alat pendeteksi suhu dengan alarm otomatis menggunakan sensor suhu & buzzer di simulasi TinkerCad ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XhWu_da2sQ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XhWu_da2sQ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XhWu_da2sQ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XhWu_da2sQ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XhWu_da2sQ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/XhWu_da2sQ8/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Jijul",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T09:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5BNnHo4NSAYOrSkDwdM5XBwN7oo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aJMlseorwso"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T08:58:19Z",
+        "channelId": "UCEPZ98sSbBgYACPUBQB6B2g",
+        "title": "Kok ada yang jual? 😳 #pen #notebook #tiny #smallest #experiment",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aJMlseorwso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aJMlseorwso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aJMlseorwso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aJMlseorwso/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aJMlseorwso/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hana Anayre",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T08:58:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KsSoMK6ncUVZuH8Y7koqNK3A7VI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tpwOkgplZls"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T07:21:25Z",
+        "channelId": "UCrDB98qt7fKxhSikJTorC7A",
+        "title": "Snowflake Full Course:Beginner to Advanced | Snowflake Tutorial:Zero to Hero | Job &amp; Interview Ready",
+        "description": "Unlock your data engineering and cloud data warehousing potential with this massive, end-to-end 25-hour Snowflake ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tpwOkgplZls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tpwOkgplZls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tpwOkgplZls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tpwOkgplZls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tpwOkgplZls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Data-2-Dollars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T07:21:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ns_5vTQXfucyse0ARr_CGPt_Nbc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Pr98DCNlV0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T07:12:45Z",
+        "channelId": "UC5u7mJb1fIAedPG-9Pg6Nbw",
+        "title": "Fastest Way to Learn DSA in Telugu 🔥 | 90-Day Roadmap + Free Tracker",
+        "description": "The Fastest Way to Learn DSA in 2026 (Stop Counting Problems) 300 LeetCode problems solved. Online test day. A problem you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Pr98DCNlV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Pr98DCNlV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Pr98DCNlV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6Pr98DCNlV0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6Pr98DCNlV0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dodagatta Nihar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T07:12:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "16ZT_IjiZa27VvV4ZlPsnrDqHxM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IPSymHx5-N0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T07:05:53Z",
+        "channelId": "UCrY0rnqFsuXh1sx9hphEJPg",
+        "title": "Beethoven - Moonlight Sonata Opus 27 3nd Movement | Piano Tutorial",
+        "description": "Full Tutorial on my Channel Thank you for watching! Please subscribe to my channel and lease thumbs up if you enjoyed my ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IPSymHx5-N0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IPSymHx5-N0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IPSymHx5-N0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IPSymHx5-N0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IPSymHx5-N0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/IPSymHx5-N0/sardefault.jpg",
+            "width": 668,
+            "height": 1188
+          }
+        },
+        "channelTitle": "PianoPlayer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T07:05:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NOEr7d9JBb8N_tDBjjhpHS7bPw0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qtcr4Jzqerk"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T06:46:17Z",
+        "channelId": "UCHwtcErELc2fYDmMQHV96kA",
+        "title": "Is It Coding or Machine Learning? Discover the Key Difference! #Shorts",
+        "description": "Ever wondered how coding and machine learning differ? Let's break it down with a fun example! Watch to see how Fatima nails it!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qtcr4Jzqerk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qtcr4Jzqerk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qtcr4Jzqerk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qtcr4Jzqerk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qtcr4Jzqerk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Data Science With Dennis",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T06:46:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AKFHqjrgZrAss6v1HbXBkR7R4n0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0h6BhBp-D4s"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T05:30:14Z",
+        "channelId": "UCYhgzOkDng0mUgULqMAgJtg",
+        "title": "How to Make a Paper Airplane That Flies Straight 🤩",
+        "description": "Learn how to make an awesome dragon jet paper airplane that flies straight! Easy and fast step by step tutorial . • how to make a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0h6BhBp-D4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0h6BhBp-D4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0h6BhBp-D4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0h6BhBp-D4s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0h6BhBp-D4s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Craft N Toyz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T05:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Wg1KGxltdCagbeniiE9wO35dpFE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q-0d1BAxqDY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T02:07:33Z",
+        "channelId": "UCAHM71CkPqGeapA3K3eLwPA",
+        "title": "tut for @ellibloxi",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q-0d1BAxqDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q-0d1BAxqDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q-0d1BAxqDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q-0d1BAxqDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q-0d1BAxqDY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Marshmallow Lee",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T02:07:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BmNg1fW4vv0pgZtEVZjL5e0L3BA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M7t_FBiNLGw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T01:56:19Z",
+        "channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+        "title": "Build, Evaluate &amp; Scale Your First Production AI Agent | AI Agent Tutorial |  Edureka",
+        "description": "Integrated MS+PGP Program in Data Science & AI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M7t_FBiNLGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M7t_FBiNLGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M7t_FBiNLGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M7t_FBiNLGw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M7t_FBiNLGw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/M7t_FBiNLGw/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "edureka!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T01:56:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7ikW1S9u1cwoVeN1qYzWL3c0TmI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q4QNaGmxAOs"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T00:45:13Z",
+        "channelId": "UCu3otrdwEmTX-RF_b41-Blg",
+        "title": "Crochet for Absolute Beginners 🧶 | How to Hold Yarn &amp; Hook + Make Your First Chain",
+        "description": "Want to learn crochet but don't know where to start? This is your first step!** Welcome to **Zero to Maker by IshaArtHaus** ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q4QNaGmxAOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q4QNaGmxAOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q4QNaGmxAOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q4QNaGmxAOs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q4QNaGmxAOs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/q4QNaGmxAOs/sardefault.jpg",
+            "width": 941,
+            "height": 1672
+          }
+        },
+        "channelTitle": "IshaArtHaus",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T00:45:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N-MB2MutRG1WrLaF05PyhJ-nnok",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lb04tt6qbuI"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T18:08:37Z",
+        "channelId": "UCc9vTOdZpOm8tzsyVdFVoZw",
+        "title": "Python vs Rust in 2026 🔥 The Winner Will Surprise You! 🤯",
+        "description": "Python vs Rust in 2026 Which Programming Language Wins? #viral #artificialintelligence #ai #aicontactlens #chatgpt.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lb04tt6qbuI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lb04tt6qbuI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lb04tt6qbuI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lb04tt6qbuI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lb04tt6qbuI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zypher Code",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T18:08:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FV1FfsVI8xmt6chGv2Wdw7qo_IM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TjXyFE0CwY8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T17:23:27Z",
+        "channelId": "UC8b5mAzXFq8MQQcbSV5pXEQ",
+        "title": "🧬 CODEX Installation &amp; Bioinformatics Analysis in Ubuntu | Complete Step-by-Step Tutorial",
+        "description": "CODEX Installation & Bioinformatics Analysis in Ubuntu | Complete Step-by-Step Tutorial with Practical Code Examples** Are you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TjXyFE0CwY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TjXyFE0CwY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TjXyFE0CwY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TjXyFE0CwY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TjXyFE0CwY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Street",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T17:23:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2H3pONWxgyurlSAqYlFQgJQEfWE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p9JdExun-Lk"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T16:44:39Z",
+        "channelId": "UC4IpTQM-iodbsOOGZW6gYQA",
+        "title": "Machine Learning Engineer Roadmap 2026  | Complete Guide for Beginners",
+        "description": "machine learning engineer roadmap, machine learning roadmap 2026, ML engineer roadmap, how to become a machine ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p9JdExun-Lk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p9JdExun-Lk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p9JdExun-Lk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p9JdExun-Lk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p9JdExun-Lk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coding Vyrl",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T16:44:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VNyWh7iDO1vOUCYSO4l7ZdefaG8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2l10MdClBJA"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T15:34:48Z",
+        "channelId": "UCIZAp_1p1D6xQXhfSfy0B4g",
+        "title": "Spooky Scary Skeletons Piano Tutorial #halloween",
+        "description": "shorts #piano #spookyseason Enjoyed this video? Like & subscribe for more easy piano content Comment what you want to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2l10MdClBJA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2l10MdClBJA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2l10MdClBJA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2l10MdClBJA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2l10MdClBJA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Andrew Piano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T15:34:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fE21xeRX_7Bi-b4xQyzsqR4XW-A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M_sypHI6sw8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T14:55:30Z",
+        "channelId": "UCAxuKh1usKOjMOXlemawS0w",
+        "title": "Machine Learning, Deep Learning, Agentic AI EXPLAINED!",
+        "description": "Vishakha Sadhwani: Machine Learning, Deep Learning, Agentic AI EXPLAINED! In this short, I'll break down how machine ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M_sypHI6sw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M_sypHI6sw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M_sypHI6sw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M_sypHI6sw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M_sypHI6sw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vishakha Sadhwani",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T14:55:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B2Wlpwu6faiymNvZZrP6KNKwoDc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S6jy0T85DFs"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T13:30:10Z",
+        "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+        "title": "AI System Design Tutorial",
+        "description": "In this video, we will dive deeper into AI system design discussing high level and low level system design. We will cover API ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S6jy0T85DFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S6jy0T85DFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S6jy0T85DFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S6jy0T85DFs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S6jy0T85DFs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "codebasics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T13:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X1hzNLNsxPYrUG8axMEAYkI0RcQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ea9CaHZZ-jk"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T11:47:32Z",
+        "channelId": "UC0EIA26lbYGyeHjbWG9dVUQ",
+        "title": "AI vs Machine Learning vs Deep Learning 🤯 | What&#39;s the Difference?",
+        "description": "AI, Machine Learning, and Deep Learning you've heard these terms everywhere, but do you know how they're actually connected ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ea9CaHZZ-jk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ea9CaHZZ-jk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ea9CaHZZ-jk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ea9CaHZZ-jk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ea9CaHZZ-jk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Emly Labs AI Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T11:47:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F5O4YSpbNtJCr-aL7REF94sQeX0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TLhStYiYEKk"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T11:13:44Z",
+        "channelId": "UCphtHCZ0Ge_56FM8PoCQHUw",
+        "title": "tutorial ✨",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TLhStYiYEKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TLhStYiYEKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TLhStYiYEKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TLhStYiYEKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TLhStYiYEKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "V10l3tt4aー𝐂𝐋𝐆",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T11:13:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B3yA7KkigbNAiNAW2v-yZBZFJlQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XKa-1vTLLsk"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T09:55:32Z",
+        "channelId": "UCa4bTXWVuhtMJh6bQXAK38A",
+        "title": "Stop Watching AI Tutorials. Read These 6 Books to Become a Real AI Engineer",
+        "description": "In this video, Cloud X Berry walks through six books worth knowing if you're serious about building AI systems, and which one to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XKa-1vTLLsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XKa-1vTLLsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XKa-1vTLLsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XKa-1vTLLsk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XKa-1vTLLsk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/XKa-1vTLLsk/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "Cloud X Berry",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T09:55:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F7Yc1dzTZw5GFLd8PesYdpm34h0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "siAK7LDeCGk"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T07:52:35Z",
+        "channelId": "UCR5Pwp1SysfXpxX6Gzh9Tzg",
+        "title": "Artificial Intelligence vs Machine Learning",
+        "description": "artificial intelligence , AI , Machine learning , ML , super intelligence , technology , computer ]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/siAK7LDeCGk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/siAK7LDeCGk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/siAK7LDeCGk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/siAK7LDeCGk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/siAK7LDeCGk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LessBrainRot MoreFacts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T07:52:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Uz5rD8cnFVXhL_CzSr4aZvxnHDQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6U70RjaEanM"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T07:10:16Z",
+        "channelId": "UCJ2w3tA1Ho5ASn0x6b5P2Yw",
+        "title": "What Happens Inside an LLM After You Press Send? #aiengineering #llm #practicalai",
+        "description": "Opens the model's internal path far enough to satisfy technical curiosity without turning the Short into a lecture. Watch this short to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6U70RjaEanM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6U70RjaEanM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6U70RjaEanM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6U70RjaEanM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6U70RjaEanM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The AI Architects Hub — with Shweta Vohra",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T07:10:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1RjnAZgIKY7RhUAVp2nR57M0ppM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cs4ium7OOKU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T07:10:22Z",
+        "channelId": "UCSQ6MWImoIIWnFWRlT7tR8g",
+        "title": "Best Method Of Treading Water.",
+        "description": "This is the easiest method of Treading Water without struggling or panicking in the water. The method in the video will do you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cs4ium7OOKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cs4ium7OOKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cs4ium7OOKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cs4ium7OOKU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cs4ium7OOKU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "StonyDive | Diving & Swimming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T07:10:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mk5xUUarnOu2KdDT6sVJGZ2ih4Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XJxUWKblpH8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T05:29:53Z",
+        "channelId": "UCYhgzOkDng0mUgULqMAgJtg",
+        "title": "How to Make Paper Gun, No Glue No Tape",
+        "description": "Learn how to make a paper gun in this quick tutorial! Easy step by step origami shotgun paper craft project • how to make a paper ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XJxUWKblpH8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XJxUWKblpH8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XJxUWKblpH8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XJxUWKblpH8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XJxUWKblpH8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Craft N Toyz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T05:29:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uNMyBjG5PRKXuBTDN4YGcJk9krU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DxRM_IQEuPI"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T05:00:18Z",
+        "channelId": "UCWnhR7raxVFDHmDXqCIzuAw",
+        "title": "Learn 2 New Simple Prairie Flower Quilts | Double Take Quilt Tutorial",
+        "description": "Shop Double Take Prairie Flower supplies here: https://bit.ly/dt_prairieflower_yt See the Prairie Flower pattern in a whole new ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DxRM_IQEuPI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DxRM_IQEuPI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DxRM_IQEuPI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DxRM_IQEuPI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DxRM_IQEuPI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Missouri Star",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T05:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l2X5M_z-MMSbJQI3filzEgmAhWA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pz_sWf7NseU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T04:54:08Z",
+        "channelId": "UC8b5mAzXFq8MQQcbSV5pXEQ",
+        "title": "Climate-Resilient plant Breeding Using Data &amp; Explainable Machine Learning | Global Research",
+        "description": "Learn how to apply big data, climate datasets, artificial intelligence (AI), and Explainable Machine Learning (XAI) to develop ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pz_sWf7NseU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pz_sWf7NseU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pz_sWf7NseU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pz_sWf7NseU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pz_sWf7NseU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Street",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T04:54:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sB7BeiP898sJrrIJoUtxubJ8BbI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pkObuL_Ilok"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T03:30:11Z",
+        "channelId": "UCS6Sb5rfaEnWTVPGyQlnHFQ",
+        "title": "How to Identify and Fix Underfitting in Machine Learning | AI Terms #22",
+        "description": "Struggling with AI models that never quite hit the mark? Discover why underfitting drags performance down and how to fix it fast ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pkObuL_Ilok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pkObuL_Ilok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pkObuL_Ilok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pkObuL_Ilok/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pkObuL_Ilok/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AI Simplified Lab",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T03:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cs1YI64jpu3iasytnAeYLHOcSQU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7h_loXC09Zw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T03:00:27Z",
+        "channelId": "UCbrHFLqjx69pKs2BOwqUYmQ",
+        "title": "What Is Artificial Intelligence (AI)? AI, Machine Learning &amp; Deep Learning Explained",
+        "description": "What is Artificial Intelligence (AI)? How does AI learn, and what is the difference between AI, Machine Learning (ML), and Deep ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7h_loXC09Zw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7h_loXC09Zw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7h_loXC09Zw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7h_loXC09Zw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7h_loXC09Zw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/7h_loXC09Zw/sardefault.jpg",
+            "width": 940,
+            "height": 1671
+          }
+        },
+        "channelTitle": "TeacherColab",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T03:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1DjakoibwZlAt11n8HXuxp93kM8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ICn56Q2MQr4"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T22:55:19Z",
+        "channelId": "UC58StstjCoSw9tIxrFnNuew",
+        "title": "Cara Nulis Huruf Hijaiyyah Huruf Wau dan Ha #tutorial #hijaiyah #hurufhijaiyah",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ICn56Q2MQr4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ICn56Q2MQr4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ICn56Q2MQr4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ICn56Q2MQr4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ICn56Q2MQr4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ramdan Z M",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T22:55:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6K1Xp8VXHxjzmAA3H_kK7-aER0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bX8S3e-87z0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T22:12:11Z",
+        "channelId": "UCNcokV7JqLgRoGTDatk0faw",
+        "title": "AI vs. Machine Learning vs. Deep Learning Explained",
+        "description": "Ever wonder how all the pieces of artificial intelligence fit together? In this fast-paced visual breakdown, we demystify the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bX8S3e-87z0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bX8S3e-87z0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bX8S3e-87z0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bX8S3e-87z0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bX8S3e-87z0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WabaConenta",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T22:12:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kg8MNpXbc2cdI-87gI9bcB4IBm8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yCsAh61b3RU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T22:03:26Z",
+        "channelId": "UCBpzFCxWcL-bMFMjZINHhtA",
+        "title": "What is Machine Learning?",
+        "description": "This is the idea behind the loss function which is the essence of machine learning.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yCsAh61b3RU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yCsAh61b3RU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yCsAh61b3RU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yCsAh61b3RU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yCsAh61b3RU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Graduate ML",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T22:03:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ij5fXOzOyCvE--juPtyxVf2438k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZNP1NHQmw8I"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T20:34:19Z",
+        "channelId": "UChUOtHLTshUyYW3QnK1ojvg",
+        "title": "how to single crochet for beginners | easy step by step crochet tutorial",
+        "description": "learn how to make single crochet step by step. easy crochet tutorial for beginners. #singlecrochet #crochet #crochettutorial ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZNP1NHQmw8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZNP1NHQmw8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZNP1NHQmw8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZNP1NHQmw8I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZNP1NHQmw8I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crochet Mary",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T20:34:19Z"
+      }
+    }
+  ]
+}

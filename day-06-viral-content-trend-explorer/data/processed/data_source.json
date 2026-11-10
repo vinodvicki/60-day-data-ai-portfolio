@@ -1,0 +1,107 @@
+{
+  "source": "live",
+  "generated_at_utc": "2026-11-10T14:20:41Z",
+  "synthetic": false,
+  "seed": null,
+  "fetch_date": "2026-11-10",
+  "snapshot_dates": {
+    "day04_frame": "2026-11-08",
+    "fresh_fetch": "2026-11-10"
+  },
+  "windows": {
+    "prior": [
+      "2026-09-11T00:00:00Z",
+      "2026-10-11T00:00:00Z"
+    ],
+    "recent": [
+      "2026-10-11T00:00:00Z",
+      "2026-11-10T00:00:00Z"
+    ]
+  },
+  "queries": [
+    "data analytics",
+    "machine learning tutorial",
+    "Python data analysis",
+    "artificial intelligence explained",
+    "SQL tutorial"
+  ],
+  "max_results_per_query": 50,
+  "order": "date",
+  "per_query_window": {
+    "artificial_intelligence_explained_prior": {
+      "items": 50,
+      "truncated": true
+    },
+    "artificial_intelligence_explained_recent": {
+      "items": 50,
+      "truncated": true
+    },
+    "data_analytics_prior": {
+      "items": 50,
+      "truncated": true
+    },
+    "data_analytics_recent": {
+      "items": 50,
+      "truncated": true
+    },
+    "machine_learning_tutorial_prior": {
+      "items": 50,
+      "truncated": true
+    },
+    "machine_learning_tutorial_recent": {
+      "items": 50,
+      "truncated": true
+    },
+    "python_data_analysis_prior": {
+      "items": 50,
+      "truncated": true
+    },
+    "python_data_analysis_recent": {
+      "items": 50,
+      "truncated": true
+    },
+    "sql_tutorial_prior": {
+      "items": 50,
+      "truncated": true
+    },
+    "sql_tutorial_recent": {
+      "items": 50,
+      "truncated": true
+    }
+  },
+  "video_count": 472,
+  "channel_count": 406,
+  "quota_units_used": 1019,
+  "api": "youtube-data-api-v3",
+  "age_guard_days": 7,
+  "overlap_with_day04_frame": 0,
+  "channel_concentration": {
+    "A": {
+      "distinct_channels": 202,
+      "top_channel": "UCKYyUQIccIAc_qY8rfqlnpA",
+      "top_channel_share": 3.39
+    },
+    "B": {
+      "distinct_channels": 209,
+      "top_channel": "UCd2E6ZE5JpP4dwhTQ6-HXEA",
+      "top_channel_share": 2.54
+    }
+  },
+  "counts": {
+    "candidates": 500,
+    "dropped_live_or_upcoming": 0,
+    "dropped_no_view_count": 2,
+    "final_videos": 472,
+    "sentiment_comments_analysed": 0,
+    "sentiment_comments_fetched": 0,
+    "sentiment_videos": 0,
+    "unique_after_dedupe": 474
+  },
+  "comment_filters": {
+    "analysed": 0,
+    "empty": 0,
+    "fetched": 0,
+    "non_latin": 0,
+    "owner": 0
+  }
+}

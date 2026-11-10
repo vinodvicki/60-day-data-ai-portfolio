@@ -1,0 +1,2227 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "l0ORGdTCirC9wxyF_d-KdSCku1Y",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 455665,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lEd_0jYWK7mRaDu9P7WYjB6vUbU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IMgoI6yIm3Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T23:04:15Z",
+        "channelId": "UCQ2CNZW6vcJaySLisqDoccw",
+        "title": "LET&#39;S SOLVING VBA ERRORS ON MS. EXCEL TOGETHER!  #dataanalytics #excel #dataextractor #exceltips",
+        "description": "Fixing VBA errors so you don't have to! 🛠️   There's nothing more satisfying than hunting down a broken macro line, tweaking ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IMgoI6yIm3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IMgoI6yIm3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IMgoI6yIm3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IMgoI6yIm3Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IMgoI6yIm3Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/IMgoI6yIm3Q/sardefault.jpg",
+            "width": 768,
+            "height": 1365
+          }
+        },
+        "channelTitle": "Nugrah The Analyst",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T23:04:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3CHDG1VU8HEH_bnGssopTFo3hiI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bGr33p3MhZk"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T23:00:13Z",
+        "channelId": "UCM9W9L3bkeSWXFDA9I2c9cA",
+        "title": "Introduction to Data analytics and database",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bGr33p3MhZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bGr33p3MhZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bGr33p3MhZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bGr33p3MhZk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bGr33p3MhZk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Real Tenx",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T23:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vVS5AxwUEEicObavRTTPLQIM6co",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fIv3G9sZJTU"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T22:09:31Z",
+        "channelId": "UC5H5lQ47_G2HQrsrKCnk18w",
+        "title": "Start Today!Follow me @sparkera.ai #careergrowth #dataanalytics #education #datascience #vibecoding",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fIv3G9sZJTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fIv3G9sZJTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fIv3G9sZJTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fIv3G9sZJTU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fIv3G9sZJTU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SPARKERA_AI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T22:09:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nOg34z51R1IbC6NoAiCyCDWo9-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DAwERBXKaRI"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T21:27:29Z",
+        "channelId": "UCkcYkWsc6zKy1JMUmUvDsfg",
+        "title": "90% New Data Analysts Yeh Ghalti Karte Hain!",
+        "description": "DataAnalytics #DataAnalyst #Kaggle #Excel #Python #TechCareer #DataAnalyticsBeginners #LinkedInTips #CodingUrdu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DAwERBXKaRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DAwERBXKaRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DAwERBXKaRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DAwERBXKaRI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DAwERBXKaRI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Waqas Manzoor",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T21:27:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XcZLv07jMVcQVMFB_XRoTewkaYs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "toBCmqIWXIc"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T20:15:55Z",
+        "channelId": "UCNNuAyQ2vcvM_tYv8-WbNDQ",
+        "title": "What is power BI? #power #powerbi #businessgrowth #businessintelligence #datascience #dataanalytics",
+        "description": "Welcome to your ultimate destination for mastering Microsoft Power BI—from absolute beginner basics to enterprise-grade ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/toBCmqIWXIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/toBCmqIWXIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/toBCmqIWXIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/toBCmqIWXIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/toBCmqIWXIc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Corporate Industrial Training Program ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T20:15:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6IT07AlTzyfBq4CcK2iTaujgESs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YsqW-Vkq4D8"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T20:00:32Z",
+        "channelId": "UCxln1QXIHjS6Z1ZR9mZq3eg",
+        "title": "🔥 Como filtrar relatórios por funil e etapa no Pipedrive [Passo a Passo]",
+        "description": "Quer ter mais controle sobre as métricas do seu time comercial? Neste vídeo rápido, mostro como alternar entre diferentes funis e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YsqW-Vkq4D8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YsqW-Vkq4D8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YsqW-Vkq4D8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YsqW-Vkq4D8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YsqW-Vkq4D8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/YsqW-Vkq4D8/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Victor Rebelo | Vendas & Tecnologia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T20:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n4hqrKq5F0fGHjDNjW9znHLafi4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_s9snNnIgy0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:34:29Z",
+        "channelId": "UCkGC69iPIbl-tsNzStltBQQ",
+        "title": "Life of a Data Analyst in 2026 📊 | From Excel to AI 🤖 #Shorts",
+        "description": "Life of a Data Analyst – From Beginner to Expert! Ever wondered how someone becomes a Data Analyst? It starts with curiosity ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_s9snNnIgy0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_s9snNnIgy0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_s9snNnIgy0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_s9snNnIgy0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_s9snNnIgy0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AllthingsStreamOfficial",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:34:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YwhCyoUQYes_6oSWN_rx4ynhZRo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RS7Z42oNSPg"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:30:54Z",
+        "channelId": "UCPToqX4n613PZIM2axJlRxg",
+        "title": "Business Data analytics BDA April 2025 Q 25 ( Data cleaning)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RS7Z42oNSPg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RS7Z42oNSPg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RS7Z42oNSPg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RS7Z42oNSPg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RS7Z42oNSPg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CPA Sheilar ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:30:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pRrcCA4ub6ZgLyDSPvHKCnMUkN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fpl2zUCbbuM"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:22:45Z",
+        "channelId": "UCiEHNw0wBY9g9vVnyU9Uu5w",
+        "title": "When data leans to one side, the means gets pulled along with it. #skewness #dataanalytics #stem",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fpl2zUCbbuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fpl2zUCbbuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fpl2zUCbbuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fpl2zUCbbuM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fpl2zUCbbuM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Data Lens",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:22:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G1y1Tyvmif8aa5c8OPPFKsoeLBk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kvpuwAzkYSI"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:18:48Z",
+        "channelId": "UCiEHNw0wBY9g9vVnyU9Uu5w",
+        "title": "How much data sits within 1, 2,and 3 standard deviation 🧠#dataanalytics #datascience #statistics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kvpuwAzkYSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kvpuwAzkYSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kvpuwAzkYSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kvpuwAzkYSI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kvpuwAzkYSI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Data Lens",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:18:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RtMhO6OGAuQalCWt0iRK-_a8Y9o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8LFXsi-QBUg"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:16:01Z",
+        "channelId": "UCiEHNw0wBY9g9vVnyU9Uu5w",
+        "title": "Drop enough random balls and bell curve appears #dataanalytics #datascience #normaldistribution",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8LFXsi-QBUg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8LFXsi-QBUg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8LFXsi-QBUg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8LFXsi-QBUg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8LFXsi-QBUg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Data Lens",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:16:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "shl8jLFbezWBt9gB_D955NqVDN4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zBGta3A4rTE"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:12:24Z",
+        "channelId": "UCiEHNw0wBY9g9vVnyU9Uu5w",
+        "title": "Which is more impressive? 🤔 #dataanalytics #datascience #statistics #stem #zscore",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zBGta3A4rTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zBGta3A4rTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zBGta3A4rTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zBGta3A4rTE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zBGta3A4rTE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Data Lens",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:12:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EjTEiV6lH0E-e-fnwP2iVXY-KC8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OekDwY4FJFo"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:09:35Z",
+        "channelId": "UCiEHNw0wBY9g9vVnyU9Uu5w",
+        "title": "A whole dataset in five numbers. #dataanalytics #datascience #statistics #stem",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OekDwY4FJFo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OekDwY4FJFo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OekDwY4FJFo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OekDwY4FJFo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OekDwY4FJFo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Data Lens",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:09:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xzNkVzTjfpcxzKrob03MaAA1aU8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l7bpkoMN5js"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:05:57Z",
+        "channelId": "UCiEHNw0wBY9g9vVnyU9Uu5w",
+        "title": "The typical distance from the average, in real units. #dataanalytics #datascience #statistics #stem",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l7bpkoMN5js/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l7bpkoMN5js/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l7bpkoMN5js/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l7bpkoMN5js/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l7bpkoMN5js/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Data Lens",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:05:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qWkfAwCFBX9MdWPlMbLMwWRXQ8M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G4wi2irT7b8"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:04:13Z",
+        "channelId": "UCiEHNw0wBY9g9vVnyU9Uu5w",
+        "title": "Variance measures the spread #dataanalytics #datascience #statistics #stem #variance",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G4wi2irT7b8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G4wi2irT7b8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G4wi2irT7b8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Data Lens",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:04:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VWIHyS7gjM6yLIIBPs-dG53BKWI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ud1Fb19jqvA"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T18:58:49Z",
+        "channelId": "UCiEHNw0wBY9g9vVnyU9Uu5w",
+        "title": "The median tells a more honest story.#datascience #dataanalytics #statistics #stem",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ud1Fb19jqvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ud1Fb19jqvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ud1Fb19jqvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Data Lens",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T18:58:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZlCuqNZlXlCBZfIm8Sf-2P3mErE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nCGEuVH3GcI"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T18:30:37Z",
+        "channelId": "UCfbDfDaFrokblHpOO2OrZjw",
+        "title": "¿Necesita Python un Data Analyst? explicado fácil | Data Analyst #Shorts",
+        "description": "Necesitas Python para tu primer trabajo en Data? Aprende ¿necesita python un data analyst? con un archivo de ventas y un ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nCGEuVH3GcI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nCGEuVH3GcI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nCGEuVH3GcI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nCGEuVH3GcI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nCGEuVH3GcI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Data con Camilo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T18:30:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7H3dGU56tZGlDM7_soqZOyQm7xE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DhtVLiJFi4E"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T18:13:51Z",
+        "channelId": "UCZ50rYSkYQG31YDEJm9Di_g",
+        "title": "If I Had 1 Year to Become a Data Analyst, I’d Do This",
+        "description": "If you gave yourself one year to start building data analytics skills, where would you begin? Here's one way to break it down: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DhtVLiJFi4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DhtVLiJFi4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DhtVLiJFi4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DhtVLiJFi4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DhtVLiJFi4E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coursera",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T18:13:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cNzjRjgLwUOw_eQ2Rb_Kioj3_UY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QDkXaiG8JKg"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T17:38:37Z",
+        "channelId": "UCzb1OUmt6N4mBRSbJ-Eg4fw",
+        "title": "Coding By Shailja - Everything You need to know about Data Analytics",
+        "description": "Data Analytics Roadmap: https://youtu.be/BYsoe9LIx1U SQL - Full Course: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QDkXaiG8JKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QDkXaiG8JKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QDkXaiG8JKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QDkXaiG8JKg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QDkXaiG8JKg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coding By Shailja",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T17:38:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hb5UnzWqF7hOmjaIHPDKBdA48vU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4UUyxwZ7IL8"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T17:30:12Z",
+        "channelId": "UC20H4MIhAEgRAay-dAephKQ",
+        "title": "FII DII DATA ANALYSIS FOR WEDNESDAY 11-11-2026",
+        "description": "Welcome to The Greek Trade! Main Jigar, ek Advocate aur Passionate Trader. Is channel par hum Live Stock Market Trading, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4UUyxwZ7IL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4UUyxwZ7IL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4UUyxwZ7IL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4UUyxwZ7IL8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4UUyxwZ7IL8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Greek Trader",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T17:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ADLTppEBzmNoKzRBRMqlOit9d5k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P4i2OUE0fV8"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:58:46Z",
+        "channelId": "UCFMU8WHQ-vuUcPYfWClY-_Q",
+        "title": "Employers want to see how you use those skills to solve real business problems.",
+        "description": "Learning Excel, SQL and Power BI is a great start, but it's not enough to stand out as a data analyst. Employers want to see how ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P4i2OUE0fV8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P4i2OUE0fV8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P4i2OUE0fV8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P4i2OUE0fV8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P4i2OUE0fV8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Harjot | AI Engineer & Educator",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:58:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uwyU_fE-uBGkjG7lMnwrYBY0JoM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "So2ZuEWPc4s"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:57:09Z",
+        "channelId": "UCezvya8hHTwOZCI9k3wTURQ",
+        "title": "data analysis tips",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/So2ZuEWPc4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/So2ZuEWPc4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/So2ZuEWPc4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/So2ZuEWPc4s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/So2ZuEWPc4s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JAI RAJPUTANA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:57:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-tl-slPQoQGjSFMTPcGrYdj8Pd8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9ocU98dfWF0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:56:43Z",
+        "channelId": "UCfc7IXfyqj0VvaVLMHWAS0g",
+        "title": "What Is Data Analytics? Explained with a Real Business Mystery",
+        "description": "What is data analytics? Learn how raw data becomes a business decision, through one real-feeling mystery: why did NovaMart's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ocU98dfWF0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ocU98dfWF0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ocU98dfWF0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9ocU98dfWF0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9ocU98dfWF0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hindsight to Foresight",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:56:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ub9V2Kk3g0pnxMBQxLcphikivvE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3i8Zct44diw"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:52:39Z",
+        "channelId": "UC71UHabDjTp3AwFDeo-eGFQ",
+        "title": "Crypto se paisa kamana data analytics job ke saath 😍😍#shorts#explore#trendingshorts",
+        "description": "Crypto se paisa kamana data analytics job ke saath #shorts#explore#trendingshorts Crypto se paisa kaise banayein Crypto ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3i8Zct44diw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3i8Zct44diw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3i8Zct44diw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3i8Zct44diw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3i8Zct44diw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Analytics Mentor",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:52:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AHZ4vCKeM91M5q70yZDb76fl01g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BCeW2oXtuh8"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:48:59Z",
+        "channelId": "UCO5OzNGoFCSwHEiRK-JSO4A",
+        "title": "AI Hallucination in Data Analysis: Impressive Isn&#39;t Proof | AI on Trial #002 #Shorts",
+        "description": "Can you trust an AI answer about your business data? A dashboard shows $1.2M, a record month. The AI is confident. But some ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BCeW2oXtuh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BCeW2oXtuh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BCeW2oXtuh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BCeW2oXtuh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BCeW2oXtuh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FactQL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:48:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jzBRy44L13Z-0VB2-JFBALrmKWk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xcb5HDpl0p0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:49:16Z",
+        "channelId": "UCfkY6lKEjFOWtTOi3pea9qA",
+        "title": "Data Analytics Tutorial #7 | functions, errors and files for data",
+        "description": "Data Analytics Tutorial: Episode 7 of SyntaxPilot's free Data Analytics full course, with real-life examples for every concept.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xcb5HDpl0p0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xcb5HDpl0p0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xcb5HDpl0p0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xcb5HDpl0p0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xcb5HDpl0p0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SyntaxPilot",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:49:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PHyc16jVWyK8Ia2IoIG1AU0cU5c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UFq1ck1SbQ8"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:26:23Z",
+        "channelId": "UCTyDBgXkKq5ziWAxN1Vchuw",
+        "title": "Picks from the Humble Bundle: Data Science by O’Reilly",
+        "description": "Twenty-five O'Reilly data science books, and five places to start. Our shortlist includes two picks in the entry tier. Full roundup: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UFq1ck1SbQ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UFq1ck1SbQ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UFq1ck1SbQ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UFq1ck1SbQ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UFq1ck1SbQ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tomelet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:26:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z2Hb12TZwHtSb5A9POUxnJO2-zs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GgzKGJJ-k9k"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:26:00Z",
+        "channelId": "UCouvqXs-nf2RT1-2jJXXNVg",
+        "title": "Data Preparation, Data Cleaning &amp; Data Transformation | Data Analytics | ICS Part 1 &amp; FA IT",
+        "description": "Welcome to ILM TECH – Learn, Grow, Succeed! In this lecture, we will explore three important concepts of the Data Analytics ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GgzKGJJ-k9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GgzKGJJ-k9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GgzKGJJ-k9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GgzKGJJ-k9k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GgzKGJJ-k9k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ILM TECH",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:26:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YPxG4U_EbKjFnY-EBo_2fkpuGwM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-HwJJat7PpM"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:15:09Z",
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "title": "AI-Powered Business Analytics Full Course 2026 | Learn Excel, Data Analysis &amp; AI Tools | Simplilearn",
+        "description": "\"  Microsoft Azure - AI-Powered Business Analyst ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-HwJJat7PpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-HwJJat7PpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-HwJJat7PpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-HwJJat7PpM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-HwJJat7PpM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/-HwJJat7PpM/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Simplilearn",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:15:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mK0PNWQGvInLx7Z9NsrilCF6aU8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B5A99FDPxWo"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:02:57Z",
+        "channelId": "UClTLyCwmaTdcxsBQ0M_KA4Q",
+        "title": "How Data Analytics Boosts Factory Efficiency",
+        "description": "Learn how factory engineers use data analytics and IoT sensors to optimize factory efficiency, prevent machine breakdowns, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B5A99FDPxWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B5A99FDPxWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B5A99FDPxWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B5A99FDPxWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B5A99FDPxWo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shubham Brain Byte ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:02:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZY4kxM8YlppTWUXWS5hyziNdOXU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lYFqGtVqFPQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:00:24Z",
+        "channelId": "UC6z83gzUhDjSaS1vQiTA1Gg",
+        "title": "Data Analytics Training At Simtech Academy 📊#dataanalytic #datavisualization #businessintelligence",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lYFqGtVqFPQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lYFqGtVqFPQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lYFqGtVqFPQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lYFqGtVqFPQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lYFqGtVqFPQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Simtech Academy - Warri, Nigeria",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rYmbaMEpghw2WoPTJZ7qp9gLEeU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T7v9KcV6gPc"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T15:34:06Z",
+        "channelId": "UCIAJ75zS3YW7V1o9M9CAS4g",
+        "title": "A year of rejections. Now placed.",
+        "description": "A year of rejections. Now placed. Helmi did her master's in Data Analytics in Ireland and spent a year job hunting with mostly ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T7v9KcV6gPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T7v9KcV6gPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T7v9KcV6gPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T7v9KcV6gPc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T7v9KcV6gPc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/T7v9KcV6gPc/sardefault.jpg",
+            "width": 900,
+            "height": 1600
+          }
+        },
+        "channelTitle": "tech Tribe",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T15:34:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XLB0kTV_3Rjt69QGalSratszhiA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K1U5EgGacEY"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T15:30:30Z",
+        "channelId": "UCc64Tk7b2pBxtIO_HA_HvCg",
+        "title": "Stop Wasting Time in Excel! 🛑 Learn MIS Report in 45 Secs #shorts#misreport#corporatejobs",
+        "description": "Learn what is MIS Report in 45 seconds! Agar aap corporate company mein high-paying job chahte hain, toh Excel mein MIS ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K1U5EgGacEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K1U5EgGacEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K1U5EgGacEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K1U5EgGacEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K1U5EgGacEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AS Visual Studio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T15:30:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ISz4QHQr4ftA7rYotnxu4dmIou0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m5WZ0saVa_I"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T15:30:30Z",
+        "channelId": "UCXVVhpBLqKsQrLge2FZD1tA",
+        "title": "DATA ANALYTICS ROADMAP – DAY 117 | DOCKER COMPOSE FOR MACHINE LEARNING APPLICATIONS",
+        "description": "DATA ANALYTICS ROADMAP – DAY 117 | DOCKER COMPOSE FOR MACHINE LEARNING APPLICATIONS What if your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m5WZ0saVa_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m5WZ0saVa_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m5WZ0saVa_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m5WZ0saVa_I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m5WZ0saVa_I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "learnloops",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T15:30:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0XFaS03WVthTytOfl41gLnJz18Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uaQMpXL5i84"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T15:13:46Z",
+        "channelId": "UCC2SrzrBE__QJ_skE8UPLdA",
+        "title": "11 Days to Learn Data Analytics",
+        "description": "11-day Data Analytics challenge Learning SQL, Python and data visualization with 365 Data Science while it's free. Join me: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uaQMpXL5i84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uaQMpXL5i84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uaQMpXL5i84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uaQMpXL5i84/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uaQMpXL5i84/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ascend Daily Elevate",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T15:13:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TjcrfIKAoFejU45BcZfUctPH-hE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vrChXJnFQLU"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:56:02Z",
+        "channelId": "UCd7Cjtt1lOBFuiMInQk2nJg",
+        "title": "Udemy PostgreSQL Course for Data Analysis and Full Stack Development | Giveaway",
+        "description": "Udemy PostgreSQL Course for Data Analysis and Full Stack Development | Giveaway Want to learn PostgreSQL for free? We are ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vrChXJnFQLU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vrChXJnFQLU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vrChXJnFQLU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vrChXJnFQLU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vrChXJnFQLU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SlideScope® - Digital Marketing & Data Analysis",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:56:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3pqmanCHQwwJ80_jJfX82h9SEDY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JJ28S3MMeog"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:52:57Z",
+        "channelId": "UCMEP4MbFi_fP38ZUo7ouQCQ",
+        "title": "📊 Power BI 30 Days Series | Day 6 #powerbi #dataanalytics #fyp #trending #trendingshorts #viral #yt",
+        "description": "Power BI 30 Days Series | Day 6 – Conditional Column & Replace Values in Power Query Welcome back to the Power BI 30 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JJ28S3MMeog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JJ28S3MMeog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JJ28S3MMeog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JJ28S3MMeog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JJ28S3MMeog/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Karthik_visuals",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:52:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9-SxH9okI6td9-GKEwvTueX74Ps",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7TPwuS4ZFfQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:34:14Z",
+        "channelId": "UCt4Ea1Ij_ppJcxwFq9WcY8g",
+        "title": "4 Types of Data Analysts You Can Become 🔥 | Data Analyst Career in Urdu #excel #powerbi #sql",
+        "description": "Data Analyst ki 4 types, jo aap abhi ban sakte ho: Fraud Analyst: company mein risk identify aur fraud detect karta hai People ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7TPwuS4ZFfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7TPwuS4ZFfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7TPwuS4ZFfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7TPwuS4ZFfQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7TPwuS4ZFfQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/7TPwuS4ZFfQ/sardefault.jpg",
+            "width": 1778,
+            "height": 3160
+          }
+        },
+        "channelTitle": "Asad Ullah | Data & Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:34:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P06PQdIf7vkOHNYne57vEUOAfrY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tmlvqbl8NTY"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:32:59Z",
+        "channelId": "UCJ_lIrPR-vJP4Vi3VjnLjJg",
+        "title": "Snowflake Training for Beginners | Complete Snowflake Tutorial from Basics | DataPoint Masters",
+        "description": "Snowflake Training for Beginners - Complete Snowflake Tutorial Welcome to DataPoint Masters! In this video, you'll learn ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tmlvqbl8NTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tmlvqbl8NTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tmlvqbl8NTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tmlvqbl8NTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tmlvqbl8NTY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DATA POINT MASTERS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:32:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sKJl5YgIDmrGfACWSAkmdnQXu_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "deNPDsNgcvY"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:33:16Z",
+        "channelId": "UC-m29Uf5pF0HTCWWhhBBC7g",
+        "title": "The 15 Percent Band Election Data Analysis #shorts",
+        "description": "New data reveals a consistent 15 percent shift in voting patterns across 59 Senate and gubernatorial races. For every 1000 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/deNPDsNgcvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/deNPDsNgcvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/deNPDsNgcvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/deNPDsNgcvY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/deNPDsNgcvY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ohio Political News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:33:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xNzcMsYFKoZe0KxFUY85TY7EK-o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J8pOve2Mpq8"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:32:39Z",
+        "channelId": "UCaEHnTAi-Ub8HuounVeyZEw",
+        "title": "Data Analytics — 2026-11-09",
+        "description": "00:00 Highlights 01:57 Team members and their roles 03:28 CRM migration project from HubSpot 04:46 Analytics tools and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J8pOve2Mpq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J8pOve2Mpq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J8pOve2Mpq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J8pOve2Mpq8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J8pOve2Mpq8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FloLabs Innovation Group",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:32:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9T6VTrqQKP8LTO-51oTSym3N9X8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4cBWmrl9zf0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:20:49Z",
+        "channelId": "UC5GXEnYB1Kdd6H2endfGulw",
+        "title": "ssc cgl exam 2026 subject wise data analysis 😱😱 #ssccgl #ssc #shorts #viral #trending #exam",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4cBWmrl9zf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4cBWmrl9zf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4cBWmrl9zf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4cBWmrl9zf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4cBWmrl9zf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ASPIRANT SACHIN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:20:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gSmT9Hn3B0-08cktCk146s9XRh0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C4Rsklyr1cE"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:00:17Z",
+        "channelId": "UCRsjR0vJxD0ufV90B9WX8lA",
+        "title": "Starting Over at 40? Go All In on Data Analytics &amp; AI in 2027",
+        "description": "Work with me to land your first job in data analytics: https://bit.ly/4BKYdF3 Starting over at 40 does not mean you must start from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C4Rsklyr1cE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C4Rsklyr1cE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C4Rsklyr1cE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C4Rsklyr1cE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C4Rsklyr1cE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/C4Rsklyr1cE/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Kedeisha Bryan - Your Data Career Coach",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pxgjB85kChknOcHHAD1qn-pZvwM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a_VviJ6QgRs"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:00:13Z",
+        "channelId": "UCwMVqUD_9XNFq2owQ_-K4UQ",
+        "title": "Power BI Analyst: Turn Data into Actionable Insights | Data Analytics",
+        "description": "A great Power BI dashboard does more than display numbers it turns data into meaningful insights and smarter business ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a_VviJ6QgRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a_VviJ6QgRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a_VviJ6QgRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a_VviJ6QgRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a_VviJ6QgRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MontRoyal Elevate",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iB8n3ktPpvbJ385qiGMRX5ME7W0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UD7ExN3B-Gg"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:45:10Z",
+        "channelId": "UCWo4vnyVuJvTWGl_0IN7h0w",
+        "title": "What is an Entity in Data Modelling? | Explained with Real-World Examples | Day 5",
+        "description": "What is an Entity in Data Modelling? Customers, Employees, Products and Orders — these are all examples of entities! In Day 5 of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UD7ExN3B-Gg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UD7ExN3B-Gg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UD7ExN3B-Gg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UD7ExN3B-Gg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UD7ExN3B-Gg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "InsightEdge Labs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:45:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v-dNODBzYX40Pw3wDkxr40tnO6M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gU2Ye_zp6P4"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:43:01Z",
+        "channelId": "UCQm9ztEnBGI6kUaio3GvNXw",
+        "title": "NIFTY PREDICTION FOR 11 NOV 🚨 | FII DATA ANALYSIS | FII vs PRO vs CLIENT #nifty",
+        "description": "11 Nov NIFTY Analysis In this video, I explain the positioning of FII, PRO and CLIENT using derivatives data and discuss what ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gU2Ye_zp6P4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gU2Ye_zp6P4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gU2Ye_zp6P4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gU2Ye_zp6P4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gU2Ye_zp6P4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/gU2Ye_zp6P4/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "ARS TRADES",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:43:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6ou7dYi8noRJATDkwabKzClO7T0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "utID_cNWe3o"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:38:48Z",
+        "channelId": "UC-XMW7qS8uzUNtL8rkcLa1g",
+        "title": "Episode 3 | How Text-to-SQL Works | Convert English into SQL Using AI",
+        "description": "In Episode 3, we will learn how Text-to-SQL works through a practical demonstration using ChatGPT. Instead of writing complex ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/utID_cNWe3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/utID_cNWe3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/utID_cNWe3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/utID_cNWe3o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/utID_cNWe3o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Digital Studio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:38:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Pv7cifZcrdiiDU_rbfE0No9GVBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-eSr2OmVMJQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:34:50Z",
+        "channelId": "UCteGfKT55bYCTq-Wu_76gqg",
+        "title": "pandas: Excel Versi Super untuk Mengolah Data",
+        "description": "Masih mengolah data dengan copy-paste manual di Excel? Saatnya mengenal Python pandas! pandas adalah library Python ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-eSr2OmVMJQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-eSr2OmVMJQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-eSr2OmVMJQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-eSr2OmVMJQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-eSr2OmVMJQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Suka_Data",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:34:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KIv6Z6gOLafw1jCN4jV_vhwNly0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yUbSoqXLtjk"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:30:14Z",
+        "channelId": "UC0T6MVd3wQDB5ICAe45OxaQ",
+        "title": "5 Data Analytics Domains to Target Top MNC Jobs in 2026!",
+        "description": "5 Data Analytics Domains to Target Top MNC Jobs in 2026! -------------- Become an AI-Powered Data Analyst and solve ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yUbSoqXLtjk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yUbSoqXLtjk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yUbSoqXLtjk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yUbSoqXLtjk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yUbSoqXLtjk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WsCube Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E3_P2l8FwwYKUDopZIznOE-4FtQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ftIZ43ot-Ls"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:21:38Z",
+        "channelId": "UC8eSfVTmzGTkLDHh2_1rwrg",
+        "title": "Diabetes Data Analysis in Python: Hidden Zeros &amp; Correlation | Python Data Analytics #31",
+        "description": "Lesson 31 of the Python Data Analytics Full Course: Diabetes Risk Factors in Patient Data. Today's question is simple: which ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ftIZ43ot-Ls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ftIZ43ot-Ls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ftIZ43ot-Ls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ftIZ43ot-Ls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ftIZ43ot-Ls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mathew K Analytics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:21:38Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2277 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "hjgu2LaJ6N4WwEUj2W2GzHYz8NI",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GGPA53vR3iJLHtqwW0fE_NDMrV4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QA6AuajnEAo"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T23:30:18Z",
+        "channelId": "UCfsL0a5fL55-sSodeR-bvmA",
+        "title": "¿Qué es el machine learning? 🤖 #machinelearning #inteligenciaartificial #shorts",
+        "description": "Podrías explicarle a una computadora qué es un perro? Aprende qué es el machine learning: cómo las máquinas aprenden ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QA6AuajnEAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QA6AuajnEAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QA6AuajnEAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QA6AuajnEAo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QA6AuajnEAo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aprende ML",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T23:30:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xvFCIIDoTbpryXHz_HBLo_xiAfA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k_CXgdyNbGU"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T23:00:32Z",
+        "channelId": "UCJZhX9h6ALAygV7EIRkknjw",
+        "title": "Square-In-A-Square Quilt Block Tutorial PT.2!",
+        "description": "Let's make a square-in-a-square quilt block PT.2! Another simple pattern you can make with squares, and look how cute it ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k_CXgdyNbGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k_CXgdyNbGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k_CXgdyNbGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k_CXgdyNbGU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k_CXgdyNbGU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tami Jones | Hometown Quilt Company",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T23:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Fr7BBeGKxBHHoP1YZTQ-NIX1tT8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n3_xUHaQZXc"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T22:08:11Z",
+        "channelId": "UCELyIGFjtMK62cufB49-cxA",
+        "title": "Do LLMs Learn in Real Time? Myth Busted! 🛑",
+        "description": "Do LLMs learn in real time from your prompts and chat conversations? Many beginners assume that when you tell an LLM your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n3_xUHaQZXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n3_xUHaQZXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n3_xUHaQZXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n3_xUHaQZXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n3_xUHaQZXc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lets explore AI world",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T22:08:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sYIBKtGCFkUZRr78ze36tiiPlqo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JFg1Ow7TYas"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T21:46:39Z",
+        "channelId": "UCF3h7WNQUOgZgjF_EST9wlg",
+        "title": "Training vs inference: does your chat train the AI? #shorts #anthropic #machinelearning #ai #ML",
+        "description": "Does your chat train the AI? Not one of its numbers changes. ⚡ How AI Agents Actually Work, episode 2. A model is a frozen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JFg1Ow7TYas/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JFg1Ow7TYas/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JFg1Ow7TYas/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JFg1Ow7TYas/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JFg1Ow7TYas/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BigOenergy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T21:46:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x3ydM90TmzKHVrCEoGDKsR94zeA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "70rDMFh2hjg"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T21:00:07Z",
+        "channelId": "UCPRofFzEHmGAFn8iT05afOA",
+        "title": "5 - Ajustar (fine-tuning) Gemini desde BigQuery #Shorts",
+        "description": "Gemini responde bien, pero no con tus categorías ni con tu formato. ¿Y si le enseñas con ejemplos, directo desde BigQuery?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/70rDMFh2hjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/70rDMFh2hjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/70rDMFh2hjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/70rDMFh2hjg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/70rDMFh2hjg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GDG Cloud Santiago",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T21:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gmjrstyu8EZvLbbxnc70R8aoP5E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hACPTbJx6cA"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T20:21:53Z",
+        "channelId": "UCxvep9aJNAAFiK71dAbI6VA",
+        "title": "Rules vs learning: why AI learns instead of being told | Zero to AI · Primers 09 #Shorts",
+        "description": "Try writing the exact rules for reading a handwritten seven. AI tried for decades. Rules look smart: feathers → bird; a bird that can't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hACPTbJx6cA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hACPTbJx6cA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hACPTbJx6cA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hACPTbJx6cA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hACPTbJx6cA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/hACPTbJx6cA/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Layerwise",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T20:21:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MPyRFai24z1J4YmCbO8WwRe6Wp8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rFm1fi9yvDU"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T20:17:21Z",
+        "channelId": "UCS5-NaunVFMw0W9S5fOWPTQ",
+        "title": "Chapter 1, Module 1: Computer Vision | Machine Learning for Young Learners",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rFm1fi9yvDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rFm1fi9yvDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rFm1fi9yvDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rFm1fi9yvDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rFm1fi9yvDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Integral Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T20:17:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gH2Wua8BMWa-uhtVw4lVf8ohFzU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PIsyVYOEtx0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T20:16:02Z",
+        "channelId": "UCS5-NaunVFMw0W9S5fOWPTQ",
+        "title": "Chapter 1, Module 1: Computer Vision | Machine Learning for Young Learners",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PIsyVYOEtx0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PIsyVYOEtx0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PIsyVYOEtx0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PIsyVYOEtx0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PIsyVYOEtx0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Integral Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T20:16:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "35zidtIa6It2jdQiG85wX49hXvI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GwP4z-ZP4I0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T20:00:36Z",
+        "channelId": "UCz5nMB9HOKF3EZIGhoxCszA",
+        "title": "How Machine Learning &amp; Fairer Home Assessments Saved Everyday Homeowners Billions of Dollars",
+        "description": "Full episodes available at www.peoplenottitles.com People, Not Titles podcast is hosted by Steve Kaempf and is dedicated to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GwP4z-ZP4I0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GwP4z-ZP4I0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GwP4z-ZP4I0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GwP4z-ZP4I0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GwP4z-ZP4I0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "People, Not Titles Podcast",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T20:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D9fZzMiyMIkpmCVal5VCUj368KM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h35tL2XTgyE"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:58:33Z",
+        "channelId": "UCOxIvoNJCVSa345QIU2w2CQ",
+        "title": "How Netflix Uses AI to Recommend Movies 🍿 | Machine Learning Explained",
+        "description": "Why does your Netflix homepage look different from your friend's, even though you're using the same app? The answer is Artificial ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h35tL2XTgyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h35tL2XTgyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h35tL2XTgyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h35tL2XTgyE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h35tL2XTgyE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/h35tL2XTgyE/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Sudar Insights ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:58:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dR0UuuFJ53n1EJ4RrvcpIVxmatM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ab3xCljQ0OI"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:52:22Z",
+        "channelId": "UCAOJ9Qysmj_1ASGYlm_e8jA",
+        "title": "Maledizione della dimensionalità nel Machine Learning | TECH Global University",
+        "description": "La maledizione della dimensionalità può compromettere l'efficienza dei modelli di Machine Learning quando il numero di variabili ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ab3xCljQ0OI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ab3xCljQ0OI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ab3xCljQ0OI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ab3xCljQ0OI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ab3xCljQ0OI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TECH Global University",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:52:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vx50qVYgrNKsu9TvushGC9j_Cgs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1vO6xwHzJRI"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:31:02Z",
+        "channelId": "UC8-S0vkPRhUxg6EpmWDkvaw",
+        "title": "A maldição da dimensionalidade no Machine Learning | TECH Global University",
+        "description": "A maldição da dimensionalidade pode comprometer a eficiência dos modelos de Machine Learning quando o número de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1vO6xwHzJRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1vO6xwHzJRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1vO6xwHzJRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1vO6xwHzJRI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1vO6xwHzJRI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TECH Global University",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:31:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3fHdCLLaqNjh4P4cGx83Bvm2c48",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DhU8PdSY6C4"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T19:01:49Z",
+        "channelId": "UCWnhR7raxVFDHmDXqCIzuAw",
+        "title": "Crazy Quilt Stocking: Tutorial excerpt",
+        "description": "Crazy Quilt Stocking: Tutorial excerpt. Watch the full tutorial: https://www.youtube.com/watch?v=Dlg0Yxycjlg.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DhU8PdSY6C4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DhU8PdSY6C4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DhU8PdSY6C4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DhU8PdSY6C4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DhU8PdSY6C4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Missouri Star",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T19:01:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cxct0Lijcn4dUFVV8CZ0lMb6o-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T4zhQBJfdB0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T18:51:16Z",
+        "channelId": "UCW8VUKmmvJDN0YQv2ksTJvA",
+        "title": "The Curse of Dimensionality in Machine Learning Explained | TECH Global University",
+        "description": "The curse of dimensionality can reduce machine learning efficiency as feature spaces expand and similarities between ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T4zhQBJfdB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T4zhQBJfdB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T4zhQBJfdB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T4zhQBJfdB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T4zhQBJfdB0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TECH Global University",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T18:51:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SnZzVzpe2OBjSONZGNJjqSBePv0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KB-MskJ2RPc"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T18:49:58Z",
+        "channelId": "UC9AU4YgXzJpphDs3UHvA6YQ",
+        "title": "Machine learning para empresas: el error que cuesta caro",
+        "description": "Entrenar modelos con datos sucios es botar la plata Cotiza gratis en Solutek B2B https://marketplace.solutekla.com/v/90514-yt ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KB-MskJ2RPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KB-MskJ2RPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KB-MskJ2RPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KB-MskJ2RPc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KB-MskJ2RPc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SOLUTEK TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T18:49:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ILIWwK3MB6BOxajBlk_4Egcyt_E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yKQByGG0w3M"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T18:45:31Z",
+        "channelId": "UCLs-lhw5J7Mz2omeDFCcpjg",
+        "title": "👇🏽Watch Full Video - AI, Machine Learning, Data Mining Explained #ai #machinelearning #datamining",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yKQByGG0w3M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yKQByGG0w3M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yKQByGG0w3M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yKQByGG0w3M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yKQByGG0w3M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fort Insight",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T18:45:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5VUoa4VFQ5cjS7FR-wF5kBZY22o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yTLq3pOTlQs"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T17:53:46Z",
+        "channelId": "UCc5gHV-vI12Tj_iVprlX-wg",
+        "title": "Learn Machine Learning #shorts#machinelearning#viral#interview#coding#deeplearning#minivlog#python",
+        "description": "Where is Machine Learning Used? | 10 Real-World Applications Machine Learning is everywhere! From Netflix recommendations ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yTLq3pOTlQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yTLq3pOTlQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yTLq3pOTlQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yTLq3pOTlQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yTLq3pOTlQs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech RP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T17:53:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I1eQblj5RbIoKKoJnpmDbo5hPFw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Su9t5aCOMrE"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T17:45:04Z",
+        "channelId": "UC8cEOptEl0RDFv3SLupSzPw",
+        "title": "Datenrauschen im Machine Learning erkennen und reduzieren | TECH Global University",
+        "description": "Datenrauschen beeinträchtigt die Genauigkeit von KI-Modellen, weil fehlerhafte Messwerte und Kennzeichnungen irreführende ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Su9t5aCOMrE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Su9t5aCOMrE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Su9t5aCOMrE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Su9t5aCOMrE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Su9t5aCOMrE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TECH Global University",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T17:45:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-x_X-vO5EAtqwh69tc3gystNYfY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0M2-U_JR_5g"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T17:37:48Z",
+        "channelId": "UC8cEOptEl0RDFv3SLupSzPw",
+        "title": "Fluch der Dimensionalität im Machine Learning | TECH Global University",
+        "description": "Der Fluch der Dimensionalität erschwert die Mustererkennung im maschinellen Lernen, weil mit steigender Merkmalszahl ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0M2-U_JR_5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0M2-U_JR_5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0M2-U_JR_5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0M2-U_JR_5g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0M2-U_JR_5g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TECH Global University",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T17:37:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vgr0kW2K2q7pzd_6VEoZhg3JfrI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "41wHFXoOHek"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T17:18:56Z",
+        "channelId": "UC2vgWlXqa1BRJ4lYTgEIUiQ",
+        "title": "Neural Network Kya Hai? Backpropagation 40 sec mein samjho",
+        "description": "Neural network kya hai, aasaan Hinglish mein, layers se lekar backpropagation tak. Deep learning basics, AI ML for beginners, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/41wHFXoOHek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/41wHFXoOHek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/41wHFXoOHek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/41wHFXoOHek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/41wHFXoOHek/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/41wHFXoOHek/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "WeeFixAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T17:18:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KF5UeylRSNZkWHFtQYNKSt2e1g8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ud1MHmVCsZg"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T17:00:02Z",
+        "channelId": "UCWAuPC_qQWYFvCoM5kkL7Jg",
+        "title": "Born to Be Wild Guitar Tutorial - Easy Riffs + Flat Seven &amp; Flat Three Chords",
+        "description": "Learn how to play Born to Be Wild on guitar in this quick and easy tutorial. I am breaking down the classic main riff, basic chord ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ud1MHmVCsZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ud1MHmVCsZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ud1MHmVCsZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ud1MHmVCsZg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ud1MHmVCsZg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/ud1MHmVCsZg/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "YourGuitarSage",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T17:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3QWfzIVhPp2PAmqy_Cjs9eXOrYM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TOy-xzq3pe0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:18:13Z",
+        "channelId": "UCuN7_u7Scbptm8x_keNaeJA",
+        "title": "PyTorch Autograd Explained in English",
+        "description": "PyTorch Autograd Explained! | KIARA-VC Mini How does PyTorch automatically calculate gradients during Neural Network ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TOy-xzq3pe0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TOy-xzq3pe0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TOy-xzq3pe0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TOy-xzq3pe0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TOy-xzq3pe0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/TOy-xzq3pe0/sardefault.jpg",
+            "width": 941,
+            "height": 1672
+          }
+        },
+        "channelTitle": "machinelearningSchool",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:18:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7o7eOjwDefoGh3GBo4u8hVG6s_o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "35D08g012jM"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T16:00:37Z",
+        "channelId": "UCjtVE_FwdWRGkhyCGUJnuDg",
+        "title": "Machine Learning Explained: It&#39;s Just Learning From Examples",
+        "description": "What is AI, really? In this clip from the YUVA AI for All introduction to artificial intelligence and machine learning, the speaker ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/35D08g012jM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/35D08g012jM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/35D08g012jM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/35D08g012jM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/35D08g012jM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech In Two",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T16:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E33etOz7sAJryvC5cO7DqCu1OKM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TfrWe8_Oda0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T15:46:36Z",
+        "channelId": "UCTnTRjLDaEE4Sspr_mGNoPA",
+        "title": "What is Machine Learning? Ramu vs the Spam (Simple Story)",
+        "description": "Ramu's spam rules broke in a week. So he stopped writing rules. Machine learning finds the rules from labelled examples instead ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TfrWe8_Oda0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TfrWe8_Oda0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TfrWe8_Oda0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TfrWe8_Oda0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TfrWe8_Oda0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/TfrWe8_Oda0/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Learn AI by Story",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T15:46:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KAhUEgXDtqjjFoPyANX30XFsj0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cNCa_VqyQqk"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T15:25:21Z",
+        "channelId": "UCYlqox-sh60BCsyEf8hMtbA",
+        "title": "Rules vs Machine Learning: Farq Kya Hai? | Day 005",
+        "description": "Rules vs Machine Learning ka farq kya hai? Ek simple spam-filter example se samjho ki computer ko instructions dena aur ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cNCa_VqyQqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cNCa_VqyQqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cNCa_VqyQqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cNCa_VqyQqk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cNCa_VqyQqk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Why Verse",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T15:25:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XErvgjWBYPj7-_vcZOd8-LQuU0I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y99Fj3ejZH4"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T15:03:41Z",
+        "channelId": "UCZ_VhSHyOY0fWrBRDe6XGgQ",
+        "title": "How to play Here Comes The Sun: guitar tutorial (Day 26/30)  Link in bio to get your first week free",
+        "description": "How to play Here Comes The Sun: guitar tutorial (Day 26/30) Link in bio to get your first week free.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y99Fj3ejZH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y99Fj3ejZH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y99Fj3ejZH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y99Fj3ejZH4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y99Fj3ejZH4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/y99Fj3ejZH4/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "bennewportguitar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T15:03:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TkEKHU9GQfbArmtsf1Vo7HsjiwA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v1Hjw0EkEa4"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T15:00:26Z",
+        "channelId": "UCy-7JV03-DSIF0Gb8by1IPA",
+        "title": "They switched sides. Nobody told them to. #shorts #ai #machinelearning #reinforcementlearning",
+        "description": "No lanes, no rules. These AI cars first kept to the right, then, once turning traffic arrived, the whole society switched to the left.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v1Hjw0EkEa4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v1Hjw0EkEa4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v1Hjw0EkEa4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v1Hjw0EkEa4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v1Hjw0EkEa4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gen 1000",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T15:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WHJblLlJrJUqtrIhR2d5VfxQbbQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_rkrRuxoXjU"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:55:03Z",
+        "channelId": "UCen-TlToeRtfgRAWhTl2kKQ",
+        "title": "Machine Learning Workflow |  Common Machine Learning Algorithms",
+        "description": "Knowledge_Power_AT Machine Learning Workflow Common Machine Learning Algorithms Training, Validation and Testing Data ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_rkrRuxoXjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_rkrRuxoXjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_rkrRuxoXjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_rkrRuxoXjU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_rkrRuxoXjU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Knowledge_Power_AT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:55:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-nOVS9Xf17_3Lx1bzgiA1zCTlVk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Oxwp9tA0kT0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:55:13Z",
+        "channelId": "UCSFe6Ort7kqZzeDHWBuqDYQ",
+        "title": "AI కి నిజంగా మైండ్ ఉందా? 🤯 #Shorts",
+        "description": "ఆర్టిఫిషియల్ ఇంటెలిజెన్స్ (AI) అంటే ఏమిటి? మిషన్స్ మనుషుల్లాగే ఎలా ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oxwp9tA0kT0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oxwp9tA0kT0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oxwp9tA0kT0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Oxwp9tA0kT0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Oxwp9tA0kT0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/Oxwp9tA0kT0/sardefault.jpg",
+            "width": 768,
+            "height": 1365
+          }
+        },
+        "channelTitle": "Aadhi Vankudothu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:55:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SNsJfKPRcs8ky8E6i1pMNV1i8Q4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AdEgl8fSRYk"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:51:49Z",
+        "channelId": "UCq84egcBO5pvXwQszzsSdQg",
+        "title": "How Machine Learning Actually Works",
+        "description": "You use Machine Learning every day — even if you don't realize it! YouTube recommends videos, Netflix suggests movies, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AdEgl8fSRYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AdEgl8fSRYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AdEgl8fSRYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AdEgl8fSRYk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AdEgl8fSRYk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/AdEgl8fSRYk/sardefault.jpg",
+            "width": 941,
+            "height": 1672
+          }
+        },
+        "channelTitle": "IT Specialist",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:51:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w68xle7HSQThpbOV6CbjRvwIZCQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yxRfYjESN6M"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:37:58Z",
+        "channelId": "UCWEyP-hArmmrqjsC6MVWGig",
+        "title": "AI vs ML vs Deep Learning: Kya Teeno Ek Hi Cheez Hain? 🤔 (Part 2) #shorts #artificialintelligence",
+        "description": "Kya AI, Machine Learning aur Deep Learning ek hi cheez hain? Asal mein in teeno ka rishta ek Russian Doll (Matryoshka) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yxRfYjESN6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yxRfYjESN6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yxRfYjESN6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yxRfYjESN6M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yxRfYjESN6M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bibi | AI & Cybersecurity.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:37:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e31xeq37ZBVcsDw-CWrqvI3Hz-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3Y1Okz52Boc"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:34:09Z",
+        "channelId": "UC_1U9M9gEbY5Q5IIvBynMGQ",
+        "title": "Online banking fraud detention by machine learning tutorial ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Y1Okz52Boc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Y1Okz52Boc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Y1Okz52Boc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3Y1Okz52Boc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3Y1Okz52Boc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ayebare Josephine",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:34:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7bfOV0g1Tc9LpHegnt-Wu2DMl0w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LVlM6KdtwbA"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:30:24Z",
+        "channelId": "UCTH1wiuPQXRU3OtqJNehIUw",
+        "title": "Ep-03: How Does Machine Learning Work?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LVlM6KdtwbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LVlM6KdtwbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LVlM6KdtwbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LVlM6KdtwbA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LVlM6KdtwbA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/LVlM6KdtwbA/sardefault.jpg",
+            "width": 1778,
+            "height": 3160
+          }
+        },
+        "channelTitle": "Jeevan Pant",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:30:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "utavHJf9Dzx6s-s2mTax8dlFFco",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EN_8hz5rqFk"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:17:15Z",
+        "channelId": "UCBfz9HO4C37yacTzs2qX2Zg",
+        "title": "Feature Scaling | Check your features for these Data Problems #machinelearning #shorts",
+        "description": "Imagine you have this data: 200 customers, their age and their income. Before it goes into a model, it hits four problems, one after ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EN_8hz5rqFk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EN_8hz5rqFk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EN_8hz5rqFk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EN_8hz5rqFk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EN_8hz5rqFk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/EN_8hz5rqFk/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NeuronNode",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:17:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u5WlwILTqLjqhOXteg1BEjsAu4E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HuNGAMv-a7c"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T14:09:51Z",
+        "channelId": "UClkRcYdOvi0rUJzOjo6Q3mA",
+        "title": "99% on Practice, 31% on the Real Test, Made Simple!!! (Short)",
+        "description": "Overfitting explained in under a minute: a model can score 99 percent on practice and 31 percent on the real test — memorizing is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HuNGAMv-a7c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HuNGAMv-a7c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HuNGAMv-a7c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Practical Data Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T14:09:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zOJEJhsYIziBoItNldkH5ijj7PI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z0hqPIobPTI"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:55:01Z",
+        "channelId": "UCexKyxd_qyUUmFQHKs983nw",
+        "title": "What Is Machine Learning?",
+        "description": "What is machine learning? Instead of writing every rule, we show a computer lots of examples and it learns the pattern. A dad asks ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z0hqPIobPTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z0hqPIobPTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z0hqPIobPTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z0hqPIobPTI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z0hqPIobPTI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/Z0hqPIobPTI/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "AInation Studio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:55:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VX3jgzLT5pgl9W9isW8Fn7eZGZ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RQHYdbXvlrM"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:42:33Z",
+        "channelId": "UCQaj7VA9xWPGG26zmmIkbuQ",
+        "title": "🤖🚀 AI Engineering – Class 9 Beginner Guide | Learn AI from Zero! #SmartStudyGK #AIEngineering #Short",
+        "description": "Welcome to the World of AI Engineering! Are you interested in Artificial Intelligence (AI) and want to become an AI Engineer in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RQHYdbXvlrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RQHYdbXvlrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RQHYdbXvlrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RQHYdbXvlrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RQHYdbXvlrM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SMART STUDY GK\"",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:42:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4AAP4gDvZH3v-z3FOIiZocJk1gg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6utt78VQt4o"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:29:38Z",
+        "channelId": "UCd8MV-qx4kxfPn106Z-TG_A",
+        "title": "First Step to Learn Muscle Up🔥 Explosive Pullup Tutorial",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6utt78VQt4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6utt78VQt4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6utt78VQt4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6utt78VQt4o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6utt78VQt4o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Unchained AthletiX",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:29:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "urwPrWxDh6W11Pk8e95CDpCpAsQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QCMfn8W0eu0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T13:27:44Z",
+        "channelId": "UC9V4KQxXBRuXdcl3vgZ3mfQ",
+        "title": "Supervised vs. Unsupervised Learning | Machine Learning for Beginners",
+        "description": "Which customers might cancel their subscription? Which customers use the service in similar ways? The same customer activity ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QCMfn8W0eu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QCMfn8W0eu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QCMfn8W0eu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QCMfn8W0eu0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QCMfn8W0eu0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Datanova Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T13:27:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZXlSX38T5DXlNNucH0d57tOc3EE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "japxsBvKF_E"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T12:31:59Z",
+        "channelId": "UCVwc3XV94ifVOonbFP6-7tw",
+        "title": "Why Tutorials Are Making You Worse At Learning",
+        "description": "My links: Discord - https://discord.com/invite/C25jc8n (message me here about commissions) Twitch - https://twitch.tv/Shonzo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/japxsBvKF_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/japxsBvKF_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/japxsBvKF_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/japxsBvKF_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/japxsBvKF_E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/japxsBvKF_E/sardefault.jpg",
+            "width": 768,
+            "height": 1365
+          }
+        },
+        "channelTitle": "Shonzo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T12:31:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jnHqruVu3m9-M76F-kYQSyrktZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EsGhegVC-S4"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T11:58:08Z",
+        "channelId": "UCCvWj460128l6Fk_rmhRH2g",
+        "title": "Different Types of Matrices Explained: Every Matrix Is a Move #Shorts #linearalgebra #ai",
+        "description": "Different types of matrices, explained visually: what each matrix does to 2D space, in 85 seconds. The trick: column 1 is where ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EsGhegVC-S4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EsGhegVC-S4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EsGhegVC-S4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EsGhegVC-S4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EsGhegVC-S4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/EsGhegVC-S4/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "AnimatedML",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T11:58:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pMU57xbMa-eszxIX6fr1L-NglQ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BjJEK2FexQk"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T11:30:00Z",
+        "channelId": "UCFKxdpoc4KdMjUaAsMi7gmg",
+        "title": "Why redundant data slows machine learning #programming #ai #machinelearning",
+        "description": "Join this channel to get access to perks: https://www.youtube.com/channel/UCFKxdpoc4KdMjUaAsMi7gmg/join.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BjJEK2FexQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BjJEK2FexQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BjJEK2FexQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BjJEK2FexQk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BjJEK2FexQk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MLWorks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T11:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A-zKCSbTqs4NwUV1SasOaM3co3k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "anZvm-SUOeU"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T11:17:51Z",
+        "channelId": "UCg5T4G2Qoo9-EFniMRB5z1Q",
+        "title": "How Machine Learning Works in Our Daily Life! 🤖",
+        "description": "How does YouTube know what videos you like? How does Google Maps predict traffic? The answer is **Machine Learning (ML)!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/anZvm-SUOeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/anZvm-SUOeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/anZvm-SUOeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/anZvm-SUOeU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/anZvm-SUOeU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/anZvm-SUOeU/sardefault.jpg",
+            "width": 941,
+            "height": 1672
+          }
+        },
+        "channelTitle": "Step With Uday",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T11:17:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ae5Ks2I0dirPeoKOQqb4dfuNQ3s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AuVDShZzqsg"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T11:05:32Z",
+        "channelId": "UCc5gHV-vI12Tj_iVprlX-wg",
+        "title": "Machine Learning Explained#shorts#machinelearning#ai#viral#tranding#interview#minivlog#coding#funny",
+        "description": "What is Machine Learning? Explained for Beginners! Have you ever wondered how computers learn from data and make ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AuVDShZzqsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AuVDShZzqsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AuVDShZzqsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AuVDShZzqsg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AuVDShZzqsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech RP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T11:05:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RWCFJ6SD8RKc_BSzIS5GnuwilTg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2_h7v_eAGqg"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T10:40:11Z",
+        "channelId": "UC41oXAMX0TjAFuwIrAHbwvg",
+        "title": "🧠 మనిషి మెదడులా కంప్యూటర్? | Deep Learning అంటే ఏమిటి? 🤖 #Shorts #ai #telugufacts",
+        "description": "Deep Learning అంటే ఏమిటి? కంప్యూటర్ మనిషి మెదడులా ఎలా ఆలోచిస్తుంది?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2_h7v_eAGqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2_h7v_eAGqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2_h7v_eAGqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2_h7v_eAGqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2_h7v_eAGqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gopi EduHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T10:40:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4Km5vSJLwVYJIZnmJJ88lsyG1TE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KglBtDjFZDU"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T09:43:31Z",
+        "channelId": "UCR4xqYrDt9VJnsklAkP-lTQ",
+        "title": "How does Bayesian optimization pick the next trial? #Shorts",
+        "description": "An interview favourite, answered for Optuna's default sampler, TPE. Full episode: https://youtu.be/hFqjK7YvMFI Full playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KglBtDjFZDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KglBtDjFZDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KglBtDjFZDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KglBtDjFZDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KglBtDjFZDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Zero to AI Engineer-English",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T09:43:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sbjQjeg_0El9xbhYmgz1xZGlOuY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zIMeW6Eq1h0"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T08:39:11Z",
+        "channelId": "UCRe_D9mcPsyXYljEVCNWkXw",
+        "title": "🚀KNN Classification in Machine Learning Explained with a Simple Example | K-Nearest#computerscience",
+        "description": "KNN Classification in Machine Learning Explained with a Simple Example | K-Nearest Neighbors Algorrirhm Want to understand ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zIMeW6Eq1h0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zIMeW6Eq1h0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zIMeW6Eq1h0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zIMeW6Eq1h0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zIMeW6Eq1h0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "RADHIKA'S CODE HUB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T08:39:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0gNFpRwVcpBHxoCN4R9zNxpw2FM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hVqjeVMMPQc"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T08:29:11Z",
+        "channelId": "UCca9hmtQoZckO9dfZlwnJ9g",
+        "title": "Types of Machine Learning Explained | Complete Beginner&#39;s Guide",
+        "description": "Description:** What is Machine Learning, and what are its main types? In this video, we explore the 4 major types of Machine ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hVqjeVMMPQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hVqjeVMMPQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hVqjeVMMPQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hVqjeVMMPQc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hVqjeVMMPQc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TechNexa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T08:29:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ltI8SyNMMZq_kK0fbrh3ZuXoEtE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JejqETkr4GI"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T08:00:34Z",
+        "channelId": "UCW7KHMmOqfmoImGL7Itjl4A",
+        "title": "AI vs Machine Learning vs Deep Learning, on One Chest X-ray",
+        "description": "WhatsApp group: https://chat.whatsapp.com/ET6jeZwee88KhKC4PICuiK?mode=gi_t ‍⚕️ Hands-on online workshops on AI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JejqETkr4GI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JejqETkr4GI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JejqETkr4GI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JejqETkr4GI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JejqETkr4GI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Medical AI Simplified",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T08:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zUSiT-6ti9jtrTBclyDRgH7REZ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7LhLW_gDVpQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-11-09T07:07:30Z",
+        "channelId": "UCUfQOb0mwtzviA_mEgT80lA",
+        "title": "The Arduino Tiny Machine Learning Kit is a great way for... #Shorts #dcrob0tics",
+        "description": "The Arduino Tiny Machine Learning Kit is a great way for... The Arduino Tiny Machine Learning Kit is a great way for.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7LhLW_gDVpQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7LhLW_gDVpQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7LhLW_gDVpQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7LhLW_gDVpQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7LhLW_gDVpQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DC Robotics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-11-09T07:07:30Z"
+      }
+    }
+  ]
+}

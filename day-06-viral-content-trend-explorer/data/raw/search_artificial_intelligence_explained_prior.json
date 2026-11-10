@@ -1,0 +1,2262 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ih7ABwZXQTdZzlBe5eAUdRVwdSk",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EJ2Lw8p9Vyl3Uojl95Sxusg321k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YyR5rR1GcrQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T19:41:28Z",
+        "channelId": "UCe5tTcQFqy-yz5zFIihTg2w",
+        "title": "How AI Rewrites Your Job in 4 Stages (Explained Simply) #shorts #artificialintelligence",
+        "description": "AI usually doesn't replace jobs overnight. It rewrites them. Here's the 4-stage pattern I've seen happen in real organizations: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YyR5rR1GcrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YyR5rR1GcrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YyR5rR1GcrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YyR5rR1GcrQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YyR5rR1GcrQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nawabi Tech Solutions ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T19:41:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CwBnA_DU5WuJqrrnPUBXbe1bG0Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Me7jQICG0pw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T19:08:13Z",
+        "channelId": "UC8oF3Zdbe7qI-BPxUGqz9dg",
+        "title": "AI Utopia vs Dystopia: The Two Futures of Artificial Intelligence Explained",
+        "description": "Right now, in labs around the world, engineers are building something that could cure every disease and end poverty — or slip ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Me7jQICG0pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Me7jQICG0pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Me7jQICG0pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Me7jQICG0pw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "The Science Lab",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T19:08:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VFC3reejSU9_Un3C00aWfv-FsyM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nPXWw11TvEY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T17:11:53Z",
+        "channelId": "UCBgofU0cs7Mv-1UDmqISP4Q",
+        "title": "What is Artificial Intelligence  in Telugu - Explained with simple examples - AI Basics in Telugu 01",
+        "description": "What is Artificial Intelligence AI in Telugu - Explained with simple examples - AI Basics in Telugu *Join Artificial Intelligence WA ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nPXWw11TvEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nPXWw11TvEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nPXWw11TvEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nPXWw11TvEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nPXWw11TvEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "VLR Training",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T17:11:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1cwxMaEf-492O-9OKejp-RThCvk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5nVq2rLUJCs"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T16:56:01Z",
+        "channelId": "UCUPvjhnIpGTiyzke8aX1XQQ",
+        "title": "Intelligenza Artificiale: 20 Strumenti IA Spiegati Velocemente! #shorts",
+        "description": "Esploriamo il mondo delle intelligenze artificiali in una carrellata veloce. Scopri cosa sono e come simulano il pensiero umano.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5nVq2rLUJCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5nVq2rLUJCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5nVq2rLUJCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5nVq2rLUJCs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5nVq2rLUJCs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Michele De Capitani (dechigno)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T16:56:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XH_DpDYvh0UqtgJQxE8xg_3n4jA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gj3MpqPQcBo"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T16:00:07Z",
+        "channelId": "UCdRgQCt2A3Cq8yT3xLiFw0A",
+        "title": "3 simple explanations: What is artificial intelligence? + How does artificial intelligence l...",
+        "description": "In this video: 1. What is artificial intelligence? 2. How does artificial intelligence learn? 3. Why does artificial intelligence need data ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gj3MpqPQcBo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gj3MpqPQcBo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gj3MpqPQcBo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gj3MpqPQcBo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gj3MpqPQcBo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Clear & Simple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T16:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VSAG_GObwaEnF-Z_c1Qy3XWx3Ao",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1LBDsUZ_raA"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T15:57:25Z",
+        "channelId": "UCV0fJu7Fs6Jb6BKkej8k8Qw",
+        "title": "AI Isn&#39;t Magic! 🤯 The Mathematics Behind Artificial Intelligence Explained in 5 Minutes",
+        "description": "W   AI ISN'T MAGIC—IT'S MATHEMATICS IN ACTION! Have you ever wondered how Netflix recommends your next favourite ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1LBDsUZ_raA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1LBDsUZ_raA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1LBDsUZ_raA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1LBDsUZ_raA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1LBDsUZ_raA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Intensive Maths Clinic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T15:57:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kpl59vsxf6e7NDjSa2TkXOCyV-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I9mA66cgTQ8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T15:47:16Z",
+        "channelId": "UC_wpxaGIpyBNV3BLjhfBgTw",
+        "title": "Who Sees What You Type Into AI? Local AI Explained",
+        "description": "Hi, I'm Connor with Honor - message me here! (https://www.buzzsprout.com/298109/fan_mail/new) Everything you type into a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I9mA66cgTQ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I9mA66cgTQ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I9mA66cgTQ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I9mA66cgTQ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I9mA66cgTQ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Connor With Honor",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T15:47:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_ZtW9WwLtpmjUSaSdhml9hvV2AA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bcpQkvBCACw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T15:30:11Z",
+        "channelId": "UCqoAEDirJPjEUFcF2FklnBA",
+        "title": "Why We Haven’t Reached Superintelligence, with David Krakauer",
+        "description": "Why did intelligence evolve in the universe? Neil deGrasse Tyson, Chuck Nice, and Gary O'Reilly explore the nature of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bcpQkvBCACw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bcpQkvBCACw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bcpQkvBCACw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bcpQkvBCACw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bcpQkvBCACw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/bcpQkvBCACw/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "StarTalk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T15:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uy9qvaQtA3IMOK2qq6lGe0T13N4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B80Yore4rOQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T15:03:36Z",
+        "channelId": "UCdJ2DYleyO-cp_ktoSyS45A",
+        "title": "Why Are AI Labs Scared of Their Own Models? Explained in 50 Seconds",
+        "description": "OpenAI scrapped its finished GPT-6.1 Astra model because it kept acting outside its boundaries — and that's only the start.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B80Yore4rOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B80Yore4rOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B80Yore4rOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B80Yore4rOQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B80Yore4rOQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AI News ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T15:03:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RBpMTOmA2YPA8S2jVv1ZWjTW5kI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hzmGnUzyrxI"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T15:00:04Z",
+        "channelId": "UC1AaxvKv4CwRCKre_ronrbQ",
+        "title": "Google Gemini Skills Explained: What’s Replacing Gems?  #artificialintelligence #gemini #google  #ai",
+        "description": "Google Gemini Skills let you save instructions and combine them in one conversation. I explain how Google's gradual move from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hzmGnUzyrxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hzmGnUzyrxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hzmGnUzyrxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hzmGnUzyrxI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hzmGnUzyrxI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/hzmGnUzyrxI/sardefault.jpg",
+            "width": 941,
+            "height": 1672
+          }
+        },
+        "channelTitle": "ReviewWithAlice",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T15:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JeYfR4wn1oHUogPODB2cWgSFN3U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2QxF6nQIv0M"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T15:00:13Z",
+        "channelId": "UCHGtnG6W9FrXd7jlzaEUP0Q",
+        "title": "Every Stage of AI Explained (We’re at Stage 6)",
+        "description": "AI didn't arrive all at once. It's climbing a ladder, and the companies building it now measure that climb themselves. In this video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2QxF6nQIv0M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2QxF6nQIv0M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2QxF6nQIv0M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2QxF6nQIv0M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2QxF6nQIv0M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Future Tech Enthusiast",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T15:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZUZ7TSmj_Jjc87QghLN1GGQIL_o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Eis6xRdR08k"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T14:14:21Z",
+        "channelId": "UC18AcOKdWmsptc0VJf1QEfA",
+        "title": "How Does AI REALLY Work? 🤖 (Artificial Intelligence Explained)",
+        "description": "How does Artificial Intelligence actually work? How can ChatGPT answer questions, generate images, and have conversations ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Eis6xRdR08k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Eis6xRdR08k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Eis6xRdR08k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Eis6xRdR08k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Eis6xRdR08k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WTF? why things function EN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T14:14:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TeRECFaaevPoURpmShQ9s6-3_0Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LR30-lp_Shs"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T14:00:26Z",
+        "channelId": "UCLgpukFcs6pACFVgztxTVeQ",
+        "title": "What Actually Is Artificial Intelligence? AI Explained for Beginners",
+        "description": "Artificial intelligence is suddenly everywhere—but how does AI actually work? In this Fact Lab Pro episode, we explain artificial ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LR30-lp_Shs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LR30-lp_Shs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LR30-lp_Shs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LR30-lp_Shs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LR30-lp_Shs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/LR30-lp_Shs/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Fact Lab Pro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T14:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fqc_U7wViRSf2T2Win-Nh4OOkEY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mbG0KkNYQt8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T13:43:25Z",
+        "channelId": "UCxmqWExonYfNLYL8xpw7HwQ",
+        "title": "How Does AI Work? 🤖 Artificial Intelligence Explained for Beginners | Halcherikar Academy",
+        "description": "In this video, we explain how Artificial Intelligence (AI) works in simple language with easy-to-understand examples. Topics ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mbG0KkNYQt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mbG0KkNYQt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mbG0KkNYQt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mbG0KkNYQt8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mbG0KkNYQt8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Halcherikar Academy ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T13:43:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q0r__4IL88VF6oCEaVhZdrzAlK0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cV5PCvr6RtU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T13:37:39Z",
+        "channelId": "UCbZb4E4MYNdX-aniwaBVVwA",
+        "title": "आज की कहानी | AI-कृपा या कहर | Artificial Intelligence Explained in Hindi |@AajKiKahaanii",
+        "description": "Evolution of Artificial intelligence in Hindi | Pros and Cons Of AI full explained in Hindi #आजकीकहानी #aajkikahaanii ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cV5PCvr6RtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cV5PCvr6RtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cV5PCvr6RtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cV5PCvr6RtU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cV5PCvr6RtU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aaj Ki Kahaanii",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T13:37:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xu6v0Co9yoag9tEDBXRn77cgE_Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "arJ7QskEuTU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T13:30:08Z",
+        "channelId": "UCwy5JCtl2Bx-hIApMc0Z1kA",
+        "title": "History of Artificial Intelligence Explained in Hindi",
+        "description": "History of Artificial Intelligence Explained in Hindi | AI History in Hindi Artificial Intelligence (AI) का इतिहास क्या है?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/arJ7QskEuTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/arJ7QskEuTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/arJ7QskEuTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/arJ7QskEuTU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/arJ7QskEuTU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Codonut",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T13:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HV0_yOJZxC57JHoQ1PWheAPv_sg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LXer64CDFrc"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T13:00:31Z",
+        "channelId": "UCuuZTDRyWd8RFwJN-9J_CfQ",
+        "title": "Face Unlock Explained!#FaceUnlock #FacialRecognition #ArtificialIntelligence #DaniyalTech18",
+        "description": "How does your smartphone recognize your face in seconds? Discover how Face Unlock technology uses facial recognition ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LXer64CDFrc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LXer64CDFrc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LXer64CDFrc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LXer64CDFrc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LXer64CDFrc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/LXer64CDFrc/sardefault.jpg",
+            "width": 768,
+            "height": 1365
+          }
+        },
+        "channelTitle": "Daniyal Tech18",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T13:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rTawhjbX0l9W_mWujWsjDQwe9Gk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l3NhpCiDsHE"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T10:51:41Z",
+        "channelId": "UCrHACcQcwUHE7mCcoxP0iqQ",
+        "title": "RNN Explained #ai #machinelearning #artificialintelligence #datascience",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l3NhpCiDsHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l3NhpCiDsHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l3NhpCiDsHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l3NhpCiDsHE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l3NhpCiDsHE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TechwithRam",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T10:51:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w95kqJ7SFmnrJptFMUEHL3nIX68",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wDcCwFzAEVU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T08:55:08Z",
+        "channelId": "UCNzX7sIaWf3BE5LP6WlymLw",
+        "title": "AI &amp; Machine Learning 🔥 Explained in Simple Language😍#artificialintelligence #machinelearning",
+        "description": "Welcome to MasterMan.in — your go-to platform for engineering admissions, college guidance, scholarships, CAP rounds, spot ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wDcCwFzAEVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wDcCwFzAEVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wDcCwFzAEVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wDcCwFzAEVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wDcCwFzAEVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The MasterMan!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T08:55:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Y0mzt9IWkMPgy85fcOENO35mvA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rZCplGDK9k0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T08:34:30Z",
+        "channelId": "UCkV2nh5wsfd6Bz3gX-W8-rA",
+        "title": "AI Explained Simply: It Learns From Examples",
+        "description": "A big idea behind AI is machine learning: instead of following steps a person wrote, software is shown lots of examples, finds what ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rZCplGDK9k0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rZCplGDK9k0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rZCplGDK9k0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rZCplGDK9k0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rZCplGDK9k0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/rZCplGDK9k0/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Ai for dummies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T08:34:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AW3s27wuOedwcMAGhH2OUZoVTKM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qbV0Imx_BeQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T08:13:18Z",
+        "channelId": "UCbL1NRgoU-fl3HGMu7IcXGw",
+        "title": "What is AI? | Artificial Intelligence Explained Simply | AI for Beginners",
+        "description": "What is AI? How does Artificial Intelligence actually work? In this video, we explain Artificial Intelligence in a simple and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qbV0Imx_BeQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qbV0Imx_BeQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qbV0Imx_BeQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qbV0Imx_BeQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "MindTurn Studio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T08:13:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mj2UtriOJEOe_gpce97aSnkVQdI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S1nauOt506Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T08:00:21Z",
+        "channelId": "UCUM4E4n7N1iNLYgzRtEGr9A",
+        "title": "Grok Explained What Can xAI’s AI Assistant Actually Do #aitools #artificialintelligence",
+        "description": "Learn everything about Grok. Grok AI, xAI Grok, Grok explained, Grok AI assistant, xAI, conversational AI, AI assistant, AI tools, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S1nauOt506Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S1nauOt506Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S1nauOt506Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Toolroom",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T08:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oCMZpZA16MhE2WlAmfm5Ch2T5s4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pMXs-7f45Yo"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T06:41:12Z",
+        "channelId": "UChQf2gjjHKSm6jkuarSTMeg",
+        "title": "How Artificial Intelligence Works in 60 Seconds #shorts2026 #ai #tech #explained #easy",
+        "description": "Ever wondered how AI actually works behind the scenes? It isn't a brain in a jar thinking thoughts—it's high-speed geometry ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pMXs-7f45Yo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pMXs-7f45Yo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pMXs-7f45Yo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pMXs-7f45Yo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pMXs-7f45Yo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UncleDebug",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T06:41:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F7pYKnE-scPioGCrO6ubBpzd-JM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GTAiscXJA4k"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T06:17:50Z",
+        "channelId": "UCgn4LvWOFM4Mn-2pad6LCcw",
+        "title": "How AI Works, Explained Simply #ai #artificialintelligence #tech #howitworks #chatbot #learnontiktok",
+        "description": "ai #artificialintelligence #tech #howitworks #chatbot #learnontiktok #science #didyouknow SOURCES: - Brown et al., \"Language ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GTAiscXJA4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GTAiscXJA4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GTAiscXJA4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GTAiscXJA4k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GTAiscXJA4k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/GTAiscXJA4k/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "BACKSTORY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T06:17:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k6t7iP-jMxwNtPfc47D0C9F3vtA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yyb9i8r6MTg"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T02:45:41Z",
+        "channelId": "UCe8qdUc668YGgSpssYd2b7w",
+        "title": "AI Testing Explained: A Beginner’s Guide End to End. #AITesting #QATesting #ArtificialIntelligence",
+        "description": "ou already know how to test APIs, validate UI behavior, and run regression tests. But what happens when the application you're ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yyb9i8r6MTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yyb9i8r6MTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yyb9i8r6MTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yyb9i8r6MTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yyb9i8r6MTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aruna Techie Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T02:45:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kXS52idHAiQhbNTojgjSNSqVypQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FMuZMXX1AS8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T18:30:09Z",
+        "channelId": "UCsStCYCeycJleoGx116fwOg",
+        "title": "Day 1 🚀 What Is AI? Artificial Intelligence Explained for Beginners 🤖",
+        "description": "DAY 1 OF MY AI LEARNING SERIES!** Welcome to Day 1! Today, we're exploring Artificial Intelligence (AI) — what it is, how it ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FMuZMXX1AS8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FMuZMXX1AS8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FMuZMXX1AS8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FMuZMXX1AS8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FMuZMXX1AS8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KNOW ABOUT AI ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T18:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6tLjauIVe1IMZawp-68agmnDP28",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "abYwG-jrEhc"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T18:30:13Z",
+        "channelId": "UCsHYidZxH3wIyvb_daydDgw",
+        "title": "Artificial Intelligence &amp; Machine Learning Explained | Core Fundamentals for Beginners 🤖",
+        "description": "What is Artificial Intelligence? How does Machine Learning actually work? This video breaks down the core fundamentals of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/abYwG-jrEhc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/abYwG-jrEhc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/abYwG-jrEhc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/abYwG-jrEhc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/abYwG-jrEhc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Flutterflow Tutorials",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T18:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZNdy8VBkwNJKacEJkaOL4FSY-f0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-C7LS_M1FE8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T16:24:21Z",
+        "channelId": "UCUHgzI6gtN7W2Che4CiaNUg",
+        "title": "Claude Explained in 60 seconds  #artificialintelligence #CkaudeAI #aiexplained",
+        "description": "Most people have heard of AI. Far fewer know how to actually work with it. Claude is an AI assistant built by Anthropic. It can read ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-C7LS_M1FE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-C7LS_M1FE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-C7LS_M1FE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-C7LS_M1FE8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-C7LS_M1FE8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/-C7LS_M1FE8/sardefault.jpg",
+            "width": 960,
+            "height": 1707
+          }
+        },
+        "channelTitle": "Boston Institute of Analytics - Electronic City",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T16:24:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A7KyjommGo9Ot0Qbw_i-IXJkXzQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TlUn8xQ8Bsg"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T16:10:23Z",
+        "channelId": "UCS6Sb5rfaEnWTVPGyQlnHFQ",
+        "title": "4 AI Concepts Explained: Attention, RAG, RLHF &amp; Agents",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TlUn8xQ8Bsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TlUn8xQ8Bsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TlUn8xQ8Bsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TlUn8xQ8Bsg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TlUn8xQ8Bsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/TlUn8xQ8Bsg/sardefault.jpg",
+            "width": 768,
+            "height": 1365
+          }
+        },
+        "channelTitle": "AI Simplified Lab",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T16:10:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PZT6b-WsdBR0bDZ4nZq1Qb_qtiQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D2FwCPK8D2Y"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T15:30:06Z",
+        "channelId": "UCbKq6bRvvAEPygdI4isCv8w",
+        "title": "The AI Rule Nobody Told You | Ethan Mollick",
+        "description": "Welcome To Our Youtube Channel \"Future Tech Audio\" Why AI Makes Smart People Lazy | Co-Intelligence LISTEN FREE: Get ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D2FwCPK8D2Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D2FwCPK8D2Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D2FwCPK8D2Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D2FwCPK8D2Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D2FwCPK8D2Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Future Tech Audio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T15:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mb4mPQC6ch83LudREmPtYkUV-bU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ROZjnHfsqiY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T12:48:53Z",
+        "channelId": "UC9zlF8DsfxN1WV0sbEYl_XA",
+        "title": "AI Phones Explained in 6 Minutes | How Artificial Intelligence Is Changing Smartphones!",
+        "description": "AI Phones Explained: The Future of Smartphones Is Here! What if your smartphone could think smarter, understand your voice, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ROZjnHfsqiY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ROZjnHfsqiY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ROZjnHfsqiY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ROZjnHfsqiY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ROZjnHfsqiY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Uncovered World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T12:48:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "chlgfFztT__-8udBOwxkHA2UplY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4LPuehbH5vc"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T10:28:57Z",
+        "channelId": "UCvyFJLQsZpYO5DiPrhiBR0g",
+        "title": "Class 9 Artificial Intelligence | Introduction to AI | Chapter Summary in Hindi",
+        "description": "Learn Class 9 Artificial Intelligence Chapter 1: Introduction to AI with easy English notes and Hindi explanations. This video covers ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4LPuehbH5vc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4LPuehbH5vc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4LPuehbH5vc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4LPuehbH5vc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4LPuehbH5vc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Padhnex",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T10:28:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z1VcDFqAFjIXJZdENr3rYAWy-30",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aiAYN8u0yyk"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T09:02:35Z",
+        "channelId": "UCA99nFOwGrggcfEUBpno8cQ",
+        "title": "AI Search Visibility Explained: Why Rankera Is Best for AI Answers",
+        "description": "AI Search Visibility Explained: Why Rankera Is Best for AI Answers AI search visibility is how often AI systems like ChatGPT, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aiAYN8u0yyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aiAYN8u0yyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aiAYN8u0yyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aiAYN8u0yyk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aiAYN8u0yyk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "roundtable_so",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T09:02:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cm5t8WzXZixgjcULZJY8NNs6ZoA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rgYVEwupjOY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T07:30:16Z",
+        "channelId": "UClijqSP0WUVaBSfJgkjf6Sg",
+        "title": "What Is AI? 🤖🧠 | Artificial Intelligence for Kids #Shorts",
+        "description": "What exactly is Artificial Intelligence? Meet Byte, Wonky Bunny's new AI friend, and discover how AI helps computers do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rgYVEwupjOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rgYVEwupjOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rgYVEwupjOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rgYVEwupjOY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rgYVEwupjOY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Wonky Bunny Show, by Dr. K",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T07:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ld4Oj_JHpqqTgv1wg7C9U65wQUA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nhBCR1K3pCw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T07:28:19Z",
+        "channelId": "UCHC5I-6xK-bhS2FbGtaY_eg",
+        "title": "AI Agents Explained: How AI Actually Gets Things Done #shorts  #artificialintelligence #youtubeshort",
+        "description": "What if AI could do more than answer your questions? In this video, discover how AI agents use tools, access information, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nhBCR1K3pCw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nhBCR1K3pCw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nhBCR1K3pCw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nhBCR1K3pCw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nhBCR1K3pCw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Beyond the Signal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T07:28:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K_OCw6mVlHQJlxcmsTEIIZpSRFU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Hypy16yqAXs"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T05:00:30Z",
+        "channelId": "UCLc-r60WgGCyJmIWOAGnUyQ",
+        "title": "What Is Artificial Intelligence? 🤖 | AI Explained Simply #artificialintelligence#NoSpendAILab#Shorts",
+        "description": "Artificial Intelligence (AI) is everywhere — in smartphones, voice assistants, recommendation systems, and chatbots. But what ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hypy16yqAXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hypy16yqAXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hypy16yqAXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hypy16yqAXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hypy16yqAXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/Hypy16yqAXs/sardefault.jpg",
+            "width": 941,
+            "height": 1672
+          }
+        },
+        "channelTitle": "NO SPEND AI LAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T05:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cs1YI64jpu3iasytnAeYLHOcSQU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7h_loXC09Zw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T03:00:27Z",
+        "channelId": "UCbrHFLqjx69pKs2BOwqUYmQ",
+        "title": "What Is Artificial Intelligence (AI)? AI, Machine Learning &amp; Deep Learning Explained",
+        "description": "What is Artificial Intelligence (AI)? How does AI learn, and what is the difference between AI, Machine Learning (ML), and Deep ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7h_loXC09Zw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7h_loXC09Zw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7h_loXC09Zw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7h_loXC09Zw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7h_loXC09Zw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/7h_loXC09Zw/sardefault.jpg",
+            "width": 940,
+            "height": 1671
+          }
+        },
+        "channelTitle": "TeacherColab",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T03:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w968DqqC20vx8T7ir30lgkjWs9U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fptqRn2jMSk"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T02:00:10Z",
+        "channelId": "UCgOkp2x0ivyBFCp4DN6p4Iw",
+        "title": "9 AI Concepts You MUST Know in 2026 🤯 | Artificial Intelligence Explained in 5 Minutes",
+        "description": "Welcome to Ravindra Dastikop's AI channel! Artificial Intelligence explained simply, clearly, and practically. Explore AI concepts ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fptqRn2jMSk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fptqRn2jMSk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fptqRn2jMSk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fptqRn2jMSk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fptqRn2jMSk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AIYING - Accomplishing with AI ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T02:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kcrMH--Jc540Nt-_HMwdS1o-JDw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l7c1gm-frjw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T20:44:59Z",
+        "channelId": "UCuM_UNlxI2IaM_ZqYYXZOdg",
+        "title": "AI Agents Explained: How AI Takes Action #aitips #studytips #artificialintelligence",
+        "description": "What is an AI agent—and how can it use software? Learn how agents use tools, take steps toward a goal, and check results.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l7c1gm-frjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l7c1gm-frjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l7c1gm-frjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l7c1gm-frjw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l7c1gm-frjw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/l7c1gm-frjw/sardefault.jpg",
+            "width": 529,
+            "height": 941
+          }
+        },
+        "channelTitle": "IA útil en un minuto",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T20:44:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VuuMzXD3KeqzoGj7B4QBh21jzRk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Lb4q7hxoUAg"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T17:00:02Z",
+        "channelId": "UCjOXN5R_Jj49jU5f59VCKbQ",
+        "title": "What Is AI? Explained in Plain English for Beginners",
+        "description": "What is AI, and where are you already using artificial intelligence every day? This beginner-friendly explanation makes AI simple ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lb4q7hxoUAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lb4q7hxoUAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lb4q7hxoUAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Lb4q7hxoUAg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Lb4q7hxoUAg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Promise Ekeh ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T17:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m0vr3uCEOHDU1l0Dvnr2-2LRWV0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ujcc6_lm2Vc"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T16:12:25Z",
+        "channelId": "UC8HuJB7_Zs9BpkGVZf1qPrw",
+        "title": "How Artificial Intelligence Actually Thinks (Explained for Kids!)",
+        "description": "Ever wondered how AI actually generates art, beats games, or talks back? It isn't a metal brain—it's a genius pattern detective!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ujcc6_lm2Vc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ujcc6_lm2Vc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ujcc6_lm2Vc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ujcc6_lm2Vc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ujcc6_lm2Vc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THE HERO STEM ACADEMY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T16:12:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xKHTeKABQK26PCW9QdL-AYxw-zs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bqggf_wK-EE"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T15:47:37Z",
+        "channelId": "UClUrTh_j60idHnvDWcwsLDg",
+        "title": "AGI Explained in 2 Minutes! | Will Artificial General Intelligence Change the World?",
+        "description": "What is AGI — Artificial General Intelligence? Imagine an AI that can learn, reason, adapt, solve complex problems, write ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bqggf_wK-EE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bqggf_wK-EE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bqggf_wK-EE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bqggf_wK-EE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bqggf_wK-EE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/Bqggf_wK-EE/sardefault.jpg",
+            "width": 940,
+            "height": 1671
+          }
+        },
+        "channelTitle": "AI & code",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T15:47:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-HkSvpQaB1IPTJYqyeDuU6IMAMs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vyzxBPxGaPc"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T15:00:29Z",
+        "channelId": "UCekryM0hyKo5Q5EmsbE3JiA",
+        "title": "Fifth Generation Computers Explained | Artificial Intelligence #Shorts",
+        "description": "Fifth Generation Computers Explained | Artificial Intelligence and Future Technology What are Fifth Generation Computers?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vyzxBPxGaPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vyzxBPxGaPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vyzxBPxGaPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vyzxBPxGaPc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vyzxBPxGaPc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech With Urwa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T15:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jCbNe7PQMv_k12u9QTVsDuEkD3c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GTDMDZf2l3A"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T15:00:25Z",
+        "channelId": "UCrKv_x1uWOcz2OZ0_5aQxJw",
+        "title": "AI Kya Hai? 🤖 Artificial Intelligence Kaise Kaam Karti Hai? | AI Explained in Urdu/viral/trending ",
+        "description": "AI Kya Hai? Artificial Intelligence Kaise Kaam Karti Hai? Is video mein hum simple aur easy Urdu mein samjhenge ke Artificial ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GTDMDZf2l3A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GTDMDZf2l3A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GTDMDZf2l3A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GTDMDZf2l3A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GTDMDZf2l3A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "curiousworld ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T15:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YpQpWyVUZo3MMQA3by9DRZ21dBU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KM4pwsXnTWQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T14:31:17Z",
+        "channelId": "UCteRPiisgIoHtMgqHegpWAQ",
+        "title": "AI vs. Machine Learning Explained in 60 Seconds",
+        "description": "Do you know the difference between AI and Machine Learning? After working as a Data Analyst, Data Engineer, and Data ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KM4pwsXnTWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KM4pwsXnTWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KM4pwsXnTWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KM4pwsXnTWQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KM4pwsXnTWQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/KM4pwsXnTWQ/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Sundas Khalid",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T14:31:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qBUGIP02W55Ju7-cUO_82ezr74Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "anM7apNSeEU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T13:48:42Z",
+        "channelId": "UCZSSSFc0jZ00-oEvHcmQfOQ",
+        "title": "What Is AI Engineering? (Explained Simply)",
+        "description": "AI engineering is software engineering for AI-powered apps: you take a model like GPT, Claude or Gemini and build reliable ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/anM7apNSeEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/anM7apNSeEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/anM7apNSeEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/anM7apNSeEU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/anM7apNSeEU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/anM7apNSeEU/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Bit by Bit",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T13:48:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N1xN6sv6uY9KKA_G-JVBCVi0DQY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YP6xdaos1go"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T13:30:19Z",
+        "channelId": "UCuiyZZRtnpqU0r3gR5t8PoA",
+        "title": "What Is Artificial Intelligence? AI Explained Simply",
+        "description": "What exactly is Artificial Intelligence, and how does it work? From e-challans and Tesla's self-driving cars to the personalised ads ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YP6xdaos1go/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YP6xdaos1go/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YP6xdaos1go/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YP6xdaos1go/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YP6xdaos1go/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/YP6xdaos1go/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Talha Ahad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T13:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OhXRoD49oc4TA2CD6Ilf-jDdChA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_1E7UeKB_8M"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T12:44:02Z",
+        "channelId": "UCVED2b8YCnToTouNfsIo0_Q",
+        "title": "What is AI?  | Artificial Intelligence Explained for Beginners",
+        "description": "What is AI? | Artificial Intelligence Explained Simply What exactly is Artificial Intelligence (AI), and how does it actually work?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_1E7UeKB_8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_1E7UeKB_8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_1E7UeKB_8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_1E7UeKB_8M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_1E7UeKB_8M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nisant Sharma ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T12:44:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2cPrsLrtMqeHdXgDmbkvgGhuDxk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "snhdFCWfOSE"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T11:42:46Z",
+        "channelId": "UCFbgrzzSIMzD56C5H6S8nDg",
+        "title": "🤖 AI क्या है और कैसे काम करता है? | Artificial Intelligence Explained |UPSC PCS SSC #Shorts #upsc",
+        "description": "AI क्या है और कैसे काम करता है? Artificial Intelligence यानी AI एक ऐसी तकनीक है, जो ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/snhdFCWfOSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/snhdFCWfOSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/snhdFCWfOSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/snhdFCWfOSE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Gyan Drashti",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T11:42:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_wefO478SA7ayP17JDWwxR_xNTU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cJ0nqgyN3go"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T11:33:54Z",
+        "channelId": "UCrHACcQcwUHE7mCcoxP0iqQ",
+        "title": "CNN Explained Visually #ai #deeplearning #machinelearning #artificialintelligence",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cJ0nqgyN3go/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cJ0nqgyN3go/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cJ0nqgyN3go/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cJ0nqgyN3go/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cJ0nqgyN3go/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TechwithRam",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T11:33:54Z"
+      }
+    }
+  ]
+}

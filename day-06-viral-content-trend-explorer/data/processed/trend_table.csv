@@ -1,0 +1,8 @@
+topic,n_A,n_B,share_A,share_B,share_change_pp,volume_growth,median_views_per_day_A,median_views_per_day_B,median_age_A,median_age_B,velocity_n_A,velocity_n_B,velocity_change_7d,velocity_change_14d,classification,mixed_signal,velocity_sensitive_to_guard
+python,69,88,29.24,37.29,-8.05,-0.2159,,5.591935483870968,,30.0,0,88,,,fading,False,False
+ai_ml,77,62,32.63,26.27,6.36,0.2419,,4.129032258064516,,31.0,0,62,,,accelerating,False,False
+sql,52,43,22.03,18.22,3.81,0.2093,,3.5806451612903225,,30.0,0,43,,,accelerating,False,False
+career,3,4,1.27,1.69,-0.42,-0.25,,1.9516129032258065,,30.5,0,4,,,insufficient data,False,False
+bi_viz,6,4,2.54,1.69,0.85,0.5,,6.666666666666666,,30.0,0,4,,,insufficient data,False,False
+general,7,10,2.97,4.24,-1.27,-0.3,,0.25806451612903225,,30.5,0,10,,,insufficient data,False,False
+other,22,25,9.32,10.59,-1.27,-0.12,,49.15625,,30.0,0,25,,,stable,False,False

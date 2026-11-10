@@ -1,0 +1,2252 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "6OCupgN0D_J3wXZh5q0TDoZxeSw",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 249048,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m9hYWP6rjyAXKAuA01FsE15Yq9c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WDnHUZH3fUM"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T22:00:13Z",
+        "channelId": "UCX3oqa7tuyYbm9vYZOiNrvg",
+        "title": "O Cliente Que Comprava Muito... Mas Dava Prejuízo - Parte 5",
+        "description": "Sigam minhas redes sociais: Blog: https://blogdosql.com.br/ Instagram: https://www.instagram.com/blogdosql/ Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WDnHUZH3fUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WDnHUZH3fUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WDnHUZH3fUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WDnHUZH3fUM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WDnHUZH3fUM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mauro | Blog do SQL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T22:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p-FnLT5oB6-icSAF-lxqdQX62Eg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "19zPLQaVJKE"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T20:09:01Z",
+        "channelId": "UCXJJidbjSLm5TSCVesIbTxw",
+        "title": "SQL Full Course 2026 🔥 | Basic to Advanced SQL Tutorial in Hindi | 100% Practical Training |",
+        "description": "SQL Full Course 2026 | Basic to Advanced SQL Tutorial in Hindi | 100% Practical Training | ICNT Academy #SQLFullCourse ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/19zPLQaVJKE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/19zPLQaVJKE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/19zPLQaVJKE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/19zPLQaVJKE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/19zPLQaVJKE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Icnt Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T20:09:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yZujygFmGtIu3ep-IAHIrnadxvM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XXKZUnz2VuI"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T20:07:05Z",
+        "channelId": "UCKlg0BauBBijgmTk7j1o79w",
+        "title": "How to Use SQLmap on Kali Linux: Complete DVWA Lab Guide",
+        "description": "SQL Injection Tutorial with SQLmap on Kali Linux | Complete DVWA Lab What if a simple input field could expose a database ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XXKZUnz2VuI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XXKZUnz2VuI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XXKZUnz2VuI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XXKZUnz2VuI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XXKZUnz2VuI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blue Sheeld",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T20:07:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FhWevA9fGys5ItpDiwfgSN6qvA8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qELQVXc8k4I"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T18:43:43Z",
+        "channelId": "UCeOuF6qEtTRdt8-GtzMK0Lg",
+        "title": "SQL Bangla Tutorial 2 | Bangla Sql Tutorial | Sql full tutorial | sql bangla tutorial",
+        "description": "SQL Bangla Tutorial 2 | Bangla Sql Tutorial | Sql full tutorial | sql bangla tutorial.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qELQVXc8k4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qELQVXc8k4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qELQVXc8k4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qELQVXc8k4I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qELQVXc8k4I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Knowledge sharing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T18:43:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "stsEQLQFaHaDt6QqnStPHfj8-28",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HSLoguHH3ks"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T18:16:53Z",
+        "channelId": "UCHfHEOpOkk25NxXX4u59wfQ",
+        "title": "Week session 2",
+        "description": "This video is part of the UG degree programs IIT Madras, Chennai, India offers. Applications open. IIT Madras offers 4 flexible, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HSLoguHH3ks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HSLoguHH3ks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HSLoguHH3ks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HSLoguHH3ks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HSLoguHH3ks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DBMS - IIT Madras BS Degree",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T18:16:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vkjlSdA0wIUFw_cXtyHfkq8A558",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BFW6IT_3t5I"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T17:05:43Z",
+        "channelId": "UC9ojrHAHW9aNt4BwEWTTspA",
+        "title": "inner join in SQL #sql #datascience #shorts",
+        "description": "SQL interview hot topic inner join. how to apply inner join in SQL that is the biggest problem for the students to crack interview now ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BFW6IT_3t5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BFW6IT_3t5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BFW6IT_3t5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BFW6IT_3t5I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BFW6IT_3t5I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "VIKAS EduClass",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T17:05:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1Ce17QkY1h4Nw3EF_x_g-9JHW_E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IvqfN-XryyQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T17:00:30Z",
+        "channelId": "UCWNTPt14DD5T1QdbvibMLHA",
+        "title": "Convert data types with CAST()",
+        "description": "Learn how to convert data types using the CAST function in SQL.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IvqfN-XryyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IvqfN-XryyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IvqfN-XryyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IvqfN-XryyQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IvqfN-XryyQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Arashtad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T17:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1lw3EAhSupheyoXhLVh_8YGepdQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5pqrq6ZlNpw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T15:00:00Z",
+        "channelId": "UCkk9sJAeJ1PmgWiCf6pIZxQ",
+        "title": "Oracle SQL Developer Data Modeler Tutorial: Barker Notation Explained [6/15]",
+        "description": "Can you turn a conceptual database design into a working MySQL database using a single modeling workflow? In this tutorial ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5pqrq6ZlNpw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5pqrq6ZlNpw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5pqrq6ZlNpw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5pqrq6ZlNpw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5pqrq6ZlNpw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/5pqrq6ZlNpw/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Coding Foundry",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T15:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F35poryfvl-FzI02NgHacraQF9E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pIcMML6ov2s"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T14:54:28Z",
+        "channelId": "UCHY_mzEdr5MKuQQHkSIptSw",
+        "title": "SQL INSERT INTO Tutorial in MySQL | Insert Multiple Records in One Query | Complete SQL Course #5",
+        "description": "Welcome to **EduCode journey!** In this video, we will learn how to insert data into a table using the SQL `INSERT INTO` ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pIcMML6ov2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pIcMML6ov2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pIcMML6ov2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pIcMML6ov2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pIcMML6ov2s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EduCode Journey",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T14:54:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "omMxsIiCWRvMDMhLUz3SC1QTx7o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bptae25GpyA"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T14:46:37Z",
+        "channelId": "UCOmoOhngB2zDHoJLEW1Sj3w",
+        "title": "SQL EXPLAIN: What Does “Using Filesort” Mean? | MySQL Tutorial",
+        "description": "What does Using filesort mean in MySQL EXPLAIN? Is your SQL query slow because of sorting? In this practical SQL tutorial, we ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bptae25GpyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bptae25GpyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bptae25GpyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bptae25GpyA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bptae25GpyA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CodeToCareer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T14:46:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E1iNvxTVKgIKwGjLTNH__452XdY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4AMblWCbD90"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T14:30:01Z",
+        "channelId": "UCae_wyRM37rUjEsrqyv4aUg",
+        "title": "Tutorial-45-Dynamic Content Part-1 Explained | PL/SQL se Dynamic HTML kaise banaye | Hindi",
+        "description": "In this video, we are going to learn **Dynamic Content in Oracle APEX** with a practical example. Oracle APEX Dynamic Content ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4AMblWCbD90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4AMblWCbD90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4AMblWCbD90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4AMblWCbD90/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4AMblWCbD90/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Thedebugzone",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T14:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "inx_nL-qcmOeusaL0guRrvWIL1M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hG9lqlrOgJU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T13:46:11Z",
+        "channelId": "UCVustxTfBSUWf6iqNIfqtZw",
+        "title": "SQL Server Tutorial in Hindi #3  WHERE, AND, OR, NOT Operators  SQL Course for Beginners",
+        "description": "Welcome to SQL Server Tutorial in Hindi – Class #3! Is class mein hum Microsoft SQL Server ko practical examples ke saath ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hG9lqlrOgJU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hG9lqlrOgJU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hG9lqlrOgJU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hG9lqlrOgJU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hG9lqlrOgJU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coding Center",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T13:46:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oQ_lrLYJeCl1PhDy_aFtYBkH5dc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wQ8ZLuMYoYM"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T13:00:14Z",
+        "channelId": "UC5d1iA2xLMnK6bhFjv_eulg",
+        "title": "SQL: Sesión 01 | Fundamentos de SQL: Consultas y Extracción de Datos | Data Analyst",
+        "description": "Bienvenidos a la primera sesión del Grupo de Estudio de Data Analyst de Blur Consulting! En esta primera clase, damos inicio ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wQ8ZLuMYoYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wQ8ZLuMYoYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wQ8ZLuMYoYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wQ8ZLuMYoYM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wQ8ZLuMYoYM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blur Consulting | Latam",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T13:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DSHSArsHjTsCdz0Up4Yz7SZ8zAs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fOhzjjX9bJc"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T12:50:08Z",
+        "channelId": "UCapyHygDZ_pEJ5pwwZZKV3w",
+        "title": "🔥 Learn SQL 50% OFF! 🤯 | Udemy SQL Course #short #sql #udemy #trending #shorts #viral",
+        "description": "Connect with me by: LIKE & SHARE Videos with your friends. SUBSCRIBE @csittutorialsbyvrushali Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fOhzjjX9bJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fOhzjjX9bJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fOhzjjX9bJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fOhzjjX9bJc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fOhzjjX9bJc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/fOhzjjX9bJc/sardefault.jpg",
+            "width": 941,
+            "height": 1672
+          }
+        },
+        "channelTitle": "CS & IT Tutorials by Vrushali 👩‍🎓",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T12:50:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P3ee29e5MsiwOp0JHfD4X-FTZN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ysmVjgaXfVY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T12:20:46Z",
+        "channelId": "UCZb6R3Ob_kdUsvuMk_xhvHw",
+        "title": "SQL JOINs: The Only Tutorial You Need to Practice",
+        "description": "Master SQL joins using a real employee dataset. Learn to link tables and filter salary data with precision. Building on database ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ysmVjgaXfVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ysmVjgaXfVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ysmVjgaXfVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ysmVjgaXfVY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ysmVjgaXfVY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/ysmVjgaXfVY/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Data Guy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T12:20:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WRDSH_Q_p0VFb9lEPOaFNR1rMX0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ttGVN107VMw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T11:30:05Z",
+        "channelId": "UCMtXisWCuWn89keqFoju4AQ",
+        "title": "Date and Time Functions in SQL | MySQL Tutorial for Beginners",
+        "description": "In this video, we will learn the most commonly used Date and Time Functions in MySQL with simple explanations and practical ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ttGVN107VMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ttGVN107VMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ttGVN107VMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ttGVN107VMw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ttGVN107VMw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BEYOND DATA WITH BITTU",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T11:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YGqSMQyOAm70EnDUMb4rJH5dT8E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ke4PL-iByi0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T11:08:00Z",
+        "channelId": "UCh-DLX-6n1jz-0lc77ljGng",
+        "title": "SQL + AI — Turn Natural Language into SQL Queries!  #ducatschoolofai #artificialintelligence",
+        "description": "FREE LIVE WEBINAR: SQL + AI — Turn Natural Language into SQL Queries! Want to learn how AI can transform the way ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ke4PL-iByi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ke4PL-iByi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ke4PL-iByi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ke4PL-iByi0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ke4PL-iByi0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/ke4PL-iByi0/sardefault.jpg",
+            "width": 941,
+            "height": 1672
+          }
+        },
+        "channelTitle": "DucatIndia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T11:08:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ms4z0zEXgPp_PAqVZbNv2CPz12Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jvmIly9ygus"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T09:13:06Z",
+        "channelId": "UCr2gg5Wn_3s5guGwMC0Dxtw",
+        "title": "Microsoft SQL Server Management Studio (SSMS) for Beginners",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jvmIly9ygus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jvmIly9ygus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jvmIly9ygus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jvmIly9ygus/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jvmIly9ygus/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Premium Courses Free",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T09:13:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "thPs6nr951Z7HXVVg1MacFDOaCY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WA1ukpBSqIw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T08:04:01Z",
+        "channelId": "UCq8dLLoFQdR4VlffPcpNhIg",
+        "title": "Oracle DBA Lesson 18 Part 1 — Inspect a Database with SQL Developer",
+        "description": "Connect SQL Developer to the intended database, confirm the session, then inspect an object's rows, values and definition before ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WA1ukpBSqIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WA1ukpBSqIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WA1ukpBSqIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WA1ukpBSqIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WA1ukpBSqIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Enhance Skills Daily",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T08:04:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ywabu_kMhu0JwADj-MWRUjlv-rc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U8XEd7l1Oqo"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T08:00:28Z",
+        "channelId": "UC9OW0UHq4wzC_litKVvd8sg",
+        "title": "SQL Tamil Tutorial 🔥 Module 6 – JOINS in SQL | Learn SQL in Tamil | Free SQL Course",
+        "description": "SQL Tamil Course – Module 6: JOINS in SQL Welcome to Module 6 of our Free SQL Tamil Course! In this session, you will ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U8XEd7l1Oqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U8XEd7l1Oqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U8XEd7l1Oqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U8XEd7l1Oqo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U8XEd7l1Oqo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "VIKA Technologies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T08:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pdsiD5lBI67Z10F0F3cpNyJVlgM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JLmAXHM4MRQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T07:16:59Z",
+        "channelId": "UCq8dLLoFQdR4VlffPcpNhIg",
+        "title": "Oracle DBA Lesson 17 Part 2 — A Repeatable SQL*Plus Report",
+        "description": "Save a SQL*Plus script, spool its output to a file, and set error rules and an exit policy so every run is repeatable and easy to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JLmAXHM4MRQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JLmAXHM4MRQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JLmAXHM4MRQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JLmAXHM4MRQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JLmAXHM4MRQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Enhance Skills Daily",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T07:16:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z5QIYSt_oHQsv-p0HrrQfFneZBU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cufeS5Ld2i8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T06:55:13Z",
+        "channelId": "UCYpjOHSqVq3n1t5enn7B4nw",
+        "title": "SQL UPPER and LOWER Case Functions Tutorial | SQL for Beginners - Part 14",
+        "description": "Welcome to Part 14 of our SQL Series on Learn with Suhaib Ahmed! In this tutorial, we learn how to handle text case formatting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cufeS5Ld2i8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cufeS5Ld2i8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cufeS5Ld2i8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cufeS5Ld2i8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cufeS5Ld2i8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn With Suhaib Ahmed.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T06:55:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ETftX2rkJiZz43zDULDJeqstgdA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1jQmeZAG-nM"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T06:21:31Z",
+        "channelId": "UCq8dLLoFQdR4VlffPcpNhIg",
+        "title": "Oracle DBA Lesson 17 Part 1 — SQL*Plus: Connect, Check and Exit",
+        "description": "Connect SQL*Plus through the intended service, verify which user, container and service you reached, and choose what happens ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1jQmeZAG-nM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1jQmeZAG-nM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1jQmeZAG-nM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1jQmeZAG-nM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1jQmeZAG-nM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Enhance Skills Daily",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T06:21:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NLvk8L64BZYrtJi9FmrxiDbctIs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "exuL900eHOY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T04:17:34Z",
+        "channelId": "UC7-VAyNcYQiTNMp1RF5VLpQ",
+        "title": "🚀 30 DAYS SQL ROADMAP — BEGINNER TO JOB-READY Want to learn SQL but don&#39;t know",
+        "description": "30 DAYS SQL ROADMAP — BEGINNER TO JOB-READY Want to learn SQL but don't know where to start? This 30-day SQL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/exuL900eHOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/exuL900eHOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/exuL900eHOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/exuL900eHOY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/exuL900eHOY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vaishnavi Kurmi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T04:17:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u9_bqOTJbkxTN9nQtvfTBXRV1C0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5kCXRcmniw4"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T03:45:07Z",
+        "channelId": "UCMyxGDoMPYtPRj6S6pfm5mg",
+        "title": "What is dbt? Explained Simply in 1 Minute (Snowflake + dbt)",
+        "description": "What is dbt, and why do data teams use it in real projects? Explained simply in about a minute. dbt (data build tool) transforms ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5kCXRcmniw4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5kCXRcmniw4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5kCXRcmniw4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5kCXRcmniw4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5kCXRcmniw4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/5kCXRcmniw4/sardefault.jpg",
+            "width": 768,
+            "height": 1365
+          }
+        },
+        "channelTitle": "Mad about Fusion 360",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T03:45:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yvZIzFqsevAVfwqlmBnidu7qOUs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZVdqCzaDibs"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T03:30:15Z",
+        "channelId": "UCBt6VrxAIb5jLh9HLDcdwtQ",
+        "title": "SQL Interview question #8 | LEAD vs LAG in SQL | #Shorts #SivaAcademyShorts #sivaacademy",
+        "description": "SQL Interview question #8 | LEAD vs LAG in SQL |#Shorts In this video, you'll learn the \"LEAD and LAG functions in Oracle SQL\" ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZVdqCzaDibs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZVdqCzaDibs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZVdqCzaDibs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZVdqCzaDibs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZVdqCzaDibs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/ZVdqCzaDibs/sardefault.jpg",
+            "width": 1153,
+            "height": 2050
+          }
+        },
+        "channelTitle": "Siva Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T03:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "83os9atqkX5fM1hSW1UMFaNTtsE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c5T58tWykEg"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T03:30:38Z",
+        "channelId": "UCl3P1lzZHm48TMX5r42NwBw",
+        "title": "SQL Day 3 🔥 SQL Functions Explained | COUNT, SUM, AVG, UPPER, LOWER, Date Functions &amp; DISTINCT",
+        "description": "SQL Day 3: Master SQL Functions | Learn SQL from Scratch Welcome to Day 3 of the 7-Day SQL Learning Series by Coding ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c5T58tWykEg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c5T58tWykEg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c5T58tWykEg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c5T58tWykEg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c5T58tWykEg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coding Bytes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T03:30:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HSex41Fm6-zYbCqxO6wwYdG61Mk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CQDCop5kLcU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T02:30:16Z",
+        "channelId": "UCnLm_y7Fgg18oiY92kobOsA",
+        "title": "SQL లో ఖచ్చితమైన టాప్ రిజల్ట్స్ ఎలా తీయాలి #SQL #SQLTutorial #DataAnalytics #Shorts",
+        "description": "Find the most expensive products using ORDER BY and LIMIT. Learn why sorting and a tie-breaker matter when selecting top ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CQDCop5kLcU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CQDCop5kLcU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CQDCop5kLcU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CQDCop5kLcU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CQDCop5kLcU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Prasanth Code Verse",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T02:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sBaU1EVmcuRpChNMFZuMnqMw3oM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8yCe9xyM4Sc"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T18:32:09Z",
+        "channelId": "UCeOuF6qEtTRdt8-GtzMK0Lg",
+        "title": "SQL Tutorial Bangla 1st | SQL Tutorial Bangla Part  | Basic SQL Tutorial for Beginners",
+        "description": "SQL Tutorial Bangla 1st | SQL Tutorial Bangla Part | Basic SQL Tutorial for Beginners.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8yCe9xyM4Sc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8yCe9xyM4Sc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8yCe9xyM4Sc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8yCe9xyM4Sc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8yCe9xyM4Sc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Knowledge sharing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T18:32:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iPfXdwqEKil93_RYtNqgD-OFHgY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pDG-9DknStk"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T18:30:11Z",
+        "channelId": "UCh9muhEFdGSwrAJqm9TgHiA",
+        "title": "DATEADD in SQL Explained | Easy Guide to Adding Dates",
+        "description": "In this beginner-friendly SQL tutorial, you'll learn how the DATEADD function works and how to use it to manipulate dates easily ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pDG-9DknStk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pDG-9DknStk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pDG-9DknStk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pDG-9DknStk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pDG-9DknStk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Think Analytics With Mesh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T18:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LJbxd5jfFlQHXxFLdTWs5lszh9I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YW9aJegttfo"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T18:18:37Z",
+        "channelId": "UCeOuF6qEtTRdt8-GtzMK0Lg",
+        "title": "SQL Bangla Tutorial | Basic SQL Tutorial for Beginners | SQL Database Course Bangla",
+        "description": "SQL Bangla Tutorial | Basic SQL Tutorial for Beginners | SQL Database Course Bangla.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YW9aJegttfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YW9aJegttfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YW9aJegttfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YW9aJegttfo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YW9aJegttfo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Knowledge sharing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T18:18:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rvH15K9iGPgNYE7cBYEvdeaulnA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rCTLPam9TeU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T17:30:05Z",
+        "channelId": "UC7OzJ7urDKMS9mmDkv6RS_g",
+        "title": "شرح HAVING في SQL مع أمثلة عملية والفرق بينها وبين WHERE | محمد تحسين",
+        "description": "في الفيديو ده هنتعلم شرح HAVING في SQL بطريقة سهلة وبسيطة بالمصري، مع أمثلة عملية تساعدك تفهم استخدام HAVING والفرق ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rCTLPam9TeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rCTLPam9TeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rCTLPam9TeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rCTLPam9TeU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rCTLPam9TeU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ElSearshgy - السيرشجى",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T17:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NamP-yYnbJoeD_Z9TyrAbGWHSXs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bcHVQxksTn0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T14:00:23Z",
+        "channelId": "UCE2q3AJQWnnsPLvwiVdU8xA",
+        "title": "SQL in TallyPrime Hidden Trick",
+        "description": "Connect me on LinkedIn Page : https://www.linkedin.com/in/vijayzine Fill Google Forms to get SAP FICO E-Book ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bcHVQxksTn0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bcHVQxksTn0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bcHVQxksTn0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bcHVQxksTn0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bcHVQxksTn0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/bcHVQxksTn0/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "Tally Tutorial",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T14:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4iG18bmnu0nTL_lZf34NKGA8zow",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JbEA-ecsC70"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T13:11:02Z",
+        "channelId": "UCFGWebVvl_vsyAfTPW7GLLQ",
+        "title": "Database Models In SQL | SQL Data Models | Relational Database Model | SQL Tutorial",
+        "description": "DataModels #DataModeling #SQL #SQLServer #SQLTutorial #SQLServerTutorial #SQLForBeginners #LearnSQL #SQLHindi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JbEA-ecsC70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JbEA-ecsC70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JbEA-ecsC70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JbEA-ecsC70/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JbEA-ecsC70/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TALENT COMPUTER SOLUTIONS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T13:11:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "REbGbKf6jKuf_lL-Yft6HTrUDhQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QzvsOozNdaE"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T12:45:02Z",
+        "channelId": "UCMtXisWCuWn89keqFoju4AQ",
+        "title": "Numeric Functions in SQL | MySQL Tutorial with Practical Examples",
+        "description": "In this video, we'll learn Numeric Functions in SQL with simple explanations and practical examples using MySQL. Topics ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QzvsOozNdaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QzvsOozNdaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QzvsOozNdaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QzvsOozNdaE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QzvsOozNdaE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BEYOND DATA WITH BITTU",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T12:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M78u7jAwGyiNte3Fa-BDIV84D8k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cRMKQo_RaCU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T12:00:13Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Don&#39;t Skip SQL",
+        "description": "Should you learn SQL alongside Python? Yes, even though people love to skip it because it's boring and doesn't feel like real ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cRMKQo_RaCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cRMKQo_RaCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cRMKQo_RaCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cRMKQo_RaCU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cRMKQo_RaCU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T12:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u_bSQYbbxihxjmWPd0fElLJRvlA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o_Q0mgmYro0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T08:30:30Z",
+        "channelId": "UCQ3m_cLINp6eY70lDk4EwQw",
+        "title": "SQL Subquery Explained in 60 Seconds 🔥 | Data Analytics | NRR SkillUp #Shorts  #nrrskillup #excel",
+        "description": "Learn SQL Subquery in this quick and easy Data Analytics tutorial! In this Short, you'll learn: ✓ What is a SQL Subquery?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o_Q0mgmYro0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o_Q0mgmYro0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o_Q0mgmYro0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o_Q0mgmYro0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o_Q0mgmYro0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NRR SkillUp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T08:30:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "buOKpdHdDYh8v8HiDBGPELBf1qk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v4gcKGtSGSA"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T07:51:45Z",
+        "channelId": "UCdho1PGA_a3jlwZz3TIRReA",
+        "title": "PostgreSQL for Data Analysis in Hindi | SQL Tutorial for Beginners | Part 1",
+        "description": "Welcome to the **PostgreSQL for Data Analysis** series by PNINFOSYS! In this series, you will learn SQL using PostgreSQL, from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v4gcKGtSGSA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v4gcKGtSGSA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v4gcKGtSGSA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v4gcKGtSGSA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v4gcKGtSGSA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "pninfosys",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T07:51:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P_GwmBe1h5K6VSh38zbLZbVEgQE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wgYt7S5CMqw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T07:13:09Z",
+        "channelId": "UCSu2GI3GaEqjWdfeaoQxPYA",
+        "title": "В базе 50 юзеров без имейла, а запрос находит ноль. Почему?",
+        "description": "Задачка: в таблице 50 пользователей без имейла. Пишешь WHERE email = NULL. Запрос отрабатывает без единой ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wgYt7S5CMqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wgYt7S5CMqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wgYt7S5CMqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wgYt7S5CMqw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wgYt7S5CMqw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SQL Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T07:13:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yQXRi7G6nldGmk4uku1uuaxcd18",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vM5FiuNVpVQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T06:55:30Z",
+        "channelId": "UCYpjOHSqVq3n1t5enn7B4nw",
+        "title": "SQL GROUP BY &amp; HAVING Clause Tutorial (Filtering Aggregates) | SQL for Beginners - Part 13",
+        "description": "Welcome to Part 13 of our SQL Series on Learn with Suhaib Ahmed! In this tutorial, we cover both the GROUP BY and HAVING ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vM5FiuNVpVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vM5FiuNVpVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vM5FiuNVpVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vM5FiuNVpVQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vM5FiuNVpVQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn With Suhaib Ahmed.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T06:55:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i9V0VfN6S-EwTY1M2Oyw8KM51DY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VxPEFRJRBXI"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T06:06:20Z",
+        "channelId": "UCDnG2EBCk0OkT8Wt692McQA",
+        "title": "Database Read Replicas Explained in 60 Seconds",
+        "description": "Your database is slow, and it isn't the writes. It's everyone reading. In this 60-second explainer you'll learn: - Why reads pile up on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VxPEFRJRBXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VxPEFRJRBXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VxPEFRJRBXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VxPEFRJRBXI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VxPEFRJRBXI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheetal Kumar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T06:06:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gIYbGNERiHRs1ge-viH_bkCUl5Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bmzN7lVbHIw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T05:28:16Z",
+        "channelId": "UCM-Ny_WBzEyycv-YsHEpkSA",
+        "title": "Is SQL Dead Because of AI? (The Honest Truth) #shorts",
+        "description": "Is SQL actually dead? With LLMs like ChatGPT, Claude, and Databricks Genie writing queries in seconds, the conversation ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bmzN7lVbHIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bmzN7lVbHIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bmzN7lVbHIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bmzN7lVbHIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bmzN7lVbHIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Talk Tech With Sonakshi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T05:28:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ELv0ix8uUQsqpAjOBft_ZNsyqhA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "plTc5jPU_f0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T03:34:42Z",
+        "channelId": "UCBt6VrxAIb5jLh9HLDcdwtQ",
+        "title": "Oracle PL SQL interview question | LEAD vs LAG in SQL | Real-Time Practical Scenario | SQL Tutorial",
+        "description": "Oracle PL SQL interview question | LEAD vs LAG in SQL | Real-Time Practical Scenario | SQL Tutorial In this video, you'll learn ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/plTc5jPU_f0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/plTc5jPU_f0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/plTc5jPU_f0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/plTc5jPU_f0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/plTc5jPU_f0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Siva Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T03:34:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vXr2BMXLMT9vCq15jiLfCnJGlBc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S2mUJNtIaek"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T02:35:44Z",
+        "channelId": "UCmRrFydTwYeFJADtKsRdLew",
+        "title": "20 Most Important Oracle SQL Functions! 🔥 Part 1 | SQL Tutorial",
+        "description": "Want to improve your Oracle SQL skills? 🗄️ In Part 1 of this Oracle SQL tutorial series, learn important SQL functions with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S2mUJNtIaek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S2mUJNtIaek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S2mUJNtIaek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S2mUJNtIaek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S2mUJNtIaek/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kushal SkillLab",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T02:35:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eKzaSwfRyKItsN-YtryDOYyaUik",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n9Nury1Ig-E"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T01:00:39Z",
+        "channelId": "UCusbKHgukwB3a3t37MFstcw",
+        "title": "🎮 SQL Vision Tutorial: How Employees Redeem Reward Gifts with Coins",
+        "description": "SQL Vision Tutorial: Step-by-Step Guide to Employee Gift Redemptions What is this tutorial used for? Ready to turn your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n9Nury1Ig-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n9Nury1Ig-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n9Nury1Ig-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n9Nury1Ig-E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n9Nury1Ig-E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EIST | SQL & E-Invoice Malaysia Tutorials",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T01:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BsGCr4eIjtsdZiJdZE8v5MtCWH8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wg9mILcpJrI"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T01:00:25Z",
+        "channelId": "UCusbKHgukwB3a3t37MFstcw",
+        "title": "🏢 Tutorial SQL Accounting: Cara Set Maintain Location Bagi Kawalan Stok Cawangan &amp; Gudang",
+        "description": "Tutorial SQL Accounting: Panduan Kawalan Stok Mengikut Lokasi (Maintain Location) Bagaimana fungsi ini membantu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wg9mILcpJrI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wg9mILcpJrI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wg9mILcpJrI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wg9mILcpJrI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wg9mILcpJrI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EIST | SQL & E-Invoice Malaysia Tutorials",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T01:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fPnF5XcdQHjFF_sEZv62gixoW4A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RsUAr9EU8QE"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T17:00:18Z",
+        "channelId": "UCPGzyOnRSZYrooCAefb9UFw",
+        "title": "SQL Tutorial: Create Database, Table &amp; Insert Data | MySQL for Beginners",
+        "description": "How to Create Database, Table & Insert Data in MySQL | SQL for Beginners** In this beginner-friendly SQL tutorial, **Explore with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RsUAr9EU8QE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RsUAr9EU8QE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RsUAr9EU8QE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RsUAr9EU8QE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RsUAr9EU8QE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Explore with Siva Krishna",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T17:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iYJLRbYd7xlrZTtUwYGMQO7lyG0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i23lWtsfnRs"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T16:47:24Z",
+        "channelId": "UCmCFzE83r43Xjgyj7UwQULg",
+        "title": "SQL Data Types &amp; Reducing Computational Complexity | SQL Process Optimization Guide",
+        "description": "In this video, we explain SQL Data Types and how to optimize the SQL Process for Less Computational Complexity. This tutorial is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i23lWtsfnRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i23lWtsfnRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i23lWtsfnRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i23lWtsfnRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i23lWtsfnRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dr. M. Umar Khan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T16:47:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KZyeyfSaPsbw0MoGUrgRBX0wh_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ybvo8E_MhGo"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T16:10:16Z",
+        "channelId": "UChQqqNXkWNsHn6UZ6WPUyxw",
+        "title": "SQL Tutorial: Finding Second-Highest Transaction Amounts by TRANSACTION_TYPE",
+        "description": "Learn how to find the second-highest transaction amount for each TRANSACTION_TYPE from the TRANSACTIONS table using ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ybvo8E_MhGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ybvo8E_MhGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ybvo8E_MhGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ybvo8E_MhGo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ybvo8E_MhGo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/ybvo8E_MhGo/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "Mangesh Bagul",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T16:10:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zJ4fJvtEEuXoeu54VbkmTDrbAws",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u2IL-u53O2Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-08T14:45:05Z",
+        "channelId": "UCHY_mzEdr5MKuQQHkSIptSw",
+        "title": "SQL Tutorial for Beginners #4 | Create Your First Database &amp; Tables | CREATE DATABASE, USE, DESC",
+        "description": "Welcome to EduCode Journey! In SQL Video 4, we'll create our first database and tables from scratch. This lesson is designed ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u2IL-u53O2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u2IL-u53O2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u2IL-u53O2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u2IL-u53O2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u2IL-u53O2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EduCode Journey",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-08T14:45:05Z"
+      }
+    }
+  ]
+}

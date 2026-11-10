@@ -1,0 +1,2257 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "E_hysb2CqZVmSiB8PRqQFYfG1y4",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 499204,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kPVB1cVS3hCwTAhi-_G27qfpdF8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ywJiC4ij5Jc"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T23:30:22Z",
+        "channelId": "UC18TT8LlswW2KfQuN8wiK5A",
+        "title": "How I saved my job with data analytics #shorts #creatortips #mindset",
+        "description": "When HR gave me two weeks to get points off my license or lose my company car (and my job), I didn't panic—I got into the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ywJiC4ij5Jc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ywJiC4ij5Jc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ywJiC4ij5Jc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ywJiC4ij5Jc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ywJiC4ij5Jc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/ywJiC4ij5Jc/sardefault.jpg",
+            "width": 940,
+            "height": 1671
+          }
+        },
+        "channelTitle": "Tiff's Take",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T23:30:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ssZF281i-D7dl_wX7JzbcYSlx60",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nZTkXsM-szo"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T20:30:29Z",
+        "channelId": "UCVlXE8p17EX8gWimz4mf71g",
+        "title": "SQL for Data Analytics",
+        "description": "It's LIVE! SQL for Data Analytics is now on DataOps & AI Garage. Whether you're a beginner starting from zero or a working ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nZTkXsM-szo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nZTkXsM-szo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nZTkXsM-szo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nZTkXsM-szo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nZTkXsM-szo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DataOps & AI Garage",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T20:30:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Juzm5QHKXrJOzfLmmQ5JLAVd6wQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zpVdeGQ8Tfw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T16:30:15Z",
+        "channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+        "title": "Data Science  Full Course 2027 | Learn Data Science From Basics To Advanced   | Simplilearn",
+        "description": "Micrososft Azure - Data Analyst Course ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zpVdeGQ8Tfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zpVdeGQ8Tfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zpVdeGQ8Tfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zpVdeGQ8Tfw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zpVdeGQ8Tfw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/zpVdeGQ8Tfw/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Simplilearn",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T16:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ARZB3bDK2wuSPv7_Vz5rpi0hFio",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EKKLfnPNRzI"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T16:15:12Z",
+        "channelId": "UC_6v0CsBQgv3Ak1TedWjGZw",
+        "title": "Day 1 of Learning Data Analytics 📊 | Starting From Zero!",
+        "description": "Welcome to Day 1 of my Data Analytics journey! ✨ I'm learning from scratch and sharing my progress, lessons, and projects ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EKKLfnPNRzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EKKLfnPNRzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EKKLfnPNRzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EKKLfnPNRzI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EKKLfnPNRzI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/EKKLfnPNRzI/sardefault.jpg",
+            "width": 941,
+            "height": 1672
+          }
+        },
+        "channelTitle": "Data Diaries",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T16:15:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZG9PxqYDkB8bC5EoFu49s7pNTZg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KhM_2jZg2Z8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T14:00:37Z",
+        "channelId": "UCXVVhpBLqKsQrLge2FZD1tA",
+        "title": "LINEAR REGRESSION – PREDICTING VALUES FROM DATA | Data Analytics Roadmap Day 87",
+        "description": "LINEAR REGRESSION – PREDICTING VALUES FROM DATA | Data Analytics Roadmap Day 87 Learn how Linear Regression ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KhM_2jZg2Z8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KhM_2jZg2Z8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KhM_2jZg2Z8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KhM_2jZg2Z8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KhM_2jZg2Z8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "learnloops",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T14:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jKl_GUJl_zJaDcBBxTsoGUhDRP0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fHSqpW1VQSo"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T13:53:13Z",
+        "channelId": "UCdcp9mlcHrk6lPBR9UJPnXQ",
+        "title": "A Parent’s Perspective on His Son’s Career Journey | Innomatics Testimonial",
+        "description": "InnomaticsResearchLabs #InnomaticsTestimonial #ParentPerspective A student's career journey is also a journey of trust for their ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fHSqpW1VQSo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fHSqpW1VQSo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fHSqpW1VQSo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fHSqpW1VQSo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fHSqpW1VQSo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Innomatics SpotLight",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T13:53:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aWL0Pl738RHt7hsqIr-SlHh0iR0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UeajsqxPmco"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T13:23:05Z",
+        "channelId": "UCw1Q0aT35kqqHsrIjmd-vhQ",
+        "title": "Data Analyst Interview Questions for Freshers 2026 | Best Data Analytics Institute in Noida.",
+        "description": "Data Analytics Mock Interview | Real Questions, Real Experience, Real Preparation. Want to prepare for a Data Analyst interview?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UeajsqxPmco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UeajsqxPmco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UeajsqxPmco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UeajsqxPmco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UeajsqxPmco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Skillcure Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T13:23:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bdz219wEOINLO3U6wnsyBTOO-ZI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SgiXVesH3c0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T13:19:52Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Roadmap for Data Analyst",
+        "description": "Welcome to chai aur code (https://chaicode.com) , a coding/programming dedicated channel in Hindi language. Now you can ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SgiXVesH3c0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SgiXVesH3c0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SgiXVesH3c0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SgiXVesH3c0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SgiXVesH3c0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/SgiXVesH3c0/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T13:19:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oQ_lrLYJeCl1PhDy_aFtYBkH5dc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wQ8ZLuMYoYM"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T13:00:14Z",
+        "channelId": "UC5d1iA2xLMnK6bhFjv_eulg",
+        "title": "SQL: Sesión 01 | Fundamentos de SQL: Consultas y Extracción de Datos | Data Analyst",
+        "description": "Bienvenidos a la primera sesión del Grupo de Estudio de Data Analyst de Blur Consulting! En esta primera clase, damos inicio ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wQ8ZLuMYoYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wQ8ZLuMYoYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wQ8ZLuMYoYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wQ8ZLuMYoYM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wQ8ZLuMYoYM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blur Consulting | Latam",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T13:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VdIhyqB7zb4zw9L8C7rFi83zjTw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "23Z3G6jzA3Y"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T12:30:28Z",
+        "channelId": "UCRDhrUdd9yoVoFFQqadR4FQ",
+        "title": "End-to-End Power BI Dashboard Project | Data Analyst Portfolio Project (Beginner to Advanced)",
+        "description": "Build a Complete End-to-End Power BI Dashboard Project from Scratch! #SD125 Want to learn Power BI by working on a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/23Z3G6jzA3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/23Z3G6jzA3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/23Z3G6jzA3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/23Z3G6jzA3Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/23Z3G6jzA3Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/23Z3G6jzA3Y/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Satish Dhawale",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T12:30:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3TJ6524SfJZYBrPBcVYfNDkeX54",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oKF2_86PiMI"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T10:43:03Z",
+        "channelId": "UC7-VAyNcYQiTNMp1RF5VLpQ",
+        "title": "Python Can Do EVERYTHING! 🐍 | 20 Powerful Python Combinations You Must Know 🚀",
+        "description": "Python Can Do EVERYTHING! | 20 Powerful Python Combinations You Must Know Did you know Python can be used for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oKF2_86PiMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oKF2_86PiMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oKF2_86PiMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oKF2_86PiMI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oKF2_86PiMI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vaishnavi Kurmi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T10:43:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UJBGgpVPv9XC9mA9LEszq93gnlY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K4bJw0s26cs"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T09:54:52Z",
+        "channelId": "UCiSM7T99TirO9z2xFEOMllQ",
+        "title": "Best Data Analytics Course | 100%Placement assistance | Mock Interview #dataanalytics #youtubeshorts",
+        "description": "A big congratulations to Visharad Khatri on securing the role of Analyst in Circulation Operations at Sage Publication ✨ We're ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K4bJw0s26cs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K4bJw0s26cs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K4bJw0s26cs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K4bJw0s26cs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K4bJw0s26cs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Brillica Services ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T09:54:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yDPy07wHoCbh3lGQK1MqcvVpvM4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BAaioGhYcPE"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T09:23:30Z",
+        "channelId": "UCc-Hop0zXimlL809U-zVH8g",
+        "title": "PwC Hiring 2026 | Data Analytics Associate | Entry-Level Jobs India",
+        "description": "NEW JOB OPPORTUNITY – PwC Acceleration Center India Looking to start your career in Data Analytics? Check out this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BAaioGhYcPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BAaioGhYcPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BAaioGhYcPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BAaioGhYcPE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BAaioGhYcPE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Analyst Orbit",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T09:23:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NE9VCsxcpbLuXh61U7TC6d9F9Jg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m6bdeUgpDcE"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T09:24:12Z",
+        "channelId": "UCNDjtgnXnAdNxeRYq_KQaPQ",
+        "title": "AI Data Analytics: Ask Business Data Questions in Seconds | ZeroQueries",
+        "description": "Discover ZeroQueries, an AI-powered natural language to SQL platform that helps businesses get answers from enterprise data ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m6bdeUgpDcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m6bdeUgpDcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m6bdeUgpDcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m6bdeUgpDcE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m6bdeUgpDcE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ZeroQueries",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T09:24:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EKXG7ia147GxbMIGN79UDWXPvD8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "loCge7FU8-Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T09:06:02Z",
+        "channelId": "UCee4aSpWe2_j6MnSY3ekY4g",
+        "title": "Data Analytics Seekho, Bina Coding Expert Bane! 📊",
+        "description": "Data Analytics ke liye coding expert hona zaroori nahi! Excel, Advanced Excel, SQL, Power BI aur Python seekho aur Data ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/loCge7FU8-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/loCge7FU8-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/loCge7FU8-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/loCge7FU8-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/loCge7FU8-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sardar Patel Academy & Research Centre",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T09:06:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JJ-vAJy8xbWeU4EZkn43LnCj8FA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gEG_IMZuHpU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T08:49:33Z",
+        "channelId": "UCkiTuwcOXQI-FTDnW7Y9JQw",
+        "title": "Work Smarter, Stay Valuable: AI &amp; Data Analytics for Your Next Career Move",
+        "description": "Simplify everyday tasks, strengthen your contribution at work and explore a career in data analytics. Build your career with AI in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gEG_IMZuHpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gEG_IMZuHpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gEG_IMZuHpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gEG_IMZuHpU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gEG_IMZuHpU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/gEG_IMZuHpU/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "10Alytics Business | 10Alytics AI School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T08:49:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1YJNnujEJ75mvWQ2STZ-iTACwNc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZaJ1IoyOmV4"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T08:46:06Z",
+        "channelId": "UC-gNJoSCm2YPoM0iAvHTF-Q",
+        "title": "Can You Become a Data Analyst Without Coding? 🤔 | Data Analytics Career Guide #Shorts",
+        "description": "Want to Become a Data Analyst But Worried About Coding? Good news! You don't need to be an expert programmer to start your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZaJ1IoyOmV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZaJ1IoyOmV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZaJ1IoyOmV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZaJ1IoyOmV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZaJ1IoyOmV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/ZaJ1IoyOmV4/sardefault.jpg",
+            "width": 788,
+            "height": 1402
+          }
+        },
+        "channelTitle": "LearnMore Technologies",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T08:46:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B90fXEGIsQ6zxnsQ1QJZKeSo4rU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kTkhBT3dw5Y"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T08:33:36Z",
+        "channelId": "UCtJQ3M4FmRiD2gMdekX4S7g",
+        "title": "10 Data Analytics Tools to Know in 2026 | Power BI, Python &amp; More",
+        "description": "Discover 10 data analytics tools in just 10 seconds! This animated shortlist features Microsoft Power BI, Tableau, Databricks, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kTkhBT3dw5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kTkhBT3dw5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kTkhBT3dw5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kTkhBT3dw5Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kTkhBT3dw5Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ali Analytics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T08:33:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u2ISElbVBf8IXCgt6VqAWayV3ME",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ltWeQt1C8xw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T08:33:04Z",
+        "channelId": "UCVKyjXbEKdU1yj35hlUvKPQ",
+        "title": "BULK HIRING  Data Analyst Freshers 2026 🔥 | Remote Jobs | 0–1 Yr Experience",
+        "description": "BULK HIRING Data Analyst Freshers 2026 .Top companies likee Franklin Templeton, NTT Data, Zycus, and PwC are actively ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ltWeQt1C8xw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ltWeQt1C8xw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ltWeQt1C8xw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ltWeQt1C8xw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ltWeQt1C8xw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jobsearchguru4u",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T08:33:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wyS-be_of3HoOzM8K5mm3OnDtX4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gu-yEmTyB-c"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T08:26:17Z",
+        "channelId": "UC_ofDYSRtb_4x1Z_fw9mNPw",
+        "title": "Data Analytics Training in Vadodara | Power BI Dashboard | Real-Time Project by Vaishnavi #vadodara",
+        "description": "Data Analytics Training in Vadodara | Power BI Dashboard Presentation | Real-Time Project by Vaishnavi | BRIGHT Computer ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gu-yEmTyB-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gu-yEmTyB-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gu-yEmTyB-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gu-yEmTyB-c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gu-yEmTyB-c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BRIGHT Computer Education Vadodara",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T08:26:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kGQHbuaCiBbuSlWDFQ2U2PDvLj0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f_Kai96aALI"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T05:51:32Z",
+        "channelId": "UCu6oT-LaHX7CFztFKAI6aqg",
+        "title": "CMA Inter Data Analytics | Secure 25 Marks For Dec 2026 Exams | Free Revision | Prof. Nikita Oswal",
+        "description": "Data Analytics stressing you out in CMA Inter? Too many concepts and no idea which ones matter? Don't worry, your DA ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f_Kai96aALI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f_Kai96aALI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f_Kai96aALI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f_Kai96aALI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f_Kai96aALI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CMA Foundation Akash Agarwal Classes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T05:51:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zAk000Co0w3P_Q5GUSyHkUsVPmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XYOiI30sr-Q"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T05:30:09Z",
+        "channelId": "UCVF0K4w9iK-0up9v2bnWflg",
+        "title": "How to Learn Data Science From Zero to Advanced for Free (2026)",
+        "description": "Learn Data Science by Yourself pdf: https://topmate.io/pysolanki/2159555 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XYOiI30sr-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XYOiI30sr-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XYOiI30sr-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XYOiI30sr-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XYOiI30sr-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PySolanki",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T05:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NLvk8L64BZYrtJi9FmrxiDbctIs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "exuL900eHOY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T04:17:34Z",
+        "channelId": "UC7-VAyNcYQiTNMp1RF5VLpQ",
+        "title": "🚀 30 DAYS SQL ROADMAP — BEGINNER TO JOB-READY Want to learn SQL but don&#39;t know",
+        "description": "30 DAYS SQL ROADMAP — BEGINNER TO JOB-READY Want to learn SQL but don't know where to start? This 30-day SQL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/exuL900eHOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/exuL900eHOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/exuL900eHOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/exuL900eHOY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/exuL900eHOY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vaishnavi Kurmi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T04:17:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_hmTj4xTUkXTEFB7DSL4cjfOZ9M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QVYcSi2qYus"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T03:44:49Z",
+        "channelId": "UCKC5KBohZLYk9xnrespWt6w",
+        "title": "BIS701 Big Data Analytics 🔥 Syllabus Explained + Notes Modules 1–5 | VTU 7th Sem ISE 2022",
+        "description": "BIS701 BIG DATA ANALYTICS – VTU 7TH SEM ISE | 2022 SCHEME COMPLETE SYLLABUS EXPLAINED + MODULES 1–5 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QVYcSi2qYus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QVYcSi2qYus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QVYcSi2qYus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QVYcSi2qYus/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QVYcSi2qYus/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SEARCH CREATORS ORIGINALS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T03:44:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oIPH96d558tkJDZDr5OHm-S3f5w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I87xtUF9pQY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T03:30:10Z",
+        "channelId": "UCranHLWZ_Wwa1yoVlSSHW0w",
+        "title": "Data Analytics Mock Interview Episode - 3 | Best Data Analytics Training Institute in HYD | Vcube",
+        "description": "V Cube Software Solutions Your journey to becoming a professional starts here! Attend a FREE Demo! Contact us: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I87xtUF9pQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I87xtUF9pQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I87xtUF9pQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I87xtUF9pQY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I87xtUF9pQY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "V CUBE Software Solutions",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T03:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5kHFAwG3a8T3-Ihr0jfHJKx-Mz4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "65zkhl5gHa4"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T02:50:28Z",
+        "channelId": "UCHvU_w1agwnQUDpXsyZx9vQ",
+        "title": "Excel Lookup &amp; Reference Functions for Data Analytics— Complete Guide #excel",
+        "description": "Excel Lookup & Reference Functions — Complete Guide Still using only VLOOKUP in Excel? It's time to explore the complete ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/65zkhl5gHa4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/65zkhl5gHa4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/65zkhl5gHa4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/65zkhl5gHa4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/65zkhl5gHa4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bharat NexGen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T02:50:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZYq3M4jVZ8QlH4IbcebH0-bewIk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EWpm302aIpc"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T02:35:53Z",
+        "channelId": "UCaywSX8s-yE7gnCQB1tU4tQ",
+        "title": "UPSSSC PET 2026 | Data Interpretation (आँकड़ों का विश्लेषण) | Maths Class | PET Maths | Part-10",
+        "description": "इस वीडियो में Maths के महत्वपूर्ण और परीक्षा में पूछे जाने वाले ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EWpm302aIpc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EWpm302aIpc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EWpm302aIpc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EWpm302aIpc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EWpm302aIpc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ashish Suman Sir",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T02:35:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yqpIAHFyeDFnFd23vLks-TkLTdw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FDWTZ-gGdUM"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-10T02:15:15Z",
+        "channelId": "UCGK-OUV_YJ9NtOZremr7P0g",
+        "title": "Power bi for data analytics - class 3 - Clique 3",
+        "description": "This is the recording of the third class for data analytics class Clique 3 Note: Only participants of the bootcamp have access to the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FDWTZ-gGdUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FDWTZ-gGdUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FDWTZ-gGdUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FDWTZ-gGdUM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FDWTZ-gGdUM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "myDataClique",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-10T02:15:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3YBnY0QKozi8AVX4Awev63HeYVA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LriPzbxC-b8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T22:00:13Z",
+        "channelId": "UCOWLOuMBrV5CUAKvkfhxfXQ",
+        "title": "#Shorts Como os softwares de gestão e a análise de dados transformam as decisões no campo",
+        "description": "Matéria completa: https://tricknetagro.blogspot.com/2026/10/como-os-softwares-de-gestao-e-analise.html Produzido ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LriPzbxC-b8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LriPzbxC-b8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LriPzbxC-b8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LriPzbxC-b8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LriPzbxC-b8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tricknet Agro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T22:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NVhECXACE_V-W25PY1NUl2C_QSQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F48vg6xCK00"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T21:00:08Z",
+        "channelId": "UCOWLOuMBrV5CUAKvkfhxfXQ",
+        "title": "Como os softwares de gestão e a análise de dados transformam as decisões no campo",
+        "description": "Matéria completa: https://tricknetagro.blogspot.com/2026/10/como-os-softwares-de-gestao-e-analise.html Produzido ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F48vg6xCK00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F48vg6xCK00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F48vg6xCK00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F48vg6xCK00/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F48vg6xCK00/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tricknet Agro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T21:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MTKCJj_aTtRd3JwtwTcHtp0-lF8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0wZ-TJGF7nE"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T18:37:33Z",
+        "channelId": "UCuOIb4ullJsbyVOx2lwpUdg",
+        "title": "If you sell on Shopify or Amazon, own the data your AI reads",
+        "description": "Stop renting your data. Own your ecom dashboard: https://therichstack.com/products/abaxar-pro?video=0wZ-TJGF7nE Abaxar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0wZ-TJGF7nE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0wZ-TJGF7nE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0wZ-TJGF7nE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0wZ-TJGF7nE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0wZ-TJGF7nE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "uhd": {
+            "url": "https://i.ytimg.com/vi/0wZ-TJGF7nE/uhddefault.jpg",
+            "width": 3840,
+            "height": 2160
+          }
+        },
+        "channelTitle": "Richard Vaughan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T18:37:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FV1FfsVI8xmt6chGv2Wdw7qo_IM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TjXyFE0CwY8"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T17:23:27Z",
+        "channelId": "UC8b5mAzXFq8MQQcbSV5pXEQ",
+        "title": "🧬 CODEX Installation &amp; Bioinformatics Analysis in Ubuntu | Complete Step-by-Step Tutorial",
+        "description": "CODEX Installation & Bioinformatics Analysis in Ubuntu | Complete Step-by-Step Tutorial with Practical Code Examples** Are you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TjXyFE0CwY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TjXyFE0CwY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TjXyFE0CwY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TjXyFE0CwY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TjXyFE0CwY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Street",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T17:23:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EPVCedoG0-2tB7zNFCitLF96CFs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Fu0ZDdx7yTw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T17:11:18Z",
+        "channelId": "UCwnm1oSSz8pPwDyfzFS5k3w",
+        "title": "Secure Sovereign Private APP Access: Splunk as the Data Analytics Platform",
+        "description": "In this video we will take all the machine exhaust from all the components in our secure sovereign private application offering ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fu0ZDdx7yTw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fu0ZDdx7yTw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fu0ZDdx7yTw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fu0ZDdx7yTw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fu0ZDdx7yTw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jason Maynard",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T17:11:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WVyhoooqTOi3U8BKMYGcaFKslwE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R5qdZAOmESY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T16:58:59Z",
+        "channelId": "UCDI-jBywfQCcMOkFDKBBepQ",
+        "title": "Laredo College Data Analytics Bachelor&#39;s Degree | Information Session October 22",
+        "description": "Interested in a career in data analytics? Laredo College's Bachelor of Applied Technology in Data Analytics offers hands-on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R5qdZAOmESY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R5qdZAOmESY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R5qdZAOmESY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R5qdZAOmESY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R5qdZAOmESY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Laredo College",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T16:58:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4wNq-63aRb-Heyd0u2eqdG0X5Ww",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JD4nfgJKSxs"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T15:33:25Z",
+        "channelId": "UCv8xqaTvqCZVsbBJCFIt_WA",
+        "title": "How to Create a Correlation Matrix in Python | Seaborn Heatmap",
+        "description": "In this project, I use Python to analyze relationships between key economic indicators, including inflation, unemployment, the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JD4nfgJKSxs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JD4nfgJKSxs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JD4nfgJKSxs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JD4nfgJKSxs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JD4nfgJKSxs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Esther Omolewa ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T15:33:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xPNmqA60hmZOidf736ThfyCiFLU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jgTss6jf09s"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T14:43:00Z",
+        "channelId": "UCRKl9MMKZz3iKJpXUkZI-Wg",
+        "title": "Data Analytics + AI Skills 🔥 ಕನ್ನಡದಲ್ಲಿ Free Training 2026",
+        "description": "ಈ ಬಾರಿ Data Analytics ಜೊತೆಗೆ AI Skills ಕೂಡ! ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವ 2026ರ ನಮ್ಮ ಉಚಿತ Skill ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jgTss6jf09s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jgTss6jf09s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jgTss6jf09s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jgTss6jf09s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jgTss6jf09s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "iTech Info Kannada",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T14:43:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y8KBk1iWZhAdCSH5DRUlVeih8as",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5ufo3ilA42E"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T12:32:13Z",
+        "channelId": "UCf0tk1ZU6QX3waEJqxHhHOA",
+        "title": "Don&#39;t Learn Data Analytics Before Watching This! 🚨",
+        "description": "Want to become a Data Analyst in 2026? Learn Excel, SQL, Power BI, Python and build real-world projects to prepare for data ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5ufo3ilA42E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5ufo3ilA42E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5ufo3ilA42E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5ufo3ilA42E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5ufo3ilA42E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Geek Monk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T12:32:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IYIc9k3W0FayTJIRzkXi3SEZxuI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J5wit701ogo"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T09:01:03Z",
+        "channelId": "UCZouhIqgxtP91yHj0D5XN2A",
+        "title": "Data Analytics Roadmap 2026 📊 | Beginner to Job-Ready Skills #Shorts",
+        "description": "Data Analytics Roadmap 2026 | Learn Data Analytics Step by Step** Want to learn Data Analytics? Follow this practical roadmap ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J5wit701ogo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J5wit701ogo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J5wit701ogo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J5wit701ogo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J5wit701ogo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SITHUB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T09:01:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bpws9D4FPC40lF82Bw5moqMj3H0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5rmpIAI6vOM"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T09:00:31Z",
+        "channelId": "UCXAO7kRHU5WXjIM75bvi0sA",
+        "title": "【MLB】山本由伸の成績変化_なぜホームで失点が増えるのか？【データ】",
+        "description": "山本由伸投手は、なぜホームで失点が増えるのでしょうか？ 2026年の防御率は、ホーム3.13に対してアウェー1.77。 さらに ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5rmpIAI6vOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5rmpIAI6vOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5rmpIAI6vOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5rmpIAI6vOM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5rmpIAI6vOM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/5rmpIAI6vOM/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "野球データ観測所",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T09:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZpT1XcIO2bsghlXjQPUi5CJgfx8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LVnRItjGOL0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T07:30:08Z",
+        "channelId": "UCRKl9MMKZz3iKJpXUkZI-Wg",
+        "title": "Data Analytics ಯಾಕೆ ಕಲಿಯಬೇಕು? 🤔 ಕನ್ನಡದಲ್ಲಿ ಉಚಿತ Training 2026",
+        "description": "Data Analytics ಕಲಿಯಬೇಕು ಎಂದು ಯೋಚಿಸುತ್ತಿದ್ದೀರಾ? ಸರಿಯಾದ Skills ಕಲಿಯಲು ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LVnRItjGOL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LVnRItjGOL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LVnRItjGOL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LVnRItjGOL0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LVnRItjGOL0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "iTech Info Kannada",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T07:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "twlXXuTq5s0PIt0Qp1giJBnCXJo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HSgY5hYnpLo"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T05:29:22Z",
+        "channelId": "UCranHLWZ_Wwa1yoVlSSHW0w",
+        "title": "Data Analytics Mock Interview Episode - 1 | Data Analytics Training Institute in Hyderabad | Vcube",
+        "description": "V Cube Software Solutions Your journey to becoming a professional starts here! Attend a FREE Demo! Contact us: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HSgY5hYnpLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HSgY5hYnpLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HSgY5hYnpLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HSgY5hYnpLo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HSgY5hYnpLo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/HSgY5hYnpLo/sardefault.jpg",
+            "width": 941,
+            "height": 1672
+          }
+        },
+        "channelTitle": "V CUBE Software Solutions",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T05:29:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NB49QYDDUD6HhX-CUqYiT20PzIM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6ll02EfNcRw"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T05:01:05Z",
+        "channelId": "UCLgechSS2Cforqaozh0YQ5Q",
+        "title": "Data Analytics Mock Interview Episode - 2 | Best Data Analytics Training Institute in HYD | Vcube",
+        "description": "V Cube Software Solutions Your journey to becoming a professional starts here! Attend a FREE Demo! Contact us: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ll02EfNcRw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ll02EfNcRw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ll02EfNcRw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6ll02EfNcRw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6ll02EfNcRw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Data Analytics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T05:01:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EFgXqcTOXaaXoLR_KjPemDaxLYw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x_xZLlvQ-XQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T04:58:18Z",
+        "channelId": "UC_G-Szi04ra0jEdCUg4SW-Q",
+        "title": "DATA ANALYTICS Your Excel skills got you started. But they won&#39;t get you hired anymore.",
+        "description": "Excel → SQL → Data Cleaning → Visualization → Power BI → Business Insights. That's the real journey today's data analysts are ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x_xZLlvQ-XQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x_xZLlvQ-XQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x_xZLlvQ-XQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x_xZLlvQ-XQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x_xZLlvQ-XQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/x_xZLlvQ-XQ/sardefault.jpg",
+            "width": 900,
+            "height": 1600
+          }
+        },
+        "channelTitle": "Quastech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T04:58:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l2X5M_z-MMSbJQI3filzEgmAhWA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pz_sWf7NseU"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T04:54:08Z",
+        "channelId": "UC8b5mAzXFq8MQQcbSV5pXEQ",
+        "title": "Climate-Resilient plant Breeding Using Data &amp; Explainable Machine Learning | Global Research",
+        "description": "Learn how to apply big data, climate datasets, artificial intelligence (AI), and Explainable Machine Learning (XAI) to develop ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pz_sWf7NseU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pz_sWf7NseU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pz_sWf7NseU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pz_sWf7NseU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pz_sWf7NseU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Street",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T04:54:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "svLZJY4AcBztFJv9AIMix0JppeU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1w0qbmOPYwI"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T04:23:19Z",
+        "channelId": "UCd2E6ZE5JpP4dwhTQ6-HXEA",
+        "title": "R for Data Analyst - သင်ခန်းစာ (၉) Data communication",
+        "description": "ဒီသင်ခန်းစာမှာ Quarto ဆိုတဲ့ document တမျိုးကို သုံးပြီးတော့ data driven report ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1w0qbmOPYwI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1w0qbmOPYwI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1w0qbmOPYwI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1w0qbmOPYwI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "R  မှတ်စု",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T04:23:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HxAZ1hxFSZV5WvltCE27eMMuUMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BpIXV9fsMZ0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T04:15:58Z",
+        "channelId": "UCd2E6ZE5JpP4dwhTQ6-HXEA",
+        "title": "R for Data Analyst - သင်ခန်းစာ (၈) Data Analysis",
+        "description": "R for Data Analyst အပိုင်း ၈ ဖြစ်တဲ့ ယခုသင်ခန်းစာမှာတေ့ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BpIXV9fsMZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BpIXV9fsMZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BpIXV9fsMZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BpIXV9fsMZ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BpIXV9fsMZ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "R  မှတ်စု",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T04:15:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gvSz6a3HhHt1GR10_l48hRn1Mvc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YxkNTraQzzM"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T04:11:55Z",
+        "channelId": "UCd2E6ZE5JpP4dwhTQ6-HXEA",
+        "title": "R for Data Analyst - သင်ခန်းစာ (၇) Data Visualization",
+        "description": "Data Visualization သင်ခန်းစားမှာ ggplot2 package ကို သုံးပြီးတော့ အခြေခံ chart ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YxkNTraQzzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YxkNTraQzzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YxkNTraQzzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YxkNTraQzzM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YxkNTraQzzM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "R  မှတ်စု",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T04:11:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v2ea0nrqemegxuML7seC0qYoSHQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_6uadf40Nlo"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T04:04:22Z",
+        "channelId": "UCd2E6ZE5JpP4dwhTQ6-HXEA",
+        "title": "R for Data Analyst - သင်ခန်းစာ (၆) အပိုင်း ၂ Data summarizing (R)",
+        "description": "R for Data Analyst ရဲ့ ယခုသင်ခန်းစာမှာ အပိုင်း ၁ မှာ လေ့လာခဲ့တဲ့ Theory ကို R ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_6uadf40Nlo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_6uadf40Nlo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_6uadf40Nlo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_6uadf40Nlo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "R  မှတ်စု",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T04:04:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CDXWg0te6SRS8dMoe5n6Z6CR_kQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LlBCdBYQWBY"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T03:58:02Z",
+        "channelId": "UCd2E6ZE5JpP4dwhTQ6-HXEA",
+        "title": "R for Data Analyst - သင်ခန်းစာ (၅) အပိုင်း ၃ Data tidying and transformation",
+        "description": "R for Data Analyst သင်ခန်းစာ (၅) မှာတော့ Data Analysis မလုပ်ခင် အရေးပါတဲ့ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LlBCdBYQWBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LlBCdBYQWBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LlBCdBYQWBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LlBCdBYQWBY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LlBCdBYQWBY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "R  မှတ်စု",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T03:58:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KkYn8L136OqMpkTOJwP9AiWrpuI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QR53xJji6c0"
+      },
+      "snippet": {
+        "publishedAt": "2026-10-09T03:54:05Z",
+        "channelId": "UCd2E6ZE5JpP4dwhTQ6-HXEA",
+        "title": "R for Data Analyst - သင်ခန်းစာ (၅) အပိုင်း ၁ Data tidying and transformation",
+        "description": "R for Data Analyst သင်ခန်းစာ (၅) မှာတော့ Data Analysis မလုပ်ခင် အရေးပါတဲ့ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QR53xJji6c0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QR53xJji6c0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QR53xJji6c0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QR53xJji6c0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QR53xJji6c0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "R  မှတ်စု",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-10-09T03:54:05Z"
+      }
+    }
+  ]
+}
