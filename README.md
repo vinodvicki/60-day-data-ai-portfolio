@@ -25,7 +25,8 @@ code, README, requirements, charts and example results.
 | [04](day-04-youtube-video-performance-analyzer/) | YouTube Video Performance Analyzer — 244 videos, 143 channels, median 611 views/day, 2.20% engagement | Social media | ✅ Done (2026-11-08) |
 | [05](day-05-social-media-sentiment-analyzer/) | Social Media Sentiment Analyzer — 1,462 comments on 12 videos, 40.6% positive (rule-based model), validation accuracy 0.617 | Social media | ✅ Done (2026-11-09) |
 | [06](day-06-viral-content-trend-explorer/) | Viral Content Trend Explorer — 472 videos, 406 channels, AI & ML and SQL accelerating, Python fading | Social media | ✅ Done (2026-11-10) |
-| 07–60 | See the roadmap catalog | — | Planned |
+| [07](day-07-disease-prevalence-dashboard/) | Disease Prevalence Dashboard — 6 chronic conditions, 2,956 counties (2023), national diabetes 12.05%, West Virginia highest at 15.88% | Healthcare | ✅ Done (2026-11-11) |
+| 08–60 | See the roadmap catalog | — | Planned |
 
 Day 1 headline findings (live CoinGecko data (Powered by CoinGecko), 366 daily observations, 2025-11-05 → 2026-11-05):
 BTC −20.7%, ETH −26.2%, SOL −38.5% total return; max drawdowns −44.7% /
@@ -77,6 +78,11 @@ video aged ≥ 7 days (all 10 query-windows truncated at 50, recent window
 effectively Nov 8–9 vs Oct 8–10); median engagement 1.49%. Full detail in
 [Day 6](day-06-viral-content-trend-explorer/) →
 [`outputs/insights_summary.md`](day-06-viral-content-trend-explorer/outputs/insights_summary.md).
+
+Day 7 headline findings (live CDC PLACES county data, 6 chronic conditions, 2,956 counties in 2023 and 3,144 in 2022, fetched 2026-11-11):
+national diabetes 12.05% (2023) vs 11.97% (2022); West Virginia the highest state for diabetes (15.88%), COPD (10.63%), heart disease (8.73%) and obesity (40.63%); diabetes spans 4.9% (Madison County, ID) to 27.1% (Greene County, AL); heart disease fell on the median matched county (−0.50 pp, 86.3% of counties down) while diabetes rose (+0.10 pp); Kentucky and Pennsylvania have no 2023 rows in the source release and Loving County, TX is suppressed, so national 2022→2023 moves are partly compositional. Full detail in
+[Day 7](day-07-disease-prevalence-dashboard/) →
+[`outputs/insights_summary.md`](day-07-disease-prevalence-dashboard/outputs/insights_summary.md).
 
 ## Roadmap phases
 
