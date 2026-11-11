@@ -1,0 +1,174 @@
+{
+  "source": "live",
+  "source_note": "CDC PLACES: Local Data for Better Health, County Data, 2025 release (2023 estimates) and 2024 release (2022 estimates), via CDC Open Data (data.cdc.gov). Model-based estimates from BRFSS.",
+  "datasets": {
+    "2023": {
+      "dataset_id": "swc5-untb",
+      "release": "2025 release"
+    },
+    "2022": {
+      "dataset_id": "fu4u-a9bh",
+      "release": "2024 release"
+    }
+  },
+  "measures": [
+    "DIABETES",
+    "COPD",
+    "CASTHMA",
+    "CHD",
+    "STROKE",
+    "OBESITY"
+  ],
+  "generated_at_utc": "2026-11-11T14:12:07Z",
+  "row_counts": {
+    "CASTHMA_2022": 3145,
+    "CASTHMA_2023": 2958,
+    "CHD_2022": 3145,
+    "CHD_2023": 2958,
+    "COPD_2022": 3145,
+    "COPD_2023": 2958,
+    "DIABETES_2022": 3145,
+    "DIABETES_2023": 2958,
+    "OBESITY_2022": 3145,
+    "OBESITY_2023": 2958,
+    "STROKE_2022": 3145,
+    "STROKE_2023": 2958
+  },
+  "us_rows_dropped_per_measure_year": 1,
+  "footnote_star_rows": {
+    "CASTHMA_2022": 0,
+    "CASTHMA_2023": 1,
+    "CHD_2022": 0,
+    "CHD_2023": 1,
+    "COPD_2022": 0,
+    "COPD_2023": 1,
+    "DIABETES_2022": 0,
+    "DIABETES_2023": 1,
+    "OBESITY_2022": 0,
+    "OBESITY_2023": 1,
+    "STROKE_2022": 0,
+    "STROKE_2023": 1
+  },
+  "rows_without_published_value": {
+    "CASTHMA_2022": 0,
+    "CASTHMA_2023": 1,
+    "CHD_2022": 0,
+    "CHD_2023": 1,
+    "COPD_2022": 0,
+    "COPD_2023": 1,
+    "DIABETES_2022": 0,
+    "DIABETES_2023": 1,
+    "OBESITY_2022": 0,
+    "OBESITY_2023": 1,
+    "STROKE_2022": 0,
+    "STROKE_2023": 1
+  },
+  "unmatched_counties": {
+    "DIABETES": {
+      "only_2022": 188,
+      "only_2023": 0,
+      "matched": 2956
+    },
+    "COPD": {
+      "only_2022": 188,
+      "only_2023": 0,
+      "matched": 2956
+    },
+    "CASTHMA": {
+      "only_2022": 188,
+      "only_2023": 0,
+      "matched": 2956
+    },
+    "CHD": {
+      "only_2022": 188,
+      "only_2023": 0,
+      "matched": 2956
+    },
+    "STROKE": {
+      "only_2022": 188,
+      "only_2023": 0,
+      "matched": 2956
+    },
+    "OBESITY": {
+      "only_2022": 188,
+      "only_2023": 0,
+      "matched": 2956
+    }
+  },
+  "national_weighted_vs_us_row": {
+    "DIABETES_2022": {
+      "weighted": 11.97,
+      "us_row": 12.0,
+      "gap_pp": -0.03
+    },
+    "DIABETES_2023": {
+      "weighted": 12.05,
+      "us_row": 12.0,
+      "gap_pp": 0.05
+    },
+    "COPD_2022": {
+      "weighted": 6.98,
+      "us_row": 6.8,
+      "gap_pp": 0.18
+    },
+    "COPD_2023": {
+      "weighted": 6.49,
+      "us_row": 6.2,
+      "gap_pp": 0.29
+    },
+    "CASTHMA_2022": {
+      "weighted": 10.31,
+      "us_row": 9.9,
+      "gap_pp": 0.41
+    },
+    "CASTHMA_2023": {
+      "weighted": 10.21,
+      "us_row": 9.8,
+      "gap_pp": 0.41
+    },
+    "CHD_2022": {
+      "weighted": 6.83,
+      "us_row": 6.8,
+      "gap_pp": 0.03
+    },
+    "CHD_2023": {
+      "weighted": 6.28,
+      "us_row": 6.4,
+      "gap_pp": -0.12
+    },
+    "STROKE_2022": {
+      "weighted": 3.53,
+      "us_row": 3.6,
+      "gap_pp": -0.07
+    },
+    "STROKE_2023": {
+      "weighted": 3.41,
+      "us_row": 3.4,
+      "gap_pp": 0.01
+    },
+    "OBESITY_2022": {
+      "weighted": 33.56,
+      "us_row": 33.3,
+      "gap_pp": 0.26
+    },
+    "OBESITY_2023": {
+      "weighted": 33.2,
+      "us_row": 32.8,
+      "gap_pp": 0.4
+    }
+  },
+  "median_ci_width_pp": {
+    "DIABETES_2022": 3.6,
+    "DIABETES_2023": 3.9,
+    "COPD_2022": 1.9,
+    "COPD_2023": 3.0,
+    "CASTHMA_2022": 2.7,
+    "CASTHMA_2023": 2.7,
+    "CHD_2022": 1.7,
+    "CHD_2023": 2.1,
+    "STROKE_2022": 0.8,
+    "STROKE_2023": 1.1,
+    "OBESITY_2022": 14.8,
+    "OBESITY_2023": 15.3
+  }
+}

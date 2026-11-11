@@ -1,0 +1,794 @@
+[
+  {
+    "year": "2022",
+    "stateabbr": "AL",
+    "statedesc": "Alabama",
+    "locationname": "Clay",
+    "locationid": "01027",
+    "measureid": "CASTHMA",
+    "measure": "Current asthma among adults",
+    "short_question_text": "Current Asthma",
+    "data_value": "11.0",
+    "low_confidence_limit": "9.6",
+    "high_confidence_limit": "12.4",
+    "totalpopulation": "14198",
+    "totalpop18plus": "11235",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -85.8606604130173,
+        33.2693085517833
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "CA",
+    "statedesc": "California",
+    "locationname": "Lake",
+    "locationid": "06033",
+    "measureid": "CASTHMA",
+    "measure": "Current asthma among adults",
+    "short_question_text": "Current Asthma",
+    "data_value": "10.8",
+    "low_confidence_limit": "9.6",
+    "high_confidence_limit": "12.2",
+    "totalpopulation": "68191",
+    "totalpop18plus": "53338",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -122.753413599125,
+        39.0999886976907
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "AL",
+    "statedesc": "Alabama",
+    "locationname": "Autauga",
+    "locationid": "01001",
+    "measureid": "CASTHMA",
+    "measure": "Current asthma among adults",
+    "short_question_text": "Current Asthma",
+    "data_value": "10.0",
+    "low_confidence_limit": "8.8",
+    "high_confidence_limit": "11.4",
+    "totalpopulation": "59759",
+    "totalpop18plus": "45878",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -86.6428164158396,
+        32.5350016195151
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "AR",
+    "statedesc": "Arkansas",
+    "locationname": "Fulton",
+    "locationid": "05049",
+    "measureid": "CASTHMA",
+    "measure": "Current asthma among adults",
+    "short_question_text": "Current Asthma",
+    "data_value": "10.6",
+    "low_confidence_limit": "9.2",
+    "high_confidence_limit": "11.9",
+    "totalpopulation": "12421",
+    "totalpop18plus": "9795",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -91.817888079321,
+        36.3816206347765
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "CO",
+    "statedesc": "Colorado",
+    "locationname": "Lake",
+    "locationid": "08065",
+    "measureid": "CASTHMA",
+    "measure": "Current asthma among adults",
+    "short_question_text": "Current Asthma",
+    "data_value": "10.2",
+    "low_confidence_limit": "9.0",
+    "high_confidence_limit": "11.6",
+    "totalpopulation": "7365",
+    "totalpop18plus": "5869",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -106.344971513974,
+        39.2024367117474
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "ME",
+    "statedesc": "Maine",
+    "locationname": "Hancock",
+    "locationid": "23009",
+    "measureid": "CASTHMA",
+    "measure": "Current asthma among adults",
+    "short_question_text": "Current Asthma",
+    "data_value": "12.1",
+    "low_confidence_limit": "10.7",
+    "high_confidence_limit": "13.5",
+    "totalpopulation": "56526",
+    "totalpop18plus": "47589",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -68.3588356549835,
+        44.6432336584807
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "AR",
+    "statedesc": "Arkansas",
+    "locationname": "Sharp",
+    "locationid": "05135",
+    "measureid": "CHD",
+    "measure": "Coronary heart disease among adults",
+    "short_question_text": "Coronary Heart Disease",
+    "data_value": "11.1",
+    "low_confidence_limit": "10.0",
+    "high_confidence_limit": "12.4",
+    "totalpopulation": "17810",
+    "totalpop18plus": "14115",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -91.4796648363714,
+        36.1612525766705
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "AR",
+    "statedesc": "Arkansas",
+    "locationname": "Stone",
+    "locationid": "05137",
+    "measureid": "CHD",
+    "measure": "Coronary heart disease among adults",
+    "short_question_text": "Coronary Heart Disease",
+    "data_value": "12.7",
+    "low_confidence_limit": "11.5",
+    "high_confidence_limit": "14.0",
+    "totalpopulation": "12575",
+    "totalpop18plus": "10116",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -92.1570988831634,
+        35.8596284960808
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "AR",
+    "statedesc": "Arkansas",
+    "locationname": "Washington",
+    "locationid": "05143",
+    "measureid": "CHD",
+    "measure": "Coronary heart disease among adults",
+    "short_question_text": "Coronary Heart Disease",
+    "data_value": "6.8",
+    "low_confidence_limit": "6.2",
+    "high_confidence_limit": "7.5",
+    "totalpopulation": "256054",
+    "totalpop18plus": "196886",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -94.2156793425187,
+        35.9788480792297
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "AL",
+    "statedesc": "Alabama",
+    "locationname": "Elmore",
+    "locationid": "01051",
+    "measureid": "CHD",
+    "measure": "Coronary heart disease among adults",
+    "short_question_text": "Coronary Heart Disease",
+    "data_value": "6.7",
+    "low_confidence_limit": "5.9",
+    "high_confidence_limit": "7.7",
+    "totalpopulation": "90441",
+    "totalpop18plus": "71010",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -86.1484340236509,
+        32.5970686891064
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "AL",
+    "statedesc": "Alabama",
+    "locationname": "Montgomery",
+    "locationid": "01101",
+    "measureid": "CHD",
+    "measure": "Coronary heart disease among adults",
+    "short_question_text": "Coronary Heart Disease",
+    "data_value": "6.9",
+    "low_confidence_limit": "6.1",
+    "high_confidence_limit": "7.7",
+    "totalpopulation": "224980",
+    "totalpop18plus": "170733",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -86.2076996333806,
+        32.220703470576
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "AL",
+    "statedesc": "Alabama",
+    "locationname": "Conecuh",
+    "locationid": "01035",
+    "measureid": "CHD",
+    "measure": "Coronary heart disease among adults",
+    "short_question_text": "Coronary Heart Disease",
+    "data_value": "11.1",
+    "low_confidence_limit": "9.9",
+    "high_confidence_limit": "12.4",
+    "totalpopulation": "11174",
+    "totalpop18plus": "8894",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -86.9935445067511,
+        31.4293022573494
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "AZ",
+    "statedesc": "Arizona",
+    "locationname": "Gila",
+    "locationid": "04007",
+    "measureid": "COPD",
+    "measure": "Chronic obstructive pulmonary disease among adults",
+    "short_question_text": "COPD",
+    "data_value": "11.5",
+    "low_confidence_limit": "10.4",
+    "high_confidence_limit": "12.6",
+    "totalpopulation": "53922",
+    "totalpop18plus": "43714",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -110.812096582079,
+        33.7999645115514
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "AK",
+    "statedesc": "Alaska",
+    "locationname": "Hoonah-Angoon",
+    "locationid": "02105",
+    "measureid": "COPD",
+    "measure": "Chronic obstructive pulmonary disease among adults",
+    "short_question_text": "COPD",
+    "data_value": "9.4",
+    "low_confidence_limit": "8.4",
+    "high_confidence_limit": "10.5",
+    "totalpopulation": "2287",
+    "totalpop18plus": "1905",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -135.641352469501,
+        58.2866674624936
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "AR",
+    "statedesc": "Arkansas",
+    "locationname": "Desha",
+    "locationid": "05041",
+    "measureid": "COPD",
+    "measure": "Chronic obstructive pulmonary disease among adults",
+    "short_question_text": "COPD",
+    "data_value": "13.1",
+    "low_confidence_limit": "11.8",
+    "high_confidence_limit": "14.5",
+    "totalpopulation": "10771",
+    "totalpop18plus": "8099",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -91.2552412838777,
+        33.8308426422596
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "AK",
+    "statedesc": "Alaska",
+    "locationname": "Prince of Wales-Hyder",
+    "locationid": "02198",
+    "measureid": "COPD",
+    "measure": "Chronic obstructive pulmonary disease among adults",
+    "short_question_text": "COPD",
+    "data_value": "9.4",
+    "low_confidence_limit": "8.2",
+    "high_confidence_limit": "10.9",
+    "totalpopulation": "5696",
+    "totalpop18plus": "4429",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -133.055155796378,
+        55.8173059571036
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "AL",
+    "statedesc": "Alabama",
+    "locationname": "Mobile",
+    "locationid": "01097",
+    "measureid": "COPD",
+    "measure": "Chronic obstructive pulmonary disease among adults",
+    "short_question_text": "COPD",
+    "data_value": "7.9",
+    "low_confidence_limit": "6.8",
+    "high_confidence_limit": "9.2",
+    "totalpopulation": "411640",
+    "totalpop18plus": "316274",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -88.20640909701,
+        30.7791692937068
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "AL",
+    "statedesc": "Alabama",
+    "locationname": "Henry",
+    "locationid": "01067",
+    "measureid": "COPD",
+    "measure": "Chronic obstructive pulmonary disease among adults",
+    "short_question_text": "COPD",
+    "data_value": "9.7",
+    "low_confidence_limit": "8.1",
+    "high_confidence_limit": "11.5",
+    "totalpopulation": "17899",
+    "totalpop18plus": "14236",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -85.2412788046304,
+        31.5148475570572
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "AR",
+    "statedesc": "Arkansas",
+    "locationname": "Baxter",
+    "locationid": "05005",
+    "measureid": "DIABETES",
+    "measure": "Diagnosed diabetes among adults",
+    "short_question_text": "Diabetes",
+    "data_value": "16.8",
+    "low_confidence_limit": "14.6",
+    "high_confidence_limit": "19.1",
+    "totalpopulation": "42435",
+    "totalpop18plus": "34886",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -92.3369593879758,
+        36.2869936509323
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "CO",
+    "statedesc": "Colorado",
+    "locationname": "Delta",
+    "locationid": "08029",
+    "measureid": "DIABETES",
+    "measure": "Diagnosed diabetes among adults",
+    "short_question_text": "Diabetes",
+    "data_value": "11.6",
+    "low_confidence_limit": "10.0",
+    "high_confidence_limit": "13.4",
+    "totalpopulation": "31602",
+    "totalpop18plus": "25555",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -107.862948303439,
+        38.8614572647921
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "AL",
+    "statedesc": "Alabama",
+    "locationname": "Elmore",
+    "locationid": "01051",
+    "measureid": "DIABETES",
+    "measure": "Diagnosed diabetes among adults",
+    "short_question_text": "Diabetes",
+    "data_value": "12.9",
+    "low_confidence_limit": "11.3",
+    "high_confidence_limit": "14.8",
+    "totalpopulation": "89563",
+    "totalpop18plus": "70369",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -86.1484340236509,
+        32.5970686891064
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "FL",
+    "statedesc": "Florida",
+    "locationname": "Brevard",
+    "locationid": "12009",
+    "measureid": "DIABETES",
+    "measure": "Diagnosed diabetes among adults",
+    "short_question_text": "Diabetes",
+    "data_value": "13.1",
+    "low_confidence_limit": "11.3",
+    "high_confidence_limit": "15.2",
+    "totalpopulation": "643979",
+    "totalpop18plus": "528274",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -80.7322290402972,
+        28.2934562139849
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "FL",
+    "statedesc": "Florida",
+    "locationname": "Citrus",
+    "locationid": "12017",
+    "measureid": "DIABETES",
+    "measure": "Diagnosed diabetes among adults",
+    "short_question_text": "Diabetes",
+    "data_value": "15.8",
+    "low_confidence_limit": "13.4",
+    "high_confidence_limit": "18.1",
+    "totalpopulation": "166696",
+    "totalpop18plus": "142235",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -82.4772202477587,
+        28.8485262076997
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "KS",
+    "statedesc": "Kansas",
+    "locationname": "Haskell",
+    "locationid": "20081",
+    "measureid": "DIABETES",
+    "measure": "Diagnosed diabetes among adults",
+    "short_question_text": "Diabetes",
+    "data_value": "13.2",
+    "low_confidence_limit": "11.4",
+    "high_confidence_limit": "15.2",
+    "totalpopulation": "3630",
+    "totalpop18plus": "2660",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -100.871073802866,
+        37.5620393895921
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "AK",
+    "statedesc": "Alaska",
+    "locationname": "Dillingham",
+    "locationid": "02070",
+    "measureid": "OBESITY",
+    "measure": "Obesity among adults",
+    "short_question_text": "Obesity",
+    "data_value": "37.3",
+    "low_confidence_limit": "30.6",
+    "high_confidence_limit": "44.1",
+    "totalpopulation": "4723",
+    "totalpop18plus": "3253",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -158.236178154164,
+        59.7978171220014
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "CO",
+    "statedesc": "Colorado",
+    "locationname": "San Miguel",
+    "locationid": "08113",
+    "measureid": "OBESITY",
+    "measure": "Obesity among adults",
+    "short_question_text": "Obesity",
+    "data_value": "25.7",
+    "low_confidence_limit": "19.4",
+    "high_confidence_limit": "32.8",
+    "totalpopulation": "8003",
+    "totalpop18plus": "6720",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -108.405860202785,
+        38.0040513912484
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "AL",
+    "statedesc": "Alabama",
+    "locationname": "Baldwin",
+    "locationid": "01003",
+    "measureid": "OBESITY",
+    "measure": "Obesity among adults",
+    "short_question_text": "Obesity",
+    "data_value": "36.8",
+    "low_confidence_limit": "31.4",
+    "high_confidence_limit": "42.5",
+    "totalpopulation": "246435",
+    "totalpop18plus": "195167",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -87.7226204578951,
+        30.7277455824565
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "CO",
+    "statedesc": "Colorado",
+    "locationname": "Yuma",
+    "locationid": "08125",
+    "measureid": "OBESITY",
+    "measure": "Obesity among adults",
+    "short_question_text": "Obesity",
+    "data_value": "28.4",
+    "low_confidence_limit": "21.5",
+    "high_confidence_limit": "36.2",
+    "totalpopulation": "9862",
+    "totalpop18plus": "7075",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -102.424564854412,
+        40.0028209513012
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "GA",
+    "statedesc": "Georgia",
+    "locationname": "Peach",
+    "locationid": "13225",
+    "measureid": "OBESITY",
+    "measure": "Obesity among adults",
+    "short_question_text": "Obesity",
+    "data_value": "39.3",
+    "low_confidence_limit": "31.1",
+    "high_confidence_limit": "47.7",
+    "totalpopulation": "28805",
+    "totalpop18plus": "22815",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -83.8278402405427,
+        32.5679570126366
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "GA",
+    "statedesc": "Georgia",
+    "locationname": "Twiggs",
+    "locationid": "13289",
+    "measureid": "OBESITY",
+    "measure": "Obesity among adults",
+    "short_question_text": "Obesity",
+    "data_value": "39.7",
+    "low_confidence_limit": "31.3",
+    "high_confidence_limit": "48.1",
+    "totalpopulation": "7691",
+    "totalpop18plus": "6243",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -83.4270456679841,
+        32.6669819807256
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "AL",
+    "statedesc": "Alabama",
+    "locationname": "Jackson",
+    "locationid": "01071",
+    "measureid": "STROKE",
+    "measure": "Stroke among adults",
+    "short_question_text": "Stroke",
+    "data_value": "5.1",
+    "low_confidence_limit": "4.6",
+    "high_confidence_limit": "5.6",
+    "totalpopulation": "52891",
+    "totalpop18plus": "42087",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -85.9995052603961,
+        34.7796392771775
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "AL",
+    "statedesc": "Alabama",
+    "locationname": "Lee",
+    "locationid": "01081",
+    "measureid": "STROKE",
+    "measure": "Stroke among adults",
+    "short_question_text": "Stroke",
+    "data_value": "3.3",
+    "low_confidence_limit": "3.0",
+    "high_confidence_limit": "3.6",
+    "totalpopulation": "180773",
+    "totalpop18plus": "143546",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -85.3550362108983,
+        32.601254498925
+      ]
+    }
+  },
+  {
+    "year": "2022",
+    "stateabbr": "AR",
+    "statedesc": "Arkansas",
+    "locationname": "Benton",
+    "locationid": "05007",
+    "measureid": "STROKE",
+    "measure": "Stroke among adults",
+    "short_question_text": "Stroke",
+    "data_value": "2.9",
+    "low_confidence_limit": "2.6",
+    "high_confidence_limit": "3.1",
+    "totalpopulation": "302863",
+    "totalpop18plus": "226571",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -94.2558310001198,
+        36.3389781548829
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "AR",
+    "statedesc": "Arkansas",
+    "locationname": "Miller",
+    "locationid": "05091",
+    "measureid": "STROKE",
+    "measure": "Stroke among adults",
+    "short_question_text": "Stroke",
+    "data_value": "4.7",
+    "low_confidence_limit": "4.2",
+    "high_confidence_limit": "5.3",
+    "totalpopulation": "42415",
+    "totalpop18plus": "32396",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -93.8924281761086,
+        33.3123156126392
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "AR",
+    "statedesc": "Arkansas",
+    "locationname": "Pulaski",
+    "locationid": "05119",
+    "measureid": "STROKE",
+    "measure": "Stroke among adults",
+    "short_question_text": "Stroke",
+    "data_value": "3.9",
+    "low_confidence_limit": "3.4",
+    "high_confidence_limit": "4.3",
+    "totalpopulation": "400009",
+    "totalpop18plus": "307397",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -92.3119548341849,
+        34.7700394452014
+      ]
+    }
+  },
+  {
+    "year": "2023",
+    "stateabbr": "AR",
+    "statedesc": "Arkansas",
+    "locationname": "Van Buren",
+    "locationid": "05141",
+    "measureid": "STROKE",
+    "measure": "Stroke among adults",
+    "short_question_text": "Stroke",
+    "data_value": "5.4",
+    "low_confidence_limit": "4.7",
+    "high_confidence_limit": "6.2",
+    "totalpopulation": "16142",
+    "totalpop18plus": "13054",
+    "geolocation": {
+      "type": "Point",
+      "coordinates": [
+        -92.5158922653774,
+        35.5806118772188
+      ]
+    }
+  }
+]
