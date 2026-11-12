@@ -26,7 +26,8 @@ code, README, requirements, charts and example results.
 | [05](day-05-social-media-sentiment-analyzer/) | Social Media Sentiment Analyzer — 1,462 comments on 12 videos, 40.6% positive (rule-based model), validation accuracy 0.617 | Social media | ✅ Done (2026-11-09) |
 | [06](day-06-viral-content-trend-explorer/) | Viral Content Trend Explorer — 472 videos, 406 channels, AI & ML and SQL accelerating, Python fading | Social media | ✅ Done (2026-11-10) |
 | [07](day-07-disease-prevalence-dashboard/) | Disease Prevalence Dashboard — 6 chronic conditions, 2,956 counties (2023), national diabetes 12.05%, West Virginia highest at 15.88% | Healthcare | ✅ Done (2026-11-11) |
-| 08–60 | See the roadmap catalog | — | Planned |
+| [08](day-08-hospital-readmission-risk-model/) | Hospital Readmission Risk Model — 101,766 encounters, logistic ROC-AUC 0.6612, HistGB 0.6761, both calibrated (Brier 0.0971 / 0.0956 vs 0.1006 baseline) | Healthcare | ✅ Done (2026-11-12) |
+| 09–60 | See the roadmap catalog | — | Planned |
 
 Day 1 headline findings (live CoinGecko data (Powered by CoinGecko), 366 daily observations, 2025-11-05 → 2026-11-05):
 BTC −20.7%, ETH −26.2%, SOL −38.5% total return; max drawdowns −44.7% /
@@ -83,6 +84,24 @@ Day 7 headline findings (live CDC PLACES county data, 6 chronic conditions, 2,95
 national diabetes 12.05% (2023) vs 11.97% (2022); West Virginia the highest state for diabetes (15.88%), COPD (10.63%), heart disease (8.73%) and obesity (40.63%); diabetes spans 4.9% (Madison County, ID) to 27.1% (Greene County, AL); heart disease fell on the median matched county (−0.50 pp, 86.3% of counties down) while diabetes rose (+0.10 pp); Kentucky and Pennsylvania have no 2023 rows in the source release and Loving County, TX is suppressed, so national 2022→2023 moves are partly compositional. Full detail in
 [Day 7](day-07-disease-prevalence-dashboard/) →
 [`outputs/insights_summary.md`](day-07-disease-prevalence-dashboard/outputs/insights_summary.md).
+
+Day 8 headline findings (live UCI Diabetes 130-US Hospitals 1999–2008 data, 101,766 encounters, fetched 2026-11-12):
+101,766 raw encounters, 11,357 readmitted within 30 days (11.16%); 1,652
+expired/hospice exclusions leave 100,114 modelled, split patient-grouped
+train 80,090 / test 20,024 with 0 patient overlap. Logistic regression
+ROC-AUC 0.6612, PR-AUC 0.2071, Brier 0.0971, calibration slope 0.913 /
+intercept −0.161; HistGradientBoosting ROC-AUC 0.6761, PR-AUC 0.2293, Brier
+0.0956, slope 1.070 / intercept +0.143 — both beat the prevalence-only
+baseline (ROC-AUC 0.5, PR-AUC 0.1116, Brier 0.1006 at test prevalence
+0.1135), but at threshold 0.5 both models barely flag anyone (sensitivity
+0.0128 / 0.0088), so they rank patients modestly and their probabilities
+are roughly calibrated, not decision-ready. Discrimination is weakest for
+the oldest patients (age [90-100) ROC-AUC 0.5079 logistic / 0.5611 HistGB)
+and strongest at [20-30) (0.7531 / 0.7991); strongest odds ratios:
+swing-bed admission 5.32, Hematology specialty 3.38, psychiatric hospital
+3.00. Full detail in
+[Day 8](day-08-hospital-readmission-risk-model/) →
+[`outputs/insights_summary.md`](day-08-hospital-readmission-risk-model/outputs/insights_summary.md).
 
 ## Roadmap phases
 
