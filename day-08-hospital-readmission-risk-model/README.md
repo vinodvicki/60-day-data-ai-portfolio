@@ -1,1 +1,170 @@
-IyBEYXkgMDgg4oCUIEhvc3BpdGFsIFJlYWRtaXNzaW9uIFJpc2sgTW9kZWwKCj4gKio2MC1EYXkgRGF0YSBBbmFseXRpY3MgKyBBSSBQb3J0Zm9saW8sIERheSAwOC4qKiBSZXByb2R1Y2libGUgY2xhc3NpZmljYXRpb24KPiBub3RlYm9vayB3aXRoIG1vZGVsIGNhcmQuCgojIyBQcm9ibGVtCgpBIGhvc3BpdGFsIHN0YXkgZW5kcywgYW5kIHdpdGhpbiAzMCBkYXlzIHNvbWUgcGF0aWVudHMgYXJlIGJhY2suIERheSA4IGFza3MgdHdvCmxpbmtlZCBxdWVzdGlvbnMgYWJvdXQgdGhhdCByZXR1cm46ICp3aGljaCBmZWF0dXJlcyBvZiB0aGUgc3RheSBhbmQgdGhlIHBhdGllbnQKYXJlIGFzc29jaWF0ZWQgd2l0aCBiZWluZyByZWFkbWl0dGVkIHdpdGhpbiAzMCBkYXlzKiwgYW5kICpob3cgd2VsbCBjYW4gYSBtb2RlbAp0ZWxsIHRoZSB0d28gZ3JvdXBzIGFwYXJ0IOKAlCBhbmQgaG93IG11Y2ggY2FuIGl0cyBwcmVkaWN0ZWQgcmlza3MgYmUgdHJ1c3RlZD8qClRoZSBzZWNvbmQgaGFsZiBtYXR0ZXJzIGFzIG11Y2ggYXMgdGhlIGZpcnN0OiBhIG1vZGVsIHRoYXQgcmFua3MgcGF0aWVudHMgd2VsbApidXQgd2hvc2UgIjIwJSByaXNrIiBhY3R1YWxseSBtZWFucyA1JSAob3IgNDAlKSB3b3VsZCBtaXNsZWFkIGFueSBkZWNpc2lvbiBtYWRlCmZyb20gaXQsIHNvIGRpc2NyaW1pbmF0aW9uIChST0MtQVVDLCBQUi1BVUMpIGFuZCBjYWxpYnJhdGlvbiAoQnJpZXIgc2NvcmUsCnNsb3BlL2ludGVyY2VwdCwgZGVjaWxlIHRhYmxlKSBhcmUgcmVwb3J0ZWQgc2lkZSBieSBzaWRlLCBmb3IgYm90aCBtb2RlbHMsIG9uCnRoZSBzYW1lIGhlbGQtb3V0IHBhdGllbnRzLiBUaGUgYW5hbHlzaXMgaXMgaG9uZXN0IGFib3V0IGl0cyBsaW1pdHMgdXAgZnJvbnQ6CnRoZSBkYXRhIGlzIDE5OTnigJMyMDA4LCBjb3ZlcnMgZGlhYmV0ZXMgcGF0aWVudHMgb25seSwgaGFzIG5vIGV4dGVybmFsCnZhbGlkYXRpb24gc2V0LCBhbmQgdGhlIHNhbWUgcGF0aWVudCBjYW4gYXBwZWFyIG1hbnkgdGltZXMg4oCUIHNvIHRoZSB0cmFpbi90ZXN0CnNwbGl0IGlzIGdyb3VwZWQgYnkgcGF0aWVudCwgdGhlIHBhdGllbnRzIHdobyBkaWVkIG9yIHdlbnQgdG8gaG9zcGljZSAoYW5kCnRoZXJlZm9yZSAqY2Fubm90KiBiZSByZWFkbWl0dGVkKSBhcmUgZXhjbHVkZWQgYmVmb3JlIG1vZGVsbGluZywgYW5kCnBlcmZvcm1hbmNlIGlzIHJlcG9ydGVkIGJ5IGFnZSwgc2V4IGFuZCByYWNlIGFzIGEgZmFpcm5lc3MgY2hlY2suCgoqKkF1ZGllbmNlOioqIGEgZGF0YSBhbmFseXN0IG9yIGhpcmluZyByZXZpZXdlciB3aG8gd2FudHMgdG8gc2VlIGEKY2xhc3NpZmljYXRpb24gZG9uZSBwcm9wZXJseSBvbiBtZXNzeSByZWFsIGhlYWx0aCBkYXRhIOKAlCBsZWFrYWdlIGhhbmRsZWQsCmltYmFsYW5jZSBoYW5kbGVkIHdpdGhvdXQgZGlzdG9ydGluZyB0aGUgcHJvYmFiaWxpdGllcywgY2FsaWJyYXRpb24gcmVwb3J0ZWQKaW5zdGVhZCBvZiBhc3N1bWVkLCBhbmQgdGhlIG1vZGVsIGNhcmQgc3RhdGluZyBwbGFpbmx5IHdoYXQgdGhlIG1vZGVsIG11c3QKbmV2ZXIgYmUgdXNlZCBmb3IuCgojIyBEYXRhc2V0CgotICoqU291cmNlOioqIERpYWJldGVzIDEzMC1VUyBIb3NwaXRhbHMgZm9yIFllYXJzIDE5OTnigJMyMDA4LCBVQ0kgTWFjaGluZQogIExlYXJuaW5nIFJlcG9zaXRvcnkgKGlkIDI5Nikg4oCUIGRlLWlkZW50aWZpZWQgaW5wYXRpZW50IGVuY291bnRlcnMgb2YKICBwYXRpZW50cyBkaWFnbm9zZWQgd2l0aCBkaWFiZXRlcyBhdCAxMzAgVVMgaG9zcGl0YWxzLCAxOTk54oCTMjAwOC4KLSAqKkRvd25sb2FkOioqIGh0dHBzOi8vYXJjaGl2ZS5pY3MudWNpLmVkdS9zdGF0aWMvcHVibGljLzI5Ni9kaWFiZXRlcysxMzAtdXMraG9zcGl0YWxzK2Zvcit5ZWFycysxOTk5LTIwMDguemlwCiAgKDMsMTcwLDI1NCBieXRlczsgYGRpYWJldGljX2RhdGEuY3N2YCAxOSwxNTksMzgzIGJ5dGVzICsgYElEU19tYXBwaW5nLmNzdmAKICAyLDU0NyBieXRlcykuIE5vIHNpZ24taW4sIG5vIGtleSwgbm8gcGF5bWVudC4gRmV0Y2hlZCAyMDI2LTExLTEyLgotICoqUm93czoqKiAxMDEsNzY2IGVuY291bnRlcnMsIDUwIGNvbHVtbnMuIFRhcmdldDogYmluYXJ5IOKAlCAxIGlmCiAgYHJlYWRtaXR0ZWQgPT0gIjwzMCJgICgxMSwzNTc7IDExLjE2JSksIGVsc2UgMC4gVGhlIDMtY2xhc3Mgc3BsaXQgaXMKICBgPDMwYCAxMSwzNTcgKDExLjE2JSksIGA+MzBgIDM1LDU0NSAoMzQuOTMlKSwgYE5PYCA1NCw4NjQgKDUzLjkxJSkuCi0gKipMaWNlbmNlOioqIENDIEJZIDQuMC4gQXR0cmlidXRpb246IENsb3JlLCBKLiwgQ2lvcywgSy4sIERlU2hhem8sIEouLCAmCiAgU3RyYWNrLCBCLiAoMjAxNCkuIERpYWJldGVzIDEzMC1VUyBIb3NwaXRhbHMgZm9yIFllYXJzIDE5OTktMjAwOAogIFtEYXRhc2V0XS4gVUNJIE1hY2hpbmUgTGVhcm5pbmcgUmVwb3NpdG9yeS4gaHR0cHM6Ly9kb2kub3JnLzEwLjI0NDMyL0M1MjMwSgotICoqRGF0YS1zaXplIGV4Y2VwdGlvbjoqKiB0aGUgcmF3IENTViAofjE5IE1CKSBpcyBnaXQtaWdub3JlZCBhbmQgZG93bmxvYWRlZAogIGF0IGJ1aWxkIHRpbWU7IG9ubHkgYSA1MDAtcm93IHByb3ZlbmFuY2Ugc2FtcGxlLCBgSURTX21hcHBpbmcuY3N2YCBhbmQKICBjb21wYWN0IHByb2Nlc3NlZCBDU1ZzIGFyZSBjb21taXR0ZWQuIFNlZSBbZGF0YS9SRUFETUUubWRdKGRhdGEvUkVBRE1FLm1kKS4KCiMjIFRvb2xzCgpQeXRob24gMy4xMi4zOyBwYW5kYXMsIG51bXB5LCBtYXRwbG90bGliLCBwbG90bHksIHN0cmVhbWxpdCwgcmVxdWVzdHMsCnNjaWtpdC1sZWFybiAoSGlzdEdyYWRpZW50Qm9vc3RpbmcsIGNhbGlicmF0aW9uLCBwZXJtdXRhdGlvbiBpbXBvcnRhbmNlKSwKc2NpcHksIHB5dGVzdCwganVweXRlciwgbmJmb3JtYXQg4oCUIGFsbCBwaW5uZWQgaW4KW3JlcXVpcmVtZW50cy50eHRdKHJlcXVpcmVtZW50cy50eHQpLiBMaW50L2Zvcm1hdDogcnVmZiAwLjE3LjQgKyBibGFjayAyNi4xMC4xCihwb3J0Zm9saW8tcm9vdCBgcmVxdWlyZW1lbnRzLWRldi50eHRgKS4KCiMjIE1ldGhvZAoKMS4gKipEb3dubG9hZCArIHZlcmlmeSoqIChgcHl0aG9uIC1tIHNyYy5kYXRhX3BpcGVsaW5lIC0tbGl2ZWApOiByb3cgY291bnQKICAgMTAxLDc2NiBhbmQgdGFyZ2V0IGRpc3RyaWJ1dGlvbiAxMSwzNTcgLyAzNSw1NDUgLyA1NCw4NjQgYXNzZXJ0ZWQuCjIuICoqQ2xlYW4qKiAocGxhbiDCpzMuMyk6IGA/YCBpcyB0aGUgbWlzc2luZyBzeW1ib2wgKHRoZSBtZXRhZGF0YSBBUEkgc2F5cwogICAiTmFOIiDigJQgd3JvbmcgZm9yIHRoaXMgZmlsZSk7IGB3ZWlnaHRgIGRyb3BwZWQgYXQgOTYuODYlIG1pc3Npbmc7CiAgIGhpZ2gtbWlzc2luZyBjYXRlZ29yaWNhbHMga2VwdCBhcyBhbiBleHBsaWNpdCAiTWlzc2luZyIgY2F0ZWdvcnk7CiAgIGBtYXhfZ2x1X3NlcnVtYCAvIGBBMUNyZXN1bHRgIHZhbHVlICJOb25lIiBrZXB0IGFzICJub3QgbWVhc3VyZWQiOwogICBJQ0QtOSBjb2RlcyBpbiBgZGlhZ18xLzIvM2AgZ3JvdXBlZCBpbnRvIDEwIGNoYXB0ZXJzOyBJRCBsYWJlbHMgam9pbmVkCiAgIGZyb20gYElEU19tYXBwaW5nLmNzdmAgKG5ldmVyIGhhcmQtY29kZWQpLgozLiAqKkV4Y2x1ZGUqKiAxLDY1MiBlbmNvdW50ZXJzIGRpc2NoYXJnZWQgZXhwaXJlZCBvciB0byBob3NwaWNlCiAgIChpZHMgMTE6IDEsNjQyOyAxOTogODsgMjA6IDI7IDIxOiAwKSDigJQgbGFiZWxzIHZlcmlmaWVkIGZyb20KICAgYElEU19tYXBwaW5nLmNzdmAgYXQgYnVpbGQgdGltZTsgdGhlIGxhYmVsIHJ1bGUgZ292ZXJucyBpZiBJRHMgYW5kCiAgIGxhYmVscyBldmVyIGRpc2FncmVlLiAxMDAsMTE0IGVuY291bnRlcnMgcmVtYWluLgo0LiAqKlNwbGl0KiogcGF0aWVudC1ncm91cGVkIDgwLzIwLCBzZWVkIDQyIChgU3RyYXRpZmllZEdyb3VwS0ZvbGRgLAogICA1IGZvbGRzLCBmb2xkIDAgPSB0ZXN0KTogdHJhaW4gODAsMDkwIHJvd3MgKDU2LDQxNyBwYXRpZW50cywgMTEuMzQlCiAgIHBvc2l0aXZlKSwgdGVzdCAyMCwwMjQgcm93cyAoMTQsMDIyIHBhdGllbnRzLCAxMS4zNSUgcG9zaXRpdmUpLCB6ZXJvCiAgIHBhdGllbnQgb3ZlcmxhcC4KNS4gKipNb2RlbHMqKiAoc2FtZSBwcmVwcm9jZXNzaW5nLCBubyB0dW5pbmcsIG5vIGNsYXNzIHdlaWdodGluZywgbm8KICAgcmVzYW1wbGluZywgdGhyZXNob2xkIDAuNSk6IGxvZ2lzdGljIHJlZ3Jlc3Npb24gKGBDPTEuMGAsCiAgIGBtYXhfaXRlcj0xMDAwYCkgYW5kIEhpc3RHcmFkaWVudEJvb3N0aW5nIChgbWF4X2l0ZXI9MzAwYCwKICAgYGxlYXJuaW5nX3JhdGU9MC4wNWApLiA1LWZvbGQgZ3JvdXBlZCBDViBvbiB0aGUgdHJhaW4gc2V0Lgo2LiAqKkV2YWx1YXRlKiogb24gdGhlIHRlc3Qgc2V0OiBST0MtQVVDLCBQUi1BVUMsIEJyaWVyLCBjYWxpYnJhdGlvbgogICBzbG9wZS9pbnRlcmNlcHQsIGNhbGlicmF0aW9uLWluLXRoZS1sYXJnZSwgZGVjaWxlIHRhYmxlLCBjb25mdXNpb24KICAgbWF0cml4IGF0IDAuNSwgc3ViZ3JvdXAgbWV0cmljcyBieSBhZ2UvZ2VuZGVyL3JhY2UuIE5vIHJlY2FsaWJyYXRpb24KICAgKG91dCBvZiBzY29wZTsgZnV0dXJlIHdvcmspLgoKIyMgS2V5IGluc2lnaHRzCgp8IE1vZGVsIHwgUk9DLUFVQyB8IFBSLUFVQyB8IEJyaWVyIHwgQ2FsLiBzbG9wZSB8IENhbC4gaW50ZXJjZXB0IHwKfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfAp8IExvZ2lzdGljIHJlZ3Jlc3Npb24gfCAwLjY2MTIgfCAwLjIwNzEgfCAwLjA5NzEgfCAwLjkxMzEgfCDiiJIwLjE2MDkgfAp8IEhpc3RHcmFkaWVudEJvb3N0aW5nIHwgMC42NzYxIHwgMC4yMjkzIHwgMC4wOTU2IHwgMS4wNjk4IHwgKzAuMTQzNCB8CnwgUHJldmFsZW5jZS1vbmx5IGJhc2VsaW5lIHwgMC41MDAwIHwgMC4xMTE2IHwgMC4xMDA2IHwg4oCUIHwg4oCUIHwKCi0gKipQcmlvciBpbnBhdGllbnQgdmlzaXRzIGRvbWluYXRlLioqIE9uIHRoZSAxLDAwMC1yb3cgc2FtcGxlIHRoZSA8MzAtZGF5CiAgcmF0ZSByaXNlcyBmcm9tIDcuMSUgKDAgcHJpb3IgdmlzaXRzLCBuPTY3NSkgdG8gMTYuNyUgKDEsIG49MTg2KSwgMTcuMiUKICAoMiwgbj02NCkgYW5kIDIyLjclICgzKywgbj03NSkuIFBlcm11dGF0aW9uIGltcG9ydGFuY2UgYWdyZWVzOgogIGBudW1iZXJfaW5wYXRpZW50YCBpcyB0aGUgdG9wIEhpc3RHQiBmZWF0dXJlICjOlCBST0MtQVVDIDAuMDc1MyksIGZvbGxvd2VkCiAgYnkgZGlzY2hhcmdlIGRpc3Bvc2l0aW9uICgwLjA1MzIpOyBldmVyeXRoaW5nIGVsc2UgaXMg4omkIDAuMDA3MS4KLSAqKkRpc2NyaW1pbmF0aW9uIGlzIG1vZGVzdCBidXQgcmVhbC4qKiBCb3RoIG1vZGVscyBiZWF0IGNoYW5jZSBhbmQgdGhlCiAgcHJldmFsZW5jZSBiYXNlbGluZSAoQ1YgUk9DLUFVQyAwLjY2MzMgwrEgMC4wMDMyIGxvZ2lzdGljLCAwLjY3MzYgwrEgMC4wMDMzCiAgSGlzdEdCKS4gQXQgdGhyZXNob2xkIDAuNSBzZW5zaXRpdml0eSBpcyB2ZXJ5IGxvdyAoMC4wMTMgLyAwLjAwOSkg4oCUIHRoZQogIG1vZGVscyByYXJlbHkgcHJlZGljdCAicmVhZG1pdHRlZCIgYXQgMTElIHByZXZhbGVuY2Ug4oCUIHdpdGggcHJlY2lzaW9uCiAgMC40MiAvIDAuNjcgb24gdGhlIGZldyB0aGV5IGZsYWcuCi0gKipDYWxpYnJhdGlvbiBpcyByZWFzb25hYmxlLCBhcy1pcy4qKiBCcmllciAwLjA5NzEgLyAwLjA5NTYgdnMgMC4xMDA2CiAgYmFzZWxpbmU7IHNsb3BlcyAwLjkxIC8gMS4wNyAoaWRlYWwgMSk7IG1lYW4gcHJlZGljdGVkIHJpc2sgMC4xMTI1IC8KICAwLjExMjYgdnMgb2JzZXJ2ZWQgMC4xMTM1LiBUaGUgdG9wIGRlY2lsZSdzIG9ic2VydmVkIHJhdGUgaXMgMjbigJMyOCUKICBhZ2FpbnN0IGEgcHJlZGljdGVkIH4yNuKAkzI3JS4KLSAqKlRoZSBvbGRlc3QgcGF0aWVudHMgYXJlIHRoZSB3ZWFrIHNwb3QuKiogUk9DLUFVQyBmYWxscyB0byAwLjUxCiAgKGxvZ2lzdGljKSAvIDAuNTYgKEhpc3RHQikgYXQgYWdlIFs5MC0xMDApOyBbMC0xMCkgaGFzIDMzIHRlc3QgcGF0aWVudHMKICBhbmQgMCByZWFkbWlzc2lvbnMsIHNvIGl0cyBST0MtQVVDIGlzIHVuZGVmaW5lZC4gQnkgZ2VuZGVyIGFuZCByYWNlIHRoZQogIG1vZGVscyBhcmUgYnJvYWRseSBjb25zaXN0ZW50IChGZW1hbGUgMC42NjggLyBNYWxlIDAuNjU0IGxvZ2lzdGljOwogIENhdWNhc2lhbiAwLjY2MSAvIEFmcmljYW4gQW1lcmljYW4gMC42NjMpLCB3aXRoIHNtYWxsLW4gZmxhZ3Mgb24gQXNpYW4sCiAgSGlzcGFuaWMsIE90aGVyIGFuZCBNaXNzaW5nLXJhY2Ugc3ViZ3JvdXBzLgotICoqRGlzY2hhcmdlIGRlc3RpbmF0aW9uIGNhcnJpZXMgdGhlIGxhcmdlc3Qgb2RkcyByYXRpb3MqKiDigJQgZGlzY2hhcmdlIHRvCiAgYSBNZWRpY2FyZSBzd2luZyBiZWQgT1IgNS4zMiwgdG8gYSBwc3ljaGlhdHJpYyBob3NwaXRhbCBPUiAzLjAwLCB3aGlsZQogIGRpc2NoYXJnZSB0byBob3NwaWNlIGF0IGhvbWUgaXMgcHJvdGVjdGl2ZSAoT1IgMC4yNSkuIFRoZXNlIGFyZQogIGFzc29jaWF0aW9ucyBmcm9tIGEgb25lLWhvdCBtb2RlbCwgbm90IGNhdXNlcywgYW5kIHRoZSByYXJlIGNhdGVnb3JpZXMKICBhcmUgbm9pc3kuCgpGdWxsIGZpbmRpbmdzOiBbb3V0cHV0cy9pbnNpZ2h0c19zdW1tYXJ5Lm1kXShvdXRwdXRzL2luc2lnaHRzX3N1bW1hcnkubWQpLgpNb2RlbCBjYXJkOiBbb3V0cHV0cy9tb2RlbF9jYXJkLm1kXShvdXRwdXRzL21vZGVsX2NhcmQubWQpLgpOb3RlYm9vazogW25vdGVib29rcy9hbmFseXNpcy5pcHluYl0obm90ZWJvb2tzL2FuYWx5c2lzLmlweW5iKS4KCiMjIFZpc3VhbHMKCiFbUmVhZG1pc3Npb24gb3ZlcnZpZXddKG91dHB1dHMvY2hhcnRzLzAxX3JlYWRtaXNzaW9uX292ZXJ2aWV3LnBuZykKIVtEaXNjcmltaW5hdGlvbl0ob3V0cHV0cy9jaGFydHMvMDJfZGlzY3JpbWluYXRpb24ucG5nKQohW0NhbGlicmF0aW9uXShvdXRwdXRzL2NoYXJ0cy8wM19jYWxpYnJhdGlvbi5wbmcpCiFbSW50ZXJwcmV0YXRpb25dKG91dHB1dHMvY2hhcnRzLzA0X2ludGVycHJldGF0aW9uLnBuZykKCiMjIEhvdyB0byBydW4KCmBgYGJhc2gKcHl0aG9uIC1tIHZlbnYgLnZlbnYKc291cmNlIC52ZW52L2Jpbi9hY3RpdmF0ZQpwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CnB5dGhvbiAtbSBzcmMuZGF0YV9waXBlbGluZSAtLWxpdmUgICAgICAjIGRvd25sb2FkIGZyb20gVUNJLCBjbGVhbiwgdHJhaW4sIHdyaXRlIHByb2Nlc3NlZCBDU1ZzCnB5dGhvbiAtbSBzcmMuZGF0YV9waXBlbGluZSAtLW9mZmxpbmUgICAjIHZlcmlmeSBjb21taXR0ZWQgZmlsZXM7IG5vIG5ldHdvcmssIG5ldmVyIHJld3JpdGVzIGRhdGFfc291cmNlLmpzb24KcHl0aG9uIC1tIHNyYy5tYWtlX2NoYXJ0cyAgICAgICAgICAgICAgICMgcmVnZW5lcmF0ZSB0aGUgNCBjaGFydHMgZnJvbSBwcm9jZXNzZWQgQ1NWcwpweXRlc3QgdGVzdHMvIC1xICAgICAgICAgICAgICAgICAgICAgICAgICMgNDIgdGVzdHMKc3RyZWFtbGl0IHJ1biBzcmMvYXBwLnB5ICAgICAgICAgICAgICAgICMgZGFzaGJvYXJkIChwcm9jZXNzZWQgQ1NWcyBvbmx5LCBvZmZsaW5lKQpgYGAKCiMjIFZhbGlkYXRpb24KCi0gUGlwZWxpbmUgdmVyaWZpZWQgbGl2ZSAyMDI2LTExLTEyOiAxMDEsNzY2IHJvd3MsIHRhcmdldCAxMSwzNTcgLyAzNSw1NDUgLwogIDU0LDg2NCwgYHdlaWdodGAgOTYuODYlIG1pc3NpbmcsIGV4Y2x1c2lvbnMgMSw2NTIgd2l0aCBsYWJlbHMgdmVyaWZpZWQuCi0gTm90ZWJvb2sgcnVucyB0b3AtdG8tYm90dG9tIHZpYSBuYmNvbnZlcnQsIDAgZXJyb3IgY2VsbHM7IHRoZSBndWFyZGVkCiAgdHJhaW5pbmcgc2VjdGlvbiByZS10cmFpbmVkIGJvdGggbW9kZWxzIGFuZCBtYXRjaGVkIHRoZSBjb21taXR0ZWQgbWV0cmljcwogIGV4YWN0bHkgKFJPQy1BVUMgMC42NjEyIC8gMC42NzYxKS4KLSBweXRlc3Q6IDQyIHBhc3NlZCwgZnJvbSB0aGUgZGF5IGZvbGRlciBhbmQgZnJvbSB0aGUgcG9ydGZvbGlvIHJvb3QuCi0gYGJsYWNrIC0tY2hlY2tgICsgYHJ1ZmYgY2hlY2tgIGNsZWFuLgotIE1hbnVhbCB2YWxpZGF0aW9uIChvbmUgbWV0cmljLCBieSBoYW5kKTogdGhlIHByZXZhbGVuY2Utb25seSBCcmllciBvbiB0aGUKICB0ZXN0IHNldCBpcyAwLjExMzUgw5cgKDEg4oiSIDAuMTEzNSkgPSAwLjEwMDYsIG1hdGNoaW5nIGBicmllcl9iYXNlbGluZWAKICAwLjEwMDYgaW4gYG1vZGVsX21ldHJpY3MuY3N2YDsgYXQgdGhlIHJhdyBwcmV2YWxlbmNlIDAuMTExNiDDlyAwLjg4ODQgPQogIDAuMDk5MS4gU2VlIFtkYXRhL1JFQURNRS5tZF0oZGF0YS9SRUFETUUubWQpLgotIFN0cmVhbWxpdCBzbW9rZSBnYXRlOiBmcmVzaCBwb3J0LCBIVFRQIDIwMCBvbiBgL2AgYW5kIGAvX3N0Y29yZS9oZWFsdGhgLAogIHJlYWwgYHNjcmVlbnNob3RzL2Rhc2hib2FyZC5wbmdgIChzZWUgYGNvZGVyX2hhbmRvZmYubWRgKS4KCiMjIExpbWl0YXRpb25zCgotIERpYWJldGVzIHBhdGllbnRzIG9ubHk7IDE5OTnigJMyMDA4IFVTIHByYWN0aWNlIChwYXR0ZXJucyBoYXZlIGNoYW5nZWQpOwogIDEzMCBob3NwaXRhbHM7IG5vIGV4dGVybmFsIHZhbGlkYXRpb24gc2V0LgotIEVuY291bnRlcnMgYWZ0ZXIgYSBwYXRpZW50J3MgZmlyc3QgcmVhZG1pc3Npb24gYXJlIG5vdCBpbmRlcGVuZGVudAogIG9ic2VydmF0aW9ucyAobm8gZW5jb3VudGVyIG9yZGVyaW5nIHRvIGZpbHRlciBvbikuCi0gRGlzY2hhcmdlIGRpc3Bvc2l0aW9ucyAxMy8xNCAoIkhvc3BpY2UgLyBob21lIiwgIkhvc3BpY2UgLyBtZWRpY2FsCiAgZmFjaWxpdHkiKSBhcmUgcmV0YWluZWQgcGVyIHRoZSBmcm96ZW4gZXhjbHVzaW9uIGxpc3QgezExLCAxOSwgMjAsIDIxfTsKICBvbmx5IHRoZSBleHBpcmVkL2hvc3BpY2UtbGFiZWxsZWQgaWRzIGluIHRoYXQgbGlzdCBhcmUgZXhjbHVkZWQuCi0gTm8gcmVjYWxpYnJhdGlvbiB3YXMgYXBwbGllZDsgUGxhdHQvaXNvdG9uaWMgc2NhbGluZyBpcyBmdXR1cmUgd29yay4KLSAqKk5vdCBhIGNsaW5pY2FsIHRvb2wuKiogTmV2ZXIgdXNlIHRoZSBtb2RlbCB0byBtYWtlIGNhcmUgZGVjaXNpb25zLgoKIyMgTGljZW5zZQoKTUlUIOKAlCBzZWUgW0xJQ0VOU0VdKExJQ0VOU0UpLiBDb3B5cmlnaHQgKGMpIDIwMjYgVmljdG9yLgo=
+# Day 08 — Hospital Readmission Risk Model
+
+> **60-Day Data Analytics + AI Portfolio, Day 08.** Reproducible classification
+> notebook with model card.
+
+## Problem
+
+A hospital stay ends, and within 30 days some patients are back. Day 8 asks two
+linked questions about that return: *which features of the stay and the patient
+are associated with being readmitted within 30 days*, and *how well can a model
+tell the two groups apart — and how much can its predicted risks be trusted?*
+The second half matters as much as the first: a model that ranks patients well
+but whose "20% risk" actually means 5% (or 40%) would mislead any decision made
+from it, so discrimination (ROC-AUC, PR-AUC) and calibration (Brier score,
+slope/intercept, decile table) are reported side by side, for both models, on
+the same held-out patients. The analysis is honest about its limits up front:
+the data is 1999–2008, covers diabetes patients only, has no external
+validation set, and the same patient can appear many times — so the train/test
+split is grouped by patient, the patients who died or went to hospice (and
+therefore *cannot* be readmitted) are excluded before modelling, and
+performance is reported by age, sex and race as a fairness check.
+
+**Audience:** a data analyst or hiring reviewer who wants to see a
+classification done properly on messy real health data — leakage handled,
+imbalance handled without distorting the probabilities, calibration reported
+instead of assumed, and the model card stating plainly what the model must
+never be used for.
+
+## Dataset
+
+- **Source:** Diabetes 130-US Hospitals for Years 1999–2008, UCI Machine
+  Learning Repository (id 296) — de-identified inpatient encounters of
+  patients diagnosed with diabetes at 130 US hospitals, 1999–2008.
+- **Download:** https://archive.ics.uci.edu/static/public/296/diabetes+130-us+hospitals+for+years+1999-2008.zip
+  (3,170,254 bytes; `diabetic_data.csv` 19,159,383 bytes + `IDS_mapping.csv`
+  2,547 bytes). No sign-in, no key, no payment. Fetched 2026-11-12.
+- **Rows:** 101,766 encounters, 50 columns. Target: binary — 1 if
+  `readmitted == "<30"` (11,357; 11.16%), else 0. The 3-class split is
+  `<30` 11,357 (11.16%), `>30` 35,545 (34.93%), `NO` 54,864 (53.91%).
+- **Licence:** CC BY 4.0. Attribution: Clore, J., Cios, K., DeShazo, J., &
+  Strack, B. (2014). Diabetes 130-US Hospitals for Years 1999-2008
+  [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5230J
+- **Data-size exception:** the raw CSV (~19 MB) is git-ignored and downloaded
+  at build time; only a 500-row provenance sample, `IDS_mapping.csv` and
+  compact processed CSVs are committed. See [data/README.md](data/README.md).
+
+## Tools
+
+Python 3.12.3; pandas, numpy, matplotlib, plotly, streamlit, requests,
+scikit-learn (HistGradientBoosting, calibration, permutation importance),
+scipy, pytest, jupyter, nbformat — all pinned in
+[requirements.txt](requirements.txt). Lint/format: ruff 0.17.4 + black 26.10.1
+(portfolio-root `requirements-dev.txt`).
+
+## Method
+
+1. **Download + verify** (`python -m src.data_pipeline --live`): row count
+   101,766 and target distribution 11,357 / 35,545 / 54,864 asserted.
+2. **Clean** (plan §3.3): `?` is the missing symbol (the metadata API says
+   "NaN" — wrong for this file); `weight` dropped at 96.86% missing;
+   high-missing categoricals kept as an explicit "Missing" category;
+   `max_glu_serum` / `A1Cresult` value "None" kept as "not measured";
+   ICD-9 codes in `diag_1/2/3` grouped into 10 chapters; ID labels joined
+   from `IDS_mapping.csv` (never hard-coded).
+3. **Exclude** 1,652 encounters discharged expired or to hospice
+   (ids 11: 1,642; 19: 8; 20: 2; 21: 0) — labels verified from
+   `IDS_mapping.csv` at build time; the label rule governs if IDs and
+   labels ever disagree. 100,114 encounters remain.
+4. **Split** patient-grouped 80/20, seed 42 (`StratifiedGroupKFold`,
+   5 folds, fold 0 = test): train 80,090 rows (56,417 patients, 11.34%
+   positive), test 20,024 rows (14,022 patients, 11.35% positive), zero
+   patient overlap.
+5. **Models** (same preprocessing, no tuning, no class weighting, no
+   resampling, threshold 0.5): logistic regression (`C=1.0`,
+   `max_iter=1000`) and HistGradientBoosting (`max_iter=300`,
+   `learning_rate=0.05`). 5-fold grouped CV on the train set.
+6. **Evaluate** on the test set: ROC-AUC, PR-AUC, Brier, calibration
+   slope/intercept, calibration-in-the-large, decile table, confusion
+   matrix at 0.5, subgroup metrics by age/gender/race. No recalibration
+   (out of scope; future work).
+
+## Key insights
+
+| Model | ROC-AUC | PR-AUC | Brier | Cal. slope | Cal. intercept |
+|---|---|---|---|---|---|
+| Logistic regression | 0.6612 | 0.2071 | 0.0971 | 0.9131 | −0.1609 |
+| HistGradientBoosting | 0.6761 | 0.2293 | 0.0956 | 1.0698 | +0.1434 |
+| Prevalence-only baseline | 0.5000 | 0.1116 | 0.1006 | — | — |
+
+- **Prior inpatient visits dominate.** On the 1,000-row sample the <30-day
+  rate rises from 7.1% (0 prior visits, n=675) to 16.7% (1, n=186), 17.2%
+  (2, n=64) and 22.7% (3+, n=75). Permutation importance agrees:
+  `number_inpatient` is the top HistGB feature (Δ ROC-AUC 0.0753), followed
+  by discharge disposition (0.0532); everything else is ≤ 0.0071.
+- **Discrimination is modest but real.** Both models beat chance and the
+  prevalence baseline (CV ROC-AUC 0.6633 ± 0.0032 logistic, 0.6736 ± 0.0033
+  HistGB). At threshold 0.5 sensitivity is very low (0.013 / 0.009) — the
+  models rarely predict "readmitted" at 11% prevalence — with precision
+  0.42 / 0.67 on the few they flag.
+- **Calibration is reasonable, as-is.** Brier 0.0971 / 0.0956 vs 0.1006
+  baseline; slopes 0.91 / 1.07 (ideal 1); mean predicted risk 0.1125 /
+  0.1126 vs observed 0.1135. The top decile's observed rate is 26–28%
+  against a predicted ~26–27%.
+- **The oldest patients are the weak spot.** ROC-AUC falls to 0.51
+  (logistic) / 0.56 (HistGB) at age [90-100); [0-10) has 33 test patients
+  and 0 readmissions, so its ROC-AUC is undefined. By gender and race the
+  models are broadly consistent (Female 0.668 / Male 0.654 logistic;
+  Caucasian 0.661 / African American 0.663), with small-n flags on Asian,
+  Hispanic, Other and Missing-race subgroups.
+- **Discharge destination carries the largest odds ratios** — discharge to
+  a Medicare swing bed OR 5.32, to a psychiatric hospital OR 3.00, while
+  discharge to hospice at home is protective (OR 0.25). These are
+  associations from a one-hot model, not causes, and the rare categories
+  are noisy.
+
+Full findings: [outputs/insights_summary.md](outputs/insights_summary.md).
+Model card: [outputs/model_card.md](outputs/model_card.md).
+Notebook: [notebooks/analysis.ipynb](notebooks/analysis.ipynb).
+
+## Visuals
+
+![Readmission overview](outputs/charts/01_readmission_overview.png)
+![Discrimination](outputs/charts/02_discrimination.png)
+![Calibration](outputs/charts/03_calibration.png)
+![Interpretation](outputs/charts/04_interpretation.png)
+
+## How to run
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python -m src.data_pipeline --live      # download from UCI, clean, train, write processed CSVs
+python -m src.data_pipeline --offline   # verify committed files; no network, never rewrites data_source.json
+python -m src.make_charts               # regenerate the 4 charts from processed CSVs
+pytest tests/ -q                         # 42 tests
+streamlit run src/app.py                # dashboard (processed CSVs only, offline)
+```
+
+## Validation
+
+- Pipeline verified live 2026-11-12: 101,766 rows, target 11,357 / 35,545 /
+  54,864, `weight` 96.86% missing, exclusions 1,652 with labels verified.
+- Notebook runs top-to-bottom via nbconvert, 0 error cells; the guarded
+  training section re-trained both models and matched the committed metrics
+  exactly (ROC-AUC 0.6612 / 0.6761).
+- pytest: 42 passed, from the day folder and from the portfolio root.
+- `black --check` + `ruff check` clean.
+- Manual validation (one metric, by hand): the prevalence-only Brier on the
+  test set is 0.1135 × (1 − 0.1135) = 0.1006, matching `brier_baseline`
+  0.1006 in `model_metrics.csv`; at the raw prevalence 0.1116 × 0.8884 =
+  0.0991. See [data/README.md](data/README.md).
+- Streamlit smoke gate: fresh port, HTTP 200 on `/` and `/_stcore/health`,
+  real `screenshots/dashboard.png` (see `coder_handoff.md`).
+
+## Limitations
+
+- Diabetes patients only; 1999–2008 US practice (patterns have changed);
+  130 hospitals; no external validation set.
+- Encounters after a patient's first readmission are not independent
+  observations (no encounter ordering to filter on).
+- Discharge dispositions 13/14 ("Hospice / home", "Hospice / medical
+  facility") are retained per the frozen exclusion list {11, 19, 20, 21};
+  only the expired/hospice-labelled ids in that list are excluded.
+- No recalibration was applied; Platt/isotonic scaling is future work.
+- **Not a clinical tool.** Never use the model to make care decisions.
+
+## License
+
+MIT — see [LICENSE](LICENSE). Copyright (c) 2026 Victor.
