@@ -1,0 +1,41 @@
+model,effect_feature,metric,value,extra
+logistic,cat__discharge_disposition_id_Discharged/transferred within this institution to Medicare approved swing bed,odds_ratio,5.317007449597469,1.6709106356115846
+logistic,cat__discharge_disposition_id_Hospice / home,odds_ratio,0.2471235413172986,-1.3978669001196067
+logistic,cat__medical_specialty_Hematology,odds_ratio,3.3757960129097,1.2166311521918638
+logistic,cat__discharge_disposition_id_Discharged/transferred/referred to a psychiatric hospital of psychiatric distinct part unit of a hospital,odds_ratio,3.003806204971142,1.0998802194943613
+logistic,cat__medical_specialty_InfectiousDiseases,odds_ratio,2.6761046801234056,0.9843622596337002
+logistic,cat__discharge_disposition_id_Admitted as an inpatient to this hospital,odds_ratio,2.5425559352704497,0.9331698488049507
+logistic,cat__discharge_disposition_id_Hospice / medical facility,odds_ratio,0.41367991680381144,-0.8826627520066177
+logistic,cat__medical_specialty_Otolaryngology,odds_ratio,0.4340425809302349,-0.8346126369519957
+logistic,cat__discharge_disposition_id_Discharged/transferred to another rehab fac including rehab units of a hospital .,odds_ratio,2.302751584903578,0.8341047491515569
+logistic,cat__medical_specialty_Pediatrics-Endocrinology,odds_ratio,0.44295684020279996,-0.8142829398620209
+logistic,cat__discharge_disposition_id_Discharged/transferred to a long term care hospital.,odds_ratio,0.47598032113586974,-0.7423787677568615
+logistic,cat__medical_specialty_Gynecology,odds_ratio,0.49081167846625545,-0.7116947716724497
+logistic,cat__diag_1_group_Missing,odds_ratio,2.0332285282880798,0.709624937717867
+logistic,cat__repaglinide_Down,odds_ratio,0.5076366945277964,-0.6779892555108326
+logistic,cat__medical_specialty_Hematology/Oncology,odds_ratio,1.9607689122289989,0.6733366984697062
+logistic,cat__age_[0-10),odds_ratio,0.532483573215425,-0.6302032302961162
+logistic,cat__discharge_disposition_id_Not Mapped,odds_ratio,0.5339325859139713,-0.6274856915981324
+logistic,cat__payer_code_WC,odds_ratio,0.537213134311452,-0.6213603650573836
+logistic,cat__medical_specialty_Oncology,odds_ratio,1.8371882457169126,0.6082362755157189
+logistic,cat__medical_specialty_ObstetricsandGynecology,odds_ratio,0.5474572988181535,-0.602470813359299
+histgb,number_inpatient,permutation_importance,0.07529189083634313,0.006652706445242465
+histgb,discharge_disposition_id,permutation_importance,0.05324641311988667,0.0009514426778978208
+histgb,diag_1_group,permutation_importance,0.0071130549067275565,0.0008275407715030433
+histgb,payer_code,permutation_importance,0.005920881162368663,0.0013293051172639904
+histgb,medical_specialty,permutation_importance,0.004877066519781282,0.0006968396541801712
+histgb,number_emergency,permutation_importance,0.003002922404299735,0.0005792735939538074
+histgb,time_in_hospital,permutation_importance,0.0028400762421533663,0.0009547459525311979
+histgb,number_diagnoses,permutation_importance,0.0026092675929394018,0.00045378964973329957
+histgb,diabetesMed,permutation_importance,0.0022494911305372955,0.00044088724722794026
+histgb,age,permutation_importance,0.0019615524376544345,0.000955539149274509
+histgb,admission_source_id,permutation_importance,0.0018817558346927888,0.000356939319234865
+histgb,insulin,permutation_importance,0.0016828395451575107,0.0009612102025878002
+histgb,admission_type_id,permutation_importance,0.0010023220950309275,0.0005747598995794147
+histgb,diag_2_group,permutation_importance,0.0009988658290438046,0.0003417600384135389
+histgb,metformin,permutation_importance,0.0009068830371821823,0.0007113341425616446
+histgb,diag_3_group,permutation_importance,0.0008776163487233868,0.000128559745908465
+histgb,num_medications,permutation_importance,0.0007885493164033308,0.0007530481383070324
+histgb,num_lab_procedures,permutation_importance,0.0005850585571791411,0.0004744562947834243
+histgb,number_outpatient,permutation_importance,0.00035465404810577363,0.0003343986728200731
+histgb,num_procedures,permutation_importance,0.0003186632611125617,9.870250084671897e-05

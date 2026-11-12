@@ -1,0 +1,3 @@
+model,roc_auc,pr_auc,brier,brier_baseline,calibration_slope,calibration_intercept,mean_predicted,observed_rate,sensitivity,specificity,precision,npv,f1,tp,tn,fp,fn,cv_roc_auc_mean,cv_roc_auc_std,cv_pr_auc_mean,cv_pr_auc_std
+logistic,0.6612,0.2071,0.0971,0.1006,0.9131,-0.1609,0.1125,0.1135,0.0128,0.9977,0.4203,0.8876,0.0248,29,17712,40,2243,0.6633,0.0032,0.2177,0.007
+histgb,0.6761,0.2293,0.0956,0.1006,1.0698,0.1434,0.1126,0.1135,0.0088,0.9994,0.6667,0.8874,0.0174,20,17742,10,2252,0.6736,0.0033,0.2334,0.0071
