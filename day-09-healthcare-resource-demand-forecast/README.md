@@ -55,7 +55,7 @@ pip install -r requirements.txt
 python -m src.data_pipeline --live      # fetch live, verify counts, build series + forecast
 python -m src.data_pipeline --offline   # recompute derived tables from committed CSVs (no network)
 python -m src.make_charts               # 4 charts, offline from processed CSVs
-python -m pytest tests/ -q              # 37 tests
+python -m pytest tests/ -q              # 39 tests
 streamlit run src/app.py                # dashboard (smoke-tested on port 8502)
 ```
 
