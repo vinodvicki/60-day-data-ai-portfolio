@@ -44,6 +44,11 @@ Python 3.12.3; pandas 3.1.1, numpy 2.5.4, matplotlib 3.11.2, plotly 7.1.0, strea
 | `outputs/charts/03_demand_bands.png` | History coloured by demand band + top-5-state panel |
 | `outputs/charts/04_bed_capacity.png` | Bed utilisation 2020–2024 (series ends 2024-04-27) + staffing-scenario table |
 
+![Forecast](outputs/charts/01_forecast.png)
+![Backtest](outputs/charts/02_backtest.png)
+![Demand bands](outputs/charts/03_demand_bands.png)
+![Bed capacity](outputs/charts/04_bed_capacity.png)
+
 The Streamlit dashboard (`src/app.py`) embeds the same four charts and adds a state comparison and a volume converter (forecast % → expected visits → expected admissions, defaults 1,000 visits/week and 15% admission rate, both labelled planning assumptions).
 
 ## How to run
