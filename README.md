@@ -27,7 +27,8 @@ code, README, requirements, charts and example results.
 | [06](day-06-viral-content-trend-explorer/) | Viral Content Trend Explorer — 472 videos, 406 channels, AI & ML and SQL accelerating, Python fading | Social media | ✅ Done (2026-11-10) |
 | [07](day-07-disease-prevalence-dashboard/) | Disease Prevalence Dashboard — 6 chronic conditions, 2,956 counties (2023), national diabetes 12.05%, West Virginia highest at 15.88% | Healthcare | ✅ Done (2026-11-11) |
 | [08](day-08-hospital-readmission-risk-model/) | Hospital Readmission Risk Model — 101,766 encounters, logistic ROC-AUC 0.6612, HistGB 0.6761, both calibrated (Brier 0.0971 / 0.0956 vs 0.1006 baseline) | Healthcare | ✅ Done (2026-11-12) |
-| 09–60 | See the roadmap catalog | — | Planned |
+| [09](day-09-healthcare-resource-demand-forecast/) | Healthcare Resource Demand Forecast — 8-week Holt-Winters forecast 3.03% → 13.87%, mean RMSE 0.4693 vs seasonal naïve 0.8244, 161 weeks NSSP + bed utilisation 72.5% | Healthcare | ✅ Done (2026-11-13) |
+| 10–60 | See the roadmap catalog | — | Planned |
 
 Day 1 headline findings (live CoinGecko data (Powered by CoinGecko), 366 daily observations, 2025-11-05 → 2026-11-05):
 BTC −20.7%, ETH −26.2%, SOL −38.5% total return; max drawdowns −44.7% /
@@ -102,6 +103,11 @@ swing-bed admission 5.32, Hematology specialty 3.38, psychiatric hospital
 3.00. Full detail in
 [Day 8](day-08-hospital-readmission-risk-model/) →
 [`outputs/insights_summary.md`](day-08-hospital-readmission-risk-model/outputs/insights_summary.md).
+
+Day 9 headline findings (live CDC NSSP ED-visit data, 25,116 rows, 161 weeks, fetched 2026-11-13; HHS bed capacity 81,713 rows, 2020-01-01 → 2024-04-27):
+Holt-Winters 8-week forecast of national Combined respiratory ED share rises 3.03% → 13.87% (weeks ending 2026-11-07 → 2026-12-26; bands Moderate, Moderate, High, High, Surge, Surge, Surge, Surge), final-week 80% interval 12.76–14.91% and 95% interval 12.08–15.38%; latest observed week 2.3% (2026-10-31), observed max 10.4% (2023-12-30) — the final two forecast weeks exceed the observed max and are read as a severe-season scenario. Backtest (3 rolling origins): Holt-Winters mean RMSE 0.4693 vs seasonal naïve 0.8244, 80%-interval coverage 75.0% vs 91.67% against the ≈80% target. Historically Low 89 / Moderate 35 / High 19 / Surge 18 of 161 weeks; top states Hawaii 7.0%, Florida 3.4%, Louisiana 2.9%, Washington 2.8%, Texas 2.6%; bed utilisation averaged 72.5% (max 78.9%) and was 74.95% in its final week (2024-04-27). Full detail in
+[Day 9](day-09-healthcare-resource-demand-forecast/) →
+[`outputs/insights_summary.md`](day-09-healthcare-resource-demand-forecast/outputs/insights_summary.md).
 
 ## Roadmap phases
 
