@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+*.key
+*.log
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+# DATA-SIZE EXCEPTION (plan §3.4): the raw NSSP JSON is ~2 MB and the raw
+# bed JSON ~80k rows, over the portfolio file-size rule, so raw data is
+# git-ignored and downloaded at build time by
+# `python -m src.data_pipeline --live`. Only the small provenance
+# artefacts are committed (data/raw/sample_rows.json, compact processed
+# CSVs). This is the one deliberate deviation from the "do NOT ignore
+# data/" rule (Day 1 lesson (d)).
+data/raw/nssp_ed_visits.json
+data/raw/bed_capacity.json
+data/raw/*_synthetic.json

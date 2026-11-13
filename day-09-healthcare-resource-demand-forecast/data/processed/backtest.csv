@@ -1,0 +1,7 @@
+origin,method,rmse,mae,mape,coverage_80
+12,holt_winters,0.4909,0.4125,56.23,0.75
+12,seasonal_naive,0.976,0.975,149.17,1.0
+8,holt_winters,0.5942,0.5561,54.09,0.5
+8,seasonal_naive,0.3905,0.325,33.33,1.0
+4,holt_winters,0.3229,0.2845,16.24,1.0
+4,seasonal_naive,1.1068,1.05,59.4,0.75

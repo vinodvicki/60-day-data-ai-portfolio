@@ -1,0 +1,181 @@
+{
+  "source": "live",
+  "synthetic": false,
+  "seed": 42,
+  "datasets": {
+    "nssp": {
+      "name": "2023 Respiratory Virus Response - NSSP Emergency Department Visits - COVID-19, Flu, RSV, Combined",
+      "dataset_id": "vutn-jzwm",
+      "url": "https://data.cdc.gov/resource/vutn-jzwm.json?$limit=50000",
+      "metadata_url": "https://data.cdc.gov/api/views/vutn-jzwm",
+      "companion_guide": "https://www.cdc.gov/ncird/surveillance/respiratory-illnesses/index.html#companion-guide",
+      "attribution": "CDC National Syndromic Surveillance Program (NSSP), Emergency Department Visits \u2014 COVID-19, Flu, RSV, via CDC Open Data (data.cdc.gov/resource/vutn-jzwm).",
+      "licence": "US federal public domain"
+    },
+    "bed_capacity": {
+      "name": "COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries (RAW)",
+      "dataset_id": "g62h-syeh",
+      "url": "https://healthdata.gov/resource/g62h-syeh.json",
+      "attribution": "U.S. Department of Health and Human Services, COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries, via healthdata.gov (resource g62h-syeh).",
+      "licence": "US federal public domain",
+      "reporting_ended": "2024-04-27"
+    }
+  },
+  "fetched_at_utc": "2026-11-13T14:27:33Z",
+  "fetch_date": "2026-11-13",
+  "nssp_rows": 25116,
+  "bed_rows": 81713,
+  "expected_nssp_rows": 25116,
+  "expected_bed_rows": 81713,
+  "nssp_week_range": [
+    "2023-10-07",
+    "2026-10-31"
+  ],
+  "bed_date_range": [
+    "2020-01-01",
+    "2024-04-27"
+  ],
+  "national_weeks": 161,
+  "state_geographies": 51,
+  "bed_weeks": 226,
+  "null_audit": {
+    "n_null_percent_visits": 72,
+    "null_share": 0.0029,
+    "null_by_geography": {
+      "Delaware": {
+        "n_rows": 9,
+        "weeks": [
+          "2026-10-17",
+          "2026-10-24",
+          "2026-10-31"
+        ]
+      },
+      "Georgia": {
+        "n_rows": 9,
+        "weeks": [
+          "2026-10-17",
+          "2026-10-24",
+          "2026-10-31"
+        ]
+      },
+      "Iowa": {
+        "n_rows": 54,
+        "weeks": [
+          "2026-07-04",
+          "2026-07-11",
+          "2026-07-18",
+          "2026-07-25",
+          "2026-08-01",
+          "2026-08-08",
+          "2026-08-15",
+          "2026-08-22",
+          "2026-08-29",
+          "2026-09-05",
+          "2026-09-12",
+          "2026-09-19",
+          "2026-09-26",
+          "2026-10-03",
+          "2026-10-10",
+          "2026-10-17",
+          "2026-10-24",
+          "2026-10-31"
+        ]
+      }
+    },
+    "national_weeks_affected": [],
+    "n_national_weeks_affected": 0
+  },
+  "combined_construction": "No Combined pathogen value exists in the NSSP data; Combined is the sum of the COVID-19, Influenza and RSV percentages (same denominator \u2014 total ED visits). A week is Combined-missing if any of its three pathogen values is missing.",
+  "latest_national_week": {
+    "week_end": "2026-10-31",
+    "covid_pct": 0.5,
+    "flu_pct": 1.7,
+    "rsv_pct": 0.1,
+    "combined_pct": 2.3
+  },
+  "bed_coverage": {
+    "definition": "Share of state-days where inpatient_beds_coverage == inpatient_beds_used_coverage (both > 0): the same hospitals reported the bed numerator and denominator. Coverage columns hold hospital counts, not 0/1 flags.",
+    "full_coverage_share": 0.8636,
+    "state_days_dropped": 11145
+  },
+  "bed_utilisation_method": "National weekly inpatient bed utilisation = \u03a3 inpatient_beds_used / \u03a3 inpatient_beds per ISO week (week ending Saturday), state-sum ratio \u2014 NOT the mean of per-state ratios. ICU occupancy computed the same way. Series ends 2024-04-27 (reporting ended); it is a historical record, not current capacity.",
+  "forecast": {
+    "published_method": "holt_winters",
+    "mean_rmse": {
+      "holt_winters": 0.4693,
+      "seasonal_naive": 0.8244
+    },
+    "mean_mae": {
+      "holt_winters": 0.4177,
+      "seasonal_naive": 0.7833
+    },
+    "mean_mape": {
+      "holt_winters": 42.19,
+      "seasonal_naive": 80.63
+    },
+    "backtest_origins": [
+      12,
+      8,
+      4
+    ],
+    "backtest_horizon_weeks": 4,
+    "forecast_horizon_weeks": 8,
+    "bootstrap_paths": 1000,
+    "bootstrap_seed": 42,
+    "forecast_weeks": [
+      "2026-11-07",
+      "2026-11-14",
+      "2026-11-21",
+      "2026-11-28",
+      "2026-12-05",
+      "2026-12-12",
+      "2026-12-19",
+      "2026-12-26"
+    ],
+    "forecast_values": [
+      3.03,
+      3.79,
+      4.75,
+      5.68,
+      6.57,
+      8.19,
+      10.91,
+      13.87
+    ],
+    "forecast_bands": [
+      "Moderate",
+      "Moderate",
+      "High",
+      "High",
+      "Surge",
+      "Surge",
+      "Surge",
+      "Surge"
+    ],
+    "observed_max_combined_pct": 10.4,
+    "band_counts_history": {
+      "Low": 89,
+      "Moderate": 35,
+      "High": 19,
+      "Surge": 18
+    }
+  },
+  "band_thresholds": {
+    "Low": "< 2%",
+    "Moderate": "2\u20134%",
+    "High": "4\u20136%",
+    "Surge": "> 6%"
+  },
+  "staffing_scenarios": {
+    "label": "PLANNING ASSUMPTIONS \u2014 not measured data",
+    "Low": "Baseline roster",
+    "Moderate": "Baseline staffing (monitor)",
+    "High": "+10% rostered shifts",
+    "Surge": "+25% rostered shifts + elective-deferral trigger"
+  },
+  "volume_converter_defaults": {
+    "weekly_ed_volume": 1000,
+    "admission_rate": 0.15,
+    "label": "planning assumptions, not measured numbers"
+  }
+}

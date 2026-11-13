@@ -1,0 +1,13 @@
+# Day 9 — Healthcare Resource Demand Forecast: lint/format config
+# Minimal: ruff (lint) + black (format), both pinned in the portfolio-root
+# requirements-dev.txt. Line length 88 matches black's default.
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.black]
+line-length = 88
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
