@@ -1,0 +1,4335 @@
+customer_id,recency_days,frequency,monetary_gbp,cluster,cluster_label
+12346,325,1,77183.6,3,Big spenders
+12347,1,7,4310.0,0,Occasional buyers
+12348,74,4,1437.24,0,Occasional buyers
+12349,18,1,1457.55,0,Occasional buyers
+12350,309,1,294.4,1,Lapsed
+12352,35,7,1385.74,0,Occasional buyers
+12353,203,1,89.0,1,Lapsed
+12354,231,1,1079.4,1,Lapsed
+12355,213,1,459.4,1,Lapsed
+12356,22,3,2487.43,0,Occasional buyers
+12357,32,1,6207.67,0,Occasional buyers
+12358,1,2,928.06,0,Occasional buyers
+12359,57,4,6372.58,0,Occasional buyers
+12360,51,3,2302.06,0,Occasional buyers
+12361,286,1,174.9,1,Lapsed
+12362,2,10,4737.23,0,Occasional buyers
+12363,109,2,552.0,0,Occasional buyers
+12364,7,4,1208.1,0,Occasional buyers
+12365,290,1,320.69,1,Lapsed
+12367,3,1,150.9,0,Occasional buyers
+12370,50,4,3425.69,0,Occasional buyers
+12371,59,1,1527.96,0,Occasional buyers
+12372,71,3,1196.04,0,Occasional buyers
+12373,310,1,324.6,1,Lapsed
+12374,24,1,622.93,0,Occasional buyers
+12375,10,2,377.5,0,Occasional buyers
+12377,314,2,1548.12,1,Lapsed
+12378,129,1,4008.62,0,Occasional buyers
+12379,81,2,777.24,0,Occasional buyers
+12380,21,4,2427.81,0,Occasional buyers
+12381,4,3,1474.81,0,Occasional buyers
+12383,184,5,1628.56,1,Lapsed
+12384,28,2,425.27,0,Occasional buyers
+12386,337,2,401.9,1,Lapsed
+12388,15,6,2780.66,0,Occasional buyers
+12390,79,1,504.84,0,Occasional buyers
+12391,21,1,460.89,0,Occasional buyers
+12393,71,4,1582.6,0,Occasional buyers
+12394,63,2,1080.48,0,Occasional buyers
+12395,18,12,2682.63,0,Occasional buyers
+12397,35,2,2214.9,0,Occasional buyers
+12398,45,1,1435.66,0,Occasional buyers
+12399,118,4,1033.65,0,Occasional buyers
+12401,302,1,69.3,1,Lapsed
+12402,322,1,195.6,1,Lapsed
+12403,49,1,391.7,0,Occasional buyers
+12405,148,1,1390.39,1,Lapsed
+12406,21,2,3415.3,0,Occasional buyers
+12407,49,5,1507.12,0,Occasional buyers
+12408,32,5,2618.55,0,Occasional buyers
+12409,78,3,11072.67,0,Occasional buyers
+12410,308,2,533.33,1,Lapsed
+12412,74,3,1142.88,0,Occasional buyers
+12413,66,3,686.1,0,Occasional buyers
+12414,216,3,442.41,1,Lapsed
+12415,23,20,124564.53,2,Champions
+12417,2,9,3226.1,0,Occasional buyers
+12418,112,1,668.58,0,Occasional buyers
+12420,63,1,600.39,0,Occasional buyers
+12421,15,4,639.04,0,Occasional buyers
+12422,95,3,683.56,0,Occasional buyers
+12423,0,8,1634.31,0,Occasional buyers
+12424,162,2,1760.96,1,Lapsed
+12425,77,1,777.2,0,Occasional buyers
+12426,194,1,510.73,1,Lapsed
+12427,21,3,699.8,0,Occasional buyers
+12428,25,8,6405.26,0,Occasional buyers
+12429,8,4,3388.4,0,Occasional buyers
+12430,42,1,216.4,0,Occasional buyers
+12431,35,15,6382.45,3,Big spenders
+12432,42,4,4359.32,0,Occasional buyers
+12433,0,7,13375.87,0,Occasional buyers
+12434,84,2,806.14,0,Occasional buyers
+12435,79,2,7829.89,0,Occasional buyers
+12436,99,1,429.01,0,Occasional buyers
+12437,1,18,4447.41,3,Big spenders
+12438,13,2,2466.85,0,Occasional buyers
+12441,366,1,155.55,1,Lapsed
+12442,2,1,144.06,0,Occasional buyers
+12444,20,5,4085.46,0,Occasional buyers
+12445,21,1,77.4,0,Occasional buyers
+12446,57,1,1002.31,0,Occasional buyers
+12447,242,1,431.49,1,Lapsed
+12448,43,1,365.45,0,Occasional buyers
+12449,21,4,3596.29,0,Occasional buyers
+12450,155,2,197.88,1,Lapsed
+12451,10,5,8995.52,0,Occasional buyers
+12452,16,1,348.57,0,Occasional buyers
+12453,133,1,707.09,0,Occasional buyers
+12454,55,1,3528.34,0,Occasional buyers
+12455,72,5,2339.86,0,Occasional buyers
+12456,43,3,2581.04,0,Occasional buyers
+12457,65,6,2043.23,0,Occasional buyers
+12458,70,2,787.4,0,Occasional buyers
+12461,154,1,626.88,1,Lapsed
+12462,18,2,937.59,0,Occasional buyers
+12463,52,4,1200.78,0,Occasional buyers
+12464,9,8,957.05,0,Occasional buyers
+12465,16,2,682.19,0,Occasional buyers
+12468,187,2,657.54,1,Lapsed
+12471,1,27,17424.05,3,Big spenders
+12472,31,7,6068.11,0,Occasional buyers
+12473,53,3,2596.23,0,Occasional buyers
+12474,16,18,6745.79,3,Big spenders
+12475,53,1,669.38,0,Occasional buyers
+12476,15,11,5898.42,0,Occasional buyers
+12477,22,6,13219.74,0,Occasional buyers
+12478,3,1,545.99,0,Occasional buyers
+12479,10,1,473.2,0,Occasional buyers
+12480,27,4,2885.63,0,Occasional buyers
+12481,22,10,5020.32,0,Occasional buyers
+12483,16,8,1910.98,0,Occasional buyers
+12484,34,4,3953.72,0,Occasional buyers
+12488,9,3,1244.66,0,Occasional buyers
+12489,335,1,298.93,1,Lapsed
+12490,4,10,4859.93,0,Occasional buyers
+12491,38,1,424.4,0,Occasional buyers
+12492,62,2,227.21,0,Occasional buyers
+12493,165,2,379.74,1,Lapsed
+12494,15,7,1084.1,0,Occasional buyers
+12497,81,1,953.1,0,Occasional buyers
+12498,20,3,349.7,0,Occasional buyers
+12500,22,11,4059.82,0,Occasional buyers
+12501,336,1,2025.39,1,Lapsed
+12502,95,5,2995.87,0,Occasional buyers
+12504,17,2,428.05,0,Occasional buyers
+12506,232,1,73.5,1,Lapsed
+12507,133,3,1052.81,0,Occasional buyers
+12508,25,2,398.27,0,Occasional buyers
+12509,283,1,158.5,1,Lapsed
+12510,142,2,814.57,0,Occasional buyers
+12512,65,2,138.03,0,Occasional buyers
+12513,112,1,558.29,0,Occasional buyers
+12514,266,1,1017.68,1,Lapsed
+12515,352,1,278.7,1,Lapsed
+12516,77,2,1186.06,0,Occasional buyers
+12517,27,4,2322.84,0,Occasional buyers
+12518,0,5,1840.89,0,Occasional buyers
+12519,63,1,286.84,0,Occasional buyers
+12520,78,5,2346.26,0,Occasional buyers
+12521,142,1,545.68,0,Occasional buyers
+12522,38,2,156.72,0,Occasional buyers
+12523,18,11,1699.77,0,Occasional buyers
+12524,8,8,3945.72,0,Occasional buyers
+12526,0,3,1172.66,0,Occasional buyers
+12527,81,3,330.71,0,Occasional buyers
+12528,8,6,1645.48,0,Occasional buyers
+12530,59,4,1500.28,0,Occasional buyers
+12531,14,1,125.22,0,Occasional buyers
+12532,29,1,313.83,0,Occasional buyers
+12534,130,1,981.18,0,Occasional buyers
+12535,91,2,716.35,0,Occasional buyers
+12536,58,1,4279.71,0,Occasional buyers
+12538,28,1,363.95,0,Occasional buyers
+12539,21,4,5568.35,0,Occasional buyers
+12540,19,17,11580.24,3,Big spenders
+12541,29,3,841.18,0,Occasional buyers
+12544,35,1,316.7,0,Occasional buyers
+12545,74,2,832.39,0,Occasional buyers
+12546,46,2,1021.5,0,Occasional buyers
+12547,197,2,151.8,1,Lapsed
+12548,165,1,67.2,1,Lapsed
+12550,78,1,824.83,0,Occasional buyers
+12551,357,1,168.0,1,Lapsed
+12552,39,1,317.82,0,Occasional buyers
+12553,7,10,3278.28,0,Occasional buyers
+12556,49,2,603.71,0,Occasional buyers
+12557,15,5,11990.96,0,Occasional buyers
+12558,7,1,269.96,0,Occasional buyers
+12559,310,2,525.71,1,Lapsed
+12560,4,2,1918.01,0,Occasional buyers
+12561,302,1,238.85,1,Lapsed
+12562,7,7,3385.74,0,Occasional buyers
+12564,260,1,402.9,1,Lapsed
+12565,288,1,145.92,1,Lapsed
+12566,85,1,297.65,0,Occasional buyers
+12567,22,10,8609.28,0,Occasional buyers
+12569,1,32,3152.69,3,Big spenders
+12571,39,2,519.61,0,Occasional buyers
+12572,8,2,912.42,0,Occasional buyers
+12573,226,1,160.54,1,Lapsed
+12574,315,1,182.45,1,Lapsed
+12576,35,5,1315.83,0,Occasional buyers
+12577,34,3,653.85,0,Occasional buyers
+12578,20,2,2402.51,0,Occasional buyers
+12579,77,1,386.42,0,Occasional buyers
+12580,246,1,379.7,1,Lapsed
+12581,39,1,179.71,0,Occasional buyers
+12582,238,2,351.36,1,Lapsed
+12583,2,15,6705.38,3,Big spenders
+12584,3,9,2254.15,0,Occasional buyers
+12585,233,2,1824.1,1,Lapsed
+12586,16,1,196.94,0,Occasional buyers
+12587,7,1,104.0,0,Occasional buyers
+12588,38,1,174.9,0,Occasional buyers
+12589,28,2,574.68,0,Occasional buyers
+12590,210,1,9341.26,1,Lapsed
+12591,316,1,368.85,1,Lapsed
+12592,91,2,401.6,0,Occasional buyers
+12593,108,3,382.1,0,Occasional buyers
+12594,37,9,3208.22,0,Occasional buyers
+12596,50,2,450.27,0,Occasional buyers
+12597,18,4,3195.22,0,Occasional buyers
+12598,9,7,2807.08,0,Occasional buyers
+12599,28,7,888.58,0,Occasional buyers
+12600,28,10,2311.04,0,Occasional buyers
+12601,189,5,487.06,1,Lapsed
+12602,58,1,153.12,0,Occasional buyers
+12603,21,1,613.2,0,Occasional buyers
+12604,78,2,236.18,0,Occasional buyers
+12607,59,1,1579.51,0,Occasional buyers
+12609,77,3,964.85,0,Occasional buyers
+12610,22,4,1747.54,0,Occasional buyers
+12611,51,1,1193.32,0,Occasional buyers
+12612,73,1,668.04,0,Occasional buyers
+12613,56,4,3092.38,0,Occasional buyers
+12614,277,1,315.6,1,Lapsed
+12615,1,4,2093.19,0,Occasional buyers
+12616,94,2,641.3,0,Occasional buyers
+12617,28,1,355.53,0,Occasional buyers
+12618,21,1,137.31,0,Occasional buyers
+12619,15,8,2945.56,0,Occasional buyers
+12620,14,3,1303.41,0,Occasional buyers
+12621,1,20,12411.67,3,Big spenders
+12622,231,1,162.1,1,Lapsed
+12623,275,1,269.1,1,Lapsed
+12624,105,2,569.13,0,Occasional buyers
+12625,211,2,2413.82,1,Lapsed
+12626,22,9,5954.48,0,Occasional buyers
+12627,10,6,4082.53,0,Occasional buyers
+12628,3,3,732.46,0,Occasional buyers
+12630,9,2,1030.88,0,Occasional buyers
+12631,56,1,480.5,0,Occasional buyers
+12633,58,4,1929.98,0,Occasional buyers
+12635,89,2,1509.18,0,Occasional buyers
+12637,66,8,5823.9,0,Occasional buyers
+12638,32,1,511.69,0,Occasional buyers
+12639,238,1,366.1,1,Lapsed
+12640,23,3,994.58,0,Occasional buyers
+12641,114,1,145.9,0,Occasional buyers
+12642,24,3,905.26,0,Occasional buyers
+12643,127,6,3041.64,0,Occasional buyers
+12644,129,1,477.91,0,Occasional buyers
+12645,33,4,1631.18,0,Occasional buyers
+12646,4,2,1346.97,0,Occasional buyers
+12647,21,12,3146.82,0,Occasional buyers
+12648,154,1,300.05,1,Lapsed
+12649,106,3,569.51,0,Occasional buyers
+12650,2,1,242.44,0,Occasional buyers
+12651,334,1,114.0,1,Lapsed
+12652,330,1,793.98,1,Lapsed
+12653,148,2,2209.85,1,Lapsed
+12654,10,5,529.98,0,Occasional buyers
+12656,16,5,3619.17,0,Occasional buyers
+12657,10,4,1427.18,0,Occasional buyers
+12658,18,1,632.05,0,Occasional buyers
+12659,29,1,73.68,0,Occasional buyers
+12660,10,1,227.1,0,Occasional buyers
+12662,0,11,3543.78,0,Occasional buyers
+12664,7,9,4391.88,0,Occasional buyers
+12665,324,1,45.0,1,Lapsed
+12667,57,1,460.13,0,Occasional buyers
+12668,11,4,3177.15,0,Occasional buyers
+12669,150,2,1427.73,1,Lapsed
+12670,9,5,2744.05,0,Occasional buyers
+12672,329,1,225.9,1,Lapsed
+12673,4,2,574.52,0,Occasional buyers
+12674,38,4,1844.6,0,Occasional buyers
+12676,24,6,1091.39,0,Occasional buyers
+12678,41,9,16331.46,3,Big spenders
+12679,58,4,951.02,0,Occasional buyers
+12680,0,4,790.81,0,Occasional buyers
+12681,14,22,12365.54,3,Big spenders
+12682,3,31,11028.22,3,Big spenders
+12683,3,14,7612.57,3,Big spenders
+12684,7,6,2073.63,0,Occasional buyers
+12685,27,6,2575.08,0,Occasional buyers
+12686,371,1,71.14,1,Lapsed
+12688,113,1,4873.81,0,Occasional buyers
+12689,25,2,1139.61,0,Occasional buyers
+12690,205,1,335.01,1,Lapsed
+12691,27,5,927.8,0,Occasional buyers
+12693,126,4,711.91,0,Occasional buyers
+12694,69,2,761.67,0,Occasional buyers
+12695,6,4,582.1,0,Occasional buyers
+12697,28,3,757.59,0,Occasional buyers
+12700,7,4,4525.99,0,Occasional buyers
+12701,79,2,725.71,0,Occasional buyers
+12702,19,1,201.0,0,Occasional buyers
+12703,70,1,265.55,0,Occasional buyers
+12704,6,8,1740.84,0,Occasional buyers
+12705,14,8,6382.29,0,Occasional buyers
+12707,291,1,603.42,1,Lapsed
+12708,29,10,2442.91,0,Occasional buyers
+12709,14,15,9430.52,3,Big spenders
+12710,96,3,1023.02,0,Occasional buyers
+12712,28,13,3928.13,0,Occasional buyers
+12713,0,1,794.55,0,Occasional buyers
+12714,8,5,4294.86,0,Occasional buyers
+12715,105,1,273.86,0,Occasional buyers
+12716,3,2,963.49,0,Occasional buyers
+12717,150,2,830.98,1,Lapsed
+12718,70,1,202.25,0,Occasional buyers
+12719,4,2,572.95,0,Occasional buyers
+12720,2,25,5115.73,3,Big spenders
+12721,31,6,2386.13,0,Occasional buyers
+12722,84,4,979.63,0,Occasional buyers
+12723,3,5,707.07,0,Occasional buyers
+12724,4,4,923.41,0,Occasional buyers
+12725,370,1,371.8,1,Lapsed
+12726,27,7,2411.1,0,Occasional buyers
+12727,10,7,3440.7,0,Occasional buyers
+12728,70,4,728.33,0,Occasional buyers
+12729,113,1,417.01,0,Occasional buyers
+12731,23,12,18751.91,3,Big spenders
+12732,179,1,218.26,1,Lapsed
+12733,233,1,383.95,1,Lapsed
+12734,352,1,110.4,1,Lapsed
+12735,314,2,689.57,1,Lapsed
+12736,332,1,144.0,1,Lapsed
+12738,371,1,137.35,1,Lapsed
+12739,98,1,975.54,0,Occasional buyers
+12740,63,1,427.6,0,Occasional buyers
+12743,133,2,546.43,0,Occasional buyers
+12744,55,4,9120.39,0,Occasional buyers
+12747,1,11,4196.01,0,Occasional buyers
+12748,0,206,32317.32,2,Champions
+12749,3,5,4040.88,0,Occasional buyers
+12750,128,1,275.88,0,Occasional buyers
+12752,80,1,4366.78,0,Occasional buyers
+12753,22,6,21429.39,0,Occasional buyers
+12754,235,3,3010.74,1,Lapsed
+12755,280,2,3811.95,1,Lapsed
+12756,86,1,112.08,0,Occasional buyers
+12757,15,9,4199.2,0,Occasional buyers
+12758,116,2,2791.59,0,Occasional buyers
+12759,51,3,1411.44,0,Occasional buyers
+12762,7,2,1702.52,0,Occasional buyers
+12763,137,2,494.08,0,Occasional buyers
+12764,316,1,1693.88,1,Lapsed
+12766,3,7,6457.63,0,Occasional buyers
+12769,238,1,1143.6,1,Lapsed
+12770,210,1,1351.45,1,Lapsed
+12772,59,1,752.47,0,Occasional buyers
+12775,16,5,1281.04,0,Occasional buyers
+12778,19,6,693.23,0,Occasional buyers
+12779,37,8,3981.36,0,Occasional buyers
+12781,63,2,786.74,0,Occasional buyers
+12782,4,5,1938.92,0,Occasional buyers
+12783,1,4,1295.87,0,Occasional buyers
+12784,14,1,518.42,0,Occasional buyers
+12785,363,1,255.95,1,Lapsed
+12787,9,3,418.66,0,Occasional buyers
+12789,64,1,76.85,0,Occasional buyers
+12790,191,1,294.92,1,Lapsed
+12791,373,1,177.6,1,Lapsed
+12792,256,1,344.54,1,Lapsed
+12793,334,2,461.48,1,Lapsed
+12794,52,2,860.41,0,Occasional buyers
+12795,18,1,318.48,0,Occasional buyers
+12797,365,1,226.03,1,Lapsed
+12798,9,3,6977.04,0,Occasional buyers
+12802,186,1,397.58,1,Lapsed
+12808,36,3,455.65,0,Occasional buyers
+12809,177,1,405.31,1,Lapsed
+12811,261,2,458.85,1,Lapsed
+12812,44,1,229.64,0,Occasional buyers
+12814,101,1,85.92,0,Occasional buyers
+12815,147,2,863.46,1,Lapsed
+12816,95,2,452.2,0,Occasional buyers
+12817,280,1,126.04,1,Lapsed
+12818,261,1,1182.08,1,Lapsed
+12820,2,4,942.34,0,Occasional buyers
+12821,213,1,92.72,1,Lapsed
+12822,70,2,948.88,0,Occasional buyers
+12823,74,5,1759.5,0,Occasional buyers
+12824,59,1,397.12,0,Occasional buyers
+12826,2,7,1474.72,0,Occasional buyers
+12827,5,3,430.15,0,Occasional buyers
+12828,2,6,1018.71,0,Occasional buyers
+12829,336,2,293.0,1,Lapsed
+12830,37,6,6814.64,0,Occasional buyers
+12831,261,1,215.05,1,Lapsed
+12832,31,2,383.03,0,Occasional buyers
+12833,144,1,417.38,1,Lapsed
+12834,282,1,312.38,1,Lapsed
+12836,58,4,2612.86,0,Occasional buyers
+12837,172,1,134.1,1,Lapsed
+12838,33,2,683.13,0,Occasional buyers
+12839,2,14,5591.42,3,Big spenders
+12840,143,4,2726.77,0,Occasional buyers
+12841,4,25,4022.35,3,Big spenders
+12842,69,2,1118.99,0,Occasional buyers
+12843,65,8,1702.26,0,Occasional buyers
+12844,28,2,325.96,0,Occasional buyers
+12845,266,4,354.09,1,Lapsed
+12847,21,1,871.54,0,Occasional buyers
+12849,30,2,1033.25,0,Occasional buyers
+12851,96,1,135.18,0,Occasional buyers
+12852,294,1,311.55,1,Lapsed
+12853,134,6,1957.1,0,Occasional buyers
+12854,78,3,1324.5,0,Occasional buyers
+12855,372,1,38.1,1,Lapsed
+12856,7,6,2179.93,0,Occasional buyers
+12857,210,2,1106.4,1,Lapsed
+12863,51,1,521.2,0,Occasional buyers
+12864,137,1,147.12,0,Occasional buyers
+12865,25,2,1568.23,0,Occasional buyers
+12866,282,1,499.12,1,Lapsed
+12867,25,7,4036.82,0,Occasional buyers
+12868,185,6,1607.06,1,Lapsed
+12871,83,2,380.64,0,Occasional buyers
+12872,326,2,599.97,1,Lapsed
+12873,281,1,374.0,1,Lapsed
+12875,142,2,343.23,0,Occasional buyers
+12876,57,2,2053.02,0,Occasional buyers
+12877,3,12,1535.77,0,Occasional buyers
+12878,235,2,854.99,1,Lapsed
+12879,44,3,573.22,0,Occasional buyers
+12881,275,1,298.0,1,Lapsed
+12882,8,2,1463.04,0,Occasional buyers
+12883,24,4,703.47,0,Occasional buyers
+12884,87,1,309.05,0,Occasional buyers
+12885,62,3,1175.22,0,Occasional buyers
+12886,67,2,1378.4,0,Occasional buyers
+12888,213,2,354.12,1,Lapsed
+12890,23,1,380.47,0,Occasional buyers
+12891,185,3,331.0,1,Lapsed
+12893,30,1,188.14,0,Occasional buyers
+12895,41,2,372.8,0,Occasional buyers
+12897,204,2,216.5,1,Lapsed
+12901,8,28,17654.54,3,Big spenders
+12902,264,1,138.68,1,Lapsed
+12904,17,2,509.58,0,Occasional buyers
+12906,11,5,2919.81,0,Occasional buyers
+12908,175,2,750.0,1,Lapsed
+12909,39,5,2178.67,0,Occasional buyers
+12910,22,8,3075.04,0,Occasional buyers
+12912,2,5,1662.3,0,Occasional buyers
+12913,4,5,2483.63,0,Occasional buyers
+12915,148,2,363.65,1,Lapsed
+12916,138,4,3006.15,0,Occasional buyers
+12917,127,1,594.0,0,Occasional buyers
+12919,7,6,1335.19,0,Occasional buyers
+12920,16,1,164.23,0,Occasional buyers
+12921,8,37,16587.09,3,Big spenders
+12922,160,1,405.38,1,Lapsed
+12923,63,1,175.72,0,Occasional buyers
+12924,87,4,925.75,0,Occasional buyers
+12925,4,2,694.05,0,Occasional buyers
+12928,34,5,2062.7,0,Occasional buyers
+12929,311,1,117.85,1,Lapsed
+12930,77,2,415.8,0,Occasional buyers
+12931,21,15,42055.96,3,Big spenders
+12933,23,3,607.53,0,Occasional buyers
+12935,1,7,2160.7,0,Occasional buyers
+12936,16,4,1063.9,0,Occasional buyers
+12937,14,4,1504.27,0,Occasional buyers
+12938,25,1,114.14,0,Occasional buyers
+12939,63,8,11581.8,0,Occasional buyers
+12940,54,2,913.54,0,Occasional buyers
+12942,130,3,683.9,0,Occasional buyers
+12944,35,2,604.51,0,Occasional buyers
+12945,287,1,462.95,1,Lapsed
+12947,143,6,1603.99,0,Occasional buyers
+12948,15,7,2064.95,0,Occasional buyers
+12949,30,8,4167.22,0,Occasional buyers
+12950,1,3,1843.0,0,Occasional buyers
+12951,8,6,1064.07,0,Occasional buyers
+12952,5,4,1387.79,0,Occasional buyers
+12953,9,1,329.85,0,Occasional buyers
+12955,0,11,4757.16,0,Occasional buyers
+12956,305,1,108.07,1,Lapsed
+12957,9,8,4017.54,0,Occasional buyers
+12962,6,2,266.39,0,Occasional buyers
+12963,7,8,1856.63,0,Occasional buyers
+12965,88,1,771.91,0,Occasional buyers
+12966,9,1,160.18,0,Occasional buyers
+12967,357,2,1660.9,1,Lapsed
+12968,111,1,135.95,0,Occasional buyers
+12970,6,4,452.24,0,Occasional buyers
+12971,3,86,11189.91,3,Big spenders
+12974,197,1,144.8,1,Lapsed
+12976,211,1,738.6,1,Lapsed
+12977,155,1,39.24,1,Lapsed
+12980,157,9,7374.9,0,Occasional buyers
+12981,29,2,372.22,0,Occasional buyers
+12982,242,1,390.54,1,Lapsed
+12984,18,1,97.5,0,Occasional buyers
+12985,0,2,1239.38,0,Occasional buyers
+12987,73,2,558.7,0,Occasional buyers
+12988,291,1,535.32,1,Lapsed
+12989,2,15,6924.11,3,Big spenders
+12990,30,3,409.5,0,Occasional buyers
+12991,22,2,503.76,0,Occasional buyers
+12993,22,4,414.76,0,Occasional buyers
+12994,3,3,974.42,0,Occasional buyers
+12995,84,1,211.32,0,Occasional buyers
+12997,21,4,1226.89,0,Occasional buyers
+12999,195,3,455.88,1,Lapsed
+13000,106,3,534.85,0,Occasional buyers
+13001,3,13,9818.82,3,Big spenders
+13002,317,1,120.95,1,Lapsed
+13003,105,3,149.05,0,Occasional buyers
+13004,11,18,5655.91,3,Big spenders
+13005,173,2,513.7,1,Lapsed
+13006,55,1,81.57,0,Occasional buyers
+13008,322,1,229.47,1,Lapsed
+13011,371,1,50.55,1,Lapsed
+13012,8,8,1661.84,0,Occasional buyers
+13013,0,13,4810.94,0,Occasional buyers
+13014,10,10,3466.28,0,Occasional buyers
+13015,52,5,3346.28,0,Occasional buyers
+13016,72,3,789.89,0,Occasional buyers
+13017,6,1,204.0,0,Occasional buyers
+13018,15,28,7277.7,3,Big spenders
+13021,3,9,2616.38,0,Occasional buyers
+13023,63,2,599.9,0,Occasional buyers
+13026,0,5,975.36,0,Occasional buyers
+13027,113,6,6912.0,0,Occasional buyers
+13028,22,2,661.32,0,Occasional buyers
+13029,30,3,1247.5,0,Occasional buyers
+13030,10,2,799.48,0,Occasional buyers
+13032,51,2,1010.18,0,Occasional buyers
+13033,356,1,190.55,1,Lapsed
+13034,54,2,642.77,0,Occasional buyers
+13035,73,2,921.88,0,Occasional buyers
+13037,137,3,881.07,0,Occasional buyers
+13038,79,3,908.46,0,Occasional buyers
+13040,8,2,676.99,0,Occasional buyers
+13043,272,1,516.42,1,Lapsed
+13044,290,1,560.47,1,Lapsed
+13045,98,1,305.28,0,Occasional buyers
+13046,30,2,629.31,0,Occasional buyers
+13047,56,9,3232.59,0,Occasional buyers
+13048,13,4,1835.91,0,Occasional buyers
+13049,63,2,656.68,0,Occasional buyers
+13050,14,17,5833.11,3,Big spenders
+13052,211,1,348.15,1,Lapsed
+13055,77,3,1214.41,0,Occasional buyers
+13058,24,3,271.4,0,Occasional buyers
+13059,249,1,183.4,1,Lapsed
+13060,253,1,307.53,1,Lapsed
+13061,71,1,248.61,0,Occasional buyers
+13062,190,1,346.98,1,Lapsed
+13064,12,4,1119.49,0,Occasional buyers
+13065,372,1,205.86,1,Lapsed
+13066,23,2,470.8,0,Occasional buyers
+13067,81,1,115.46,0,Occasional buyers
+13068,9,2,344.0,0,Occasional buyers
+13069,0,24,4436.12,3,Big spenders
+13070,191,1,228.8,1,Lapsed
+13072,266,1,177.15,1,Lapsed
+13075,129,1,919.61,0,Occasional buyers
+13077,0,4,729.27,0,Occasional buyers
+13078,2,26,12627.94,3,Big spenders
+13079,3,5,220.1,0,Occasional buyers
+13080,178,1,58.08,1,Lapsed
+13081,11,11,28337.38,3,Big spenders
+13082,125,9,3613.63,0,Occasional buyers
+13083,3,2,303.75,0,Occasional buyers
+13085,157,2,416.08,1,Lapsed
+13089,2,97,58825.83,2,Champions
+13090,8,13,8895.82,3,Big spenders
+13091,27,1,345.82,0,Occasional buyers
+13092,70,5,477.83,0,Occasional buyers
+13093,275,8,7832.47,1,Lapsed
+13094,20,12,1927.32,0,Occasional buyers
+13095,70,1,74.4,0,Occasional buyers
+13097,32,10,6010.42,0,Occasional buyers
+13098,0,28,28882.44,3,Big spenders
+13099,98,1,207.36,0,Occasional buyers
+13101,233,1,101.19,1,Lapsed
+13102,0,24,6424.09,3,Big spenders
+13103,39,1,243.94,0,Occasional buyers
+13104,2,6,1098.48,0,Occasional buyers
+13106,132,1,76.5,0,Occasional buyers
+13107,43,4,1531.62,0,Occasional buyers
+13108,372,1,350.06,1,Lapsed
+13109,59,2,786.54,0,Occasional buyers
+13110,30,7,1488.67,0,Occasional buyers
+13113,0,24,12245.96,3,Big spenders
+13115,11,4,2294.78,0,Occasional buyers
+13116,137,1,501.14,0,Occasional buyers
+13117,21,8,984.91,0,Occasional buyers
+13118,19,5,1197.81,0,Occasional buyers
+13120,238,1,30.6,1,Lapsed
+13121,268,1,283.73,1,Lapsed
+13122,93,2,922.39,0,Occasional buyers
+13124,89,3,3866.33,0,Occasional buyers
+13126,4,8,2099.64,0,Occasional buyers
+13127,77,1,259.17,0,Occasional buyers
+13130,93,1,64.0,0,Occasional buyers
+13131,22,3,1073.3,0,Occasional buyers
+13132,261,1,77.3,1,Lapsed
+13133,273,2,109.8,1,Lapsed
+13134,85,4,1793.58,0,Occasional buyers
+13135,196,1,3096.0,1,Lapsed
+13136,55,5,2607.61,0,Occasional buyers
+13137,10,8,3650.41,0,Occasional buyers
+13138,21,6,962.39,0,Occasional buyers
+13139,15,7,5064.94,0,Occasional buyers
+13140,107,3,423.72,0,Occasional buyers
+13141,84,5,2388.75,0,Occasional buyers
+13142,18,1,307.09,0,Occasional buyers
+13144,332,1,110.95,1,Lapsed
+13145,39,4,618.52,0,Occasional buyers
+13146,25,1,228.91,0,Occasional buyers
+13147,9,4,712.8,0,Occasional buyers
+13148,28,12,3707.12,0,Occasional buyers
+13149,13,4,1676.06,0,Occasional buyers
+13151,295,1,1257.87,1,Lapsed
+13153,5,1,486.22,0,Occasional buyers
+13155,32,4,971.76,0,Occasional buyers
+13157,48,4,1741.22,0,Occasional buyers
+13158,94,4,1201.06,0,Occasional buyers
+13159,8,4,1437.85,0,Occasional buyers
+13160,21,1,91.8,0,Occasional buyers
+13161,312,1,112.75,1,Lapsed
+13162,121,4,1688.29,0,Occasional buyers
+13165,45,2,1021.48,0,Occasional buyers
+13166,282,1,417.2,1,Lapsed
+13167,18,4,779.33,0,Occasional buyers
+13168,35,4,1319.19,0,Occasional buyers
+13169,63,2,712.88,0,Occasional buyers
+13170,26,1,116.01,0,Occasional buyers
+13171,21,3,468.41,0,Occasional buyers
+13173,3,2,353.65,0,Occasional buyers
+13174,15,3,2813.03,0,Occasional buyers
+13176,45,1,492.84,0,Occasional buyers
+13177,64,1,282.45,0,Occasional buyers
+13178,25,11,5725.47,0,Occasional buyers
+13182,44,1,121.18,0,Occasional buyers
+13183,7,9,3957.78,0,Occasional buyers
+13184,14,10,1700.29,0,Occasional buyers
+13185,267,1,71.4,1,Lapsed
+13186,39,3,1575.89,0,Occasional buyers
+13187,336,1,236.02,1,Lapsed
+13188,10,1,114.6,0,Occasional buyers
+13189,18,2,260.68,0,Occasional buyers
+13192,94,2,911.94,0,Occasional buyers
+13193,60,1,117.88,0,Occasional buyers
+13194,135,1,60.7,0,Occasional buyers
+13196,10,4,1797.78,0,Occasional buyers
+13198,9,6,3401.24,0,Occasional buyers
+13199,3,37,9802.12,3,Big spenders
+13200,18,4,870.09,0,Occasional buyers
+13203,9,4,869.46,0,Occasional buyers
+13207,14,2,250.26,0,Occasional buyers
+13208,58,5,1199.42,0,Occasional buyers
+13209,29,8,5891.61,0,Occasional buyers
+13210,93,1,353.48,0,Occasional buyers
+13211,9,3,1197.42,0,Occasional buyers
+13212,19,3,788.08,0,Occasional buyers
+13213,56,5,1520.58,0,Occasional buyers
+13216,267,1,333.74,1,Lapsed
+13217,121,3,533.98,0,Occasional buyers
+13218,126,1,62.64,0,Occasional buyers
+13220,77,4,819.29,0,Occasional buyers
+13221,239,2,844.86,1,Lapsed
+13223,199,2,163.2,1,Lapsed
+13224,59,2,2152.95,0,Occasional buyers
+13225,2,7,6463.84,0,Occasional buyers
+13226,272,1,108.21,1,Lapsed
+13227,201,1,257.7,1,Lapsed
+13228,80,1,358.0,0,Occasional buyers
+13229,225,1,160.95,1,Lapsed
+13230,3,14,2806.97,0,Occasional buyers
+13232,12,7,1357.0,0,Occasional buyers
+13233,73,2,605.12,0,Occasional buyers
+13235,211,1,1031.07,1,Lapsed
+13236,24,2,744.85,0,Occasional buyers
+13238,16,4,700.73,0,Occasional buyers
+13239,261,1,329.56,1,Lapsed
+13240,95,4,648.7,0,Occasional buyers
+13242,111,3,270.4,0,Occasional buyers
+13243,202,1,600.07,1,Lapsed
+13244,92,1,121.74,0,Occasional buyers
+13245,50,1,430.5,0,Occasional buyers
+13246,17,6,1987.3,0,Occasional buyers
+13247,17,4,501.12,0,Occasional buyers
+13248,124,2,465.68,0,Occasional buyers
+13249,91,3,711.41,0,Occasional buyers
+13253,156,2,1030.4,1,Lapsed
+13255,8,2,399.51,0,Occasional buyers
+13258,11,3,698.58,0,Occasional buyers
+13259,61,1,292.32,0,Occasional buyers
+13260,60,1,557.62,0,Occasional buyers
+13261,268,2,944.1,1,Lapsed
+13262,262,1,200.29,1,Lapsed
+13263,0,34,7428.85,3,Big spenders
+13265,52,5,2107.66,0,Occasional buyers
+13266,10,12,3834.26,0,Occasional buyers
+13267,2,19,4521.49,3,Big spenders
+13268,17,10,3192.65,0,Occasional buyers
+13269,0,15,5346.23,3,Big spenders
+13270,365,1,590.0,1,Lapsed
+13271,36,1,217.38,0,Occasional buyers
+13272,30,2,276.56,0,Occasional buyers
+13273,112,1,138.98,0,Occasional buyers
+13276,63,2,590.93,0,Occasional buyers
+13277,15,4,258.4,0,Occasional buyers
+13278,40,1,542.73,0,Occasional buyers
+13279,77,1,137.75,0,Occasional buyers
+13280,121,3,814.86,0,Occasional buyers
+13282,17,3,1132.14,0,Occasional buyers
+13283,59,2,93.66,0,Occasional buyers
+13284,330,1,201.19,1,Lapsed
+13285,22,4,2709.12,0,Occasional buyers
+13291,155,1,361.11,1,Lapsed
+13292,38,2,578.94,0,Occasional buyers
+13294,189,2,873.74,1,Lapsed
+13295,359,1,201.2,1,Lapsed
+13296,136,1,87.4,0,Occasional buyers
+13297,7,4,2089.85,0,Occasional buyers
+13298,0,1,360.0,0,Occasional buyers
+13299,267,1,142.5,1,Lapsed
+13300,168,1,371.89,1,Lapsed
+13301,103,4,600.19,0,Occasional buyers
+13302,154,1,63.75,1,Lapsed
+13304,350,1,300.42,1,Lapsed
+13305,3,10,2000.86,0,Occasional buyers
+13307,119,1,15.0,0,Occasional buyers
+13308,22,3,1385.51,0,Occasional buyers
+13309,6,5,1456.79,0,Occasional buyers
+13310,27,3,1132.03,0,Occasional buyers
+13311,3,2,598.57,0,Occasional buyers
+13313,21,5,1555.32,0,Occasional buyers
+13314,1,3,775.94,0,Occasional buyers
+13316,36,4,5977.73,0,Occasional buyers
+13317,65,6,2273.68,0,Occasional buyers
+13318,0,3,640.76,0,Occasional buyers
+13319,4,26,10845.55,3,Big spenders
+13320,77,4,1548.7,0,Occasional buyers
+13321,71,2,567.36,0,Occasional buyers
+13322,16,1,199.48,0,Occasional buyers
+13323,2,5,787.85,0,Occasional buyers
+13324,35,10,7121.95,0,Occasional buyers
+13325,81,1,675.3,0,Occasional buyers
+13327,38,8,3627.77,0,Occasional buyers
+13328,315,1,1308.48,1,Lapsed
+13329,31,2,789.0,0,Occasional buyers
+13330,92,3,1140.93,0,Occasional buyers
+13332,13,1,350.9,0,Occasional buyers
+13334,81,3,3536.82,0,Occasional buyers
+13336,76,1,795.12,0,Occasional buyers
+13338,157,1,437.02,1,Lapsed
+13339,200,1,860.12,1,Lapsed
+13340,44,7,10736.48,0,Occasional buyers
+13341,260,1,775.85,1,Lapsed
+13343,177,1,303.43,1,Lapsed
+13344,67,3,2543.72,0,Occasional buyers
+13345,287,1,339.5,1,Lapsed
+13347,69,1,291.36,0,Occasional buyers
+13348,63,1,233.76,0,Occasional buyers
+13349,10,1,197.32,0,Occasional buyers
+13350,15,2,879.12,0,Occasional buyers
+13351,65,1,323.94,0,Occasional buyers
+13352,59,1,347.98,0,Occasional buyers
+13354,70,1,743.53,0,Occasional buyers
+13355,121,1,674.7,0,Occasional buyers
+13356,79,1,768.24,0,Occasional buyers
+13357,256,1,609.95,1,Lapsed
+13358,268,1,389.03,1,Lapsed
+13359,63,1,389.56,0,Occasional buyers
+13362,8,4,3090.74,0,Occasional buyers
+13363,17,2,892.5,0,Occasional buyers
+13364,70,1,134.96,0,Occasional buyers
+13365,33,2,2225.37,0,Occasional buyers
+13366,49,1,56.16,0,Occasional buyers
+13368,256,2,573.4,1,Lapsed
+13369,365,1,258.28,1,Lapsed
+13370,371,1,754.87,1,Lapsed
+13372,89,1,328.64,0,Occasional buyers
+13373,60,3,3312.25,0,Occasional buyers
+13375,88,1,778.65,0,Occasional buyers
+13376,98,3,869.76,0,Occasional buyers
+13379,25,3,572.56,0,Occasional buyers
+13381,31,6,3639.31,0,Occasional buyers
+13382,280,1,222.99,1,Lapsed
+13384,30,7,4151.93,0,Occasional buyers
+13385,329,1,534.57,1,Lapsed
+13388,130,2,677.1,0,Occasional buyers
+13389,10,3,797.96,0,Occasional buyers
+13390,74,1,544.08,0,Occasional buyers
+13391,203,1,59.8,1,Lapsed
+13394,1,8,2520.02,0,Occasional buyers
+13395,184,1,307.72,1,Lapsed
+13396,28,2,1360.99,0,Occasional buyers
+13397,72,5,1544.13,0,Occasional buyers
+13398,191,1,457.34,1,Lapsed
+13402,126,2,621.23,0,Occasional buyers
+13403,17,1,75.0,0,Occasional buyers
+13404,0,2,252.49,0,Occasional buyers
+13405,203,2,557.45,1,Lapsed
+13408,1,62,28117.04,3,Big spenders
+13410,23,5,1003.06,0,Occasional buyers
+13411,106,1,213.55,0,Occasional buyers
+13414,133,3,1390.5,0,Occasional buyers
+13416,43,2,712.5,0,Occasional buyers
+13417,4,2,640.83,0,Occasional buyers
+13418,11,18,6127.43,3,Big spenders
+13419,63,1,221.06,0,Occasional buyers
+13420,149,2,159.85,1,Lapsed
+13421,39,2,1840.58,0,Occasional buyers
+13422,63,1,2626.3,0,Occasional buyers
+13425,107,3,1624.21,0,Occasional buyers
+13426,0,10,3641.32,0,Occasional buyers
+13427,18,3,582.6,0,Occasional buyers
+13428,9,1,218.47,0,Occasional buyers
+13429,10,4,1006.8,0,Occasional buyers
+13430,18,2,679.45,0,Occasional buyers
+13431,66,2,1269.1,0,Occasional buyers
+13434,73,2,534.24,0,Occasional buyers
+13435,4,7,3809.89,0,Occasional buyers
+13436,1,1,196.89,0,Occasional buyers
+13437,13,7,3408.06,0,Occasional buyers
+13439,254,1,283.71,1,Lapsed
+13441,91,1,296.64,0,Occasional buyers
+13447,22,3,1129.14,0,Occasional buyers
+13448,16,6,3539.37,0,Occasional buyers
+13449,23,1,291.88,0,Occasional buyers
+13450,26,6,2043.72,0,Occasional buyers
+13451,25,5,2976.15,0,Occasional buyers
+13452,258,2,590.0,1,Lapsed
+13453,165,2,356.98,1,Lapsed
+13455,24,2,1058.34,0,Occasional buyers
+13456,17,6,1766.72,0,Occasional buyers
+13458,6,14,9646.57,3,Big spenders
+13460,28,2,183.44,0,Occasional buyers
+13461,38,3,1445.0,0,Occasional buyers
+13462,252,1,151.5,1,Lapsed
+13464,57,1,674.68,0,Occasional buyers
+13466,183,1,307.9,1,Lapsed
+13467,10,2,1083.71,0,Occasional buyers
+13468,1,37,5704.97,3,Big spenders
+13470,98,2,165.0,0,Occasional buyers
+13471,0,4,2531.58,0,Occasional buyers
+13473,60,2,422.64,0,Occasional buyers
+13474,235,1,229.59,1,Lapsed
+13475,190,4,1431.78,1,Lapsed
+13476,178,2,1238.47,1,Lapsed
+13477,37,6,1454.58,0,Occasional buyers
+13479,200,2,300.95,1,Lapsed
+13481,45,5,1804.56,0,Occasional buyers
+13482,231,1,184.64,1,Lapsed
+13483,65,1,140.34,0,Occasional buyers
+13484,240,1,313.8,1,Lapsed
+13485,232,1,454.24,1,Lapsed
+13486,77,3,1122.41,0,Occasional buyers
+13487,57,3,575.4,0,Occasional buyers
+13488,16,13,8968.31,3,Big spenders
+13489,104,4,449.52,0,Occasional buyers
+13491,51,10,1215.82,0,Occasional buyers
+13492,135,3,1269.84,0,Occasional buyers
+13493,274,2,498.63,1,Lapsed
+13494,311,1,316.26,1,Lapsed
+13495,7,5,2044.87,0,Occasional buyers
+13496,10,2,653.33,0,Occasional buyers
+13497,282,2,348.05,1,Lapsed
+13499,17,5,1159.11,0,Occasional buyers
+13500,22,3,1166.77,0,Occasional buyers
+13501,287,1,1340.32,1,Lapsed
+13502,16,3,292.0,0,Occasional buyers
+13503,70,1,216.85,0,Occasional buyers
+13504,63,1,295.93,0,Occasional buyers
+13505,72,4,3633.63,0,Occasional buyers
+13506,315,2,458.52,1,Lapsed
+13507,2,4,2479.16,0,Occasional buyers
+13508,243,1,110.97,1,Lapsed
+13509,8,6,964.72,0,Occasional buyers
+13510,0,4,1791.56,0,Occasional buyers
+13512,260,1,251.21,1,Lapsed
+13513,126,1,205.1,0,Occasional buyers
+13514,73,1,152.2,0,Occasional buyers
+13515,72,4,891.12,0,Occasional buyers
+13516,20,3,1389.41,0,Occasional buyers
+13517,59,3,2128.42,0,Occasional buyers
+13518,85,1,659.44,0,Occasional buyers
+13519,77,1,122.75,0,Occasional buyers
+13520,58,6,2984.35,0,Occasional buyers
+13521,0,3,1092.39,0,Occasional buyers
+13522,29,1,125.8,0,Occasional buyers
+13523,32,5,3964.88,0,Occasional buyers
+13524,40,5,680.18,0,Occasional buyers
+13525,14,2,628.78,0,Occasional buyers
+13527,33,7,2287.51,0,Occasional buyers
+13529,78,2,307.76,0,Occasional buyers
+13531,204,2,483.8,1,Lapsed
+13532,33,1,210.31,0,Occasional buyers
+13533,182,3,270.79,1,Lapsed
+13534,1,25,5870.08,3,Big spenders
+13536,0,7,3448.29,0,Occasional buyers
+13538,42,7,1280.85,0,Occasional buyers
+13539,85,3,631.34,0,Occasional buyers
+13544,39,2,291.41,0,Occasional buyers
+13546,11,3,626.99,0,Occasional buyers
+13548,95,2,682.41,0,Occasional buyers
+13549,25,7,918.2,0,Occasional buyers
+13551,318,1,91.8,1,Lapsed
+13552,65,12,3740.07,0,Occasional buyers
+13555,73,4,4149.28,0,Occasional buyers
+13557,27,2,584.06,0,Occasional buyers
+13558,5,4,605.06,0,Occasional buyers
+13560,6,1,174.37,0,Occasional buyers
+13561,215,1,141.86,1,Lapsed
+13562,81,3,1799.33,0,Occasional buyers
+13563,83,2,777.53,0,Occasional buyers
+13564,353,2,1198.38,1,Lapsed
+13565,18,2,240.22,0,Occasional buyers
+13566,40,2,874.71,0,Occasional buyers
+13568,172,1,192.85,1,Lapsed
+13569,16,2,372.25,0,Occasional buyers
+13570,242,1,239.49,1,Lapsed
+13571,12,12,2092.32,0,Occasional buyers
+13572,205,1,1384.25,1,Lapsed
+13573,49,2,294.4,0,Occasional buyers
+13575,22,5,732.07,0,Occasional buyers
+13576,9,18,6717.34,3,Big spenders
+13577,24,4,1687.6,0,Occasional buyers
+13579,14,2,467.04,0,Occasional buyers
+13581,308,1,118.0,1,Lapsed
+13583,155,1,781.03,1,Lapsed
+13584,306,1,142.4,1,Lapsed
+13587,63,1,712.4,0,Occasional buyers
+13588,15,9,2478.95,0,Occasional buyers
+13589,14,2,379.65,0,Occasional buyers
+13590,10,6,1981.92,0,Occasional buyers
+13591,64,3,1117.13,0,Occasional buyers
+13592,35,4,247.96,0,Occasional buyers
+13593,107,5,2037.08,0,Occasional buyers
+13594,52,1,396.97,0,Occasional buyers
+13596,5,2,697.04,0,Occasional buyers
+13598,46,1,180.17,0,Occasional buyers
+13599,0,21,5153.67,3,Big spenders
+13600,311,1,219.52,1,Lapsed
+13601,44,2,693.32,0,Occasional buyers
+13602,64,1,428.89,0,Occasional buyers
+13603,25,1,164.34,0,Occasional buyers
+13606,28,3,280.54,0,Occasional buyers
+13607,39,1,678.01,0,Occasional buyers
+13610,11,7,1131.88,0,Occasional buyers
+13611,88,3,1171.8,0,Occasional buyers
+13614,23,4,1610.46,0,Occasional buyers
+13615,318,1,417.69,1,Lapsed
+13617,39,3,544.18,0,Occasional buyers
+13618,173,1,177.34,1,Lapsed
+13621,116,1,213.85,0,Occasional buyers
+13623,30,5,747.78,0,Occasional buyers
+13626,252,1,257.23,1,Lapsed
+13627,58,5,1638.47,0,Occasional buyers
+13629,22,11,7792.36,0,Occasional buyers
+13630,4,7,2031.78,0,Occasional buyers
+13631,99,11,3070.42,0,Occasional buyers
+13632,24,5,2121.27,0,Occasional buyers
+13634,32,5,1575.16,0,Occasional buyers
+13635,67,1,1071.03,0,Occasional buyers
+13636,36,5,949.12,0,Occasional buyers
+13637,51,3,809.25,0,Occasional buyers
+13638,15,1,122.64,0,Occasional buyers
+13639,73,1,1033.34,0,Occasional buyers
+13642,215,1,354.8,1,Lapsed
+13643,30,3,519.44,0,Occasional buyers
+13644,15,4,2624.26,0,Occasional buyers
+13645,119,1,252.1,0,Occasional buyers
+13647,9,4,1678.12,0,Occasional buyers
+13649,256,2,346.6,1,Lapsed
+13650,16,6,1836.34,0,Occasional buyers
+13651,39,1,79.2,0,Occasional buyers
+13652,45,3,1095.08,0,Occasional buyers
+13654,42,6,2707.33,0,Occasional buyers
+13655,113,2,932.97,0,Occasional buyers
+13656,164,2,379.65,1,Lapsed
+13657,10,2,382.14,0,Occasional buyers
+13658,9,5,2639.17,0,Occasional buyers
+13659,205,2,1573.2,1,Lapsed
+13662,85,3,897.76,0,Occasional buyers
+13663,178,1,189.47,1,Lapsed
+13666,59,3,84.65,0,Occasional buyers
+13667,148,1,305.02,1,Lapsed
+13668,2,21,6363.59,3,Big spenders
+13669,50,2,218.55,0,Occasional buyers
+13670,74,1,349.7,0,Occasional buyers
+13672,300,2,186.39,1,Lapsed
+13673,18,2,396.92,0,Occasional buyers
+13675,150,2,486.82,1,Lapsed
+13678,151,1,232.6,1,Lapsed
+13680,0,4,3722.42,0,Occasional buyers
+13681,17,4,827.83,0,Occasional buyers
+13682,186,1,59.5,1,Lapsed
+13684,285,1,67.23,1,Lapsed
+13685,2,7,3119.44,0,Occasional buyers
+13686,182,1,72.0,1,Lapsed
+13689,62,1,910.0,0,Occasional buyers
+13690,58,1,172.25,0,Occasional buyers
+13692,24,3,1488.32,0,Occasional buyers
+13694,3,50,65039.62,3,Big spenders
+13695,30,15,2504.13,3,Big spenders
+13697,38,1,151.3,0,Occasional buyers
+13699,154,1,308.58,1,Lapsed
+13700,25,10,2265.12,0,Occasional buyers
+13703,317,1,99.5,1,Lapsed
+13704,4,9,2308.06,0,Occasional buyers
+13705,7,3,711.86,0,Occasional buyers
+13706,302,1,330.79,1,Lapsed
+13707,266,2,806.41,1,Lapsed
+13708,270,1,294.88,1,Lapsed
+13709,3,13,6328.05,3,Big spenders
+13710,31,1,180.48,0,Occasional buyers
+13711,218,2,252.06,1,Lapsed
+13712,246,1,228.84,1,Lapsed
+13715,280,5,1079.34,1,Lapsed
+13716,268,1,138.28,1,Lapsed
+13717,31,6,1445.01,0,Occasional buyers
+13718,245,2,306.55,1,Lapsed
+13719,14,5,1041.68,0,Occasional buyers
+13720,116,4,799.9,0,Occasional buyers
+13721,35,1,524.14,0,Occasional buyers
+13722,131,3,2375.41,0,Occasional buyers
+13723,216,1,199.85,1,Lapsed
+13725,49,8,1980.56,0,Occasional buyers
+13726,38,2,1079.66,0,Occasional buyers
+13727,28,2,333.48,0,Occasional buyers
+13728,36,6,1016.14,0,Occasional buyers
+13730,135,2,752.6,0,Occasional buyers
+13731,218,2,610.59,1,Lapsed
+13732,27,1,491.86,0,Occasional buyers
+13735,24,4,2885.24,0,Occasional buyers
+13736,4,2,731.9,0,Occasional buyers
+13737,199,1,339.6,1,Lapsed
+13739,17,1,216.9,0,Occasional buyers
+13740,240,1,350.75,1,Lapsed
+13741,71,3,668.43,0,Occasional buyers
+13742,16,12,3131.02,0,Occasional buyers
+13743,2,7,1341.6,0,Occasional buyers
+13744,94,2,1156.36,0,Occasional buyers
+13745,161,1,300.04,1,Lapsed
+13747,373,1,79.6,1,Lapsed
+13748,95,5,948.25,0,Occasional buyers
+13750,53,5,1647.26,0,Occasional buyers
+13751,287,1,296.25,1,Lapsed
+13752,123,6,1186.28,0,Occasional buyers
+13753,287,1,741.26,1,Lapsed
+13754,151,2,282.6,1,Lapsed
+13755,3,9,2161.35,0,Occasional buyers
+13756,1,14,5189.52,3,Big spenders
+13758,11,7,3190.55,0,Occasional buyers
+13759,32,2,659.41,0,Occasional buyers
+13760,53,2,286.79,0,Occasional buyers
+13761,49,2,1070.65,0,Occasional buyers
+13762,218,1,306.72,1,Lapsed
+13763,62,1,1714.96,0,Occasional buyers
+13764,70,3,1518.76,0,Occasional buyers
+13767,1,37,17220.36,3,Big spenders
+13769,1,10,2796.51,0,Occasional buyers
+13771,63,4,2634.45,0,Occasional buyers
+13772,33,3,1132.13,0,Occasional buyers
+13774,81,1,345.0,0,Occasional buyers
+13777,0,33,25977.16,3,Big spenders
+13778,102,1,178.7,0,Occasional buyers
+13780,6,2,360.01,0,Occasional buyers
+13781,250,1,127.84,1,Lapsed
+13782,12,6,912.0,0,Occasional buyers
+13784,9,11,2462.79,0,Occasional buyers
+13786,366,1,230.4,1,Lapsed
+13787,75,2,309.04,0,Occasional buyers
+13790,3,1,348.8,0,Occasional buyers
+13791,127,2,1516.0,0,Occasional buyers
+13792,65,2,195.55,0,Occasional buyers
+13798,0,57,37153.85,3,Big spenders
+13799,116,2,688.86,0,Occasional buyers
+13800,309,1,558.32,1,Lapsed
+13801,66,1,324.8,0,Occasional buyers
+13802,138,3,4599.42,0,Occasional buyers
+13803,254,1,277.07,1,Lapsed
+13804,30,7,2635.79,0,Occasional buyers
+13805,51,2,924.6,0,Occasional buyers
+13806,63,1,256.38,0,Occasional buyers
+13807,366,1,112.6,1,Lapsed
+13808,5,5,1747.66,0,Occasional buyers
+13809,304,1,155.05,1,Lapsed
+13810,28,2,827.51,0,Occasional buyers
+13811,183,2,519.75,1,Lapsed
+13812,41,3,485.0,0,Occasional buyers
+13813,39,4,1168.86,0,Occasional buyers
+13814,91,2,1579.12,0,Occasional buyers
+13815,21,4,3667.36,0,Occasional buyers
+13816,23,2,499.67,0,Occasional buyers
+13817,28,2,328.98,0,Occasional buyers
+13819,301,3,1140.35,1,Lapsed
+13821,144,2,385.64,1,Lapsed
+13822,5,2,632.0,0,Occasional buyers
+13823,18,2,957.66,0,Occasional buyers
+13824,32,5,1698.94,0,Occasional buyers
+13826,175,1,189.5,1,Lapsed
+13827,57,3,412.05,0,Occasional buyers
+13828,21,1,209.49,0,Occasional buyers
+13831,15,6,2202.99,0,Occasional buyers
+13832,18,1,52.2,0,Occasional buyers
+13833,158,1,384.8,1,Lapsed
+13835,24,4,834.57,0,Occasional buyers
+13837,211,2,271.24,1,Lapsed
+13838,5,4,691.73,0,Occasional buyers
+13841,252,1,85.0,1,Lapsed
+13842,58,9,3385.62,0,Occasional buyers
+13844,10,1,361.62,0,Occasional buyers
+13845,64,1,312.98,0,Occasional buyers
+13846,24,3,865.06,0,Occasional buyers
+13848,91,3,1255.0,0,Occasional buyers
+13849,51,2,1537.95,0,Occasional buyers
+13850,128,1,1595.48,0,Occasional buyers
+13851,95,3,2651.46,0,Occasional buyers
+13853,56,1,1090.14,0,Occasional buyers
+13854,8,25,8109.52,3,Big spenders
+13856,168,3,388.5,1,Lapsed
+13858,56,1,216.17,0,Occasional buyers
+13859,325,1,201.16,1,Lapsed
+13860,0,5,1245.9,0,Occasional buyers
+13862,17,8,2209.36,0,Occasional buyers
+13863,247,1,305.78,1,Lapsed
+13865,57,4,501.56,0,Occasional buyers
+13866,73,1,145.67,0,Occasional buyers
+13867,30,3,1015.29,0,Occasional buyers
+13868,6,2,3192.54,0,Occasional buyers
+13869,122,4,3104.95,0,Occasional buyers
+13870,1,8,2770.94,0,Occasional buyers
+13871,22,13,6403.25,3,Big spenders
+13873,119,3,389.6,0,Occasional buyers
+13874,357,1,540.45,1,Lapsed
+13875,53,5,1786.79,0,Occasional buyers
+13876,63,1,122.7,0,Occasional buyers
+13877,85,1,117.24,0,Occasional buyers
+13878,54,1,1281.53,0,Occasional buyers
+13880,20,13,3219.77,0,Occasional buyers
+13881,3,20,17159.52,3,Big spenders
+13882,2,5,1191.13,0,Occasional buyers
+13883,10,5,2674.48,0,Occasional buyers
+13884,6,5,787.6,0,Occasional buyers
+13885,188,2,506.8,1,Lapsed
+13886,70,1,243.56,0,Occasional buyers
+13887,203,1,349.55,1,Lapsed
+13888,119,2,605.63,0,Occasional buyers
+13889,92,1,416.9,0,Occasional buyers
+13890,0,10,1883.81,0,Occasional buyers
+13892,26,4,632.97,0,Occasional buyers
+13893,297,1,821.1,1,Lapsed
+13894,23,3,564.62,0,Occasional buyers
+13895,27,4,2593.07,0,Occasional buyers
+13897,49,1,311.16,0,Occasional buyers
+13898,325,1,155.93,1,Lapsed
+13899,15,2,388.52,0,Occasional buyers
+13900,182,3,740.95,1,Lapsed
+13901,71,5,2867.2,0,Occasional buyers
+13904,36,2,332.64,0,Occasional buyers
+13908,79,4,2319.55,0,Occasional buyers
+13911,56,9,2580.91,0,Occasional buyers
+13914,11,2,626.45,0,Occasional buyers
+13917,49,2,272.04,0,Occasional buyers
+13918,49,2,1212.84,0,Occasional buyers
+13919,58,2,348.81,0,Occasional buyers
+13922,351,1,172.25,1,Lapsed
+13923,53,1,351.13,0,Occasional buyers
+13924,1,6,1838.85,0,Occasional buyers
+13925,92,4,678.25,0,Occasional buyers
+13926,22,1,223.85,0,Occasional buyers
+13927,74,1,348.99,0,Occasional buyers
+13928,10,4,464.57,0,Occasional buyers
+13929,168,2,842.65,1,Lapsed
+13930,57,2,337.34,0,Occasional buyers
+13931,95,2,1237.53,0,Occasional buyers
+13932,294,1,307.4,1,Lapsed
+13933,108,2,608.79,0,Occasional buyers
+13934,263,1,922.1,1,Lapsed
+13936,179,1,376.58,1,Lapsed
+13937,168,1,158.85,1,Lapsed
+13938,34,1,71.66,0,Occasional buyers
+13939,22,3,568.55,0,Occasional buyers
+13940,16,4,839.14,0,Occasional buyers
+13941,21,5,5112.96,0,Occasional buyers
+13946,78,3,561.57,0,Occasional buyers
+13947,64,1,90.6,0,Occasional buyers
+13948,360,1,102.0,1,Lapsed
+13949,2,6,2427.32,0,Occasional buyers
+13950,10,4,745.06,0,Occasional buyers
+13951,175,3,674.45,1,Lapsed
+13952,217,2,3251.07,1,Lapsed
+13953,6,7,3515.68,0,Occasional buyers
+13954,1,2,439.92,0,Occasional buyers
+13955,153,2,322.96,1,Lapsed
+13956,4,5,1026.42,0,Occasional buyers
+13959,78,3,598.2,0,Occasional buyers
+13960,20,2,230.22,0,Occasional buyers
+13962,21,2,169.55,0,Occasional buyers
+13963,307,4,664.54,1,Lapsed
+13967,145,1,80.7,1,Lapsed
+13969,6,18,9053.94,3,Big spenders
+13971,18,8,2758.26,0,Occasional buyers
+13972,70,2,190.25,0,Occasional buyers
+13973,286,1,264.7,1,Lapsed
+13974,48,1,413.59,0,Occasional buyers
+13975,30,6,2526.28,0,Occasional buyers
+13976,206,1,357.98,1,Lapsed
+13978,14,2,196.79,0,Occasional buyers
+13979,72,1,869.87,0,Occasional buyers
+13980,59,1,200.14,0,Occasional buyers
+13982,38,4,1871.81,0,Occasional buyers
+13983,29,12,2603.43,0,Occasional buyers
+13984,26,5,920.51,0,Occasional buyers
+13985,3,15,7060.13,3,Big spenders
+13986,16,1,320.46,0,Occasional buyers
+13988,19,6,4147.96,0,Occasional buyers
+13989,65,2,1266.08,0,Occasional buyers
+13990,212,1,311.3,1,Lapsed
+13991,11,6,854.97,0,Occasional buyers
+13992,29,1,76.8,0,Occasional buyers
+13993,42,9,3466.36,0,Occasional buyers
+13994,3,6,2313.14,0,Occasional buyers
+13995,14,5,1393.69,0,Occasional buyers
+13999,9,12,3901.81,0,Occasional buyers
+14000,210,1,635.66,1,Lapsed
+14001,45,3,2043.08,0,Occasional buyers
+14002,133,2,529.73,0,Occasional buyers
+14004,42,7,4582.64,0,Occasional buyers
+14005,9,5,2874.72,0,Occasional buyers
+14006,115,3,962.19,0,Occasional buyers
+14009,197,2,695.61,1,Lapsed
+14012,277,1,328.8,1,Lapsed
+14013,109,3,473.02,0,Occasional buyers
+14014,76,1,505.18,0,Occasional buyers
+14015,52,1,917.34,0,Occasional buyers
+14016,161,4,4291.21,1,Lapsed
+14019,46,3,1421.61,0,Occasional buyers
+14020,16,2,642.8,0,Occasional buyers
+14021,154,3,631.9,1,Lapsed
+14022,224,1,440.0,1,Lapsed
+14023,6,2,584.07,0,Occasional buyers
+14024,121,2,327.7,0,Occasional buyers
+14027,60,1,104.82,0,Occasional buyers
+14029,62,2,467.66,0,Occasional buyers
+14030,17,8,2360.09,0,Occasional buyers
+14031,6,19,17286.86,3,Big spenders
+14032,1,11,2975.59,0,Occasional buyers
+14034,21,3,651.82,0,Occasional buyers
+14035,28,5,1428.02,0,Occasional buyers
+14036,284,1,626.65,1,Lapsed
+14037,175,2,147.2,1,Lapsed
+14038,77,3,1560.38,0,Occasional buyers
+14039,32,1,152.2,0,Occasional buyers
+14040,40,12,3614.92,0,Occasional buyers
+14041,265,1,141.41,1,Lapsed
+14044,26,4,652.82,0,Occasional buyers
+14045,108,4,1659.75,0,Occasional buyers
+14046,283,1,151.59,1,Lapsed
+14047,8,5,1308.61,0,Occasional buyers
+14048,304,1,409.93,1,Lapsed
+14049,16,4,5681.72,0,Occasional buyers
+14050,31,2,746.36,0,Occasional buyers
+14051,0,23,15610.39,3,Big spenders
+14052,19,1,225.36,0,Occasional buyers
+14053,123,2,260.25,0,Occasional buyers
+14054,64,1,92.46,0,Occasional buyers
+14055,105,1,725.64,0,Occasional buyers
+14056,0,23,8214.65,3,Big spenders
+14057,23,17,6217.96,3,Big spenders
+14059,266,1,183.6,1,Lapsed
+14060,4,19,6140.42,3,Big spenders
+14062,9,12,10464.85,3,Big spenders
+14064,28,5,1353.74,0,Occasional buyers
+14066,266,1,152.55,1,Lapsed
+14067,63,2,374.7,0,Occasional buyers
+14068,319,1,265.85,1,Lapsed
+14071,3,8,1424.0,0,Occasional buyers
+14073,31,1,151.04,0,Occasional buyers
+14075,4,3,942.26,0,Occasional buyers
+14076,128,1,122.47,0,Occasional buyers
+14077,40,5,499.42,0,Occasional buyers
+14078,101,6,1049.37,0,Occasional buyers
+14079,124,1,375.1,0,Occasional buyers
+14080,32,1,45.6,0,Occasional buyers
+14081,301,2,934.52,1,Lapsed
+14082,364,1,182.25,1,Lapsed
+14083,3,9,1018.43,0,Occasional buyers
+14085,1,18,4448.54,3,Big spenders
+14087,2,1,194.42,0,Occasional buyers
+14088,9,13,50491.81,3,Big spenders
+14089,56,1,161.0,0,Occasional buyers
+14090,324,1,76.32,1,Lapsed
+14092,7,14,4076.91,3,Big spenders
+14093,11,1,442.85,0,Occasional buyers
+14096,3,17,53258.43,3,Big spenders
+14098,36,1,147.35,0,Occasional buyers
+14099,15,11,3104.17,0,Occasional buyers
+14100,137,1,194.9,0,Occasional buyers
+14101,73,6,5976.79,0,Occasional buyers
+14102,4,5,1360.28,0,Occasional buyers
+14104,154,2,216.21,1,Lapsed
+14105,238,1,1266.23,1,Lapsed
+14107,51,7,2703.23,0,Occasional buyers
+14108,30,2,597.91,0,Occasional buyers
+14109,72,1,144.2,0,Occasional buyers
+14110,3,12,5683.15,0,Occasional buyers
+14111,13,4,692.85,0,Occasional buyers
+14112,22,7,2915.15,0,Occasional buyers
+14113,3,4,1840.42,0,Occasional buyers
+14114,273,2,386.53,1,Lapsed
+14116,19,5,1382.74,0,Occasional buyers
+14117,143,1,90.0,1,Lapsed
+14121,3,4,2780.15,0,Occasional buyers
+14124,83,1,419.58,0,Occasional buyers
+14125,10,3,2740.43,0,Occasional buyers
+14126,7,3,706.13,0,Occasional buyers
+14127,122,3,709.71,0,Occasional buyers
+14128,60,2,637.5,0,Occasional buyers
+14129,1,5,1123.86,0,Occasional buyers
+14130,318,1,483.86,1,Lapsed
+14132,1,11,3586.03,0,Occasional buyers
+14133,129,3,605.64,0,Occasional buyers
+14135,1,15,4690.31,3,Big spenders
+14138,1,2,982.38,0,Occasional buyers
+14139,45,1,415.82,0,Occasional buyers
+14140,3,2,935.05,0,Occasional buyers
+14141,2,4,915.13,0,Occasional buyers
+14142,372,1,311.81,1,Lapsed
+14143,133,1,115.8,0,Occasional buyers
+14145,46,4,3742.2,0,Occasional buyers
+14146,8,5,4191.0,0,Occasional buyers
+14147,77,2,483.4,0,Occasional buyers
+14148,233,1,157.2,1,Lapsed
+14149,220,1,446.62,1,Lapsed
+14150,35,2,658.64,0,Occasional buyers
+14152,74,2,621.29,0,Occasional buyers
+14154,238,2,1345.62,1,Lapsed
+14155,265,1,118.75,1,Lapsed
+14156,9,54,116729.63,2,Champions
+14157,19,2,432.88,0,Occasional buyers
+14158,39,1,507.66,0,Occasional buyers
+14159,19,11,4690.64,0,Occasional buyers
+14161,215,3,1110.52,1,Lapsed
+14162,173,2,289.36,1,Lapsed
+14163,86,4,2445.91,0,Occasional buyers
+14164,70,2,1631.77,0,Occasional buyers
+14165,275,1,122.54,1,Lapsed
+14167,38,4,574.84,0,Occasional buyers
+14171,97,1,363.79,0,Occasional buyers
+14173,10,4,450.84,0,Occasional buyers
+14174,32,1,134.46,0,Occasional buyers
+14175,59,3,3222.3,0,Occasional buyers
+14176,296,4,576.9,1,Lapsed
+14177,85,4,559.41,0,Occasional buyers
+14178,8,7,1600.93,0,Occasional buyers
+14179,40,2,719.78,0,Occasional buyers
+14180,10,25,4748.52,3,Big spenders
+14184,66,1,452.89,0,Occasional buyers
+14185,330,1,197.65,1,Lapsed
+14188,30,6,2054.36,0,Occasional buyers
+14189,1,15,4654.08,3,Big spenders
+14191,1,13,4684.76,0,Occasional buyers
+14193,67,2,853.39,0,Occasional buyers
+14194,4,21,11349.52,3,Big spenders
+14195,201,2,1012.0,1,Lapsed
+14196,106,1,335.52,0,Occasional buyers
+14198,17,4,701.4,0,Occasional buyers
+14199,217,1,185.4,1,Lapsed
+14201,59,7,747.44,0,Occasional buyers
+14204,1,1,161.03,0,Occasional buyers
+14205,16,2,466.7,0,Occasional buyers
+14206,238,1,328.16,1,Lapsed
+14208,94,1,151.74,0,Occasional buyers
+14209,10,6,2073.43,0,Occasional buyers
+14210,105,6,1905.84,0,Occasional buyers
+14211,52,9,2241.1,0,Occasional buyers
+14212,89,1,1070.48,0,Occasional buyers
+14214,30,5,1004.38,0,Occasional buyers
+14215,11,6,1789.72,0,Occasional buyers
+14216,2,4,1839.3,0,Occasional buyers
+14217,1,17,2004.98,3,Big spenders
+14218,42,1,169.48,0,Occasional buyers
+14219,3,1,89.94,0,Occasional buyers
+14220,246,2,632.4,1,Lapsed
+14221,41,9,3432.8,0,Occasional buyers
+14222,176,1,683.17,1,Lapsed
+14223,91,3,991.13,0,Occasional buyers
+14224,109,4,1050.12,0,Occasional buyers
+14226,28,5,2232.19,0,Occasional buyers
+14227,25,10,3350.96,0,Occasional buyers
+14229,51,3,1547.2,0,Occasional buyers
+14231,183,3,925.71,1,Lapsed
+14232,42,5,2048.07,0,Occasional buyers
+14233,48,4,1462.72,0,Occasional buyers
+14234,21,4,775.46,0,Occasional buyers
+14235,74,5,3144.86,0,Occasional buyers
+14236,80,2,490.86,0,Occasional buyers
+14237,372,1,161.0,1,Lapsed
+14238,325,1,146.85,1,Lapsed
+14239,42,11,2380.85,0,Occasional buyers
+14240,29,2,890.34,0,Occasional buyers
+14241,183,1,213.7,1,Lapsed
+14242,234,2,280.55,1,Lapsed
+14243,8,10,2588.77,0,Occasional buyers
+14245,219,2,1693.45,1,Lapsed
+14246,110,3,1474.06,0,Occasional buyers
+14247,277,1,136.77,1,Lapsed
+14248,317,1,302.58,1,Lapsed
+14250,6,3,1904.05,0,Occasional buyers
+14251,1,5,2879.7,0,Occasional buyers
+14256,259,2,969.06,1,Lapsed
+14257,63,5,3099.72,0,Occasional buyers
+14258,8,9,12669.98,0,Occasional buyers
+14259,141,1,120.0,0,Occasional buyers
+14261,50,2,1163.45,0,Occasional buyers
+14262,7,8,2618.23,0,Occasional buyers
+14264,154,2,333.97,1,Lapsed
+14265,108,2,530.18,0,Occasional buyers
+14267,162,3,1516.24,1,Lapsed
+14270,331,1,492.65,1,Lapsed
+14271,225,1,112.32,1,Lapsed
+14272,73,2,437.96,0,Occasional buyers
+14273,50,4,559.97,0,Occasional buyers
+14276,98,3,1119.74,0,Occasional buyers
+14277,14,3,4180.2,0,Occasional buyers
+14280,196,1,134.04,1,Lapsed
+14282,2,15,3729.34,3,Big spenders
+14284,30,2,595.25,0,Occasional buyers
+14285,20,4,1910.01,0,Occasional buyers
+14286,23,3,4628.75,0,Occasional buyers
+14287,7,3,176.63,0,Occasional buyers
+14288,212,1,426.6,1,Lapsed
+14289,8,6,911.26,0,Occasional buyers
+14290,10,5,2314.65,0,Occasional buyers
+14291,1,11,3883.25,0,Occasional buyers
+14292,7,9,4871.93,0,Occasional buyers
+14293,2,4,1046.56,0,Occasional buyers
+14295,39,1,166.2,0,Occasional buyers
+14297,17,4,1305.33,0,Occasional buyers
+14298,7,44,51527.3,3,Big spenders
+14299,7,9,3965.62,0,Occasional buyers
+14300,18,1,43.2,0,Occasional buyers
+14301,116,1,640.14,0,Occasional buyers
+14304,222,1,383.45,1,Lapsed
+14305,70,3,1858.96,0,Occasional buyers
+14306,50,2,2093.32,0,Occasional buyers
+14307,88,6,2995.72,0,Occasional buyers
+14309,7,9,2352.53,0,Occasional buyers
+14311,242,1,310.26,1,Lapsed
+14312,46,6,1611.59,0,Occasional buyers
+14314,106,1,120.0,0,Occasional buyers
+14315,44,6,2481.13,0,Occasional buyers
+14317,64,1,508.58,0,Occasional buyers
+14320,206,2,477.79,1,Lapsed
+14321,10,5,1530.75,0,Occasional buyers
+14323,114,2,605.06,0,Occasional buyers
+14326,241,1,183.85,1,Lapsed
+14327,162,1,311.65,1,Lapsed
+14329,16,7,5014.84,0,Occasional buyers
+14331,123,2,462.66,0,Occasional buyers
+14332,22,3,866.31,0,Occasional buyers
+14333,67,1,415.2,0,Occasional buyers
+14334,16,8,2552.21,0,Occasional buyers
+14335,15,2,468.26,0,Occasional buyers
+14336,16,4,1614.91,0,Occasional buyers
+14338,160,2,588.22,1,Lapsed
+14339,242,1,309.52,1,Lapsed
+14340,218,1,134.7,1,Lapsed
+14341,44,8,2182.28,0,Occasional buyers
+14342,20,4,668.56,0,Occasional buyers
+14344,126,8,889.93,0,Occasional buyers
+14345,38,1,108.98,0,Occasional buyers
+14346,120,2,1021.58,0,Occasional buyers
+14348,259,1,409.57,1,Lapsed
+14349,9,1,133.5,0,Occasional buyers
+14350,273,1,282.93,1,Lapsed
+14351,164,1,51.0,1,Lapsed
+14352,156,4,1078.96,1,Lapsed
+14353,214,1,90.6,1,Lapsed
+14354,5,2,163.62,0,Occasional buyers
+14355,365,1,174.4,1,Lapsed
+14356,79,2,701.23,0,Occasional buyers
+14357,42,1,225.77,0,Occasional buyers
+14359,18,3,912.18,0,Occasional buyers
+14360,31,4,2128.23,0,Occasional buyers
+14362,21,1,161.2,0,Occasional buyers
+14364,108,8,3717.35,0,Occasional buyers
+14367,7,16,9261.52,3,Big spenders
+14368,319,1,155.0,1,Lapsed
+14371,294,1,100.5,1,Lapsed
+14373,357,1,76.55,1,Lapsed
+14375,184,1,257.68,1,Lapsed
+14377,190,2,617.05,1,Lapsed
+14379,43,2,348.1,0,Occasional buyers
+14381,51,1,202.68,0,Occasional buyers
+14382,25,1,626.07,0,Occasional buyers
+14383,37,3,1247.69,0,Occasional buyers
+14385,8,3,202.11,0,Occasional buyers
+14386,296,1,142.4,1,Lapsed
+14387,32,3,1770.56,0,Occasional buyers
+14388,9,8,3212.84,0,Occasional buyers
+14389,64,2,1043.46,0,Occasional buyers
+14390,9,9,4652.82,0,Occasional buyers
+14393,217,1,67.95,1,Lapsed
+14395,1,9,3507.71,0,Occasional buyers
+14396,64,2,487.99,0,Occasional buyers
+14397,2,19,2612.96,3,Big spenders
+14400,148,1,574.7,1,Lapsed
+14401,3,13,4051.48,0,Occasional buyers
+14403,129,4,1475.81,0,Occasional buyers
+14404,33,6,1474.32,0,Occasional buyers
+14406,118,1,156.75,0,Occasional buyers
+14407,106,5,2142.73,0,Occasional buyers
+14408,10,7,2606.53,0,Occasional buyers
+14409,70,6,2059.45,0,Occasional buyers
+14410,91,9,1104.07,0,Occasional buyers
+14411,310,1,1063.0,1,Lapsed
+14412,42,2,770.03,0,Occasional buyers
+14413,361,1,122.7,1,Lapsed
+14414,91,7,1496.98,0,Occasional buyers
+14415,0,13,5900.28,3,Big spenders
+14416,21,2,490.22,0,Occasional buyers
+14418,3,3,1937.25,0,Occasional buyers
+14419,10,6,1058.06,0,Occasional buyers
+14420,98,1,387.52,0,Occasional buyers
+14421,56,2,813.11,0,Occasional buyers
+14422,0,6,4263.64,0,Occasional buyers
+14423,217,1,265.2,1,Lapsed
+14424,17,1,322.08,0,Occasional buyers
+14426,23,10,4481.67,0,Occasional buyers
+14427,49,2,363.34,0,Occasional buyers
+14428,6,5,1244.83,0,Occasional buyers
+14431,302,1,470.36,1,Lapsed
+14432,9,6,2255.51,0,Occasional buyers
+14434,21,6,1372.8,0,Occasional buyers
+14436,98,1,89.06,0,Occasional buyers
+14437,365,1,63.0,1,Lapsed
+14438,305,1,131.9,1,Lapsed
+14439,319,1,2661.24,1,Lapsed
+14440,7,5,2357.68,0,Occasional buyers
+14441,0,4,1712.89,0,Occasional buyers
+14442,204,2,1589.82,1,Lapsed
+14443,53,4,1420.2,0,Occasional buyers
+14446,0,4,1034.78,0,Occasional buyers
+14447,18,5,1163.23,0,Occasional buyers
+14448,8,2,375.35,0,Occasional buyers
+14449,18,4,907.1,0,Occasional buyers
+14450,180,3,483.25,1,Lapsed
+14451,59,2,662.59,0,Occasional buyers
+14452,10,2,264.44,0,Occasional buyers
+14453,189,1,119.93,1,Lapsed
+14456,4,9,3059.44,0,Occasional buyers
+14457,310,1,113.64,1,Lapsed
+14459,154,1,1837.92,1,Lapsed
+14460,109,3,434.34,0,Occasional buyers
+14461,147,3,2102.67,1,Lapsed
+14462,65,11,1999.02,0,Occasional buyers
+14463,97,3,529.62,0,Occasional buyers
+14465,246,3,1058.62,1,Lapsed
+14466,28,7,2272.4,0,Occasional buyers
+14467,17,4,598.76,0,Occasional buyers
+14470,11,2,461.19,0,Occasional buyers
+14472,103,8,1936.84,0,Occasional buyers
+14473,73,2,234.34,0,Occasional buyers
+14474,45,1,547.66,0,Occasional buyers
+14475,71,3,925.85,0,Occasional buyers
+14476,256,1,215.7,1,Lapsed
+14477,19,4,1309.6,0,Occasional buyers
+14479,253,2,316.25,1,Lapsed
+14480,10,1,279.05,0,Occasional buyers
+14481,164,2,636.51,1,Lapsed
+14482,17,6,2068.15,0,Occasional buyers
+14483,281,1,137.1,1,Lapsed
+14484,49,1,321.92,0,Occasional buyers
+14485,38,1,165.75,0,Occasional buyers
+14487,26,6,1196.33,0,Occasional buyers
+14488,67,1,1064.28,0,Occasional buyers
+14489,206,1,463.38,1,Lapsed
+14491,174,2,340.93,1,Lapsed
+14493,6,5,2383.24,0,Occasional buyers
+14494,25,1,139.56,0,Occasional buyers
+14495,50,2,123.8,0,Occasional buyers
+14496,311,2,538.81,1,Lapsed
+14497,308,1,475.37,1,Lapsed
+14498,42,5,1957.32,0,Occasional buyers
+14499,25,3,815.32,0,Occasional buyers
+14500,87,3,356.85,0,Occasional buyers
+14501,183,2,251.21,1,Lapsed
+14502,19,11,2467.63,0,Occasional buyers
+14503,2,6,3543.26,0,Occasional buyers
+14504,46,4,673.26,0,Occasional buyers
+14505,16,8,5905.64,0,Occasional buyers
+14506,16,5,2012.17,0,Occasional buyers
+14507,23,6,1383.18,0,Occasional buyers
+14508,21,2,276.42,0,Occasional buyers
+14511,10,5,1314.81,0,Occasional buyers
+14512,187,2,275.28,1,Lapsed
+14513,100,3,455.59,0,Occasional buyers
+14514,60,3,1055.35,0,Occasional buyers
+14515,17,6,2102.09,0,Occasional buyers
+14517,32,2,330.45,0,Occasional buyers
+14518,63,1,174.37,0,Occasional buyers
+14520,1,2,270.6,0,Occasional buyers
+14522,23,4,974.54,0,Occasional buyers
+14523,107,1,241.09,0,Occasional buyers
+14524,31,9,1867.68,0,Occasional buyers
+14525,19,9,4332.2,0,Occasional buyers
+14527,2,55,8507.82,3,Big spenders
+14528,36,1,364.22,0,Occasional buyers
+14529,59,3,620.04,0,Occasional buyers
+14530,25,6,2925.91,0,Occasional buyers
+14532,235,4,932.85,1,Lapsed
+14533,24,7,1949.72,0,Occasional buyers
+14534,2,18,4445.4,3,Big spenders
+14535,59,3,2864.19,0,Occasional buyers
+14536,259,1,171.8,1,Lapsed
+14537,57,1,355.56,0,Occasional buyers
+14538,64,2,388.25,0,Occasional buyers
+14539,15,2,537.48,0,Occasional buyers
+14540,9,3,996.26,0,Occasional buyers
+14541,58,8,1461.65,0,Occasional buyers
+14542,185,1,103.25,1,Lapsed
+14543,28,16,3590.68,3,Big spenders
+14544,23,2,2024.45,0,Occasional buyers
+14546,4,5,2578.09,0,Occasional buyers
+14547,3,8,4007.54,0,Occasional buyers
+14548,150,2,652.8,1,Lapsed
+14549,310,1,289.24,1,Lapsed
+14550,10,2,765.62,0,Occasional buyers
+14551,17,2,186.23,0,Occasional buyers
+14552,151,1,165.07,1,Lapsed
+14553,18,5,859.27,0,Occasional buyers
+14554,9,4,2381.04,0,Occasional buyers
+14555,56,2,324.14,0,Occasional buyers
+14557,84,1,788.38,0,Occasional buyers
+14560,6,22,2237.77,3,Big spenders
+14561,75,3,1080.76,0,Occasional buyers
+14562,3,18,5074.77,3,Big spenders
+14565,95,4,2949.12,0,Occasional buyers
+14566,110,1,1432.0,0,Occasional buyers
+14567,56,2,1530.36,0,Occasional buyers
+14569,0,1,227.39,0,Occasional buyers
+14570,280,2,217.21,1,Lapsed
+14572,2,7,2832.84,0,Occasional buyers
+14573,179,9,1653.42,1,Lapsed
+14576,371,1,35.4,1,Lapsed
+14577,12,4,859.71,0,Occasional buyers
+14578,2,1,168.63,0,Occasional buyers
+14581,16,1,138.6,0,Occasional buyers
+14582,40,1,114.11,0,Occasional buyers
+14583,5,5,1052.55,0,Occasional buyers
+14584,168,4,1042.26,1,Lapsed
+14585,49,1,157.05,0,Occasional buyers
+14586,276,1,237.36,1,Lapsed
+14587,18,9,1601.14,0,Occasional buyers
+14589,371,1,39.75,1,Lapsed
+14591,14,4,1447.14,0,Occasional buyers
+14592,34,3,570.46,0,Occasional buyers
+14593,21,3,617.99,0,Occasional buyers
+14594,6,2,379.83,0,Occasional buyers
+14595,19,6,1740.6,0,Occasional buyers
+14597,10,2,883.15,0,Occasional buyers
+14598,43,1,221.97,0,Occasional buyers
+14600,305,1,393.33,1,Lapsed
+14601,10,1,213.96,0,Occasional buyers
+14603,274,1,660.0,1,Lapsed
+14606,0,90,12006.65,3,Big spenders
+14607,15,12,15021.5,3,Big spenders
+14608,3,4,1785.15,0,Occasional buyers
+14609,71,4,601.56,0,Occasional buyers
+14616,242,3,406.08,1,Lapsed
+14618,8,3,553.44,0,Occasional buyers
+14619,245,1,394.44,1,Lapsed
+14620,205,2,412.78,1,Lapsed
+14621,0,5,1788.36,0,Occasional buyers
+14622,184,1,320.58,1,Lapsed
+14623,31,5,884.57,0,Occasional buyers
+14624,56,2,225.85,0,Occasional buyers
+14625,195,2,899.63,1,Lapsed
+14626,23,4,2791.27,0,Occasional buyers
+14628,90,2,671.96,0,Occasional buyers
+14629,3,2,959.01,0,Occasional buyers
+14631,50,3,1006.98,0,Occasional buyers
+14632,262,1,114.56,1,Lapsed
+14633,265,1,344.9,1,Lapsed
+14636,35,2,609.85,0,Occasional buyers
+14638,50,1,443.6,0,Occasional buyers
+14639,51,6,2984.49,0,Occasional buyers
+14640,23,6,2125.08,0,Occasional buyers
+14641,21,1,110.46,0,Occasional buyers
+14642,58,1,96.12,0,Occasional buyers
+14643,169,2,693.81,1,Lapsed
+14644,67,2,830.76,0,Occasional buyers
+14645,156,2,597.09,1,Lapsed
+14646,1,72,279138.02,2,Champions
+14647,200,1,243.22,1,Lapsed
+14649,4,4,1417.29,0,Occasional buyers
+14651,66,2,654.6,0,Occasional buyers
+14652,76,1,114.18,0,Occasional buyers
+14653,0,7,1937.6,0,Occasional buyers
+14655,7,4,1932.23,0,Occasional buyers
+14656,168,2,291.05,1,Lapsed
+14657,17,4,848.22,0,Occasional buyers
+14658,4,2,247.15,0,Occasional buyers
+14659,8,9,2529.93,0,Occasional buyers
+14660,86,2,285.74,0,Occasional buyers
+14661,26,1,107.95,0,Occasional buyers
+14662,28,4,771.17,0,Occasional buyers
+14664,19,2,637.89,0,Occasional buyers
+14665,60,5,1835.7,0,Occasional buyers
+14666,23,1,179.95,0,Occasional buyers
+14667,10,25,9236.95,3,Big spenders
+14669,241,3,1269.99,1,Lapsed
+14670,279,2,411.53,1,Lapsed
+14672,234,2,765.55,1,Lapsed
+14673,2,5,1736.4,0,Occasional buyers
+14675,15,1,604.75,0,Occasional buyers
+14676,30,6,2548.24,0,Occasional buyers
+14680,24,16,28754.11,3,Big spenders
+14681,70,3,498.95,0,Occasional buyers
+14682,187,2,52.0,1,Lapsed
+14684,25,5,1236.28,0,Occasional buyers
+14687,106,1,628.38,0,Occasional buyers
+14688,7,21,5630.87,3,Big spenders
+14689,208,1,112.8,1,Lapsed
+14690,43,2,371.7,0,Occasional buyers
+14691,30,5,2114.33,0,Occasional buyers
+14692,136,4,591.55,0,Occasional buyers
+14693,264,1,172.9,1,Lapsed
+14696,3,7,2078.95,0,Occasional buyers
+14697,217,2,188.61,1,Lapsed
+14698,1,5,1250.76,0,Occasional buyers
+14699,213,1,109.13,1,Lapsed
+14700,31,3,2235.3,0,Occasional buyers
+14701,10,9,2549.37,0,Occasional buyers
+14702,0,17,3292.14,3,Big spenders
+14703,14,1,318.17,0,Occasional buyers
+14704,19,7,1514.57,0,Occasional buyers
+14705,198,1,179.0,1,Lapsed
+14708,2,3,1126.37,0,Occasional buyers
+14709,14,13,4921.04,0,Occasional buyers
+14710,13,4,606.13,0,Occasional buyers
+14711,9,11,2868.8,0,Occasional buyers
+14712,28,3,917.07,0,Occasional buyers
+14713,8,11,2666.36,0,Occasional buyers
+14714,23,1,160.19,0,Occasional buyers
+14715,24,4,867.38,0,Occasional buyers
+14716,42,2,329.68,0,Occasional buyers
+14719,1,5,1602.13,0,Occasional buyers
+14720,5,3,663.81,0,Occasional buyers
+14722,146,1,187.92,1,Lapsed
+14723,9,6,1156.6,0,Occasional buyers
+14725,24,1,718.08,0,Occasional buyers
+14727,273,1,268.58,1,Lapsed
+14729,373,1,313.49,1,Lapsed
+14730,0,8,2005.06,0,Occasional buyers
+14731,46,3,380.02,0,Occasional buyers
+14732,7,8,2702.49,0,Occasional buyers
+14733,15,12,9585.91,3,Big spenders
+14735,3,31,6050.69,3,Big spenders
+14737,3,3,1164.55,0,Occasional buyers
+14738,42,7,1314.45,0,Occasional buyers
+14739,3,7,3902.28,0,Occasional buyers
+14740,196,3,1448.21,1,Lapsed
+14741,11,6,1400.34,0,Occasional buyers
+14744,15,7,1099.98,0,Occasional buyers
+14745,112,5,1220.26,0,Occasional buyers
+14747,248,1,328.2,1,Lapsed
+14748,28,5,1415.75,0,Occasional buyers
+14752,43,1,389.64,0,Occasional buyers
+14753,86,1,563.15,0,Occasional buyers
+14754,44,2,638.05,0,Occasional buyers
+14755,9,11,5010.28,0,Occasional buyers
+14756,14,1,738.96,0,Occasional buyers
+14757,74,1,420.5,0,Occasional buyers
+14758,144,4,1484.06,0,Occasional buyers
+14759,4,3,1625.97,0,Occasional buyers
+14760,296,1,89.2,1,Lapsed
+14761,58,2,255.9,0,Occasional buyers
+14762,263,1,300.52,1,Lapsed
+14764,46,1,278.3,0,Occasional buyers
+14765,28,3,254.11,0,Occasional buyers
+14766,7,6,2473.37,0,Occasional buyers
+14768,16,2,192.6,0,Occasional buyers
+14769,2,8,10673.1,0,Occasional buyers
+14770,231,2,876.42,1,Lapsed
+14772,111,1,139.26,0,Occasional buyers
+14775,57,3,1011.9,0,Occasional buyers
+14776,50,11,2538.3,0,Occasional buyers
+14778,126,2,730.86,0,Occasional buyers
+14779,280,3,386.15,1,Lapsed
+14780,54,2,447.68,0,Occasional buyers
+14782,319,1,200.1,1,Lapsed
+14784,25,2,289.99,0,Occasional buyers
+14785,9,2,77.4,0,Occasional buyers
+14788,6,2,679.44,0,Occasional buyers
+14789,28,1,197.64,0,Occasional buyers
+14790,16,4,745.06,0,Occasional buyers
+14792,63,1,6.2,0,Occasional buyers
+14793,20,1,228.99,0,Occasional buyers
+14794,2,7,1319.91,0,Occasional buyers
+14795,165,1,131.45,1,Lapsed
+14796,0,17,8020.93,3,Big spenders
+14798,52,3,173.74,0,Occasional buyers
+14799,50,1,157.7,0,Occasional buyers
+14800,47,12,4339.74,0,Occasional buyers
+14801,60,1,193.14,0,Occasional buyers
+14803,161,3,845.55,1,Lapsed
+14804,8,1,353.27,0,Occasional buyers
+14805,14,4,554.65,0,Occasional buyers
+14806,74,1,193.39,0,Occasional buyers
+14808,39,8,2741.17,0,Occasional buyers
+14810,40,11,2087.88,0,Occasional buyers
+14813,369,2,155.43,1,Lapsed
+14815,36,2,778.5,0,Occasional buyers
+14816,196,1,271.85,1,Lapsed
+14817,199,2,1010.34,1,Lapsed
+14818,73,3,657.8,0,Occasional buyers
+14819,63,2,272.07,0,Occasional buyers
+14820,20,4,507.29,0,Occasional buyers
+14821,366,1,48.8,1,Lapsed
+14823,179,3,321.43,1,Lapsed
+14824,9,4,1127.71,0,Occasional buyers
+14825,3,12,2226.91,0,Occasional buyers
+14828,196,3,2139.76,1,Lapsed
+14829,28,4,697.55,0,Occasional buyers
+14830,52,1,196.28,0,Occasional buyers
+14834,17,6,1720.3,0,Occasional buyers
+14836,9,3,102.45,0,Occasional buyers
+14837,89,4,1649.5,0,Occasional buyers
+14840,267,1,62.85,1,Lapsed
+14841,52,6,3295.76,0,Occasional buyers
+14842,43,4,2824.69,0,Occasional buyers
+14844,63,4,3189.81,0,Occasional buyers
+14847,148,1,309.4,1,Lapsed
+14849,21,25,7930.54,3,Big spenders
+14850,311,1,325.75,1,Lapsed
+14851,22,2,511.35,0,Occasional buyers
+14852,57,6,2836.69,0,Occasional buyers
+14853,23,2,475.8,0,Occasional buyers
+14854,77,7,2759.83,0,Occasional buyers
+14855,118,2,645.65,0,Occasional buyers
+14856,35,3,1311.38,0,Occasional buyers
+14857,59,2,1173.12,0,Occasional buyers
+14859,12,4,1353.74,0,Occasional buyers
+14860,18,1,170.32,0,Occasional buyers
+14861,51,1,125.79,0,Occasional buyers
+14862,25,2,841.2,0,Occasional buyers
+14863,28,1,266.76,0,Occasional buyers
+14865,6,2,52.2,0,Occasional buyers
+14866,10,11,14353.4,3,Big spenders
+14867,185,3,710.28,1,Lapsed
+14868,2,8,2953.59,0,Occasional buyers
+14869,8,2,725.7,0,Occasional buyers
+14870,261,1,327.25,1,Lapsed
+14871,2,4,522.38,0,Occasional buyers
+14873,209,1,519.68,1,Lapsed
+14875,107,2,1465.32,0,Occasional buyers
+14878,12,9,1485.54,0,Occasional buyers
+14880,76,3,706.19,0,Occasional buyers
+14881,19,1,255.4,0,Occasional buyers
+14882,26,2,589.7,0,Occasional buyers
+14883,18,6,761.59,0,Occasional buyers
+14885,131,1,765.32,0,Occasional buyers
+14886,252,1,364.8,1,Lapsed
+14887,78,1,1862.0,0,Occasional buyers
+14888,206,1,369.2,1,Lapsed
+14889,335,1,135.9,1,Lapsed
+14890,253,1,125.65,1,Lapsed
+14891,147,2,554.38,1,Lapsed
+14893,9,2,1237.85,0,Occasional buyers
+14894,84,1,655.75,0,Occasional buyers
+14895,7,20,11138.71,3,Big spenders
+14896,204,2,468.77,1,Lapsed
+14897,7,4,1366.38,0,Occasional buyers
+14898,22,6,1303.52,0,Occasional buyers
+14901,10,9,1421.29,0,Occasional buyers
+14902,25,1,332.66,0,Occasional buyers
+14903,20,5,2810.63,0,Occasional buyers
+14904,1,2,1025.44,0,Occasional buyers
+14905,157,2,616.15,1,Lapsed
+14907,2,7,3501.1,0,Occasional buyers
+14908,73,1,277.8,0,Occasional buyers
+14910,2,4,434.35,0,Occasional buyers
+14911,0,198,136275.72,2,Champions
+14912,16,2,867.85,0,Occasional buyers
+14913,35,4,1227.43,0,Occasional buyers
+14915,90,2,307.48,0,Occasional buyers
+14916,70,4,1268.98,0,Occasional buyers
+14918,115,2,1610.15,0,Occasional buyers
+14920,212,2,977.77,1,Lapsed
+14921,29,2,1316.07,0,Occasional buyers
+14923,50,1,749.1,0,Occasional buyers
+14924,245,1,310.05,1,Lapsed
+14929,31,1,223.88,0,Occasional buyers
+14930,108,3,2372.86,0,Occasional buyers
+14931,4,4,864.68,0,Occasional buyers
+14932,365,1,313.53,1,Lapsed
+14934,81,2,1890.94,0,Occasional buyers
+14935,296,1,1784.71,1,Lapsed
+14936,33,8,8137.02,0,Occasional buyers
+14937,56,3,1621.88,0,Occasional buyers
+14944,29,12,5900.25,0,Occasional buyers
+14946,13,1,100.9,0,Occasional buyers
+14947,71,2,290.82,0,Occasional buyers
+14948,22,6,1101.97,0,Occasional buyers
+14950,18,1,371.2,0,Occasional buyers
+14951,78,1,311.69,0,Occasional buyers
+14952,59,11,8099.49,0,Occasional buyers
+14953,24,1,289.82,0,Occasional buyers
+14954,11,1,336.17,0,Occasional buyers
+14957,252,1,58.49,1,Lapsed
+14958,146,3,499.68,1,Lapsed
+14959,63,4,695.42,0,Occasional buyers
+14960,7,2,221.27,0,Occasional buyers
+14961,10,9,7044.68,0,Occasional buyers
+14962,270,1,126.7,1,Lapsed
+14963,9,5,1487.8,0,Occasional buyers
+14964,246,1,206.21,1,Lapsed
+14965,95,2,599.0,0,Occasional buyers
+14966,14,1,191.32,0,Occasional buyers
+14967,49,1,463.8,0,Occasional buyers
+14968,29,1,147.59,0,Occasional buyers
+14970,67,4,1592.06,0,Occasional buyers
+14971,34,3,1116.57,0,Occasional buyers
+14972,127,1,114.77,0,Occasional buyers
+14973,106,3,1314.45,0,Occasional buyers
+14974,36,1,114.39,0,Occasional buyers
+14975,56,1,279.94,0,Occasional buyers
+14976,56,6,774.86,0,Occasional buyers
+14978,71,5,1931.42,0,Occasional buyers
+14981,245,1,102.12,1,Lapsed
+14984,18,2,213.27,0,Occasional buyers
+14985,197,2,296.75,1,Lapsed
+14987,15,2,326.4,0,Occasional buyers
+14988,211,1,334.54,1,Lapsed
+14995,38,2,233.23,0,Occasional buyers
+14997,45,3,546.2,0,Occasional buyers
+14998,169,2,429.87,1,Lapsed
+15000,47,1,490.52,0,Occasional buyers
+15002,115,4,1641.76,0,Occasional buyers
+15004,146,1,1245.93,1,Lapsed
+15005,15,28,6314.87,3,Big spenders
+15006,50,1,497.14,0,Occasional buyers
+15007,158,1,156.91,1,Lapsed
+15009,11,3,1261.78,0,Occasional buyers
+15010,35,1,308.94,0,Occasional buyers
+15012,53,2,423.04,0,Occasional buyers
+15014,42,2,260.17,0,Occasional buyers
+15016,172,1,170.04,1,Lapsed
+15017,33,1,125.58,0,Occasional buyers
+15018,38,3,496.21,0,Occasional buyers
+15019,266,1,266.0,1,Lapsed
+15021,8,9,1914.82,0,Occasional buyers
+15022,11,4,905.04,0,Occasional buyers
+15023,2,11,6783.86,0,Occasional buyers
+15024,9,10,1661.33,0,Occasional buyers
+15025,32,1,377.01,0,Occasional buyers
+15026,79,3,464.2,0,Occasional buyers
+15027,30,4,1066.15,0,Occasional buyers
+15028,7,4,627.13,0,Occasional buyers
+15030,71,2,518.28,0,Occasional buyers
+15031,3,4,668.14,0,Occasional buyers
+15032,255,3,4959.1,1,Lapsed
+15033,4,10,2583.37,0,Occasional buyers
+15034,15,8,4308.61,0,Occasional buyers
+15035,89,1,252.73,0,Occasional buyers
+15036,71,3,465.55,0,Occasional buyers
+15038,58,6,705.49,0,Occasional buyers
+15039,9,47,19914.44,3,Big spenders
+15041,169,1,180.35,1,Lapsed
+15042,198,1,135.93,1,Lapsed
+15043,30,1,537.0,0,Occasional buyers
+15044,18,17,7700.23,3,Big spenders
+15045,151,2,735.66,1,Lapsed
+15046,8,15,5194.82,3,Big spenders
+15047,269,1,343.62,1,Lapsed
+15048,64,4,384.05,0,Occasional buyers
+15049,273,1,121.17,1,Lapsed
+15050,24,3,1782.09,0,Occasional buyers
+15051,22,3,1391.61,0,Occasional buyers
+15052,318,1,215.78,1,Lapsed
+15053,4,3,697.79,0,Occasional buyers
+15054,11,2,302.1,0,Occasional buyers
+15057,274,2,1489.5,1,Lapsed
+15058,24,11,2124.99,0,Occasional buyers
+15059,40,9,1337.72,0,Occasional buyers
+15060,7,4,301.84,0,Occasional buyers
+15061,3,48,54534.14,3,Big spenders
+15062,70,4,987.86,0,Occasional buyers
+15063,212,1,370.8,1,Lapsed
+15065,37,4,3158.13,0,Occasional buyers
+15066,52,1,893.59,0,Occasional buyers
+15067,77,3,1744.76,0,Occasional buyers
+15068,45,2,553.36,0,Occasional buyers
+15069,178,1,1109.53,1,Lapsed
+15070,372,1,106.2,1,Lapsed
+15071,93,2,982.07,0,Occasional buyers
+15073,9,3,1043.41,0,Occasional buyers
+15074,104,1,748.87,0,Occasional buyers
+15075,77,1,773.03,0,Occasional buyers
+15076,172,1,880.85,1,Lapsed
+15078,6,32,9743.11,3,Big spenders
+15079,212,4,895.61,1,Lapsed
+15081,21,5,504.8,0,Occasional buyers
+15083,256,1,88.2,1,Lapsed
+15087,281,1,306.94,1,Lapsed
+15088,20,2,1160.07,0,Occasional buyers
+15089,9,6,2420.84,0,Occasional buyers
+15090,307,1,381.32,1,Lapsed
+15091,67,1,480.71,0,Occasional buyers
+15092,214,2,457.81,1,Lapsed
+15093,17,6,4597.02,0,Occasional buyers
+15095,103,4,1370.6,0,Occasional buyers
+15096,42,1,219.39,0,Occasional buyers
+15097,3,1,248.08,0,Occasional buyers
+15098,181,3,39916.5,3,Big spenders
+15099,83,1,410.48,0,Occasional buyers
+15100,333,3,876.0,1,Lapsed
+15101,8,2,317.53,0,Occasional buyers
+15103,30,2,703.36,0,Occasional buyers
+15104,196,2,1027.44,1,Lapsed
+15105,17,7,2298.93,0,Occasional buyers
+15106,17,5,1422.52,0,Occasional buyers
+15107,310,6,319.5,1,Lapsed
+15108,141,3,1159.25,0,Occasional buyers
+15109,245,1,484.95,1,Lapsed
+15110,23,4,996.1,0,Occasional buyers
+15111,28,3,1567.48,0,Occasional buyers
+15113,9,3,3608.94,0,Occasional buyers
+15114,29,10,2760.56,0,Occasional buyers
+15115,17,1,340.11,0,Occasional buyers
+15116,17,4,1352.75,0,Occasional buyers
+15117,14,5,1551.78,0,Occasional buyers
+15118,133,1,244.8,0,Occasional buyers
+15119,245,1,266.4,1,Lapsed
+15120,133,1,358.82,0,Occasional buyers
+15121,49,2,457.72,0,Occasional buyers
+15122,113,3,1633.78,0,Occasional buyers
+15123,6,2,2199.31,0,Occasional buyers
+15124,22,2,184.19,0,Occasional buyers
+15125,24,15,11528.48,3,Big spenders
+15127,65,1,406.53,0,Occasional buyers
+15128,59,4,1471.0,0,Occasional buyers
+15129,49,11,3447.4,0,Occasional buyers
+15130,169,1,330.11,1,Lapsed
+15132,17,5,977.93,0,Occasional buyers
+15133,127,3,982.42,0,Occasional buyers
+15134,14,8,1387.99,0,Occasional buyers
+15135,238,1,139.05,1,Lapsed
+15136,2,4,1286.7,0,Occasional buyers
+15139,239,2,178.96,1,Lapsed
+15140,51,7,2354.25,0,Occasional buyers
+15142,45,1,498.74,0,Occasional buyers
+15143,225,1,259.45,1,Lapsed
+15144,7,17,6580.44,3,Big spenders
+15145,3,4,1194.73,0,Occasional buyers
+15146,164,2,1327.16,1,Lapsed
+15147,239,1,623.5,1,Lapsed
+15148,10,1,301.29,0,Occasional buyers
+15149,133,1,520.8,0,Occasional buyers
+15150,16,10,5314.47,0,Occasional buyers
+15152,9,13,4745.69,0,Occasional buyers
+15153,30,1,329.25,0,Occasional buyers
+15154,74,1,296.42,0,Occasional buyers
+15156,0,3,961.49,0,Occasional buyers
+15157,3,3,1936.07,0,Occasional buyers
+15158,44,1,401.4,0,Occasional buyers
+15159,1,30,18641.01,3,Big spenders
+15160,356,1,158.16,1,Lapsed
+15163,17,2,304.47,0,Occasional buyers
+15164,68,3,843.05,0,Occasional buyers
+15165,372,1,487.75,1,Lapsed
+15167,320,1,163.0,1,Lapsed
+15168,25,1,106.56,0,Occasional buyers
+15171,330,1,1289.5,1,Lapsed
+15172,8,5,1624.05,0,Occasional buyers
+15174,322,1,135.75,1,Lapsed
+15175,71,1,224.14,0,Occasional buyers
+15178,259,1,40.5,1,Lapsed
+15179,17,5,2206.95,0,Occasional buyers
+15180,366,1,87.5,1,Lapsed
+15181,65,3,689.48,0,Occasional buyers
+15182,153,2,622.85,1,Lapsed
+15184,28,2,406.76,0,Occasional buyers
+15185,69,1,310.62,0,Occasional buyers
+15186,13,2,411.41,0,Occasional buyers
+15187,1,15,4762.18,3,Big spenders
+15189,0,41,16225.39,3,Big spenders
+15192,119,3,1044.32,0,Occasional buyers
+15193,60,1,499.32,0,Occasional buyers
+15194,2,15,7616.53,3,Big spenders
+15195,2,1,3861.0,0,Occasional buyers
+15197,10,3,1079.61,0,Occasional buyers
+15198,91,2,193.64,0,Occasional buyers
+15199,58,4,1268.7,0,Occasional buyers
+15201,86,5,1236.54,0,Occasional buyers
+15203,25,6,1827.8,0,Occasional buyers
+15204,356,1,316.58,1,Lapsed
+15205,84,2,653.24,0,Occasional buyers
+15206,9,4,420.3,0,Occasional buyers
+15208,0,5,870.12,0,Occasional buyers
+15210,224,1,331.18,1,Lapsed
+15211,59,2,894.41,0,Occasional buyers
+15212,240,1,101.8,1,Lapsed
+15213,318,2,328.35,1,Lapsed
+15214,1,8,1661.44,0,Occasional buyers
+15215,46,3,734.94,0,Occasional buyers
+15216,87,1,96.6,0,Occasional buyers
+15218,10,11,5756.89,0,Occasional buyers
+15219,175,1,305.75,1,Lapsed
+15220,51,6,1778.96,0,Occasional buyers
+15221,365,1,403.25,1,Lapsed
+15222,318,1,585.0,1,Lapsed
+15223,225,2,755.75,1,Lapsed
+15224,357,2,322.08,1,Lapsed
+15225,233,1,409.4,1,Lapsed
+15226,310,1,154.41,1,Lapsed
+15227,36,5,1219.4,0,Occasional buyers
+15228,65,4,3386.71,0,Occasional buyers
+15230,238,2,429.6,1,Lapsed
+15232,112,2,612.06,0,Occasional buyers
+15234,276,1,197.0,1,Lapsed
+15235,217,12,2247.51,1,Lapsed
+15236,298,1,321.05,1,Lapsed
+15237,1,4,1412.32,0,Occasional buyers
+15238,28,3,1071.99,0,Occasional buyers
+15239,9,2,780.59,0,Occasional buyers
+15240,44,5,1706.57,0,Occasional buyers
+15241,66,8,1756.44,0,Occasional buyers
+15243,73,1,316.68,0,Occasional buyers
+15244,64,2,631.57,0,Occasional buyers
+15245,133,3,2515.84,0,Occasional buyers
+15246,237,2,514.15,1,Lapsed
+15247,121,1,356.0,0,Occasional buyers
+15249,31,13,6688.46,3,Big spenders
+15251,8,11,10484.99,0,Occasional buyers
+15252,35,2,740.78,0,Occasional buyers
+15253,15,5,918.2,0,Occasional buyers
+15254,126,1,300.36,0,Occasional buyers
+15255,66,1,890.85,0,Occasional buyers
+15256,148,1,98.45,1,Lapsed
+15257,282,1,317.15,1,Lapsed
+15258,168,2,623.16,1,Lapsed
+15260,99,7,1810.77,0,Occasional buyers
+15261,134,1,254.82,0,Occasional buyers
+15262,323,1,178.95,1,Lapsed
+15263,106,1,156.51,0,Occasional buyers
+15264,63,1,393.74,0,Occasional buyers
+15265,150,2,1506.12,1,Lapsed
+15266,337,1,119.3,1,Lapsed
+15267,21,5,1717.36,0,Occasional buyers
+15269,23,1,408.8,0,Occasional buyers
+15270,15,7,2379.49,0,Occasional buyers
+15271,6,15,2507.07,3,Big spenders
+15272,56,2,721.94,0,Occasional buyers
+15274,3,2,716.57,0,Occasional buyers
+15275,37,1,615.14,0,Occasional buyers
+15276,65,1,135.31,0,Occasional buyers
+15277,46,1,255.9,0,Occasional buyers
+15279,354,1,290.51,1,Lapsed
+15280,171,1,113.12,1,Lapsed
+15281,58,9,2332.15,0,Occasional buyers
+15286,49,1,240.55,0,Occasional buyers
+15287,21,2,486.69,0,Occasional buyers
+15288,42,5,2306.52,0,Occasional buyers
+15289,28,3,939.78,0,Occasional buyers
+15290,4,18,7943.22,3,Big spenders
+15291,25,14,4623.3,3,Big spenders
+15292,200,1,180.94,1,Lapsed
+15296,50,6,3672.86,0,Occasional buyers
+15297,9,3,641.94,0,Occasional buyers
+15298,1,12,4799.9,0,Occasional buyers
+15299,66,6,3907.01,0,Occasional buyers
+15300,63,1,496.44,0,Occasional buyers
+15301,50,12,5070.35,0,Occasional buyers
+15303,289,1,574.02,1,Lapsed
+15304,60,8,694.4,0,Occasional buyers
+15306,63,3,1174.35,0,Occasional buyers
+15307,95,1,205.3,0,Occasional buyers
+15308,273,1,310.47,1,Lapsed
+15311,0,91,60767.9,2,Champions
+15312,74,4,924.85,0,Occasional buyers
+15313,109,1,52.0,0,Occasional buyers
+15314,198,1,327.97,1,Lapsed
+15315,63,2,570.5,0,Occasional buyers
+15316,326,1,165.0,1,Lapsed
+15318,3,1,312.62,0,Occasional buyers
+15319,283,1,204.5,1,Lapsed
+15320,43,1,267.13,0,Occasional buyers
+15321,70,3,2748.31,0,Occasional buyers
+15322,85,1,679.68,0,Occasional buyers
+15325,103,1,162.29,0,Occasional buyers
+15326,333,1,311.71,1,Lapsed
+15327,52,1,208.75,0,Occasional buyers
+15329,38,3,1049.7,0,Occasional buyers
+15330,31,2,714.96,0,Occasional buyers
+15332,365,4,1661.06,1,Lapsed
+15333,207,1,1028.56,1,Lapsed
+15334,156,3,348.72,1,Lapsed
+15335,53,1,173.97,0,Occasional buyers
+15339,65,2,574.07,0,Occasional buyers
+15341,80,1,2020.52,0,Occasional buyers
+15342,129,1,406.09,0,Occasional buyers
+15343,86,1,364.5,0,Occasional buyers
+15344,0,3,563.94,0,Occasional buyers
+15345,45,1,393.54,0,Occasional buyers
+15346,332,1,252.42,1,Lapsed
+15347,365,1,201.6,1,Lapsed
+15348,71,1,158.04,0,Occasional buyers
+15349,157,2,473.81,1,Lapsed
+15350,372,1,115.65,1,Lapsed
+15351,11,7,1960.11,0,Occasional buyers
+15353,254,2,777.02,1,Lapsed
+15355,28,2,277.05,0,Occasional buyers
+15356,30,10,2766.5,0,Occasional buyers
+15358,4,22,8347.2,3,Big spenders
+15360,39,1,427.93,0,Occasional buyers
+15361,361,1,418.92,1,Lapsed
+15363,372,1,326.0,1,Lapsed
+15364,95,2,913.19,0,Occasional buyers
+15365,25,7,2314.32,0,Occasional buyers
+15366,74,2,602.51,0,Occasional buyers
+15367,56,4,1877.59,0,Occasional buyers
+15368,20,1,446.94,0,Occasional buyers
+15370,40,7,2386.05,0,Occasional buyers
+15372,136,1,2007.4,0,Occasional buyers
+15373,7,12,2415.91,0,Occasional buyers
+15374,128,1,168.0,0,Occasional buyers
+15376,39,3,1233.36,0,Occasional buyers
+15379,168,7,3703.29,1,Lapsed
+15380,8,5,1690.26,0,Occasional buyers
+15381,213,2,596.85,1,Lapsed
+15382,14,6,5955.71,0,Occasional buyers
+15384,169,2,642.41,1,Lapsed
+15385,39,1,316.88,0,Occasional buyers
+15386,185,1,394.14,1,Lapsed
+15388,269,1,140.54,1,Lapsed
+15389,171,1,500.0,1,Lapsed
+15392,4,4,1535.53,0,Occasional buyers
+15393,15,2,231.86,0,Occasional buyers
+15394,9,4,2183.54,0,Occasional buyers
+15395,325,1,107.45,1,Lapsed
+15396,112,1,288.18,0,Occasional buyers
+15397,289,1,94.0,1,Lapsed
+15398,15,2,1345.53,0,Occasional buyers
+15399,0,3,815.77,0,Occasional buyers
+15400,91,5,716.2,0,Occasional buyers
+15402,148,2,626.35,1,Lapsed
+15405,188,1,349.1,1,Lapsed
+15406,30,2,510.71,0,Occasional buyers
+15407,33,4,1056.44,0,Occasional buyers
+15408,263,1,267.18,1,Lapsed
+15410,83,8,3450.84,0,Occasional buyers
+15411,25,4,1358.88,0,Occasional buyers
+15412,170,1,190.53,1,Lapsed
+15414,9,3,774.9,0,Occasional buyers
+15415,312,1,572.81,1,Lapsed
+15416,64,4,3984.32,0,Occasional buyers
+15417,84,1,508.8,0,Occasional buyers
+15419,24,1,135.86,0,Occasional buyers
+15421,58,4,950.36,0,Occasional buyers
+15422,322,2,97.7,1,Lapsed
+15423,37,1,43.5,0,Occasional buyers
+15424,253,2,383.34,1,Lapsed
+15426,18,5,1447.39,0,Occasional buyers
+15427,32,3,1483.14,0,Occasional buyers
+15428,14,1,93.78,0,Occasional buyers
+15429,26,2,397.35,0,Occasional buyers
+15432,22,1,171.19,0,Occasional buyers
+15433,213,2,533.3,1,Lapsed
+15434,7,5,1041.48,0,Occasional buyers
+15435,21,1,149.29,0,Occasional buyers
+15436,11,3,1122.53,0,Occasional buyers
+15437,261,1,200.16,1,Lapsed
+15438,130,1,156.58,0,Occasional buyers
+15440,54,3,383.68,0,Occasional buyers
+15442,248,1,594.0,1,Lapsed
+15443,1,7,3236.91,0,Occasional buyers
+15444,8,2,1418.26,0,Occasional buyers
+15445,263,1,113.5,1,Lapsed
+15447,330,1,155.17,1,Lapsed
+15448,312,1,494.64,1,Lapsed
+15449,25,3,974.52,0,Occasional buyers
+15450,29,1,429.84,0,Occasional buyers
+15452,29,3,538.73,0,Occasional buyers
+15453,1,7,1388.37,0,Occasional buyers
+15454,361,1,179.1,1,Lapsed
+15456,282,3,447.22,1,Lapsed
+15457,261,1,237.07,1,Lapsed
+15458,24,1,161.64,0,Occasional buyers
+15460,353,1,216.76,1,Lapsed
+15462,93,3,234.6,0,Occasional buyers
+15463,28,1,126.14,0,Occasional buyers
+15464,337,1,1048.85,1,Lapsed
+15465,19,18,7354.62,3,Big spenders
+15466,84,1,334.53,0,Occasional buyers
+15467,8,3,524.88,0,Occasional buyers
+15468,50,2,467.51,0,Occasional buyers
+15469,49,2,538.55,0,Occasional buyers
+15471,1,1,469.48,0,Occasional buyers
+15472,112,1,371.56,0,Occasional buyers
+15473,13,7,1771.2,0,Occasional buyers
+15475,76,1,454.11,0,Occasional buyers
+15478,39,2,1441.42,0,Occasional buyers
+15480,115,1,905.5,0,Occasional buyers
+15482,15,11,11014.96,3,Big spenders
+15483,160,4,233.81,1,Lapsed
+15484,0,4,3594.31,0,Occasional buyers
+15485,29,3,2575.0,0,Occasional buyers
+15488,92,1,91.32,0,Occasional buyers
+15489,22,3,1134.28,0,Occasional buyers
+15491,94,6,3100.09,0,Occasional buyers
+15492,27,2,659.46,0,Occasional buyers
+15493,32,5,2001.8,0,Occasional buyers
+15494,20,2,1299.23,0,Occasional buyers
+15497,17,2,1262.2,0,Occasional buyers
+15498,2,27,13316.4,3,Big spenders
+15500,7,4,1131.56,0,Occasional buyers
+15502,15,10,6923.98,0,Occasional buyers
+15503,362,1,147.09,1,Lapsed
+15504,80,1,52.83,0,Occasional buyers
+15505,52,5,3610.96,0,Occasional buyers
+15506,22,3,979.26,0,Occasional buyers
+15507,171,1,492.36,1,Lapsed
+15508,188,6,1000.27,1,Lapsed
+15510,330,1,250.0,1,Lapsed
+15511,11,5,909.23,0,Occasional buyers
+15512,155,2,121.0,1,Lapsed
+15513,32,19,14758.22,3,Big spenders
+15514,11,11,4139.46,0,Occasional buyers
+15516,44,3,62.43,0,Occasional buyers
+15517,232,1,267.03,1,Lapsed
+15518,63,8,1942.45,0,Occasional buyers
+15520,1,1,343.5,0,Occasional buyers
+15521,39,8,3000.2,0,Occasional buyers
+15522,32,2,398.84,0,Occasional buyers
+15523,83,1,412.01,0,Occasional buyers
+15524,24,1,440.0,0,Occasional buyers
+15525,1,3,823.42,0,Occasional buyers
+15526,32,2,148.44,0,Occasional buyers
+15527,18,8,2429.78,0,Occasional buyers
+15528,253,1,229.33,1,Lapsed
+15529,22,11,3992.68,0,Occasional buyers
+15530,21,4,1502.35,0,Occasional buyers
+15531,7,2,2007.44,0,Occasional buyers
+15532,24,4,1571.03,0,Occasional buyers
+15533,18,3,807.57,0,Occasional buyers
+15535,172,4,536.4,1,Lapsed
+15537,162,1,110.92,1,Lapsed
+15539,6,1,538.46,0,Occasional buyers
+15540,10,1,213.3,0,Occasional buyers
+15541,113,1,85.13,0,Occasional buyers
+15543,287,1,127.86,1,Lapsed
+15544,8,9,3546.71,0,Occasional buyers
+15545,53,2,292.72,0,Occasional buyers
+15547,6,14,4954.84,3,Big spenders
+15549,76,3,1689.51,0,Occasional buyers
+15550,3,4,575.63,0,Occasional buyers
+15551,36,1,436.06,0,Occasional buyers
+15552,216,1,90.12,1,Lapsed
+15553,59,1,437.23,0,Occasional buyers
+15554,277,1,217.2,1,Lapsed
+15555,11,16,4802.18,3,Big spenders
+15556,23,1,279.77,0,Occasional buyers
+15557,28,1,473.65,0,Occasional buyers
+15561,11,4,800.59,0,Occasional buyers
+15562,351,1,134.55,1,Lapsed
+15563,21,3,1361.44,0,Occasional buyers
+15565,49,2,173.16,0,Occasional buyers
+15567,18,1,186.01,0,Occasional buyers
+15568,2,3,758.29,0,Occasional buyers
+15569,103,5,1375.71,0,Occasional buyers
+15570,6,12,4165.52,0,Occasional buyers
+15571,11,4,650.43,0,Occasional buyers
+15572,4,7,2552.86,0,Occasional buyers
+15573,31,2,599.5,0,Occasional buyers
+15574,177,4,702.25,1,Lapsed
+15576,37,1,940.67,0,Occasional buyers
+15577,150,3,258.88,1,Lapsed
+15578,161,1,127.1,1,Lapsed
+15579,68,2,348.6,0,Occasional buyers
+15581,155,10,721.63,0,Occasional buyers
+15582,24,3,682.91,0,Occasional buyers
+15584,23,4,725.11,0,Occasional buyers
+15585,176,1,455.3,1,Lapsed
+15587,49,4,913.68,0,Occasional buyers
+15589,255,3,478.53,1,Lapsed
+15592,46,1,388.58,0,Occasional buyers
+15593,70,1,199.8,0,Occasional buyers
+15594,15,5,1771.78,0,Occasional buyers
+15596,100,5,1406.59,0,Occasional buyers
+15597,34,1,324.57,0,Occasional buyers
+15598,52,1,240.68,0,Occasional buyers
+15599,26,2,761.74,0,Occasional buyers
+15601,10,14,6776.56,3,Big spenders
+15602,7,9,1297.87,0,Occasional buyers
+15603,78,1,48.48,0,Occasional buyers
+15604,51,1,216.39,0,Occasional buyers
+15605,35,5,1198.23,0,Occasional buyers
+15606,60,9,2920.16,0,Occasional buyers
+15607,336,1,104.76,1,Lapsed
+15608,27,4,1093.68,0,Occasional buyers
+15609,183,1,298.48,1,Lapsed
+15610,51,1,112.46,0,Occasional buyers
+15611,9,11,1570.45,0,Occasional buyers
+15612,35,2,195.15,0,Occasional buyers
+15615,9,23,10399.74,3,Big spenders
+15618,32,4,776.85,0,Occasional buyers
+15619,10,1,336.4,0,Occasional buyers
+15620,56,3,1553.18,0,Occasional buyers
+15621,3,4,1293.03,0,Occasional buyers
+15622,42,9,3709.56,0,Occasional buyers
+15623,140,1,301.03,0,Occasional buyers
+15624,116,4,588.13,0,Occasional buyers
+15625,103,4,1534.26,0,Occasional buyers
+15626,74,2,675.8,0,Occasional buyers
+15628,4,9,2870.24,0,Occasional buyers
+15630,44,2,1186.35,0,Occasional buyers
+15632,15,8,3285.31,0,Occasional buyers
+15634,16,1,243.55,0,Occasional buyers
+15636,89,2,724.76,0,Occasional buyers
+15637,52,1,223.36,0,Occasional buyers
+15639,133,1,425.32,0,Occasional buyers
+15640,3,15,12515.66,3,Big spenders
+15641,104,4,1887.2,0,Occasional buyers
+15643,191,3,664.0,1,Lapsed
+15644,165,4,813.0,1,Lapsed
+15645,18,1,611.59,0,Occasional buyers
+15646,157,3,447.64,1,Lapsed
+15648,203,2,657.35,1,Lapsed
+15649,335,2,816.0,1,Lapsed
+15651,36,3,646.3,0,Occasional buyers
+15652,90,1,337.74,0,Occasional buyers
+15653,92,2,877.44,0,Occasional buyers
+15654,8,2,922.53,0,Occasional buyers
+15655,242,1,560.67,1,Lapsed
+15656,44,4,748.5,0,Occasional buyers
+15657,22,1,30.0,0,Occasional buyers
+15658,189,5,1024.1,1,Lapsed
+15659,43,1,306.45,0,Occasional buyers
+15660,24,9,1600.86,0,Occasional buyers
+15661,316,2,309.8,1,Lapsed
+15663,105,1,138.14,0,Occasional buyers
+15664,50,1,386.43,0,Occasional buyers
+15665,167,2,2242.01,1,Lapsed
+15667,39,1,301.32,0,Occasional buyers
+15668,217,1,76.32,1,Lapsed
+15669,39,4,684.34,0,Occasional buyers
+15670,296,1,173.05,1,Lapsed
+15671,18,7,2657.13,0,Occasional buyers
+15673,87,4,2881.02,0,Occasional buyers
+15674,72,4,2111.89,0,Occasional buyers
+15675,80,3,323.69,0,Occasional buyers
+15676,18,3,3435.76,0,Occasional buyers
+15677,48,1,657.23,0,Occasional buyers
+15678,52,1,352.7,0,Occasional buyers
+15679,23,4,781.28,0,Occasional buyers
+15680,8,3,1333.68,0,Occasional buyers
+15681,24,5,1426.16,0,Occasional buyers
+15683,116,1,193.75,0,Occasional buyers
+15687,8,9,2993.1,0,Occasional buyers
+15689,119,2,254.1,0,Occasional buyers
+15690,3,2,239.76,0,Occasional buyers
+15691,251,1,136.8,1,Lapsed
+15692,27,1,191.04,0,Occasional buyers
+15694,0,13,6464.4,3,Big spenders
+15695,266,2,409.98,1,Lapsed
+15696,32,8,2736.46,0,Occasional buyers
+15699,17,1,309.65,0,Occasional buyers
+15700,171,2,696.68,1,Lapsed
+15701,1,4,1542.14,0,Occasional buyers
+15703,264,1,211.5,1,Lapsed
+15704,139,4,2293.62,0,Occasional buyers
+15705,200,1,143.1,1,Lapsed
+15706,63,4,1060.56,0,Occasional buyers
+15707,34,4,945.58,0,Occasional buyers
+15708,40,7,3364.24,0,Occasional buyers
+15709,283,1,133.25,1,Lapsed
+15712,8,5,1072.36,0,Occasional buyers
+15713,142,2,356.7,0,Occasional buyers
+15714,11,2,330.88,0,Occasional buyers
+15716,145,4,1118.81,0,Occasional buyers
+15717,233,1,150.3,1,Lapsed
+15719,32,13,5043.96,0,Occasional buyers
+15720,23,1,598.73,0,Occasional buyers
+15721,11,1,507.08,0,Occasional buyers
+15722,35,5,2222.56,0,Occasional buyers
+15723,364,1,203.1,1,Lapsed
+15724,200,2,218.25,1,Lapsed
+15725,14,1,415.25,0,Occasional buyers
+15727,16,7,5178.96,0,Occasional buyers
+15729,212,1,85.0,1,Lapsed
+15730,65,3,1120.88,0,Occasional buyers
+15732,211,2,294.12,1,Lapsed
+15733,282,1,162.3,1,Lapsed
+15734,114,2,1339.45,0,Occasional buyers
+15737,14,8,1205.12,0,Occasional buyers
+15738,18,16,4812.42,3,Big spenders
+15739,65,1,449.12,0,Occasional buyers
+15740,48,1,154.88,0,Occasional buyers
+15743,15,4,784.46,0,Occasional buyers
+15744,77,1,34.8,0,Occasional buyers
+15745,18,4,1094.59,0,Occasional buyers
+15746,133,1,196.88,0,Occasional buyers
+15747,12,3,974.04,0,Occasional buyers
+15748,39,1,149.31,0,Occasional buyers
+15749,234,3,44534.3,3,Big spenders
+15750,2,8,2465.48,0,Occasional buyers
+15752,39,7,2637.38,0,Occasional buyers
+15753,304,1,79.2,1,Lapsed
+15754,50,3,458.57,0,Occasional buyers
+15755,9,6,2364.25,0,Occasional buyers
+15756,60,4,532.96,0,Occasional buyers
+15757,65,2,714.42,0,Occasional buyers
+15758,24,1,205.25,0,Occasional buyers
+15759,217,3,253.04,1,Lapsed
+15762,64,2,583.75,0,Occasional buyers
+15763,31,2,1086.92,0,Occasional buyers
+15764,87,6,3279.97,0,Occasional buyers
+15766,63,1,315.06,0,Occasional buyers
+15768,115,3,621.83,0,Occasional buyers
+15769,6,26,56252.72,3,Big spenders
+15773,5,1,635.68,0,Occasional buyers
+15774,68,1,270.8,0,Occasional buyers
+15775,244,1,104.9,1,Lapsed
+15776,132,1,241.62,0,Occasional buyers
+15777,240,4,1047.11,1,Lapsed
+15780,183,3,475.28,1,Lapsed
+15781,24,3,345.46,0,Occasional buyers
+15782,9,3,2614.74,0,Occasional buyers
+15783,10,1,246.3,0,Occasional buyers
+15785,32,5,2328.97,0,Occasional buyers
+15786,45,3,4932.2,0,Occasional buyers
+15787,25,3,948.05,0,Occasional buyers
+15789,357,1,351.3,1,Lapsed
+15790,9,1,220.85,0,Occasional buyers
+15791,43,2,1612.69,0,Occasional buyers
+15793,14,3,965.61,0,Occasional buyers
+15795,149,1,610.01,1,Lapsed
+15796,0,8,2710.56,0,Occasional buyers
+15797,112,3,2192.4,0,Occasional buyers
+15799,75,3,884.14,0,Occasional buyers
+15800,106,2,699.08,0,Occasional buyers
+15801,45,3,1063.95,0,Occasional buyers
+15803,50,1,415.82,0,Occasional buyers
+15804,0,13,4206.39,0,Occasional buyers
+15805,22,17,5528.48,3,Big spenders
+15806,45,3,784.58,0,Occasional buyers
+15807,49,3,903.9,0,Occasional buyers
+15808,305,4,3734.97,1,Lapsed
+15809,35,5,515.77,0,Occasional buyers
+15810,78,4,1391.98,0,Occasional buyers
+15811,21,6,2218.62,0,Occasional buyers
+15812,106,5,1801.14,0,Occasional buyers
+15813,207,2,1303.91,1,Lapsed
+15814,16,4,1945.33,0,Occasional buyers
+15815,63,5,2100.6,0,Occasional buyers
+15819,48,4,1905.45,0,Occasional buyers
+15820,319,1,206.98,1,Lapsed
+15821,43,2,570.96,0,Occasional buyers
+15822,2,2,885.47,0,Occasional buyers
+15825,171,1,532.94,1,Lapsed
+15826,55,3,1654.31,0,Occasional buyers
+15827,72,14,1836.09,0,Occasional buyers
+15829,98,2,636.14,0,Occasional buyers
+15830,37,1,576.0,0,Occasional buyers
+15831,57,3,801.76,0,Occasional buyers
+15832,253,1,836.79,1,Lapsed
+15834,69,4,2231.25,0,Occasional buyers
+15835,43,4,954.09,0,Occasional buyers
+15836,49,1,137.37,0,Occasional buyers
+15837,64,1,391.98,0,Occasional buyers
+15838,10,19,33643.08,3,Big spenders
+15839,32,3,1048.49,0,Occasional buyers
+15840,58,2,355.56,0,Occasional buyers
+15841,72,4,1224.06,0,Occasional buyers
+15843,303,1,118.95,1,Lapsed
+15844,45,1,130.74,0,Occasional buyers
+15845,17,8,3711.77,0,Occasional buyers
+15847,37,2,389.27,0,Occasional buyers
+15850,18,2,238.85,0,Occasional buyers
+15852,186,2,160.71,1,Lapsed
+15853,51,1,110.8,0,Occasional buyers
+15854,3,12,2974.65,0,Occasional buyers
+15855,136,5,712.24,0,Occasional buyers
+15856,3,27,16386.31,3,Big spenders
+15857,18,1,297.0,0,Occasional buyers
+15858,15,5,1438.85,0,Occasional buyers
+15860,40,8,977.21,0,Occasional buyers
+15861,11,8,3165.36,0,Occasional buyers
+15862,7,4,832.88,0,Occasional buyers
+15863,25,2,68.84,0,Occasional buyers
+15864,21,6,1936.32,0,Occasional buyers
+15865,40,3,895.13,0,Occasional buyers
+15866,100,1,230.53,0,Occasional buyers
+15867,4,15,3806.1,3,Big spenders
+15869,276,2,149.64,1,Lapsed
+15870,32,1,354.09,0,Occasional buyers
+15872,14,2,360.93,0,Occasional buyers
+15874,63,7,4405.88,0,Occasional buyers
+15877,1,2,493.28,0,Occasional buyers
+15880,368,1,343.28,1,Lapsed
+15881,311,5,501.39,1,Lapsed
+15882,198,4,514.08,1,Lapsed
+15883,1,2,396.48,0,Occasional buyers
+15885,92,1,349.35,0,Occasional buyers
+15886,59,1,181.09,0,Occasional buyers
+15888,80,1,162.64,0,Occasional buyers
+15889,156,2,427.57,1,Lapsed
+15891,226,1,521.97,1,Lapsed
+15894,252,2,262.9,1,Lapsed
+15895,149,1,179.17,1,Lapsed
+15897,193,2,222.05,1,Lapsed
+15898,0,5,1388.88,0,Occasional buyers
+15899,368,1,56.25,1,Lapsed
+15900,23,1,351.11,0,Occasional buyers
+15901,16,3,361.9,0,Occasional buyers
+15903,9,7,5126.76,0,Occasional buyers
+15904,7,1,164.68,0,Occasional buyers
+15906,19,7,1567.69,0,Occasional buyers
+15907,3,3,966.6,0,Occasional buyers
+15909,173,1,191.94,1,Lapsed
+15910,0,8,1232.18,0,Occasional buyers
+15912,177,2,264.62,1,Lapsed
+15916,15,8,1528.09,0,Occasional buyers
+15917,247,1,123.1,1,Lapsed
+15918,190,2,334.23,1,Lapsed
+15919,19,2,639.89,0,Occasional buyers
+15920,153,3,163.55,1,Lapsed
+15921,172,1,336.03,1,Lapsed
+15922,372,1,369.5,1,Lapsed
+15923,372,1,127.08,1,Lapsed
+15925,193,1,207.15,1,Lapsed
+15930,66,1,426.63,0,Occasional buyers
+15932,3,8,2495.87,0,Occasional buyers
+15933,20,3,1107.46,0,Occasional buyers
+15935,238,1,108.04,1,Lapsed
+15937,63,1,145.35,0,Occasional buyers
+15938,111,5,404.58,0,Occasional buyers
+15939,89,14,6100.01,3,Big spenders
+15940,310,1,35.8,1,Lapsed
+15942,133,1,337.44,0,Occasional buyers
+15944,276,1,325.1,1,Lapsed
+15945,364,1,181.0,1,Lapsed
+15947,82,1,1708.24,0,Occasional buyers
+15948,7,2,955.24,0,Occasional buyers
+15949,16,2,364.72,0,Occasional buyers
+15950,31,4,1765.51,0,Occasional buyers
+15951,8,2,708.22,0,Occasional buyers
+15952,33,4,806.57,0,Occasional buyers
+15953,14,8,1659.38,0,Occasional buyers
+15955,23,14,4416.26,3,Big spenders
+15957,31,1,428.89,0,Occasional buyers
+15958,73,1,104.35,0,Occasional buyers
+15963,19,2,470.76,0,Occasional buyers
+15965,16,4,845.64,0,Occasional buyers
+15967,22,2,418.83,0,Occasional buyers
+15969,2,3,666.1,0,Occasional buyers
+15970,303,1,314.1,1,Lapsed
+15971,17,12,4194.9,0,Occasional buyers
+15973,366,1,307.82,1,Lapsed
+15974,38,7,3442.15,0,Occasional buyers
+15975,83,1,371.01,0,Occasional buyers
+15976,164,2,430.94,1,Lapsed
+15977,16,2,1054.73,0,Occasional buyers
+15978,76,1,1098.78,0,Occasional buyers
+15980,88,3,2398.86,0,Occasional buyers
+15981,24,8,3408.48,0,Occasional buyers
+15983,21,4,1475.02,0,Occasional buyers
+15984,2,10,2837.67,0,Occasional buyers
+15985,122,2,1142.42,0,Occasional buyers
+15986,29,1,168.12,0,Occasional buyers
+15987,11,7,1451.28,0,Occasional buyers
+15988,18,1,158.03,0,Occasional buyers
+15990,43,2,792.11,0,Occasional buyers
+15992,3,1,41.99,0,Occasional buyers
+15993,8,7,2788.87,0,Occasional buyers
+15994,54,1,427.07,0,Occasional buyers
+15996,87,6,1060.68,0,Occasional buyers
+15998,36,5,3089.97,0,Occasional buyers
+16000,2,3,12393.7,0,Occasional buyers
+16003,29,5,2735.37,0,Occasional buyers
+16005,11,4,615.39,0,Occasional buyers
+16006,210,1,101.4,1,Lapsed
+16007,47,4,1701.94,0,Occasional buyers
+16008,23,3,478.78,0,Occasional buyers
+16009,21,4,992.71,0,Occasional buyers
+16010,245,3,407.5,1,Lapsed
+16011,7,16,3362.71,3,Big spenders
+16012,34,3,1415.29,0,Occasional buyers
+16013,3,47,37130.6,3,Big spenders
+16014,37,3,662.38,0,Occasional buyers
+16015,3,3,705.1,0,Occasional buyers
+16016,2,8,1508.76,0,Occasional buyers
+16017,46,1,211.88,0,Occasional buyers
+16018,38,2,408.9,0,Occasional buyers
+16019,46,9,3786.24,0,Occasional buyers
+16020,16,3,851.01,0,Occasional buyers
+16022,259,1,628.28,1,Lapsed
+16023,45,3,719.81,0,Occasional buyers
+16024,11,1,245.96,0,Occasional buyers
+16025,29,1,439.66,0,Occasional buyers
+16026,42,1,236.09,0,Occasional buyers
+16027,91,6,934.62,0,Occasional buyers
+16029,38,62,72882.09,2,Champions
+16030,309,1,331.24,1,Lapsed
+16031,91,2,548.94,0,Occasional buyers
+16033,5,20,8816.4,3,Big spenders
+16034,195,3,437.7,1,Lapsed
+16036,86,2,758.92,0,Occasional buyers
+16037,269,3,855.02,1,Lapsed
+16038,7,3,471.78,0,Occasional buyers
+16040,64,3,1313.55,0,Occasional buyers
+16041,30,3,3166.4,0,Occasional buyers
+16042,21,5,1197.27,0,Occasional buyers
+16043,37,4,773.99,0,Occasional buyers
+16045,119,4,1340.7,0,Occasional buyers
+16048,372,2,256.44,1,Lapsed
+16049,39,3,1111.79,0,Occasional buyers
+16050,173,1,137.9,1,Lapsed
+16052,53,1,362.06,0,Occasional buyers
+16053,32,2,1511.95,0,Occasional buyers
+16054,144,1,783.9,1,Lapsed
+16055,220,1,134.8,1,Lapsed
+16056,44,1,664.85,0,Occasional buyers
+16057,15,7,2263.12,0,Occasional buyers
+16059,65,6,1459.86,0,Occasional buyers
+16062,9,4,1153.62,0,Occasional buyers
+16063,259,1,335.32,1,Lapsed
+16065,364,1,372.09,1,Lapsed
+16066,16,5,1521.87,0,Occasional buyers
+16070,21,2,852.15,0,Occasional buyers
+16071,44,1,326.24,0,Occasional buyers
+16072,287,1,584.32,1,Lapsed
+16073,296,1,122.4,1,Lapsed
+16076,2,10,2234.73,0,Occasional buyers
+16078,283,1,79.2,1,Lapsed
+16079,16,3,1352.0,0,Occasional buyers
+16080,81,2,217.16,0,Occasional buyers
+16081,55,5,2806.9,0,Occasional buyers
+16083,100,2,1317.62,0,Occasional buyers
+16084,298,1,436.18,1,Lapsed
+16085,22,5,981.51,0,Occasional buyers
+16086,58,5,1121.39,0,Occasional buyers
+16091,154,2,315.06,1,Lapsed
+16092,114,3,817.86,0,Occasional buyers
+16093,106,1,17.0,0,Occasional buyers
+16094,11,4,1078.23,0,Occasional buyers
+16096,263,1,320.62,1,Lapsed
+16097,239,1,185.05,1,Lapsed
+16098,87,7,2005.63,0,Occasional buyers
+16099,49,3,731.9,0,Occasional buyers
+16101,70,1,1290.7,0,Occasional buyers
+16102,41,3,1842.14,0,Occasional buyers
+16103,6,6,1429.64,0,Occasional buyers
+16104,61,1,302.36,0,Occasional buyers
+16105,248,1,336.96,1,Lapsed
+16106,65,1,108.38,0,Occasional buyers
+16107,17,7,3204.16,0,Occasional buyers
+16108,84,1,842.5,0,Occasional buyers
+16109,218,2,611.88,1,Lapsed
+16110,44,3,1337.48,0,Occasional buyers
+16112,142,4,195.74,0,Occasional buyers
+16113,182,1,161.38,1,Lapsed
+16114,170,1,135.75,1,Lapsed
+16115,9,8,1667.97,0,Occasional buyers
+16116,211,1,612.78,1,Lapsed
+16117,189,1,232.21,1,Lapsed
+16119,7,2,423.36,0,Occasional buyers
+16120,58,4,1309.14,0,Occasional buyers
+16121,56,2,867.11,0,Occasional buyers
+16122,72,4,684.42,0,Occasional buyers
+16123,51,1,307.78,0,Occasional buyers
+16124,316,1,249.0,1,Lapsed
+16125,366,1,289.35,1,Lapsed
+16126,28,4,6287.77,0,Occasional buyers
+16127,38,1,656.25,0,Occasional buyers
+16128,17,5,1880.22,0,Occasional buyers
+16131,51,6,3506.54,0,Occasional buyers
+16133,3,33,14589.04,3,Big spenders
+16134,21,2,618.09,0,Occasional buyers
+16135,262,1,517.55,1,Lapsed
+16136,59,3,709.38,0,Occasional buyers
+16139,18,3,635.41,0,Occasional buyers
+16140,65,2,725.18,0,Occasional buyers
+16141,87,1,620.4,0,Occasional buyers
+16142,249,1,535.34,1,Lapsed
+16143,2,6,2424.94,0,Occasional buyers
+16144,246,1,175.2,1,Lapsed
+16145,8,11,3799.49,0,Occasional buyers
+16146,156,3,734.13,1,Lapsed
+16147,133,1,375.0,0,Occasional buyers
+16148,295,1,76.32,1,Lapsed
+16149,4,2,280.52,0,Occasional buyers
+16150,42,5,2053.02,0,Occasional buyers
+16152,268,1,1829.04,1,Lapsed
+16153,49,5,1824.23,0,Occasional buyers
+16156,8,9,3122.04,0,Occasional buyers
+16157,15,3,656.69,0,Occasional buyers
+16159,281,1,348.2,1,Lapsed
+16160,64,2,1025.44,0,Occasional buyers
+16161,1,19,5575.56,3,Big spenders
+16162,251,1,37.4,1,Lapsed
+16163,231,2,856.6,1,Lapsed
+16164,16,3,822.48,0,Occasional buyers
+16168,10,27,3787.6,3,Big spenders
+16169,7,4,1822.97,0,Occasional buyers
+16170,50,6,1885.05,0,Occasional buyers
+16171,58,1,73.2,0,Occasional buyers
+16172,94,5,1140.21,0,Occasional buyers
+16173,15,6,1418.32,0,Occasional buyers
+16174,125,3,1009.55,0,Occasional buyers
+16175,93,4,1037.59,0,Occasional buyers
+16177,49,1,331.95,0,Occasional buyers
+16178,137,1,197.9,0,Occasional buyers
+16179,60,1,215.83,0,Occasional buyers
+16180,99,8,10254.18,0,Occasional buyers
+16181,72,1,305.54,0,Occasional buyers
+16182,71,4,6617.65,0,Occasional buyers
+16183,66,1,338.71,0,Occasional buyers
+16184,63,6,1158.79,0,Occasional buyers
+16185,16,2,529.41,0,Occasional buyers
+16186,22,12,4006.94,0,Occasional buyers
+16187,31,15,6911.44,3,Big spenders
+16188,44,4,981.86,0,Occasional buyers
+16189,15,2,215.48,0,Occasional buyers
+16190,39,1,215.08,0,Occasional buyers
+16191,2,13,5180.52,0,Occasional buyers
+16193,236,1,314.45,1,Lapsed
+16198,74,1,400.68,0,Occasional buyers
+16200,3,2,1080.62,0,Occasional buyers
+16201,2,4,1863.47,0,Occasional buyers
+16202,360,1,365.27,1,Lapsed
+16203,58,4,592.9,0,Occasional buyers
+16204,22,1,405.71,0,Occasional buyers
+16205,30,4,754.78,0,Occasional buyers
+16206,54,4,537.06,0,Occasional buyers
+16207,24,1,394.38,0,Occasional buyers
+16208,44,2,664.26,0,Occasional buyers
+16209,88,5,2262.62,0,Occasional buyers
+16210,1,17,21076.3,3,Big spenders
+16211,88,1,547.02,0,Occasional buyers
+16212,18,2,690.34,0,Occasional buyers
+16213,78,1,159.0,0,Occasional buyers
+16214,170,3,1062.75,1,Lapsed
+16215,80,1,242.35,0,Occasional buyers
+16216,266,1,914.93,1,Lapsed
+16217,234,2,304.25,1,Lapsed
+16218,29,7,3084.68,0,Occasional buyers
+16221,36,3,864.86,0,Occasional buyers
+16222,317,1,846.72,1,Lapsed
+16224,56,4,1295.3,0,Occasional buyers
+16225,44,5,1096.32,0,Occasional buyers
+16226,202,3,255.12,1,Lapsed
+16227,224,1,314.22,1,Lapsed
+16229,86,2,1010.6,0,Occasional buyers
+16230,189,2,542.03,1,Lapsed
+16232,43,4,990.88,0,Occasional buyers
+16233,70,3,536.68,0,Occasional buyers
+16235,40,4,857.31,0,Occasional buyers
+16236,77,1,432.2,0,Occasional buyers
+16239,56,2,414.2,0,Occasional buyers
+16240,23,2,3718.8,0,Occasional buyers
+16241,9,13,2607.87,0,Occasional buyers
+16242,7,7,3603.21,0,Occasional buyers
+16243,33,2,409.1,0,Occasional buyers
+16244,211,2,1522.75,1,Lapsed
+16245,23,3,1413.66,0,Occasional buyers
+16247,169,1,114.56,1,Lapsed
+16248,61,1,152.94,0,Occasional buyers
+16249,52,5,1800.07,0,Occasional buyers
+16250,260,2,389.44,1,Lapsed
+16253,66,2,3683.86,0,Occasional buyers
+16255,16,8,2619.91,0,Occasional buyers
+16256,266,1,752.43,1,Lapsed
+16257,176,1,21.95,1,Lapsed
+16258,44,5,5203.51,0,Occasional buyers
+16260,50,1,1035.45,0,Occasional buyers
+16261,16,4,746.83,0,Occasional buyers
+16265,8,9,5347.0,0,Occasional buyers
+16266,73,7,861.89,0,Occasional buyers
+16268,70,2,617.65,0,Occasional buyers
+16270,352,1,1141.24,1,Lapsed
+16271,15,4,1414.24,0,Occasional buyers
+16272,116,1,411.7,0,Occasional buyers
+16274,372,1,337.75,1,Lapsed
+16275,196,1,559.87,1,Lapsed
+16276,176,1,810.6,1,Lapsed
+16278,99,1,566.38,0,Occasional buyers
+16279,20,3,1509.58,0,Occasional buyers
+16281,71,1,2062.06,0,Occasional buyers
+16282,339,1,168.3,1,Lapsed
+16283,5,5,1569.11,0,Occasional buyers
+16284,30,2,823.97,0,Occasional buyers
+16287,169,1,142.5,1,Lapsed
+16292,121,1,302.25,0,Occasional buyers
+16293,21,10,2248.99,0,Occasional buyers
+16295,9,4,1328.55,0,Occasional buyers
+16297,268,1,301.9,1,Lapsed
+16298,22,3,598.2,0,Occasional buyers
+16302,126,1,233.22,0,Occasional buyers
+16303,25,3,5360.63,0,Occasional buyers
+16305,138,1,361.22,0,Occasional buyers
+16306,213,6,632.27,1,Lapsed
+16308,37,4,2560.0,0,Occasional buyers
+16309,105,2,706.57,0,Occasional buyers
+16311,17,2,616.26,0,Occasional buyers
+16313,2,2,274.15,0,Occasional buyers
+16315,330,1,226.37,1,Lapsed
+16316,63,8,2938.91,0,Occasional buyers
+16317,119,3,1341.65,0,Occasional buyers
+16318,34,1,328.15,0,Occasional buyers
+16319,217,1,404.4,1,Lapsed
+16320,171,2,1038.46,1,Lapsed
+16321,71,5,373.65,0,Occasional buyers
+16322,0,2,326.75,0,Occasional buyers
+16323,195,1,207.5,1,Lapsed
+16324,127,3,428.68,0,Occasional buyers
+16325,46,3,594.24,0,Occasional buyers
+16326,5,14,3110.96,0,Occasional buyers
+16327,13,6,3813.62,0,Occasional buyers
+16330,17,3,251.91,0,Occasional buyers
+16332,27,7,1593.2,0,Occasional buyers
+16333,7,22,26626.8,3,Big spenders
+16337,36,1,151.05,0,Occasional buyers
+16338,156,1,214.8,1,Lapsed
+16339,283,1,109.95,1,Lapsed
+16340,106,1,549.07,0,Occasional buyers
+16341,24,4,1971.87,0,Occasional buyers
+16342,74,4,322.41,0,Occasional buyers
+16343,15,2,370.48,0,Occasional buyers
+16344,157,1,101.1,1,Lapsed
+16345,43,1,575.41,0,Occasional buyers
+16347,10,2,887.65,0,Occasional buyers
+16348,31,7,1467.11,0,Occasional buyers
+16349,290,1,53.5,1,Lapsed
+16350,20,4,1116.47,0,Occasional buyers
+16351,332,1,153.9,1,Lapsed
+16352,17,2,494.44,0,Occasional buyers
+16353,3,23,6675.71,3,Big spenders
+16354,62,2,395.8,0,Occasional buyers
+16356,197,3,211.77,1,Lapsed
+16357,32,3,658.88,0,Occasional buyers
+16358,0,4,2027.5,0,Occasional buyers
+16359,6,9,1750.92,0,Occasional buyers
+16360,4,6,3512.53,0,Occasional buyers
+16361,9,4,896.66,0,Occasional buyers
+16362,31,5,734.77,0,Occasional buyers
+16363,52,1,109.36,0,Occasional buyers
+16364,11,2,707.04,0,Occasional buyers
+16365,17,9,1540.42,0,Occasional buyers
+16366,18,1,327.3,0,Occasional buyers
+16367,36,2,804.49,0,Occasional buyers
+16368,1,2,497.43,0,Occasional buyers
+16369,17,3,1551.58,0,Occasional buyers
+16370,81,4,1320.56,0,Occasional buyers
+16372,32,2,367.93,0,Occasional buyers
+16374,65,2,465.08,0,Occasional buyers
+16376,8,2,987.01,0,Occasional buyers
+16377,266,1,676.2,1,Lapsed
+16378,246,3,362.95,1,Lapsed
+16379,3,4,2157.4,0,Occasional buyers
+16380,60,1,1780.59,0,Occasional buyers
+16383,74,2,668.36,0,Occasional buyers
+16384,89,2,584.5,0,Occasional buyers
+16385,59,3,555.89,0,Occasional buyers
+16386,28,2,317.2,0,Occasional buyers
+16387,322,1,94.36,1,Lapsed
+16389,52,4,1382.07,0,Occasional buyers
+16392,269,1,221.19,1,Lapsed
+16393,1,13,3046.21,0,Occasional buyers
+16394,56,5,1555.34,0,Occasional buyers
+16395,60,5,1486.9,0,Occasional buyers
+16398,153,2,1705.8,1,Lapsed
+16399,18,2,406.77,0,Occasional buyers
+16400,94,1,303.93,0,Occasional buyers
+16401,0,12,4098.32,0,Occasional buyers
+16402,264,2,299.6,1,Lapsed
+16403,311,1,177.5,1,Lapsed
+16404,69,1,443.05,0,Occasional buyers
+16405,301,2,167.25,1,Lapsed
+16406,18,1,163.07,0,Occasional buyers
+16407,12,10,2126.93,0,Occasional buyers
+16409,35,5,2028.88,0,Occasional buyers
+16411,18,2,214.65,0,Occasional buyers
+16412,53,1,151.83,0,Occasional buyers
+16413,56,1,262.2,0,Occasional buyers
+16414,21,2,126.25,0,Occasional buyers
+16415,43,1,210.35,0,Occasional buyers
+16416,26,3,1051.4,0,Occasional buyers
+16418,44,3,675.27,0,Occasional buyers
+16419,112,6,972.23,0,Occasional buyers
+16422,16,51,34684.4,3,Big spenders
+16423,24,1,346.12,0,Occasional buyers
+16424,190,1,133.56,1,Lapsed
+16425,301,1,302.7,1,Lapsed
+16426,1,10,1908.25,0,Occasional buyers
+16427,262,2,241.06,1,Lapsed
+16429,105,1,284.55,0,Occasional buyers
+16430,56,1,300.85,0,Occasional buyers
+16431,212,3,642.81,1,Lapsed
+16432,63,1,287.4,0,Occasional buyers
+16433,27,1,184.26,0,Occasional buyers
+16434,28,7,1522.25,0,Occasional buyers
+16438,5,5,798.35,0,Occasional buyers
+16440,7,5,3640.67,0,Occasional buyers
+16441,66,2,381.2,0,Occasional buyers
+16442,1,3,616.79,0,Occasional buyers
+16444,45,4,654.67,0,Occasional buyers
+16445,33,1,230.51,0,Occasional buyers
+16446,0,2,168472.5,2,Champions
+16447,135,1,259.01,0,Occasional buyers
+16448,197,1,188.89,1,Lapsed
+16449,197,2,707.69,1,Lapsed
+16450,149,1,311.92,1,Lapsed
+16451,87,1,266.97,0,Occasional buyers
+16454,63,1,5.9,0,Occasional buyers
+16455,63,7,1841.18,0,Occasional buyers
+16456,98,5,2158.37,0,Occasional buyers
+16457,217,1,208.36,1,Lapsed
+16458,2,18,3482.74,3,Big spenders
+16460,27,3,814.72,0,Occasional buyers
+16461,177,1,151.42,1,Lapsed
+16462,73,3,136.0,0,Occasional buyers
+16463,20,4,1422.4,0,Occasional buyers
+16464,19,3,1314.68,0,Occasional buyers
+16466,33,7,1603.46,0,Occasional buyers
+16468,73,1,74.9,0,Occasional buyers
+16469,23,4,650.43,0,Occasional buyers
+16470,51,4,762.39,0,Occasional buyers
+16471,274,1,223.95,1,Lapsed
+16473,164,3,316.11,1,Lapsed
+16474,6,7,1871.34,0,Occasional buyers
+16475,87,4,544.3,0,Occasional buyers
+16477,63,7,2494.46,0,Occasional buyers
+16478,24,3,331.0,0,Occasional buyers
+16479,9,2,300.83,0,Occasional buyers
+16480,75,1,769.29,0,Occasional buyers
+16482,15,1,220.62,0,Occasional buyers
+16483,191,1,139.35,1,Lapsed
+16484,173,2,404.3,1,Lapsed
+16485,76,1,363.65,0,Occasional buyers
+16488,32,3,498.8,0,Occasional buyers
+16491,46,1,731.5,0,Occasional buyers
+16493,79,4,1351.63,0,Occasional buyers
+16494,296,1,826.53,1,Lapsed
+16495,2,3,684.41,0,Occasional buyers
+16496,8,3,1599.52,0,Occasional buyers
+16497,49,6,2965.69,0,Occasional buyers
+16498,160,2,100.97,1,Lapsed
+16499,359,2,365.45,1,Lapsed
+16500,4,6,400.86,0,Occasional buyers
+16503,106,4,1431.93,0,Occasional buyers
+16504,24,1,484.38,0,Occasional buyers
+16505,31,1,777.6,0,Occasional buyers
+16506,19,2,90.3,0,Occasional buyers
+16509,296,1,363.7,1,Lapsed
+16510,371,1,248.1,1,Lapsed
+16511,21,3,948.26,0,Occasional buyers
+16513,4,4,874.59,0,Occasional buyers
+16515,51,5,1627.13,0,Occasional buyers
+16516,29,1,101.7,0,Occasional buyers
+16517,276,1,162.7,1,Lapsed
+16518,60,2,484.32,0,Occasional buyers
+16519,24,2,212.98,0,Occasional buyers
+16520,185,3,1046.57,1,Lapsed
+16523,1,21,9418.47,3,Big spenders
+16525,1,26,13027.45,3,Big spenders
+16526,171,1,290.36,1,Lapsed
+16527,80,1,228.06,0,Occasional buyers
+16528,3,1,244.41,0,Occasional buyers
+16529,189,1,455.25,1,Lapsed
+16531,21,7,1244.59,0,Occasional buyers
+16532,17,3,6748.8,0,Occasional buyers
+16533,18,3,1095.56,0,Occasional buyers
+16535,4,1,593.75,0,Occasional buyers
+16536,109,1,548.97,0,Occasional buyers
+16539,2,4,1388.81,0,Occasional buyers
+16542,53,1,119.62,0,Occasional buyers
+16545,164,1,339.3,1,Lapsed
+16546,290,2,787.15,1,Lapsed
+16549,9,10,4154.64,0,Occasional buyers
+16550,108,5,2298.97,0,Occasional buyers
+16551,95,3,922.12,0,Occasional buyers
+16552,242,2,379.73,1,Lapsed
+16553,162,12,5719.82,0,Occasional buyers
+16554,41,3,837.1,0,Occasional buyers
+16555,34,2,285.89,0,Occasional buyers
+16556,66,7,3313.79,0,Occasional buyers
+16557,23,2,281.85,0,Occasional buyers
+16558,0,20,8338.49,3,Big spenders
+16560,26,2,841.41,0,Occasional buyers
+16561,5,2,511.12,0,Occasional buyers
+16563,53,1,1077.74,0,Occasional buyers
+16565,363,1,173.7,1,Lapsed
+16566,14,5,614.66,0,Occasional buyers
+16567,193,2,865.6,1,Lapsed
+16569,2,1,124.2,0,Occasional buyers
+16570,14,10,3738.4,0,Occasional buyers
+16571,26,3,1421.69,0,Occasional buyers
+16572,126,3,1009.6,0,Occasional buyers
+16573,84,2,663.61,0,Occasional buyers
+16574,70,1,451.44,0,Occasional buyers
+16581,182,1,105.84,1,Lapsed
+16582,112,1,313.62,0,Occasional buyers
+16583,373,1,233.45,1,Lapsed
+16584,79,2,936.08,0,Occasional buyers
+16586,248,1,463.95,1,Lapsed
+16587,231,1,225.15,1,Lapsed
+16589,70,3,459.24,0,Occasional buyers
+16591,68,1,213.5,0,Occasional buyers
+16592,3,16,4113.68,3,Big spenders
+16593,50,3,330.03,0,Occasional buyers
+16594,74,1,181.09,0,Occasional buyers
+16595,60,1,360.16,0,Occasional buyers
+16596,15,2,250.15,0,Occasional buyers
+16597,3,1,90.04,0,Occasional buyers
+16598,285,1,145.05,1,Lapsed
+16600,3,6,813.52,0,Occasional buyers
+16601,40,1,243.63,0,Occasional buyers
+16602,35,1,528.08,0,Occasional buyers
+16603,74,2,482.47,0,Occasional buyers
+16607,17,14,3347.71,0,Occasional buyers
+16609,14,7,5493.46,0,Occasional buyers
+16610,218,1,75.66,1,Lapsed
+16611,185,1,129.49,1,Lapsed
+16612,32,4,1187.66,0,Occasional buyers
+16613,69,1,618.59,0,Occasional buyers
+16614,182,1,506.19,1,Lapsed
+16616,14,2,500.42,0,Occasional buyers
+16617,235,1,151.85,1,Lapsed
+16618,30,5,2647.59,0,Occasional buyers
+16619,263,1,226.21,1,Lapsed
+16620,3,2,178.96,0,Occasional buyers
+16621,51,4,813.48,0,Occasional buyers
+16623,245,1,129.45,1,Lapsed
+16624,80,2,810.57,0,Occasional buyers
+16625,274,1,333.08,1,Lapsed
+16626,0,17,4413.1,3,Big spenders
+16627,78,1,322.8,0,Occasional buyers
+16628,29,5,2188.05,0,Occasional buyers
+16629,73,2,417.73,0,Occasional buyers
+16633,16,6,2883.1,0,Occasional buyers
+16634,222,2,217.9,1,Lapsed
+16637,31,4,1154.47,0,Occasional buyers
+16638,22,10,1680.72,0,Occasional buyers
+16639,30,3,1257.51,0,Occasional buyers
+16641,105,1,231.1,0,Occasional buyers
+16642,4,2,688.33,0,Occasional buyers
+16643,245,1,487.51,1,Lapsed
+16644,177,2,833.78,1,Lapsed
+16647,169,2,214.06,1,Lapsed
+16648,42,1,290.66,0,Occasional buyers
+16650,71,1,518.42,0,Occasional buyers
+16652,58,7,6773.97,0,Occasional buyers
+16653,15,2,1212.66,0,Occasional buyers
+16654,140,4,601.27,0,Occasional buyers
+16655,17,6,3794.52,0,Occasional buyers
+16656,21,15,8625.8,3,Big spenders
+16657,9,4,933.62,0,Occasional buyers
+16658,367,1,123.24,1,Lapsed
+16659,188,1,39.12,1,Lapsed
+16660,15,4,1267.65,0,Occasional buyers
+16665,361,1,135.4,1,Lapsed
+16666,18,1,118.98,0,Occasional buyers
+16667,67,2,570.13,0,Occasional buyers
+16668,14,6,306.72,0,Occasional buyers
+16669,23,2,1370.47,0,Occasional buyers
+16670,16,11,4095.9,0,Occasional buyers
+16671,27,3,1692.27,0,Occasional buyers
+16672,1,20,8134.94,3,Big spenders
+16674,54,2,319.61,0,Occasional buyers
+16676,33,4,1592.12,0,Occasional buyers
+16678,2,12,3109.99,0,Occasional buyers
+16679,365,1,129.75,1,Lapsed
+16680,42,1,183.7,0,Occasional buyers
+16681,72,6,1770.34,0,Occasional buyers
+16682,4,5,1028.0,0,Occasional buyers
+16684,3,28,66653.56,3,Big spenders
+16685,60,2,324.24,0,Occasional buyers
+16686,46,7,3062.83,0,Occasional buyers
+16688,0,4,1260.86,0,Occasional buyers
+16689,75,2,422.6,0,Occasional buyers
+16690,71,2,225.58,0,Occasional buyers
+16692,255,2,1126.0,1,Lapsed
+16693,68,2,482.01,0,Occasional buyers
+16696,134,4,657.9,0,Occasional buyers
+16697,240,1,112.75,1,Lapsed
+16698,226,2,1998.0,1,Lapsed
+16700,8,13,5076.55,0,Occasional buyers
+16701,8,13,5398.3,0,Occasional buyers
+16705,0,20,14034.99,3,Big spenders
+16706,36,3,531.35,0,Occasional buyers
+16708,45,1,656.63,0,Occasional buyers
+16709,84,5,3029.87,0,Occasional buyers
+16710,18,10,2483.04,0,Occasional buyers
+16711,2,5,1651.03,0,Occasional buyers
+16712,8,11,3637.78,0,Occasional buyers
+16713,18,15,6923.13,3,Big spenders
+16714,316,2,1146.53,1,Lapsed
+16715,77,1,301.72,0,Occasional buyers
+16716,266,2,901.2,1,Lapsed
+16717,23,6,3858.38,0,Occasional buyers
+16718,368,1,623.75,1,Lapsed
+16719,14,7,1790.42,0,Occasional buyers
+16720,25,1,155.24,0,Occasional buyers
+16721,261,1,292.47,1,Lapsed
+16722,16,13,4730.81,0,Occasional buyers
+16723,90,2,589.15,0,Occasional buyers
+16725,301,6,779.57,1,Lapsed
+16726,25,5,1382.02,0,Occasional buyers
+16727,363,1,272.82,1,Lapsed
+16728,45,4,1054.67,0,Occasional buyers
+16729,37,21,7236.6,3,Big spenders
+16730,51,3,743.11,0,Occasional buyers
+16732,31,1,603.75,0,Occasional buyers
+16734,51,3,650.51,0,Occasional buyers
+16735,78,5,2300.56,0,Occasional buyers
+16737,52,1,417.6,0,Occasional buyers
+16738,297,1,3.75,1,Lapsed
+16739,176,1,323.0,1,Lapsed
+16743,28,7,2238.09,0,Occasional buyers
+16744,10,7,1304.76,0,Occasional buyers
+16745,86,17,7194.3,3,Big spenders
+16746,4,18,6697.66,3,Big spenders
+16747,37,2,836.06,0,Occasional buyers
+16748,17,5,1515.9,0,Occasional buyers
+16750,44,5,623.93,0,Occasional buyers
+16751,30,1,1764.72,0,Occasional buyers
+16752,372,1,207.5,1,Lapsed
+16753,57,1,223.92,0,Occasional buyers
+16754,371,1,2002.4,1,Lapsed
+16755,113,3,1496.83,0,Occasional buyers
+16756,214,1,239.4,1,Lapsed
+16757,318,1,106.83,1,Lapsed
+16758,64,1,369.34,0,Occasional buyers
+16759,7,3,789.79,0,Occasional buyers
+16761,96,1,316.62,0,Occasional buyers
+16762,19,3,1501.38,0,Occasional buyers
+16763,198,1,611.85,1,Lapsed
+16764,3,13,2799.25,0,Occasional buyers
+16765,293,1,34.0,1,Lapsed
+16766,272,2,1145.6,1,Lapsed
+16767,30,11,5580.6,0,Occasional buyers
+16768,47,3,478.09,0,Occasional buyers
+16769,259,1,380.39,1,Lapsed
+16770,57,5,770.1,0,Occasional buyers
+16771,32,5,2234.81,0,Occasional buyers
+16773,56,1,171.59,0,Occasional buyers
+16774,67,4,661.52,0,Occasional buyers
+16775,9,11,1695.66,0,Occasional buyers
+16776,59,1,388.28,0,Occasional buyers
+16777,79,2,226.35,0,Occasional buyers
+16778,73,2,245.94,0,Occasional buyers
+16779,1,22,10629.72,3,Big spenders
+16780,99,2,425.19,0,Occasional buyers
+16781,371,1,311.25,1,Lapsed
+16782,9,13,2279.9,0,Occasional buyers
+16784,19,1,107.6,0,Occasional buyers
+16788,122,2,595.83,0,Occasional buyers
+16789,7,1,80.8,0,Occasional buyers
+16790,3,6,1545.62,0,Occasional buyers
+16791,28,7,1709.03,0,Occasional buyers
+16792,281,2,110.38,1,Lapsed
+16793,56,1,243.84,0,Occasional buyers
+16794,0,10,1220.69,0,Occasional buyers
+16795,364,1,414.88,1,Lapsed
+16796,88,1,305.62,0,Occasional buyers
+16800,10,1,1201.49,0,Occasional buyers
+16801,162,4,1619.73,1,Lapsed
+16803,64,1,332.3,0,Occasional buyers
+16804,22,3,536.99,0,Occasional buyers
+16805,173,2,460.59,1,Lapsed
+16806,102,4,775.54,0,Occasional buyers
+16807,142,3,1121.59,0,Occasional buyers
+16808,98,2,288.42,0,Occasional buyers
+16809,22,5,914.69,0,Occasional buyers
+16810,191,1,309.54,1,Lapsed
+16811,4,2,547.07,0,Occasional buyers
+16812,360,1,479.35,1,Lapsed
+16813,7,10,1692.98,0,Occasional buyers
+16814,13,21,6499.2,3,Big spenders
+16816,102,4,417.06,0,Occasional buyers
+16817,2,9,1604.75,0,Occasional buyers
+16818,10,11,3349.57,0,Occasional buyers
+16820,95,1,497.61,0,Occasional buyers
+16823,226,1,358.38,1,Lapsed
+16824,15,2,460.64,0,Occasional buyers
+16825,38,2,775.18,0,Occasional buyers
+16826,50,1,341.7,0,Occasional buyers
+16828,111,1,113.5,0,Occasional buyers
+16829,156,1,197.22,1,Lapsed
+16830,38,1,325.91,0,Occasional buyers
+16832,183,3,199.15,1,Lapsed
+16833,0,4,1106.53,0,Occasional buyers
+16834,227,1,413.46,1,Lapsed
+16835,127,2,180.85,0,Occasional buyers
+16836,39,2,251.87,0,Occasional buyers
+16837,30,11,3170.98,0,Occasional buyers
+16838,196,2,588.85,1,Lapsed
+16839,8,34,16594.35,3,Big spenders
+16841,36,6,1869.82,0,Occasional buyers
+16842,100,3,1264.19,0,Occasional buyers
+16843,42,16,10196.57,3,Big spenders
+16846,49,1,214.32,0,Occasional buyers
+16847,42,1,193.44,0,Occasional buyers
+16848,52,1,281.42,0,Occasional buyers
+16849,186,1,124.57,1,Lapsed
+16850,333,1,332.41,1,Lapsed
+16851,3,3,342.45,0,Occasional buyers
+16852,9,2,144.91,0,Occasional buyers
+16855,23,2,328.4,0,Occasional buyers
+16856,14,1,35.4,0,Occasional buyers
+16858,368,1,375.69,1,Lapsed
+16859,144,2,747.81,0,Occasional buyers
+16861,59,2,173.76,0,Occasional buyers
+16863,30,2,502.8,0,Occasional buyers
+16866,140,3,207.74,0,Occasional buyers
+16869,22,4,825.42,0,Occasional buyers
+16871,21,6,2812.34,0,Occasional buyers
+16872,76,3,680.02,0,Occasional buyers
+16873,4,6,7123.62,0,Occasional buyers
+16875,66,5,2095.53,0,Occasional buyers
+16877,11,6,853.72,0,Occasional buyers
+16878,83,1,13.3,0,Occasional buyers
+16880,30,7,1519.08,0,Occasional buyers
+16881,66,1,432.0,0,Occasional buyers
+16882,66,3,705.12,0,Occasional buyers
+16883,186,2,276.73,1,Lapsed
+16884,37,2,429.84,0,Occasional buyers
+16885,14,3,471.51,0,Occasional buyers
+16887,34,1,194.88,0,Occasional buyers
+16889,194,3,1578.67,1,Lapsed
+16891,1,5,809.7,0,Occasional buyers
+16892,0,5,525.54,0,Occasional buyers
+16893,366,1,145.93,1,Lapsed
+16895,64,1,219.14,0,Occasional buyers
+16897,298,2,289.78,1,Lapsed
+16898,25,3,508.81,0,Occasional buyers
+16899,7,6,1281.56,0,Occasional buyers
+16900,16,3,882.16,0,Occasional buyers
+16902,115,1,1706.88,0,Occasional buyers
+16903,28,1,373.24,0,Occasional buyers
+16904,3,15,3735.47,3,Big spenders
+16905,4,7,3102.43,0,Occasional buyers
+16906,81,4,579.77,0,Occasional buyers
+16907,28,5,981.65,0,Occasional buyers
+16909,71,1,379.14,0,Occasional buyers
+16910,3,8,1510.06,0,Occasional buyers
+16912,28,11,2575.38,0,Occasional buyers
+16913,289,1,113.44,1,Lapsed
+16914,35,1,208.46,0,Occasional buyers
+16915,8,6,621.68,0,Occasional buyers
+16916,23,2,576.26,0,Occasional buyers
+16917,276,1,391.52,1,Lapsed
+16918,49,6,1068.82,0,Occasional buyers
+16919,155,11,2596.45,0,Occasional buyers
+16921,60,1,169.79,0,Occasional buyers
+16923,11,19,7247.61,3,Big spenders
+16924,20,3,846.75,0,Occasional buyers
+16926,370,1,230.25,1,Lapsed
+16927,115,3,543.05,0,Occasional buyers
+16928,79,17,2839.65,3,Big spenders
+16929,3,7,1295.39,0,Occasional buyers
+16930,25,3,380.55,0,Occasional buyers
+16931,4,21,4604.22,3,Big spenders
+16932,52,1,161.94,0,Occasional buyers
+16933,0,2,563.23,0,Occasional buyers
+16934,54,2,950.93,0,Occasional buyers
+16936,25,1,262.68,0,Occasional buyers
+16938,8,4,2736.38,0,Occasional buyers
+16940,51,3,3049.88,0,Occasional buyers
+16942,12,9,1920.59,0,Occasional buyers
+16943,211,3,816.73,1,Lapsed
+16945,21,19,4345.5,3,Big spenders
+16947,235,1,406.48,1,Lapsed
+16948,138,3,435.02,0,Occasional buyers
+16949,3,6,1286.27,0,Occasional buyers
+16950,56,3,1178.56,0,Occasional buyers
+16951,134,3,1277.75,0,Occasional buyers
+16952,108,2,167.61,0,Occasional buyers
+16953,29,1,20.8,0,Occasional buyers
+16954,0,9,2085.08,0,Occasional buyers
+16955,184,4,518.67,1,Lapsed
+16956,17,1,308.74,0,Occasional buyers
+16957,238,2,416.64,1,Lapsed
+16959,86,1,117.35,0,Occasional buyers
+16960,38,3,505.1,0,Occasional buyers
+16961,115,1,234.17,0,Occasional buyers
+16963,186,1,110.55,1,Lapsed
+16965,226,1,192.07,1,Lapsed
+16966,7,7,2154.97,0,Occasional buyers
+16967,188,1,319.02,1,Lapsed
+16968,3,2,439.43,0,Occasional buyers
+16969,38,3,650.41,0,Occasional buyers
+16971,37,1,357.21,0,Occasional buyers
+16976,266,1,251.52,1,Lapsed
+16978,77,1,344.33,0,Occasional buyers
+16979,3,6,1852.0,0,Occasional buyers
+16980,254,2,1078.96,1,Lapsed
+16982,60,1,384.06,0,Occasional buyers
+16983,12,7,1931.25,0,Occasional buyers
+16984,87,2,4481.35,0,Occasional buyers
+16985,16,10,5464.12,0,Occasional buyers
+16986,29,2,1873.2,0,Occasional buyers
+16987,2,7,1625.05,0,Occasional buyers
+16988,4,1,126.12,0,Occasional buyers
+16989,6,6,1133.25,0,Occasional buyers
+16990,218,1,179.0,1,Lapsed
+16992,10,5,1614.31,0,Occasional buyers
+16996,29,6,1456.96,0,Occasional buyers
+16997,287,3,702.0,1,Lapsed
+16998,149,4,295.0,1,Lapsed
+16999,22,2,484.82,0,Occasional buyers
+17001,0,11,3989.57,0,Occasional buyers
+17002,85,3,1493.73,0,Occasional buyers
+17004,45,2,1412.94,0,Occasional buyers
+17006,4,4,781.78,0,Occasional buyers
+17007,50,6,889.93,0,Occasional buyers
+17010,17,1,195.36,0,Occasional buyers
+17011,29,1,270.9,0,Occasional buyers
+17014,7,3,586.33,0,Occasional buyers
+17015,28,3,1842.56,0,Occasional buyers
+17017,2,20,8694.26,3,Big spenders
+17018,40,2,920.1,0,Occasional buyers
+17019,10,4,1272.61,0,Occasional buyers
+17022,30,1,71.0,0,Occasional buyers
+17024,44,3,95.85,0,Occasional buyers
+17025,60,3,357.77,0,Occasional buyers
+17026,184,2,154.83,1,Lapsed
+17027,78,6,890.29,0,Occasional buyers
+17029,110,2,716.0,0,Occasional buyers
+17030,63,1,146.87,0,Occasional buyers
+17031,11,2,380.35,0,Occasional buyers
+17033,85,3,1030.14,0,Occasional buyers
+17034,15,3,745.52,0,Occasional buyers
+17035,245,2,433.53,1,Lapsed
+17037,87,1,1267.32,0,Occasional buyers
+17038,29,1,112.4,0,Occasional buyers
+17040,137,1,449.73,0,Occasional buyers
+17041,26,3,1081.57,0,Occasional buyers
+17042,2,5,1044.38,0,Occasional buyers
+17043,31,4,1735.18,0,Occasional buyers
+17044,24,1,948.48,0,Occasional buyers
+17045,112,3,339.44,0,Occasional buyers
+17046,156,1,642.02,1,Lapsed
+17047,84,3,1100.9,0,Occasional buyers
+17048,117,3,925.35,0,Occasional buyers
+17049,2,9,5659.98,0,Occasional buyers
+17050,95,6,3228.84,0,Occasional buyers
+17051,193,1,247.14,1,Lapsed
+17052,27,1,413.75,0,Occasional buyers
+17053,130,1,498.48,0,Occasional buyers
+17054,27,5,1356.33,0,Occasional buyers
+17058,81,3,1179.89,0,Occasional buyers
+17059,29,5,3095.04,0,Occasional buyers
+17060,265,1,234.24,1,Lapsed
+17061,73,11,5232.23,0,Occasional buyers
+17062,313,4,533.33,1,Lapsed
+17063,20,7,1461.14,0,Occasional buyers
+17064,58,3,859.35,0,Occasional buyers
+17068,11,21,4545.89,3,Big spenders
+17069,27,9,2709.7,0,Occasional buyers
+17070,113,1,312.14,0,Occasional buyers
+17071,27,9,2429.03,0,Occasional buyers
+17073,17,4,1444.84,0,Occasional buyers
+17075,17,4,834.12,0,Occasional buyers
+17076,35,3,841.08,0,Occasional buyers
+17078,35,2,375.86,0,Occasional buyers
+17079,77,1,118.8,0,Occasional buyers
+17080,21,2,287.62,0,Occasional buyers
+17081,24,2,290.16,0,Occasional buyers
+17082,32,2,2003.85,0,Occasional buyers
+17083,108,3,1405.78,0,Occasional buyers
+17084,34,2,2949.75,0,Occasional buyers
+17085,122,5,1566.65,0,Occasional buyers
+17086,6,6,2050.08,0,Occasional buyers
+17088,27,4,1991.01,0,Occasional buyers
+17090,3,7,2043.95,0,Occasional buyers
+17091,2,9,3827.76,0,Occasional buyers
+17092,49,4,1777.78,0,Occasional buyers
+17094,321,1,302.0,1,Lapsed
+17095,22,3,1324.16,0,Occasional buyers
+17096,14,4,1022.13,0,Occasional buyers
+17097,1,8,954.42,0,Occasional buyers
+17100,17,2,971.74,0,Occasional buyers
+17101,9,4,1621.73,0,Occasional buyers
+17102,261,1,25.5,1,Lapsed
+17105,158,2,665.78,1,Lapsed
+17107,32,6,10815.43,0,Occasional buyers
+17109,28,6,885.04,0,Occasional buyers
+17110,164,1,163.3,1,Lapsed
+17111,46,1,248.61,0,Occasional buyers
+17114,5,8,808.62,0,Occasional buyers
+17115,7,3,837.5,0,Occasional buyers
+17117,287,1,116.2,1,Lapsed
+17118,317,1,157.02,1,Lapsed
+17119,2,2,606.91,0,Occasional buyers
+17120,232,1,307.46,1,Lapsed
+17122,118,1,138.32,0,Occasional buyers
+17123,161,1,345.3,1,Lapsed
+17124,184,1,298.89,1,Lapsed
+17125,49,1,259.35,0,Occasional buyers
+17126,151,5,1004.75,1,Lapsed
+17128,334,1,157.09,1,Lapsed
+17131,4,5,2463.17,0,Occasional buyers
+17133,15,7,4892.24,0,Occasional buyers
+17134,106,2,425.0,0,Occasional buyers
+17135,15,7,1139.73,0,Occasional buyers
+17138,275,1,380.5,1,Lapsed
+17139,15,12,10668.47,3,Big spenders
+17140,246,1,465.32,1,Lapsed
+17142,238,1,579.0,1,Lapsed
+17144,0,2,984.57,0,Occasional buyers
+17146,105,3,749.78,0,Occasional buyers
+17147,22,4,1714.59,0,Occasional buyers
+17148,51,1,124.88,0,Occasional buyers
+17152,194,3,1689.5,1,Lapsed
+17153,23,1,213.78,0,Occasional buyers
+17154,74,1,329.34,0,Occasional buyers
+17155,17,2,251.7,0,Occasional buyers
+17157,7,2,319.0,0,Occasional buyers
+17158,31,3,1266.97,0,Occasional buyers
+17159,21,3,1538.88,0,Occasional buyers
+17160,30,6,3518.03,0,Occasional buyers
+17162,28,10,1715.46,0,Occasional buyers
+17163,21,2,293.1,0,Occasional buyers
+17164,32,7,2467.35,0,Occasional buyers
+17165,283,1,158.68,1,Lapsed
+17166,38,2,206.34,0,Occasional buyers
+17169,57,2,835.78,0,Occasional buyers
+17171,288,1,224.91,1,Lapsed
+17172,78,1,317.76,0,Occasional buyers
+17173,4,8,3766.6,0,Occasional buyers
+17174,217,1,59.9,1,Lapsed
+17175,43,4,1443.69,0,Occasional buyers
+17176,201,1,306.13,1,Lapsed
+17179,177,3,711.79,1,Lapsed
+17180,55,4,796.03,0,Occasional buyers
+17181,56,2,239.92,0,Occasional buyers
+17183,7,6,3347.31,0,Occasional buyers
+17186,46,2,144.0,0,Occasional buyers
+17187,226,1,203.95,1,Lapsed
+17188,10,7,2474.23,0,Occasional buyers
+17189,105,2,384.4,0,Occasional buyers
+17190,58,2,444.74,0,Occasional buyers
+17191,27,7,2095.13,0,Occasional buyers
+17193,35,7,1699.3,0,Occasional buyers
+17194,360,1,226.78,1,Lapsed
+17197,29,1,1013.01,0,Occasional buyers
+17198,23,3,692.22,0,Occasional buyers
+17201,53,1,342.63,0,Occasional buyers
+17203,35,6,3563.85,0,Occasional buyers
+17204,174,4,1564.56,1,Lapsed
+17205,53,1,384.08,0,Occasional buyers
+17206,52,1,204.24,0,Occasional buyers
+17211,26,8,2317.22,0,Occasional buyers
+17212,252,1,226.85,1,Lapsed
+17213,39,7,2781.23,0,Occasional buyers
+17214,59,6,1069.12,0,Occasional buyers
+17217,233,1,113.5,1,Lapsed
+17218,3,10,1960.72,0,Occasional buyers
+17219,31,1,114.23,0,Occasional buyers
+17220,23,14,3198.25,0,Occasional buyers
+17221,6,2,335.13,0,Occasional buyers
+17222,64,1,354.15,0,Occasional buyers
+17223,309,2,391.79,1,Lapsed
+17226,308,1,393.49,1,Lapsed
+17227,18,6,939.32,0,Occasional buyers
+17228,15,8,1906.09,0,Occasional buyers
+17229,95,2,318.76,0,Occasional buyers
+17230,263,8,3638.41,1,Lapsed
+17231,11,10,3174.32,0,Occasional buyers
+17232,2,2,421.52,0,Occasional buyers
+17233,34,1,190.88,0,Occasional buyers
+17234,182,1,149.89,1,Lapsed
+17235,24,2,550.06,0,Occasional buyers
+17236,12,6,916.13,0,Occasional buyers
+17237,10,2,314.69,0,Occasional buyers
+17238,2,17,3744.65,3,Big spenders
+17239,312,1,382.5,1,Lapsed
+17242,107,2,1135.04,0,Occasional buyers
+17243,0,26,8668.45,3,Big spenders
+17244,52,1,954.9,0,Occasional buyers
+17245,204,1,171.45,1,Lapsed
+17247,14,1,282.19,0,Occasional buyers
+17248,119,1,318.65,0,Occasional buyers
+17250,3,2,384.52,0,Occasional buyers
+17251,362,1,283.28,1,Lapsed
+17252,116,2,353.86,0,Occasional buyers
+17253,17,1,178.26,0,Occasional buyers
+17254,4,2,272.44,0,Occasional buyers
+17255,40,2,298.41,0,Occasional buyers
+17256,106,2,240.0,0,Occasional buyers
+17259,147,2,603.37,1,Lapsed
+17262,51,5,1253.36,0,Occasional buyers
+17263,207,1,63.44,1,Lapsed
+17265,138,2,562.9,0,Occasional buyers
+17266,1,3,310.64,0,Occasional buyers
+17267,126,2,317.62,0,Occasional buyers
+17268,107,4,763.64,0,Occasional buyers
+17272,41,4,2148.63,0,Occasional buyers
+17274,34,1,111.98,0,Occasional buyers
+17277,227,2,1065.35,1,Lapsed
+17278,240,1,246.04,1,Lapsed
+17279,57,1,187.83,0,Occasional buyers
+17282,129,3,1703.41,0,Occasional buyers
+17284,59,6,1652.58,0,Occasional buyers
+17286,21,1,153.92,0,Occasional buyers
+17287,25,7,1064.11,0,Occasional buyers
+17288,8,7,1419.73,0,Occasional buyers
+17289,31,3,944.41,0,Occasional buyers
+17290,3,2,525.24,0,Occasional buyers
+17291,307,1,550.8,1,Lapsed
+17293,7,9,1875.11,0,Occasional buyers
+17295,28,3,556.95,0,Occasional buyers
+17297,16,1,131.78,0,Occasional buyers
+17298,100,2,498.42,0,Occasional buyers
+17299,11,4,669.11,0,Occasional buyers
+17301,20,1,197.63,0,Occasional buyers
+17302,14,5,1135.63,0,Occasional buyers
+17303,360,1,250.04,1,Lapsed
+17306,10,19,8631.31,3,Big spenders
+17309,94,1,82.75,0,Occasional buyers
+17311,77,2,1384.85,0,Occasional buyers
+17312,138,3,644.3,0,Occasional buyers
+17313,30,1,2328.84,0,Occasional buyers
+17314,24,8,2527.92,0,Occasional buyers
+17315,1,36,6252.18,3,Big spenders
+17317,45,3,2600.34,0,Occasional buyers
+17320,99,3,1200.62,0,Occasional buyers
+17321,7,2,700.86,0,Occasional buyers
+17323,14,7,917.67,0,Occasional buyers
+17324,17,4,990.23,0,Occasional buyers
+17325,279,1,96.8,1,Lapsed
+17329,13,2,523.11,0,Occasional buyers
+17330,22,2,363.9,0,Occasional buyers
+17331,123,1,175.2,0,Occasional buyers
+17333,85,1,494.25,0,Occasional buyers
+17334,301,2,307.02,1,Lapsed
+17337,150,4,2026.42,1,Lapsed
+17338,16,8,6635.14,0,Occasional buyers
+17339,93,2,243.36,0,Occasional buyers
+17340,29,11,12353.29,3,Big spenders
+17341,156,3,781.36,1,Lapsed
+17343,354,1,193.64,1,Lapsed
+17344,45,1,160.57,0,Occasional buyers
+17345,14,4,537.74,0,Occasional buyers
+17346,3,15,2676.56,3,Big spenders
+17347,85,1,228.96,0,Occasional buyers
+17348,14,5,1159.52,0,Occasional buyers
+17349,178,1,110.75,1,Lapsed
+17350,7,4,1286.07,0,Occasional buyers
+17351,35,3,587.15,0,Occasional buyers
+17353,128,2,1740.0,0,Occasional buyers
+17354,50,1,1393.06,0,Occasional buyers
+17356,311,1,178.22,1,Lapsed
+17357,23,2,388.14,0,Occasional buyers
+17358,302,2,365.85,1,Lapsed
+17359,10,1,127.86,0,Occasional buyers
+17360,16,3,585.79,0,Occasional buyers
+17361,48,3,488.2,0,Occasional buyers
+17362,238,2,312.23,1,Lapsed
+17364,0,11,4481.18,0,Occasional buyers
+17365,12,8,4796.52,0,Occasional buyers
+17367,237,1,168.4,1,Lapsed
+17368,22,8,1912.67,0,Occasional buyers
+17370,72,4,446.18,0,Occasional buyers
+17371,16,3,423.89,0,Occasional buyers
+17372,40,8,1342.68,0,Occasional buyers
+17373,39,4,646.92,0,Occasional buyers
+17374,218,2,495.77,1,Lapsed
+17375,198,3,400.1,1,Lapsed
+17376,70,2,203.2,0,Occasional buyers
+17377,23,20,4100.92,3,Big spenders
+17379,10,1,404.66,0,Occasional buyers
+17381,8,29,20275.61,3,Big spenders
+17382,64,1,65.4,0,Occasional buyers
+17383,3,1,199.29,0,Occasional buyers
+17384,18,2,336.4,0,Occasional buyers
+17385,14,1,261.11,0,Occasional buyers
+17386,7,6,2686.42,0,Occasional buyers
+17387,19,2,784.11,0,Occasional buyers
+17388,77,4,1259.56,0,Occasional buyers
+17389,0,34,31833.68,3,Big spenders
+17391,163,2,508.8,1,Lapsed
+17392,306,2,451.91,1,Lapsed
+17394,218,1,203.87,1,Lapsed
+17396,38,7,7312.8,0,Occasional buyers
+17397,21,2,696.41,0,Occasional buyers
+17398,114,3,653.38,0,Occasional buyers
+17400,125,5,2129.96,0,Occasional buyers
+17402,4,12,2598.85,0,Occasional buyers
+17403,35,1,281.62,0,Occasional buyers
+17404,3,13,31781.82,3,Big spenders
+17405,0,3,1031.41,0,Occasional buyers
+17406,332,3,2200.42,1,Lapsed
+17408,162,1,32.65,1,Lapsed
+17409,184,2,771.85,1,Lapsed
+17410,15,5,1214.72,0,Occasional buyers
+17411,11,3,778.94,0,Occasional buyers
+17412,2,7,1258.06,0,Occasional buyers
+17414,43,2,778.0,0,Occasional buyers
+17415,79,1,507.84,0,Occasional buyers
+17416,29,7,6893.42,0,Occasional buyers
+17418,41,2,463.46,0,Occasional buyers
+17419,10,12,4226.57,0,Occasional buyers
+17420,49,3,598.83,0,Occasional buyers
+17422,15,6,1979.37,0,Occasional buyers
+17423,45,2,698.41,0,Occasional buyers
+17425,18,2,759.17,0,Occasional buyers
+17426,7,6,5037.26,0,Occasional buyers
+17427,71,1,100.8,0,Occasional buyers
+17428,0,28,17256.85,3,Big spenders
+17429,127,3,524.92,0,Occasional buyers
+17430,32,2,265.76,0,Occasional buyers
+17431,312,1,403.3,1,Lapsed
+17432,17,2,365.76,0,Occasional buyers
+17433,87,1,303.16,0,Occasional buyers
+17434,1,7,2373.82,0,Occasional buyers
+17436,1,2,216.3,0,Occasional buyers
+17438,253,1,388.45,1,Lapsed
+17440,156,3,186.42,1,Lapsed
+17442,36,6,2248.56,0,Occasional buyers
+17443,219,1,534.24,1,Lapsed
+17444,151,2,2389.1,1,Lapsed
+17446,176,2,120.9,1,Lapsed
+17447,39,2,541.53,0,Occasional buyers
+17449,1,7,2517.86,0,Occasional buyers
+17450,7,46,194550.79,2,Champions
+17451,0,7,1721.4,0,Occasional buyers
+17453,17,2,486.72,0,Occasional buyers
+17454,191,4,517.53,1,Lapsed
+17455,203,1,131.7,1,Lapsed
+17456,364,1,249.86,1,Lapsed
+17457,126,5,1737.7,0,Occasional buyers
+17458,14,1,316.5,0,Occasional buyers
+17459,42,2,657.3,0,Occasional buyers
+17460,93,6,622.43,0,Occasional buyers
+17461,22,3,757.46,0,Occasional buyers
+17462,59,2,675.69,0,Occasional buyers
+17463,15,5,1896.41,0,Occasional buyers
+17464,157,1,289.96,1,Lapsed
+17466,9,2,763.28,0,Occasional buyers
+17468,9,2,137.0,0,Occasional buyers
+17469,15,5,1870.97,0,Occasional buyers
+17470,44,5,1125.07,0,Occasional buyers
+17472,190,3,710.29,1,Lapsed
+17475,78,1,194.37,0,Occasional buyers
+17480,77,1,511.82,0,Occasional buyers
+17481,3,4,1255.59,0,Occasional buyers
+17483,64,3,414.04,0,Occasional buyers
+17486,260,1,396.87,1,Lapsed
+17489,58,2,376.64,0,Occasional buyers
+17490,0,7,2092.32,0,Occasional buyers
+17491,0,10,3558.87,0,Occasional buyers
+17492,247,1,374.57,1,Lapsed
+17495,7,2,497.56,0,Occasional buyers
+17496,358,1,271.05,1,Lapsed
+17498,75,1,272.22,0,Occasional buyers
+17499,289,1,622.88,1,Lapsed
+17500,16,3,1138.0,0,Occasional buyers
+17501,220,2,288.6,1,Lapsed
+17502,8,4,689.1,0,Occasional buyers
+17503,2,2,558.96,0,Occasional buyers
+17504,205,9,2997.03,1,Lapsed
+17505,161,2,1145.84,1,Lapsed
+17506,75,1,302.2,0,Occasional buyers
+17507,261,2,605.58,1,Lapsed
+17508,280,1,387.31,1,Lapsed
+17509,57,8,6115.14,0,Occasional buyers
+17510,24,1,308.48,0,Occasional buyers
+17511,2,31,91062.38,2,Champions
+17512,28,10,2924.99,0,Occasional buyers
+17513,71,1,513.2,0,Occasional buyers
+17514,127,1,208.65,0,Occasional buyers
+17515,30,4,639.02,0,Occasional buyers
+17516,14,5,768.08,0,Occasional buyers
+17517,308,1,153.94,1,Lapsed
+17519,16,6,1844.02,0,Occasional buyers
+17520,53,1,546.81,0,Occasional buyers
+17521,29,3,723.21,0,Occasional buyers
+17522,1,5,1066.15,0,Occasional buyers
+17523,10,4,652.74,0,Occasional buyers
+17524,360,1,145.0,1,Lapsed
+17525,359,1,422.7,1,Lapsed
+17526,4,4,1195.9,0,Occasional buyers
+17527,53,4,939.37,0,Occasional buyers
+17528,0,8,3628.5,0,Occasional buyers
+17530,0,10,2380.41,0,Occasional buyers
+17531,189,1,296.7,1,Lapsed
+17534,53,1,223.36,0,Occasional buyers
+17535,279,1,164.4,1,Lapsed
+17536,176,1,76.5,1,Lapsed
+17537,29,2,897.62,0,Occasional buyers
+17538,25,1,98.42,0,Occasional buyers
+17540,24,2,578.9,0,Occasional buyers
+17542,269,1,170.75,1,Lapsed
+17545,42,3,645.96,0,Occasional buyers
+17548,233,1,103.3,1,Lapsed
+17549,23,2,148.86,0,Occasional buyers
+17550,196,3,267.16,1,Lapsed
+17551,358,1,306.84,1,Lapsed
+17552,59,4,930.41,0,Occasional buyers
+17553,129,1,1487.6,0,Occasional buyers
+17554,0,5,1952.45,0,Occasional buyers
+17555,19,2,483.26,0,Occasional buyers
+17556,205,1,157.9,1,Lapsed
+17557,13,3,541.46,0,Occasional buyers
+17560,94,4,854.95,0,Occasional buyers
+17561,18,1,167.62,0,Occasional buyers
+17562,13,7,1122.38,0,Occasional buyers
+17564,23,3,454.01,0,Occasional buyers
+17566,7,2,901.21,0,Occasional buyers
+17567,6,8,4331.48,0,Occasional buyers
+17569,331,1,344.14,1,Lapsed
+17571,49,4,1497.26,0,Occasional buyers
+17572,70,4,226.75,0,Occasional buyers
+17573,28,3,380.6,0,Occasional buyers
+17574,242,1,185.65,1,Lapsed
+17576,7,19,3622.68,3,Big spenders
+17578,217,1,143.46,1,Lapsed
+17579,4,3,448.9,0,Occasional buyers
+17580,252,3,212.77,1,Lapsed
+17581,0,25,11045.04,3,Big spenders
+17582,235,1,175.27,1,Lapsed
+17584,6,2,1242.3,0,Occasional buyers
+17585,108,4,1133.07,0,Occasional buyers
+17588,99,3,1240.2,0,Occasional buyers
+17589,59,4,2402.92,0,Occasional buyers
+17590,1,3,1477.97,0,Occasional buyers
+17591,72,7,2225.97,0,Occasional buyers
+17593,3,5,3927.34,0,Occasional buyers
+17594,84,2,993.18,0,Occasional buyers
+17595,11,2,388.79,0,Occasional buyers
+17596,22,7,2827.93,0,Occasional buyers
+17597,213,1,2044.37,1,Lapsed
+17600,17,1,161.67,0,Occasional buyers
+17601,238,1,116.01,1,Lapsed
+17602,1,6,5102.97,0,Occasional buyers
+17603,77,1,394.72,0,Occasional buyers
+17604,216,2,309.36,1,Lapsed
+17608,32,2,193.42,0,Occasional buyers
+17609,40,5,1104.72,0,Occasional buyers
+17611,6,15,3984.22,3,Big spenders
+17612,52,6,2048.45,0,Occasional buyers
+17613,22,14,4559.15,3,Big spenders
+17614,56,1,390.07,0,Occasional buyers
+17615,129,3,329.6,0,Occasional buyers
+17616,173,3,571.2,1,Lapsed
+17618,5,3,971.58,0,Occasional buyers
+17619,311,1,218.52,1,Lapsed
+17620,59,1,81.44,0,Occasional buyers
+17621,20,3,1379.9,0,Occasional buyers
+17623,32,1,527.05,0,Occasional buyers
+17624,14,2,843.48,0,Occasional buyers
+17625,17,4,2047.0,0,Occasional buyers
+17628,80,1,75.75,0,Occasional buyers
+17629,5,8,1814.12,0,Occasional buyers
+17630,169,2,503.6,1,Lapsed
+17631,1,3,528.33,0,Occasional buyers
+17633,30,4,1324.84,0,Occasional buyers
+17634,35,9,2361.97,0,Occasional buyers
+17636,18,1,285.56,0,Occasional buyers
+17637,30,2,547.06,0,Occasional buyers
+17639,275,1,108.5,1,Lapsed
+17640,86,1,621.66,0,Occasional buyers
+17642,119,2,712.29,0,Occasional buyers
+17643,372,1,101.55,1,Lapsed
+17644,0,11,2895.64,0,Occasional buyers
+17646,218,3,1008.39,1,Lapsed
+17647,64,1,133.06,0,Occasional buyers
+17648,60,4,1797.5,0,Occasional buyers
+17649,137,1,868.49,0,Occasional buyers
+17650,20,1,166.08,0,Occasional buyers
+17651,11,10,3945.0,0,Occasional buyers
+17652,24,12,4867.72,0,Occasional buyers
+17653,36,4,1207.56,0,Occasional buyers
+17654,276,1,117.55,1,Lapsed
+17655,10,7,2638.94,0,Occasional buyers
+17656,72,5,1674.69,0,Occasional buyers
+17658,25,2,595.42,0,Occasional buyers
+17659,16,12,2999.46,0,Occasional buyers
+17660,140,1,196.0,0,Occasional buyers
+17663,25,7,1802.91,0,Occasional buyers
+17664,18,2,604.64,0,Occasional buyers
+17666,3,2,728.16,0,Occasional buyers
+17667,65,5,2055.51,0,Occasional buyers
+17668,0,2,347.75,0,Occasional buyers
+17669,42,7,3406.72,0,Occasional buyers
+17670,227,1,205.7,1,Lapsed
+17671,15,4,1572.71,0,Occasional buyers
+17672,49,2,3178.17,0,Occasional buyers
+17673,1,6,1629.12,0,Occasional buyers
+17674,73,2,551.04,0,Occasional buyers
+17675,0,31,20374.28,3,Big spenders
+17676,3,6,1387.68,0,Occasional buyers
+17677,1,30,16363.23,3,Big spenders
+17678,263,1,298.11,1,Lapsed
+17679,52,2,1992.11,0,Occasional buyers
+17680,23,1,184.4,0,Occasional buyers
+17682,9,6,2474.33,0,Occasional buyers
+17684,43,1,239.41,0,Occasional buyers
+17685,16,7,3191.53,0,Occasional buyers
+17686,6,7,5739.46,0,Occasional buyers
+17690,29,15,4757.95,3,Big spenders
+17691,357,2,290.4,1,Lapsed
+17692,126,4,725.58,0,Occasional buyers
+17693,136,1,200.47,0,Occasional buyers
+17694,141,1,283.12,0,Occasional buyers
+17695,131,2,765.34,0,Occasional buyers
+17696,37,8,2285.71,0,Occasional buyers
+17697,235,1,338.95,1,Lapsed
+17698,260,1,154.95,1,Lapsed
+17700,16,4,2534.64,0,Occasional buyers
+17701,252,1,417.95,1,Lapsed
+17702,29,4,1824.37,0,Occasional buyers
+17703,34,3,798.74,0,Occasional buyers
+17704,168,2,885.19,1,Lapsed
+17705,2,9,1823.52,0,Occasional buyers
+17706,3,17,10504.49,3,Big spenders
+17707,184,2,152.4,1,Lapsed
+17708,187,2,267.08,1,Lapsed
+17709,169,1,137.45,1,Lapsed
+17711,10,2,385.1,0,Occasional buyers
+17712,44,1,522.91,0,Occasional buyers
+17714,320,1,153.0,1,Lapsed
+17715,200,1,326.4,1,Lapsed
+17716,22,11,5655.99,0,Occasional buyers
+17718,231,1,139.35,1,Lapsed
+17719,37,15,5396.04,3,Big spenders
+17720,25,4,1195.94,0,Occasional buyers
+17722,95,4,2424.04,0,Occasional buyers
+17723,126,6,3276.4,0,Occasional buyers
+17724,70,3,1033.0,0,Occasional buyers
+17725,15,11,3439.08,0,Occasional buyers
+17727,14,1,1060.25,0,Occasional buyers
+17728,3,3,2876.01,0,Occasional buyers
+17730,2,13,5298.48,0,Occasional buyers
+17731,78,4,1240.11,0,Occasional buyers
+17732,372,1,303.97,1,Lapsed
+17733,38,2,692.19,0,Occasional buyers
+17734,53,3,700.63,0,Occasional buyers
+17735,1,19,13110.02,3,Big spenders
+17736,8,3,377.44,0,Occasional buyers
+17737,8,2,168.24,0,Occasional buyers
+17738,18,4,1879.05,0,Occasional buyers
+17739,11,7,2791.35,0,Occasional buyers
+17742,112,2,355.11,0,Occasional buyers
+17744,3,6,2322.4,0,Occasional buyers
+17746,239,1,110.25,1,Lapsed
+17747,112,1,71.4,0,Occasional buyers
+17749,177,2,674.52,1,Lapsed
+17750,4,9,1781.28,0,Occasional buyers
+17752,358,1,80.64,1,Lapsed
+17754,0,5,1772.26,0,Occasional buyers
+17757,0,30,5601.34,3,Big spenders
+17758,18,8,3456.7,0,Occasional buyers
+17759,16,3,833.74,0,Occasional buyers
+17760,21,2,287.59,0,Occasional buyers
+17761,32,1,712.78,0,Occasional buyers
+17763,262,1,15.0,1,Lapsed
+17764,50,2,818.82,0,Occasional buyers
+17765,158,3,371.88,1,Lapsed
+17767,14,1,271.2,0,Occasional buyers
+17768,7,3,2273.18,0,Occasional buyers
+17769,12,10,3997.98,0,Occasional buyers
+17770,198,5,1143.27,1,Lapsed
+17771,56,2,245.33,0,Occasional buyers
+17772,10,2,182.77,0,Occasional buyers
+17774,96,4,1225.41,0,Occasional buyers
+17775,254,1,56.4,1,Lapsed
+17777,24,3,665.86,0,Occasional buyers
+17779,20,3,658.57,0,Occasional buyers
+17781,158,2,188.02,1,Lapsed
+17783,71,2,283.47,0,Occasional buyers
+17785,52,1,131.94,0,Occasional buyers
+17786,84,2,278.74,0,Occasional buyers
+17787,152,4,1865.19,1,Lapsed
+17788,73,2,1112.95,0,Occasional buyers
+17789,280,1,225.9,1,Lapsed
+17790,26,14,1965.55,0,Occasional buyers
+17791,29,1,106.1,0,Occasional buyers
+17793,24,1,323.04,0,Occasional buyers
+17795,179,2,350.39,1,Lapsed
+17796,39,4,697.9,0,Occasional buyers
+17797,21,3,780.43,0,Occasional buyers
+17799,21,10,3055.93,0,Occasional buyers
+17800,36,9,1198.01,0,Occasional buyers
+17802,81,3,1285.04,0,Occasional buyers
+17805,73,1,512.31,0,Occasional buyers
+17806,10,1,546.04,0,Occasional buyers
+17809,15,12,5411.91,0,Occasional buyers
+17811,3,39,7831.03,3,Big spenders
+17812,12,4,732.16,0,Occasional buyers
+17813,13,5,1770.88,0,Occasional buyers
+17816,36,4,36.56,0,Occasional buyers
+17817,3,3,387.68,0,Occasional buyers
+17819,71,7,3704.87,0,Occasional buyers
+17824,50,1,298.4,0,Occasional buyers
+17827,4,5,1995.46,0,Occasional buyers
+17828,22,4,1165.09,0,Occasional buyers
+17829,298,1,889.24,1,Lapsed
+17830,1,3,398.7,0,Occasional buyers
+17831,32,1,35.4,0,Occasional buyers
+17832,49,1,155.37,0,Occasional buyers
+17835,2,3,350.64,0,Occasional buyers
+17836,46,1,109.83,0,Occasional buyers
+17837,41,8,1587.48,0,Occasional buyers
+17838,26,5,2779.3,0,Occasional buyers
+17839,41,1,338.8,0,Occasional buyers
+17841,1,124,40967.72,2,Champions
+17843,302,1,197.73,1,Lapsed
+17844,106,1,51.56,0,Occasional buyers
+17848,80,9,901.2,0,Occasional buyers
+17849,217,4,605.8,1,Lapsed
+17850,371,34,5391.21,3,Big spenders
+17852,11,2,114.34,0,Occasional buyers
+17854,184,2,311.26,1,Lapsed
+17855,372,1,208.97,1,Lapsed
+17856,1,4,1418.03,0,Occasional buyers
+17857,3,22,25301.54,3,Big spenders
+17858,5,12,5155.66,0,Occasional buyers
+17859,304,1,148.21,1,Lapsed
+17860,368,1,252.8,1,Lapsed
+17861,2,8,2100.8,0,Occasional buyers
+17862,323,1,330.9,1,Lapsed
+17863,58,6,3160.0,0,Occasional buyers
+17864,12,3,597.5,0,Occasional buyers
+17865,30,20,10524.22,3,Big spenders
+17866,142,1,329.65,0,Occasional buyers
+17867,29,6,1197.1,0,Occasional buyers
+17869,106,5,428.18,0,Occasional buyers
+17870,1,12,1894.35,0,Occasional buyers
+17871,204,1,155.9,1,Lapsed
+17873,79,5,1729.78,0,Occasional buyers
+17874,184,6,683.46,1,Lapsed
+17877,169,1,237.61,1,Lapsed
+17878,43,1,379.45,0,Occasional buyers
+17879,173,1,178.52,1,Lapsed
+17880,364,1,458.92,1,Lapsed
+17881,303,1,133.35,1,Lapsed
+17883,2,4,671.77,0,Occasional buyers
+17884,3,4,717.45,0,Occasional buyers
+17885,11,1,190.19,0,Occasional buyers
+17886,31,3,899.61,0,Occasional buyers
+17887,128,1,111.35,0,Occasional buyers
+17888,20,8,726.05,0,Occasional buyers
+17889,211,2,203.87,1,Lapsed
+17890,322,2,602.09,1,Lapsed
+17891,161,1,203.86,1,Lapsed
+17892,55,3,244.1,0,Occasional buyers
+17893,224,1,112.25,1,Lapsed
+17894,71,8,1119.39,0,Occasional buyers
+17895,43,1,98.0,0,Occasional buyers
+17896,22,1,256.32,0,Occasional buyers
+17897,172,3,566.6,1,Lapsed
+17898,84,2,152.06,0,Occasional buyers
+17899,158,1,155.8,1,Lapsed
+17900,189,2,112.2,1,Lapsed
+17901,28,1,110.38,0,Occasional buyers
+17904,20,1,191.67,0,Occasional buyers
+17905,70,4,800.24,0,Occasional buyers
+17906,246,1,72.9,1,Lapsed
+17908,373,1,243.28,1,Lapsed
+17911,8,1,366.23,0,Occasional buyers
+17912,309,5,311.01,1,Lapsed
+17913,58,2,411.6,0,Occasional buyers
+17914,3,1,336.43,0,Occasional buyers
+17917,44,3,341.28,0,Occasional buyers
+17919,87,1,1304.04,0,Occasional buyers
+17920,3,17,4192.2,3,Big spenders
+17921,63,4,826.52,0,Occasional buyers
+17923,281,1,207.5,1,Lapsed
+17924,11,7,2962.5,0,Occasional buyers
+17925,372,1,244.08,1,Lapsed
+17926,132,2,397.29,0,Occasional buyers
+17928,44,2,184.46,0,Occasional buyers
+17929,10,4,843.0,0,Occasional buyers
+17930,35,5,1740.48,0,Occasional buyers
+17931,133,2,408.36,0,Occasional buyers
+17932,28,3,1331.57,0,Occasional buyers
+17934,51,2,704.25,0,Occasional buyers
+17935,137,2,142.89,0,Occasional buyers
+17936,4,1,389.84,0,Occasional buyers
+17937,8,7,4301.22,0,Occasional buyers
+17939,159,1,99.14,1,Lapsed
+17940,48,9,2238.58,0,Occasional buyers
+17941,130,1,304.56,0,Occasional buyers
+17942,7,1,77.5,0,Occasional buyers
+17946,232,2,149.58,1,Lapsed
+17947,36,1,176.68,0,Occasional buyers
+17948,146,1,358.56,1,Lapsed
+17949,0,44,58030.48,3,Big spenders
+17950,71,3,482.2,0,Occasional buyers
+17951,39,3,1008.54,0,Occasional buyers
+17954,4,12,2332.72,0,Occasional buyers
+17955,198,4,557.3,1,Lapsed
+17956,248,1,12.75,1,Lapsed
+17957,65,1,110.72,0,Occasional buyers
+17958,116,1,508.46,0,Occasional buyers
+17960,170,1,73.78,1,Lapsed
+17961,20,39,1296.44,3,Big spenders
+17962,141,1,102.83,0,Occasional buyers
+17964,31,2,471.7,0,Occasional buyers
+17965,37,14,2622.57,0,Occasional buyers
+17966,37,5,1098.43,0,Occasional buyers
+17967,371,1,123.07,1,Lapsed
+17968,373,1,277.35,1,Lapsed
+17969,165,2,228.2,1,Lapsed
+17970,210,1,582.59,1,Lapsed
+17972,241,1,136.04,1,Lapsed
+17973,51,1,337.04,0,Occasional buyers
+17974,24,3,740.79,0,Occasional buyers
+17975,14,13,4485.51,0,Occasional buyers
+17976,371,1,353.19,1,Lapsed
+17977,28,1,288.14,0,Occasional buyers
+17978,364,1,300.92,1,Lapsed
+17979,35,4,754.31,0,Occasional buyers
+17980,165,3,811.45,1,Lapsed
+17984,144,1,152.68,1,Lapsed
+17985,21,1,634.95,0,Occasional buyers
+17986,55,1,20.8,0,Occasional buyers
+17987,184,1,198.57,1,Lapsed
+17988,11,7,201.12,0,Occasional buyers
+17990,236,3,630.84,1,Lapsed
+17991,224,2,93.35,1,Lapsed
+17994,121,4,678.49,0,Occasional buyers
+17995,281,1,76.1,1,Lapsed
+17997,73,8,1970.67,0,Occasional buyers
+17999,36,2,382.06,0,Occasional buyers
+18001,11,2,417.23,0,Occasional buyers
+18004,361,1,169.47,1,Lapsed
+18005,3,2,249.72,0,Occasional buyers
+18006,22,1,444.68,0,Occasional buyers
+18008,69,9,2116.19,0,Occasional buyers
+18009,234,1,257.34,1,Lapsed
+18010,256,1,174.8,1,Lapsed
+18011,372,1,102.79,1,Lapsed
+18013,154,2,187.29,1,Lapsed
+18014,27,1,158.47,0,Occasional buyers
+18015,3,1,120.03,0,Occasional buyers
+18016,31,5,1483.56,0,Occasional buyers
+18017,80,3,523.0,0,Occasional buyers
+18018,107,2,122.14,0,Occasional buyers
+18019,51,1,38.45,0,Occasional buyers
+18022,35,1,668.11,0,Occasional buyers
+18024,152,2,389.78,1,Lapsed
+18027,98,1,115.31,0,Occasional buyers
+18030,3,2,230.65,0,Occasional buyers
+18032,333,1,73.5,1,Lapsed
+18033,64,1,97.97,0,Occasional buyers
+18034,21,2,422.88,0,Occasional buyers
+18035,35,3,730.4,0,Occasional buyers
+18036,31,3,405.62,0,Occasional buyers
+18037,153,6,70.02,1,Lapsed
+18040,18,2,357.2,0,Occasional buyers
+18041,11,21,4183.39,3,Big spenders
+18042,53,1,165.05,0,Occasional buyers
+18043,24,3,559.51,0,Occasional buyers
+18044,3,10,2088.6,0,Occasional buyers
+18045,44,1,189.4,0,Occasional buyers
+18048,202,2,172.29,1,Lapsed
+18050,358,1,74.4,1,Lapsed
+18053,70,1,300.02,0,Occasional buyers
+18055,6,10,6784.19,0,Occasional buyers
+18056,287,1,363.65,1,Lapsed
+18058,9,1,170.16,0,Occasional buyers
+18059,22,3,306.46,0,Occasional buyers
+18061,21,10,2119.41,0,Occasional buyers
+18062,172,3,720.52,1,Lapsed
+18064,132,2,814.0,0,Occasional buyers
+18065,5,14,2392.83,0,Occasional buyers
+18066,74,1,318.0,0,Occasional buyers
+18067,39,1,396.33,0,Occasional buyers
+18068,288,1,101.7,1,Lapsed
+18069,25,5,2036.67,0,Occasional buyers
+18071,257,2,453.0,1,Lapsed
+18072,185,1,247.44,1,Lapsed
+18073,113,12,3877.52,0,Occasional buyers
+18074,373,1,489.6,1,Lapsed
+18075,22,10,2611.75,0,Occasional buyers
+18077,7,11,2633.01,0,Occasional buyers
+18078,216,2,336.13,1,Lapsed
+18079,44,4,3651.97,0,Occasional buyers
+18080,18,2,1231.5,0,Occasional buyers
+18081,35,3,343.45,0,Occasional buyers
+18082,25,1,703.37,0,Occasional buyers
+18084,15,1,90.48,0,Occasional buyers
+18085,329,2,689.95,1,Lapsed
+18086,273,1,101.34,1,Lapsed
+18087,290,1,3202.92,1,Lapsed
+18088,60,1,167.67,0,Occasional buyers
+18092,1,11,9068.26,0,Occasional buyers
+18093,92,4,2106.52,0,Occasional buyers
+18094,81,7,3017.3,0,Occasional buyers
+18095,312,2,580.05,1,Lapsed
+18096,11,3,911.15,0,Occasional buyers
+18097,7,6,2697.8,0,Occasional buyers
+18099,126,1,168.31,0,Occasional buyers
+18101,10,2,223.65,0,Occasional buyers
+18102,0,60,259657.3,2,Champions
+18104,36,1,754.64,0,Occasional buyers
+18105,37,1,113.48,0,Occasional buyers
+18106,329,1,430.7,1,Lapsed
+18108,253,1,271.0,1,Lapsed
+18109,1,26,8052.97,3,Big spenders
+18110,19,1,236.3,0,Occasional buyers
+18112,11,2,352.69,0,Occasional buyers
+18113,368,1,76.32,1,Lapsed
+18114,289,1,220.1,1,Lapsed
+18116,67,8,1414.43,0,Occasional buyers
+18117,25,1,319.47,0,Occasional buyers
+18118,10,26,5651.42,3,Big spenders
+18119,367,1,181.12,1,Lapsed
+18120,213,1,111.15,1,Lapsed
+18121,148,2,673.1,1,Lapsed
+18122,7,6,1824.99,0,Occasional buyers
+18123,23,2,589.44,0,Occasional buyers
+18125,29,4,1142.99,0,Occasional buyers
+18126,60,1,204.49,0,Occasional buyers
+18127,18,3,348.73,0,Occasional buyers
+18129,242,1,112.55,1,Lapsed
+18130,14,3,1059.39,0,Occasional buyers
+18133,211,1,931.5,1,Lapsed
+18135,28,5,681.91,0,Occasional buyers
+18136,62,3,784.33,0,Occasional buyers
+18138,294,1,152.65,1,Lapsed
+18139,17,6,8438.34,0,Occasional buyers
+18142,156,2,1019.52,1,Lapsed
+18143,116,2,1000.16,0,Occasional buyers
+18144,7,12,2888.75,0,Occasional buyers
+18145,12,4,2861.55,0,Occasional buyers
+18146,140,2,160.35,0,Occasional buyers
+18147,45,2,179.34,0,Occasional buyers
+18149,50,3,612.08,0,Occasional buyers
+18150,31,3,566.58,0,Occasional buyers
+18151,134,2,653.35,0,Occasional buyers
+18154,2,2,399.19,0,Occasional buyers
+18155,74,3,371.62,0,Occasional buyers
+18156,12,2,734.94,0,Occasional buyers
+18158,8,2,453.4,0,Occasional buyers
+18159,300,1,530.15,1,Lapsed
+18160,56,2,638.06,0,Occasional buyers
+18161,14,5,1618.69,0,Occasional buyers
+18164,36,1,399.65,0,Occasional buyers
+18165,176,1,302.46,1,Lapsed
+18167,22,3,1384.86,0,Occasional buyers
+18168,175,6,1169.94,1,Lapsed
+18169,60,1,202.65,0,Occasional buyers
+18170,32,3,980.31,0,Occasional buyers
+18171,58,5,1231.31,0,Occasional buyers
+18172,14,20,7561.68,3,Big spenders
+18173,86,4,2106.84,0,Occasional buyers
+18174,6,1,104.0,0,Occasional buyers
+18176,357,1,476.35,1,Lapsed
+18177,30,6,1341.42,0,Occasional buyers
+18178,128,4,1590.81,0,Occasional buyers
+18179,8,6,1793.17,0,Occasional buyers
+18180,4,6,1843.75,0,Occasional buyers
+18181,23,1,382.8,0,Occasional buyers
+18183,226,2,632.07,1,Lapsed
+18184,14,1,49.8,0,Occasional buyers
+18185,248,1,304.25,1,Lapsed
+18188,14,3,2001.04,0,Occasional buyers
+18189,77,2,1090.24,0,Occasional buyers
+18190,191,2,284.46,1,Lapsed
+18191,261,1,207.8,1,Lapsed
+18192,71,1,957.97,0,Occasional buyers
+18193,164,1,243.76,1,Lapsed
+18194,81,1,973.84,0,Occasional buyers
+18196,94,2,689.13,0,Occasional buyers
+18198,3,17,5425.56,3,Big spenders
+18200,105,1,163.8,0,Occasional buyers
+18202,199,3,1396.99,1,Lapsed
+18203,156,1,160.42,1,Lapsed
+18204,70,3,1993.7,0,Occasional buyers
+18205,35,2,517.36,0,Occasional buyers
+18209,28,1,139.1,0,Occasional buyers
+18210,1,6,2621.38,0,Occasional buyers
+18211,25,5,600.07,0,Occasional buyers
+18212,325,1,248.42,1,Lapsed
+18213,236,1,232.48,1,Lapsed
+18215,88,1,299.34,0,Occasional buyers
+18216,30,1,481.75,0,Occasional buyers
+18217,28,2,621.75,0,Occasional buyers
+18218,210,2,662.08,1,Lapsed
+18219,2,10,2069.77,0,Occasional buyers
+18220,226,1,305.28,1,Lapsed
+18221,21,5,1041.61,0,Occasional buyers
+18222,92,1,443.0,0,Occasional buyers
+18223,4,14,6484.54,3,Big spenders
+18224,263,1,158.95,1,Lapsed
+18225,2,12,5509.12,0,Occasional buyers
+18226,43,11,5228.05,0,Occasional buyers
+18227,217,1,93.75,1,Lapsed
+18228,56,2,779.9,0,Occasional buyers
+18229,11,20,7276.9,3,Big spenders
+18230,8,7,2810.2,0,Occasional buyers
+18231,191,5,2083.27,1,Lapsed
+18232,81,4,592.97,0,Occasional buyers
+18233,325,1,440.0,1,Lapsed
+18235,71,3,1796.48,0,Occasional buyers
+18236,29,6,882.24,0,Occasional buyers
+18237,2,5,987.1,0,Occasional buyers
+18239,218,5,1561.61,1,Lapsed
+18240,45,1,422.58,0,Occasional buyers
+18241,9,17,2073.09,3,Big spenders
+18242,71,4,2232.49,0,Occasional buyers
+18245,6,7,2567.06,0,Occasional buyers
+18246,23,2,596.1,0,Occasional buyers
+18248,122,2,804.02,0,Occasional buyers
+18249,16,1,95.34,0,Occasional buyers
+18250,309,1,349.27,1,Lapsed
+18251,86,1,4314.72,0,Occasional buyers
+18252,50,2,526.67,0,Occasional buyers
+18255,88,1,103.3,0,Occasional buyers
+18257,38,8,2337.63,0,Occasional buyers
+18259,24,3,2338.6,0,Occasional buyers
+18260,172,6,2643.2,1,Lapsed
+18261,42,2,324.24,0,Occasional buyers
+18262,139,1,149.48,0,Occasional buyers
+18263,25,3,1213.16,0,Occasional buyers
+18265,71,2,801.51,0,Occasional buyers
+18268,133,1,25.5,0,Occasional buyers
+18269,365,1,168.6,1,Lapsed
+18270,37,2,283.15,0,Occasional buyers
+18272,2,6,3078.58,0,Occasional buyers
+18273,1,3,204.0,0,Occasional buyers
+18274,29,1,175.92,0,Occasional buyers
+18276,43,1,335.86,0,Occasional buyers
+18277,57,1,110.38,0,Occasional buyers
+18278,73,1,173.9,0,Occasional buyers
+18280,277,1,180.6,1,Lapsed
+18281,180,1,80.82,1,Lapsed
+18282,7,2,178.05,0,Occasional buyers
+18283,3,16,2088.93,3,Big spenders
+18287,42,3,1837.28,0,Occasional buyers

@@ -1,0 +1,5 @@
+cluster,label,n_customers,share_customers,share_revenue,mean_recency,mean_frequency,mean_monetary
+0,Occasional buyers,3046,70.28,46.27,42.8,3.64,1330.93
+1,Lapsed,1066,24.6,5.79,247.5,1.54,475.91
+2,Champions,13,0.3,18.68,6.4,81.77,125862.44
+3,Big spenders,209,4.82,29.26,14.4,22.02,12265.65

@@ -1,0 +1,5 @@
+origin,method,rmse,mae
+8,holt_winters,38624.28,35353.66
+8,naive,51795.73,42772.54
+16,holt_winters,72384.76,49943.63
+16,naive,73805.83,52168.48
