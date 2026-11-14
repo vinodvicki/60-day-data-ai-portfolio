@@ -28,7 +28,8 @@ code, README, requirements, charts and example results.
 | [07](day-07-disease-prevalence-dashboard/) | Disease Prevalence Dashboard — 6 chronic conditions, 2,956 counties (2023), national diabetes 12.05%, West Virginia highest at 15.88% | Healthcare | ✅ Done (2026-11-11) |
 | [08](day-08-hospital-readmission-risk-model/) | Hospital Readmission Risk Model — 101,766 encounters, logistic ROC-AUC 0.6612, HistGB 0.6761, both calibrated (Brier 0.0971 / 0.0956 vs 0.1006 baseline) | Healthcare | ✅ Done (2026-11-12) |
 | [09](day-09-healthcare-resource-demand-forecast/) | Healthcare Resource Demand Forecast — 8-week Holt-Winters forecast 3.03% → 13.87%, mean RMSE 0.4693 vs seasonal naïve 0.8244, 161 weeks NSSP + bed utilisation 72.5% | Healthcare | ✅ Done (2026-11-13) |
-| 10–60 | See the roadmap catalog | — | Planned |
+| [10](day-10-retail-sales-intelligence-dashboard/) | Retail Sales Intelligence Dashboard — UCI Online Retail, 527,795 cleaned lines, £10.28m revenue; Nov 2011 peak £1.46m (2.86× Feb), top 222 customers 47.94% of revenue, Holt-Winters 8-week forecast £3.06m (mean RMSE £55,505 vs naïve £62,801) | Retail | ✅ Done (2026-11-14) |
+| 11–60 | See the roadmap catalog | — | Planned |
 
 Day 1 headline findings (live CoinGecko data (Powered by CoinGecko), 366 daily observations, 2025-11-05 → 2026-11-05):
 BTC −20.7%, ETH −26.2%, SOL −38.5% total return; max drawdowns −44.7% /
@@ -108,6 +109,11 @@ Day 9 headline findings (live CDC NSSP ED-visit data, 25,116 rows, 161 weeks, fe
 Holt-Winters 8-week forecast of national Combined respiratory ED share rises 3.03% → 13.87% (weeks ending 2026-11-07 → 2026-12-26; bands Moderate, Moderate, High, High, Surge, Surge, Surge, Surge), final-week 80% interval 12.76–14.91% and 95% interval 12.08–15.38%; latest observed week 2.3% (2026-10-31), observed max 10.4% (2023-12-30) — the final two forecast weeks exceed the observed max and are read as a severe-season scenario. Backtest (3 rolling origins): Holt-Winters mean RMSE 0.4693 vs seasonal naïve 0.8244, 80%-interval coverage 75.0% vs 91.67% against the ≈80% target. Historically Low 89 / Moderate 35 / High 19 / Surge 18 of 161 weeks; top states Hawaii 7.0%, Florida 3.4%, Louisiana 2.9%, Washington 2.8%, Texas 2.6%; bed utilisation averaged 72.5% (max 78.9%) and was 74.95% in its final week (2024-04-27). Full detail in
 [Day 9](day-09-healthcare-resource-demand-forecast/) →
 [`outputs/insights_summary.md`](day-09-healthcare-resource-demand-forecast/outputs/insights_summary.md).
+
+Day 10 headline findings (UCI Online Retail, Chen 2015, dataset 352, CC BY 4.0; 541,909 rows fetched 2026-11-14, 527,795 cleaned lines, Dec 2010 – Dec 2011):
+Total revenue £10,283,243.98 across 19,776 orders (AOV £519.99; 4,334 identified customers; repeat rate 65.27%). November 2011 is the peak month at £1,457,745.53 — 2.86× February 2011 (£508,952.87) — and September–November together are 34.96% of annual revenue. The UK is 85.18% of revenue; non-UK orders average £814.03 per order against £489.24 in the UK. RFM + KMeans (k = 4, silhouette 0.616): the top 222 customers (5.12%) drive 47.94% (£4,200,055.35) of identified revenue, while 1,066 lapsed customers (24.60%) last bought 247.5 days ago on average. Holt-Winters (additive trend, no seasonality) 8-week forecast totals £3,061,051.48 (2011-12-05 → 2012-01-23) and beats the naïve baseline in the backtest (mean RMSE £55,504.52 vs £62,800.78). Full detail in
+[Day 10](day-10-retail-sales-intelligence-dashboard/) →
+[`outputs/insights_summary.md`](day-10-retail-sales-intelligence-dashboard/outputs/insights_summary.md).
 
 ## Roadmap phases
 
