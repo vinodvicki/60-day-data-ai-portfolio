@@ -1,0 +1,165 @@
+{
+  "attribution": "Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33",
+  "cleaning": {
+    "adjustment_codes": [
+      "AMAZONFEE",
+      "BANK CHARGES",
+      "C2",
+      "CRUK",
+      "D",
+      "DOT",
+      "M",
+      "POST"
+    ],
+    "adjustment_descriptions": [
+      "AMAZON FEE",
+      "BANK CHARGES",
+      "CRUK",
+      "DISCOUNT",
+      "MANUAL",
+      "POSTAGE"
+    ],
+    "gift_code_prefix": "gift_0001_",
+    "order": [
+      "unparseable_invoice_date",
+      "cancelled_rows",
+      "non_positive_quantity_rows",
+      "non_positive_price_rows",
+      "adjustment_rows",
+      "missing_description_rows"
+    ]
+  },
+  "clustering": {
+    "k": 4,
+    "labels": {
+      "0": "Occasional buyers",
+      "1": "Lapsed",
+      "2": "Champions",
+      "3": "Big spenders"
+    },
+    "method": "RFM + KMeans",
+    "n_init": 10,
+    "seed": 42,
+    "silhouette": 0.6163
+  },
+  "counts": {
+    "adjustment_codes": [
+      "AMAZONFEE",
+      "BANK CHARGES",
+      "C2",
+      "CRUK",
+      "D",
+      "DOT",
+      "M",
+      "POST"
+    ],
+    "adjustment_descriptions": [
+      "AMAZON FEE",
+      "BANK CHARGES",
+      "CRUK",
+      "DISCOUNT",
+      "MANUAL",
+      "POSTAGE"
+    ],
+    "adjustment_rows": 2309,
+    "cancelled_invoices": 3836,
+    "cancelled_rows": 9288,
+    "cleaned_customers": 4334,
+    "cleaned_orders": 19776,
+    "cleaned_rows": 527795,
+    "date_max": "2011-12-09 12:50:00",
+    "date_min": "2010-12-01 08:26:00",
+    "gift_code_prefix": "gift_0001_",
+    "missing_customer_revenue_gbp": 1522177.33,
+    "missing_customer_rows": 131455,
+    "missing_description_rows": 0,
+    "non_positive_price_rows": 1181,
+    "non_positive_quantity_rows": 1336,
+    "raw_rows": 541909,
+    "total_revenue_gbp": 10283243.98,
+    "total_units": 5577139,
+    "unparseable_invoice_date": 0
+  },
+  "dataset": "UCI Online Retail (dataset 352)",
+  "dataset_url": "https://archive.ics.uci.edu/dataset/352/online+retail",
+  "doi": "https://doi.org/10.24432/C5BW33",
+  "download_url": "https://archive.ics.uci.edu/static/public/352/online+retail.zip",
+  "fetch_date_utc": "2026-11-14T14:19:41Z",
+  "forecast": {
+    "backtest_horizon_weeks": 8,
+    "backtest_origins": [
+      8,
+      16
+    ],
+    "bootstrap_paths": 1000,
+    "bootstrap_seed": 42,
+    "forecast_horizon_weeks": 8,
+    "forecast_values": [
+      346552.3,
+      356860.62,
+      367168.95,
+      377477.27,
+      387785.6,
+      398093.92,
+      408402.25,
+      418710.57
+    ],
+    "forecast_weeks": [
+      "2011-12-05",
+      "2011-12-12",
+      "2011-12-19",
+      "2011-12-26",
+      "2012-01-02",
+      "2012-01-09",
+      "2012-01-16",
+      "2012-01-23"
+    ],
+    "mean_mae": {
+      "holt_winters": 42648.65,
+      "naive": 47470.51
+    },
+    "mean_rmse": {
+      "holt_winters": 55504.52,
+      "naive": 62800.78
+    },
+    "observed_max_weekly_revenue_gbp": 374736.15,
+    "published_method": "holt_winters"
+  },
+  "kpis": {
+    "aov_gbp": 519.99,
+    "missing_customer_revenue_share_pct": 14.8,
+    "orders": 19776,
+    "repeat_customer_rate_pct": 65.27,
+    "top10_sku_revenue_share_pct": 9.41,
+    "total_revenue_gbp": 10283243.98,
+    "total_units": 5577139,
+    "uk_revenue_share_pct": 85.18,
+    "unique_customers": 4334
+  },
+  "licence": "CC BY 4.0",
+  "limitations": [
+    "Single retailer, single year (2010-2011): seasonality is observed, not estimated from multiple years.",
+    "Forecast is a trend extrapolation (Holt-Winters additive trend, no seasonality) with bootstrap intervals \u2014 not a seasonal prediction.",
+    "Product groups are derived from Description first words, not source categories.",
+    "Prices may or may not include VAT \u2014 the dataset does not state it.",
+    "Missing CustomerID rows (14.8% of revenue) are excluded from RFM/clustering only."
+  ],
+  "monthly_definition": "Calendar months Dec 2010 -> Nov 2011 are full months; Dec 2011 is partial (data end 2011-12-09, 9 days) and is excluded from month-over-month growth.",
+  "product_group_rule": "Derived: first alphabetic word of Description, uppercased; top 10 groups by revenue reported individually, rest as Other.",
+  "source": "live",
+  "synthetic": false,
+  "synthetic_seed": null,
+  "top_product_groups": [
+    "SET",
+    "JUMBO",
+    "RED",
+    "PAPER",
+    "DOORMAT",
+    "LUNCH",
+    "REGENCY",
+    "VINTAGE",
+    "WHITE",
+    "PINK"
+  ],
+  "weekly_definition": "ISO weeks Monday-Sunday; only weeks fully inside the data range are kept (51 weeks, 2010-12-06 -> 2011-11-28)."
+}

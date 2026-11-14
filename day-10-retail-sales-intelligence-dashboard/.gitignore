@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+*.key
+*.log
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+# DATA-SIZE EXCEPTION (plan §3.4, Day 8 precedent): the raw UCI file
+# (Online Retail.xlsx, 22.6 MB) is git-ignored and re-downloaded at build
+# time. The committed provenance record is data/raw/sample_rows.json plus
+# the processed CSVs. Synthetic fallback output is never committed.
+data/raw/online_retail.zip
+data/raw/Online Retail.xlsx
+data/raw/*_synthetic.csv
