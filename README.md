@@ -29,6 +29,7 @@ code, README, requirements, charts and example results.
 | [08](day-08-hospital-readmission-risk-model/) | Hospital Readmission Risk Model — 101,766 encounters, logistic ROC-AUC 0.6612, HistGB 0.6761, both calibrated (Brier 0.0971 / 0.0956 vs 0.1006 baseline) | Healthcare | ✅ Done (2026-11-12) |
 | [09](day-09-healthcare-resource-demand-forecast/) | Healthcare Resource Demand Forecast — 8-week Holt-Winters forecast 3.03% → 13.87%, mean RMSE 0.4693 vs seasonal naïve 0.8244, 161 weeks NSSP + bed utilisation 72.5% | Healthcare | ✅ Done (2026-11-13) |
 | [10](day-10-retail-sales-intelligence-dashboard/) | Retail Sales Intelligence Dashboard — UCI Online Retail, 527,795 cleaned lines, £10.28m revenue; Nov 2011 peak £1.46m (2.86× Feb), top 222 customers 47.94% of revenue, Holt-Winters 8-week forecast £3.06m (mean RMSE £55,505 vs naïve £62,801) | Retail | ✅ Done (2026-11-14) |
+| [11](day-11-inventory-demand-forecast/) | Inventory Demand Forecast — UCI Online Retail, 527,795 cleaned lines, 5,241,272 units over 52 full weeks; top-20 SKU 4-week forecast 69,194 units, aggregate 627,508, reorder total 97,314; moving average wins overall (WAPE 44.16% vs naïve 44.33%), aggregate naïve 8.25% | Retail | ✅ Done (2026-11-15) |
 | 11–60 | See the roadmap catalog | — | Planned |
 
 Day 1 headline findings (live CoinGecko data (Powered by CoinGecko), 366 daily observations, 2025-11-05 → 2026-11-05):
@@ -114,6 +115,11 @@ Day 10 headline findings (UCI Online Retail, Chen 2015, dataset 352, CC BY 4.0; 
 Total revenue £10,283,243.98 across 19,776 orders (AOV £519.99; 4,334 identified customers; repeat rate 65.27%). November 2011 is the peak month at £1,457,745.53 — 2.86× February 2011 (£508,952.87) — and September–November together are 34.96% of annual revenue. The UK is 85.18% of revenue; non-UK orders average £814.03 per order against £489.24 in the UK. RFM + KMeans (k = 4, silhouette 0.616): the top 222 customers (5.12%) drive 47.94% (£4,200,055.35) of identified revenue, while 1,066 lapsed customers (24.60%) last bought 247.5 days ago on average. Holt-Winters (additive trend, no seasonality) 8-week forecast totals £3,061,051.48 (2011-12-05 → 2012-01-23) and beats the naïve baseline in the backtest (mean RMSE £55,504.52 vs £62,800.78). Full detail in
 [Day 10](day-10-retail-sales-intelligence-dashboard/) →
 [`outputs/insights_summary.md`](day-10-retail-sales-intelligence-dashboard/outputs/insights_summary.md).
+
+Day 11 headline findings (UCI Online Retail, Chen 2015, dataset 352, CC BY 4.0; 541,909 rows fetched 2026-11-15, 527,795 cleaned lines, Dec 2010 – Dec 2011):
+5,241,272 units over 52 full weeks; the top 20 SKUs by revenue are forecast to sell 69,194 units over the 4 weeks starting 2011-12-05 (aggregate 627,508, naïve repeating week 52's 156,877 units), with a total order-up-to of 97,314 units (69,194 forecast + 28,120 safety stock) at 95%/90% service levels, assuming zero on-hand and a 1-week lead time. On the Christmas-ramp holdout the 4-week moving average is best overall (WAPE 44.16% vs naïve 44.33%, Holt 45.52%, gradient boosting 65.51%, Croston-SBA 80.30%); per cluster, moving average wins smooth (34.03%) and erratic (47.26%), Holt wins intermittent (52.35%) and naïve wins lumpy (29.74%), while naïve wins the aggregate at 8.25%. Demand is mostly lumpy: of 3,897 SKUs with any demand, 1,932 (49.6%) are lumpy and only 137 (3.5%) smooth; the two lumpy SKUs hold 38,073 units of the reorder total and are flagged review-manually. Full detail in
+[Day 11](day-11-inventory-demand-forecast/) →
+[`outputs/insights_summary.md`](day-11-inventory-demand-forecast/outputs/insights_summary.md).
 
 ## Roadmap phases
 
