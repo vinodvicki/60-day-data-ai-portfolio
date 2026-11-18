@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+*.key
+*.log
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+# Raw data (43.0 MB CSV / 22.6 MB XLSX) is git-ignored and re-downloaded
+# at build time (plan §3.4). Only these three raw-data lines are
+# excluded; data/ itself is NOT excluded.
+data/raw/data.csv
+data/raw/Online Retail.xlsx
+data/raw/*_synthetic.csv
