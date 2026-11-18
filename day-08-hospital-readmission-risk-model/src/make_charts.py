@@ -53,7 +53,7 @@ plt.rcParams.update(
 
 
 def _record() -> dict:
-    return json.loads((PROCESSED_DIR / "data_source.json").read_text())
+    return dict(json.loads((PROCESSED_DIR / "data_source.json").read_text()))
 
 
 def _is_synthetic() -> bool:

@@ -101,7 +101,7 @@ def seasonal_naive_forecast(series: pd.Series, horizon: int = 4) -> np.ndarray:
     vals = _values(series)
     if seasonal_naive_available(series, horizon):
         start = len(vals) - 52
-        return np.maximum(vals[start : start + horizon], 0.0)
+        return np.asarray(np.maximum(vals[start : start + horizon], 0.0), dtype=float)
     return naive_forecast(series, horizon=horizon)
 
 

@@ -16,6 +16,7 @@ import sys
 import time
 import zipfile
 from pathlib import Path
+from typing import Any
 
 import numpy as np
 import pandas as pd
@@ -247,7 +248,8 @@ def select_top_skus(
         "quantity"
     ].sum()
     weeks_with_demand = weekly_units.groupby("stock_code").size()
-    selected, replaced = [], []
+    selected: list[str] = []
+    replaced: list[dict[str, Any]] = []
     for _, row in revenue.iterrows():
         if len(selected) >= n:
             break
@@ -634,7 +636,10 @@ def _insample_wape_aggregate(series: pd.Series) -> dict:
     """One-step-ahead in-sample WAPE on the aggregate training window."""
     train = series.iloc[:TRAIN_WEEKS]
     vals = train.to_numpy(dtype=float)
-    out = {}
+    # None marks seasonal naïve as not defined here (the 48-week training
+    # window has no lag-52 history); holt / gradient boosting use NaN for
+    # "not computed cheaply". The distinction is preserved in the record.
+    out: dict[str, float | None] = {}
     # Naïve one-step: forecast y[t] = y[t-1].
     out["naive"] = wape(vals[1:], vals[:-1])
     # 4-week moving average one-step.

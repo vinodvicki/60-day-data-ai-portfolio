@@ -10,3 +10,5 @@ venv/
 .ipynb_checkpoints/
 # Synthetic fallback output is never committed; live data/raw/*.json IS committed
 data/raw/*_synthetic.json
+.coverage
+.mypy_cache/

@@ -120,7 +120,7 @@ def chart_01(data: dict, out: Path) -> None:
         ax.tick_params(axis="y", labelsize=8)
         ax.legend(fontsize=7, loc="upper left")
     axes.flat[-1].axis("off")
-    fig.tight_layout(rect=[0, 0.03, 1, 0.94])
+    fig.tight_layout(rect=(0, 0.03, 1, 0.94))
     _footnote(fig)
     fig.savefig(out, dpi=100)
     plt.close(fig)
@@ -144,7 +144,7 @@ def chart_02(data: dict, out: Path) -> None:
     )
     primary["actual_total"] = primary["stock_code"].map(holdout_totals)
     groups = CLUSTERS + ["overall"]
-    values = {g: {} for g in groups}
+    values: dict[str, dict[str, float]] = {g: {} for g in groups}
     for group in groups:
         sub = primary if group == "overall" else primary[primary["cluster"] == group]
         for method in methods:
@@ -193,7 +193,7 @@ def chart_02(data: dict, out: Path) -> None:
     ax.set_ylim(
         0, max(100, max(v * 100 for g in groups for v in values[g].values()) * 1.15)
     )
-    fig.tight_layout(rect=[0, 0.04, 1, 0.96])
+    fig.tight_layout(rect=(0, 0.04, 1, 0.96))
     _footnote(fig)
     fig.savefig(out, dpi=100)
     plt.close(fig)
@@ -301,7 +301,7 @@ def chart_03(data: dict, out: Path) -> None:
     ax.set_xlim(0.9, 60)
     ax.set_ylim(0, max(3, stats["cv2"].max() * 1.05))
     ax.legend(fontsize=8, loc="upper center", bbox_to_anchor=(0.5, -0.14), ncol=5)
-    fig.tight_layout(rect=[0, 0.06, 1, 0.96])
+    fig.tight_layout(rect=(0, 0.06, 1, 0.96))
     _footnote(fig)
     fig.savefig(out, dpi=100)
     plt.close(fig)
@@ -360,7 +360,7 @@ def chart_04(data: dict, out: Path) -> None:
     )
     ax.legend(fontsize=8, loc="lower right")
     ax.set_xlim(0, reorder["order_up_to_units"].max() * 1.85)
-    fig.tight_layout(rect=[0, 0.04, 1, 0.96])
+    fig.tight_layout(rect=(0, 0.04, 1, 0.96))
     _footnote(fig)
     fig.savefig(out, dpi=100)
     plt.close(fig)

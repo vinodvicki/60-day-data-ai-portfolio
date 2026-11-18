@@ -45,6 +45,7 @@ import sys
 import time
 from datetime import UTC, datetime
 from pathlib import Path
+from typing import Any, cast
 
 import numpy as np
 import pandas as pd
@@ -107,7 +108,9 @@ NATIONAL_GEOGRAPHY = "United States"
 BED_END_DATE = "2024-04-27"
 
 # Synthetic fallback (brief §4; only if the live NSSP fetch fails).
-SYNTHETIC_GENERATOR = {
+# dict[str, Any]: the values mix ints, floats and the nested
+# pathogen-shares dict; the generator is read as floats downstream.
+SYNTHETIC_GENERATOR: dict[str, Any] = {
     "weeks": 161,
     "base_pct": 1.5,
     "winter_peak_pp": 5.0,
@@ -422,7 +425,9 @@ def _load_or_fetch_nssp(use_cache: bool) -> list[dict]:
     raw_path = RAW_DIR / NSSP_RAW_NAME
     if use_cache and raw_path.exists():
         print(f"using cached NSSP raw data: {raw_path} (no download)")
-        return json.loads(raw_path.read_text(encoding="utf-8"))
+        return cast(
+            list[dict[str, Any]], json.loads(raw_path.read_text(encoding="utf-8"))
+        )
     rows = fetch_nssp()
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     raw_path.write_text(json.dumps(rows), encoding="utf-8")
@@ -434,7 +439,9 @@ def _load_or_fetch_bed(use_cache: bool) -> list[dict]:
     raw_path = RAW_DIR / BED_RAW_NAME
     if use_cache and raw_path.exists():
         print(f"using cached bed raw data: {raw_path} (no download)")
-        return json.loads(raw_path.read_text(encoding="utf-8"))
+        return cast(
+            list[dict[str, Any]], json.loads(raw_path.read_text(encoding="utf-8"))
+        )
     rows = fetch_bed_capacity()
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     raw_path.write_text(json.dumps(rows), encoding="utf-8")

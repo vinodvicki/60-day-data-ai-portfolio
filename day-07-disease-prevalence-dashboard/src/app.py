@@ -54,7 +54,7 @@ ATTRIBUTION = (
 
 
 @st.cache_data
-def load_all() -> tuple[dict, pd.DataFrame, dict, dict]:
+def load_all() -> tuple[dict, pd.DataFrame, dict, dict, dict]:
     prevalence = {}
     change = {}
     for measure, slug in SLUGS.items():

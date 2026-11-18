@@ -34,6 +34,7 @@ import tempfile
 import time
 from datetime import UTC, datetime
 from pathlib import Path
+from typing import Any, cast
 
 import pandas as pd
 import requests
@@ -108,7 +109,7 @@ def _get(session: requests.Session, dataset: str, params: dict) -> list:
     for attempt in (1, 2):
         resp = session.get(url, params=params, headers=HEADERS, timeout=60)
         if resp.status_code == 200:
-            return resp.json()
+            return cast(list[Any], resp.json())
         if attempt == 1 and resp.status_code in (429, 500, 502, 503, 504):
             time.sleep(5)
             continue

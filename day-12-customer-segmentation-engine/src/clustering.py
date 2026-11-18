@@ -37,7 +37,7 @@ def _scaled_features(rfm: pd.DataFrame) -> np.ndarray:
     x = np.log1p(
         rfm[["recency_days", "frequency", "monetary_gbp"]].to_numpy(dtype=float)
     )
-    return StandardScaler().fit_transform(x)
+    return np.asarray(StandardScaler().fit_transform(x), dtype=float)
 
 
 def select_k(
@@ -70,7 +70,10 @@ def choose_k(selection: pd.DataFrame) -> int:
 def cluster_customers(rfm: pd.DataFrame, k: int, seed: int = 42) -> np.ndarray:
     """KMeans labels (0..k-1) on log1p + scaled R/F/M (the decider)."""
     x = _scaled_features(rfm)
-    return KMeans(n_clusters=int(k), random_state=seed, n_init=10).fit_predict(x)
+    return np.asarray(
+        KMeans(n_clusters=int(k), random_state=seed, n_init=10).fit_predict(x),
+        dtype=int,
+    )
 
 
 def name_segments(median_scores: pd.DataFrame) -> dict:

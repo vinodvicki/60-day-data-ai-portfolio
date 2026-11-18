@@ -68,7 +68,9 @@ def interval_coverage(y_true, lo, hi) -> float:
     return float(np.mean((y >= lo) & (y <= hi)))
 
 
-def seasonal_naive_predict(train, horizon: int, period: int = 52) -> np.ndarray:
+def seasonal_naive_predict(
+    train: np.ndarray, horizon: int, period: int = 52
+) -> np.ndarray:
     """Seasonal-naïve forecast: week *t* = the value *period* weeks earlier.
 
     ``train`` is the training series (array-like, oldest first);

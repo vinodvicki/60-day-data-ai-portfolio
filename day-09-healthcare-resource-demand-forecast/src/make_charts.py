@@ -72,7 +72,7 @@ plt.rcParams.update(
 
 
 def _record() -> dict:
-    return json.loads((PROCESSED_DIR / "data_source.json").read_text())
+    return dict(json.loads((PROCESSED_DIR / "data_source.json").read_text()))
 
 
 def _is_synthetic() -> bool:
@@ -176,7 +176,7 @@ def chart_01_forecast(frames: dict[str, pd.DataFrame], record: dict) -> None:
     ax.set_ylim(bottom=0)
     ax.legend(loc="upper left", fontsize=9)
     ax.grid(axis="y", alpha=0.3)
-    fig.tight_layout(rect=[0, 0.08, 1, 1])
+    fig.tight_layout(rect=(0, 0.08, 1, 1))
     _footnote(
         fig,
         "Forecast weeks labelled with their demand band (Low <2%, "
@@ -237,7 +237,7 @@ def chart_02_backtest(frames: dict[str, pd.DataFrame], record: dict) -> None:
         fontsize=13,
         fontweight="bold",
     )
-    fig.tight_layout(rect=[0, 0.08, 1, 0.94])
+    fig.tight_layout(rect=(0, 0.08, 1, 0.94))
     _footnote(
         fig,
         "Rolling-origin backtest: 3 origins (12 / 8 / 4 weeks before the "
@@ -305,7 +305,7 @@ def chart_03_bands(frames: dict[str, pd.DataFrame], record: dict) -> None:
         fontsize=13,
         fontweight="bold",
     )
-    fig.tight_layout(rect=[0, 0.08, 1, 0.94])
+    fig.tight_layout(rect=(0, 0.08, 1, 0.94))
     _footnote(
         fig,
         "Bands: Low <2%, Moderate 2–4%, High 4–6%, Surge >6%. Surge is a "
@@ -418,7 +418,7 @@ def chart_04_bed(frames: dict[str, pd.DataFrame], record: dict) -> None:
         fontsize=13,
         fontweight="bold",
     )
-    fig.tight_layout(rect=[0, 0.16, 1, 0.94])
+    fig.tight_layout(rect=(0, 0.16, 1, 0.94))
     _footnote(
         fig,
         BED_FOOTNOTE + " Utilisation = Σ beds used / Σ beds per week "

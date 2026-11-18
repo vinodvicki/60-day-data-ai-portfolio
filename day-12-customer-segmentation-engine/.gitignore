@@ -14,3 +14,5 @@ venv/
 data/raw/data.csv
 data/raw/Online Retail.xlsx
 data/raw/*_synthetic.csv
+.coverage
+.mypy_cache/

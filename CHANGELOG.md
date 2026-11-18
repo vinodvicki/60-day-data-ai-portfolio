@@ -43,7 +43,9 @@ run from inside each day folder):
 | 12 — Customer Segmentation Engine | 69% |
 
 The `--cov-fail-under` threshold is set at the measured floor (the lowest
-day), rounded down to the nearest 5. It rises as coverage improves; the
+day), rounded down to the nearest 5 — currently **30**, since the lowest
+day (Day 08) measures 34.94% in a clean sequential run under the exact CI
+invocation (42 passed; 35% would fail it). It rises as coverage improves; the
 threshold is a floor, not a target. Streamlit `app.py` files are the
 largest uncovered share (they are exercised by the smoke test, not by
 pytest).

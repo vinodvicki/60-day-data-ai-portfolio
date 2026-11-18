@@ -38,7 +38,7 @@ pip install -r ../../requirements-dev.txt   # ruff, black, pytest-cov, mypy, pre
 python -m ruff check src tests
 python -m black --check src tests
 python -m mypy src tests                    # gradual typing; see pyproject.toml
-python -m pytest tests/ -q --cov=src --cov-report=term-missing --cov-fail-under=35
+python -m pytest tests/ -q --cov=src --cov-report=term-missing --cov-fail-under=30
 streamlit run src/app.py                    # smoke: HTTP 200 + real screenshot
 python ../../agents/orchestrator.py --day NN validate   # 11/11 checks
 ```

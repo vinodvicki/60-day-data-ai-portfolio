@@ -38,7 +38,7 @@ RAW = ROOT / "data" / "raw"
 
 
 def _record() -> dict:
-    return json.loads((PROCESSED / "data_source.json").read_text())
+    return dict(json.loads((PROCESSED / "data_source.json").read_text()))
 
 
 def _sample() -> pd.DataFrame:

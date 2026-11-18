@@ -93,7 +93,7 @@ def chart_01(data: dict, out: Path) -> None:
     ax.set_xlabel("Customers")
     ax.set_title("Customers per segment (KMeans decides — see §2.0)", fontsize=10)
     ax.set_xlim(0, order["n_customers"].max() * 1.2)
-    fig.tight_layout(rect=[0, 0.04, 1, 0.93])
+    fig.tight_layout(rect=(0, 0.04, 1, 0.93))
     _footnote(fig)
     fig.savefig(out, dpi=100)
     plt.close(fig)
@@ -152,7 +152,7 @@ def chart_02(data: dict, out: Path) -> None:
         fontsize=8,
         color="#333333",
     )
-    fig.tight_layout(rect=[0, 0.06, 1, 0.96])
+    fig.tight_layout(rect=(0, 0.06, 1, 0.96))
     _footnote(fig)
     fig.savefig(out, dpi=100)
     plt.close(fig)
@@ -207,7 +207,7 @@ def chart_03(data: dict, out: Path) -> None:
         fontsize=11,
     )
     ax.legend(fontsize=8, loc="upper left")
-    fig.tight_layout(rect=[0, 0.04, 1, 0.96])
+    fig.tight_layout(rect=(0, 0.04, 1, 0.96))
     _footnote(fig)
     fig.savefig(out, dpi=100)
     plt.close(fig)
@@ -298,7 +298,7 @@ def chart_04(data: dict, out: Path) -> None:
         fontsize=8,
         color="#333333",
     )
-    fig.tight_layout(rect=[0, 0.07, 1, 0.95])
+    fig.tight_layout(rect=(0, 0.07, 1, 0.95))
     _footnote(fig)
     fig.savefig(out, dpi=100)
     plt.close(fig)

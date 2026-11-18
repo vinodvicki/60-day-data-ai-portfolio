@@ -29,6 +29,7 @@ import re
 import time
 import zipfile
 from pathlib import Path
+from typing import Any
 
 import numpy as np
 import pandas as pd
@@ -118,7 +119,7 @@ def clean_transactions(df: pd.DataFrame) -> tuple[pd.DataFrame, dict]:
     dict). The counts dict records the raw row count and the number of
     rows removed at each rule, in application order.
     """
-    counts: dict[str, int] = {"raw_rows": len(df)}
+    counts: dict[str, Any] = {"raw_rows": len(df)}
     work = df.copy()
     work["InvoiceDate"] = pd.to_datetime(work["InvoiceDate"], errors="coerce")
     unparseable = int(work["InvoiceDate"].isna().sum())

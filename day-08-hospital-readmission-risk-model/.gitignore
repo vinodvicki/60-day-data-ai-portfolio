@@ -17,3 +17,5 @@ venv/
 data/raw/diabetic_data.csv
 data/raw/*.zip
 data/raw/*_synthetic.csv
+.coverage
+.mypy_cache/

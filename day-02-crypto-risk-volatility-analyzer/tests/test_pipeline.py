@@ -8,16 +8,16 @@ import numpy as np
 import pandas as pd
 import pytest
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-import data_pipeline
-from data_pipeline import (
+from src import data_pipeline
+from src.data_pipeline import (
     build_correlations,
     clean_chart,
     compute_daily,
     generate_synthetic,
 )
-from risk_metrics import (
+from src.risk_metrics import (
     daily_returns,
     drawdown_series,
     max_drawdown_info,

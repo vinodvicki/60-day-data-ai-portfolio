@@ -18,3 +18,5 @@ venv/
 data/raw/nssp_ed_visits.json
 data/raw/bed_capacity.json
 data/raw/*_synthetic.json
+.coverage
+.mypy_cache/
