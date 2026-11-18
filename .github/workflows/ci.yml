@@ -1,13 +1,29 @@
-# Single consolidated workflow (Stage 2, 2026-11-05): replaces ci.yml
-# (Day-1-only job) + daily-project.yml. No CoinGecko API calls in CI —
-# all tests are offline.
+# Single consolidated workflow (Stage 2, 2026-11-05; best-practice
+# retrofit 2026-11-18): replaces ci.yml (Day-1-only job) +
+# daily-project.yml. No CoinGecko API calls in CI — all tests are offline.
 #
-# Per changed day folder (day-NN-*):
+# Per changed day folder (day-NN-*), in order:
 #   pip install -r <day>/requirements.txt
-#   pip install -r requirements-dev.txt   (shared ruff + black, pinned)
+#   pip install -r requirements-dev.txt   (ruff, black, pytest-cov, mypy,
+#                                          pre-commit — all pinned)
 #   ruff check <day>/src <day>/tests
 #   black --check <day>/src <day>/tests
-#   pytest <day>/tests/ -q
+#   mypy src tests                       (from inside <day>; src/ is a
+#                                          package (src/__init__.py), so
+#                                          every module is checked once
+#                                          under its canonical src.* name.
+#                                          Do NOT run mypy from inside src/
+#                                          and do NOT set mypy_path="src":
+#                                          both make mypy see each file
+#                                          twice ("risk_metrics" and
+#                                          "src.risk_metrics") and refuse
+#                                          to check — see the step comment.)
+#   pytest <day>/tests/ -q --cov=src --cov-report=term-missing
+#          --cov-fail-under=<threshold>   (from inside <day>; threshold is
+#          the measured floor across published days — see CHANGELOG.md)
+#   python agents/orchestrator.py --day N validate
+#          (secret scan, pinned-deps check, data-size rule, screenshot
+#          check, pytest re-run)
 #   python -m src.make_charts (from <day>; offline, reads committed CSVs)
 #   jupyter nbconvert --to notebook --execute <day>/notebooks/analysis.ipynb
 # Any step failing fails the job. No network calls to project APIs are made
@@ -58,7 +74,7 @@ jobs:
           echo "days=$DAYS" >> "$GITHUB_OUTPUT"
           echo "Changed day folders: ${DAYS:-none}"
 
-      - name: Lint and test each changed day
+      - name: Lint, type-check, test and validate each changed day
         if: steps.changed.outputs.days != ''
         shell: bash
         run: |
@@ -67,10 +83,30 @@ jobs:
           pip install -r requirements-dev.txt
           for DAY in ${{ steps.changed.outputs.days }}; do
             echo "=== $DAY ==="
+            DAYNUM=$(echo "$DAY" | sed -E 's/^day-([0-9]+).*/\1/')
             python -m pip install -r "$DAY/requirements.txt"
             python -m ruff check "$DAY/src" "$DAY/tests"
             python -m black --check "$DAY/src" "$DAY/tests"
-            python -m pytest "$DAY/tests/" -q
+            # mypy runs from inside <day> (see header): src/ is a package
+            # (src/__init__.py), so `mypy src tests` checks every module
+            # once under its canonical src.* name. The fallback bare imports
+            # (`from <module> import ...` in the `except ImportError`
+            # branches) are unresolvable to mypy and ignored via
+            # ignore_missing_imports; the primary src.* imports are fully
+            # checked. Do NOT run mypy from inside src/ and do NOT set
+            # mypy_path="src": both make mypy see each file twice
+            # ("risk_metrics" and "src.risk_metrics") and refuse to check.
+            # (Proven 2026-11-18: the src/-relative run passed only while
+            # the .mypy_cache was warm and failed on a cold cache.)
+            (cd "$DAY" && python -m mypy src tests)
+            # Tests with coverage, from inside the day folder so
+            # --cov=src and the day's [tool.coverage] config resolve.
+            # Threshold = measured floor across published days (CHANGELOG.md).
+            (cd "$DAY" && python -m pytest tests/ -q --cov=src \
+              --cov-report=term-missing --cov-fail-under=30)
+            # Orchestrator gate: secret scan, pinned deps, data-size rule,
+            # screenshot check, pytest re-run.
+            python agents/orchestrator.py --day "$DAYNUM" validate
             # Chart smoke: regenerate charts offline from the committed
             # CSVs, assert the 4 PNGs exist and are non-empty, then
             # restore the tree so CI leaves no diff behind.
