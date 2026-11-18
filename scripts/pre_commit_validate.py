@@ -1,4 +1,8 @@
-#!/usr/bin/env python3
+# NOTE: no shebang on purpose — this file is committed non-executable
+# (snapshot pushes cannot set the exec bit) and ruff rule EXE001 flags a
+# shebang without the exec bit (broke CI run #100, 2026-11-18). Pre-commit
+# invokes it as `python scripts/pre_commit_validate.py`, so no shebang
+# is needed. Do not re-add one unless the file is made executable too.
 """Pre-commit local hook: validate every staged day folder.
 
 Finds day folders among the staged files (``git diff --cached
