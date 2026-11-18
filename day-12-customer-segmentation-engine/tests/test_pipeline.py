@@ -453,6 +453,8 @@ def test_no_committed_file_over_1mb():
             continue
         if ".venv" in path.parts or "__pycache__" in path.parts:
             continue
+        if ".mypy_cache" in path.parts:
+            continue  # local mypy build cache, git-ignored, never committed
         if path.name in ("data.csv", "Online Retail.xlsx"):
             continue
         assert path.stat().st_size <= 1_000_000, f"{path} exceeds 1 MB"

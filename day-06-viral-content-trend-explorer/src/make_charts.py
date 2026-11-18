@@ -115,7 +115,7 @@ def chart_01_momentum(table: pd.DataFrame) -> None:
     ax.set_title("Share change, recent vs prior window")
     for xi, value in zip(x, table["share_change_pp"], strict=True):
         ax.text(
-            xi,
+            float(xi),
             value + (0.4 if value >= 0 else -1.1),
             f"{value:+.1f}",
             ha="center",
@@ -166,7 +166,7 @@ def chart_02_weekly_volume(videos: pd.DataFrame) -> None:
     fig, ax = plt.subplots(figsize=(12, 5.5))
     x = np.arange(len(weeks))
     bottom = np.zeros(len(weeks))
-    palette = plt.cm.tab10.colors
+    palette = [plt.cm.tab10(i) for i in range(10)]
     for i, topic in enumerate(TOPIC_ORDER):
         values = topic_counts[topic].to_numpy(dtype=float)
         ax.bar(
@@ -318,7 +318,7 @@ def chart_04_sentiment(comments: pd.DataFrame) -> None:
     ax.set_title("Audience mood on the fastest-rising video per topic")
     for xi, row in zip(x, summary.itertuples(), strict=True):
         ax.text(
-            xi,
+            float(xi),
             row.mean_compound + 0.02,
             f"{row.mean_compound:.2f} · +{row.positive:.0f}% / "
             f"−{row.negative:.0f}% · n={int(row.n)}",

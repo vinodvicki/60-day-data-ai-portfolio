@@ -176,9 +176,10 @@ def _run_helper(args: list[str]) -> dict:
             if attempt == 1:
                 time.sleep(RETRY_AFTER_SECONDS)
                 continue
+            assert last_error is not None  # assigned just above
             raise last_error from exc
         if proc.returncode == 0:
-            return json.loads(proc.stdout)
+            return dict(json.loads(proc.stdout))
         message = (proc.stderr or proc.stdout or "").strip()
         # The helper prints "HTTP {code} from {path}: {body[:500]}".
         code = message.split()[1] if message.startswith("HTTP ") else "?"
@@ -186,7 +187,9 @@ def _run_helper(args: list[str]) -> dict:
         if code.startswith("5") and attempt == 1:
             time.sleep(RETRY_AFTER_SECONDS)
             continue
+        assert last_error is not None  # assigned just above
         raise last_error
+    assert last_error is not None  # loop always returns/raises first
     raise last_error  # pragma: no cover - loop always returns/raises
 
 
@@ -380,8 +383,10 @@ def evaluate_validation(frame: pd.DataFrame) -> dict | None:
     merged = frame.merge(labels, on="comment_id", how="inner", suffixes=("", "_human"))
     if merged.empty:
         return None
-    return evaluate_predictions(
-        merged["sentiment"].tolist(), merged["human_label"].tolist()
+    return dict(
+        evaluate_predictions(
+            merged["sentiment"].tolist(), merged["human_label"].tolist()
+        )
     )
 
 

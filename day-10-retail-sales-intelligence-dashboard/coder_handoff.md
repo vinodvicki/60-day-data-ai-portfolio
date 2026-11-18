@@ -88,7 +88,7 @@ visually verified after quantisation. Do **not** re-save with PIL
 
 1. **Orchestrator validate 10/11 — false positive, no action taken.** The
    validator's credential heuristic (`AKIA[0-9A-Z]{16}`, case-insensitive)
-   matches the string `aKiAEJDJ5gl4N03YwLAe` inside the base64-encoded chart
+   matches the string `aKiA…` (base64 fragment, middle redacted) inside the base64-encoded chart
    PNG embedded in `notebooks/analysis.ipynb:328` (the chart-01 display
    output). That string is random base64 image data, not a credential — there
    is no key, token, password or secret anywhere in the tree (verified by

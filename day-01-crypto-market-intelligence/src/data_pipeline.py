@@ -105,7 +105,9 @@ def fetch_coin_chart(coin: str, api_key: str | None = None) -> dict:
                 last_error = exc
                 break  # network error: try the fallback endpoint once
             if resp.status_code == 200:
-                return resp.json()
+                # dict(...) pins the Any from resp.json() to the declared
+                # dict return type (mypy: no-any-return).
+                return dict(resp.json())
             if resp.status_code == 429:
                 if attempt == 0:
                     wait = 60

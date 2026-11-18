@@ -17,10 +17,10 @@ from pathlib import Path
 import pandas as pd
 import pytest
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-import data_pipeline
-from youtube_kpi import (
+from src import data_pipeline
+from src.youtube_kpi import (
     build_recommendations,
     classify_format,
     classify_topic,
@@ -195,6 +195,7 @@ def _load_pipeline_copy(tmp_path: Path):
     spec = importlib.util.spec_from_file_location(
         "day04_pipeline_copy", day / "src" / "data_pipeline.py"
     )
+    assert spec is not None and spec.loader is not None
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     return module, day

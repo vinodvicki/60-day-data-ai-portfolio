@@ -1,0 +1,5 @@
+# Streamlit Community Cloud dependency shim.
+# Cloud searches the entrypoint directory (src/) for requirements.txt, then the repo root.
+# The pinned runtime deps stay authoritative in the day folder's requirements.txt;
+# this file only forwards to it so no version is ever listed twice.
+-r ../requirements.txt

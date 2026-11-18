@@ -19,10 +19,10 @@ from pathlib import Path
 import pandas as pd
 import pytest
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-import data_pipeline
-from sentiment import (
+from src import data_pipeline
+from src.sentiment import (
     NEGATIVE_WORDS,
     POSITIVE_WORDS,
     classify_sentiment,
@@ -77,7 +77,7 @@ def test_lexicon_lists_present_and_counted():
     assert 100 <= len(POSITIVE_WORDS) <= 160
     assert 100 <= len(NEGATIVE_WORDS) <= 160
     assert not (POSITIVE_WORDS & NEGATIVE_WORDS)
-    from sentiment import STRONG_NEGATIVE, STRONG_POSITIVE
+    from src.sentiment import STRONG_NEGATIVE, STRONG_POSITIVE
 
     assert STRONG_POSITIVE == {
         "love",
@@ -242,6 +242,7 @@ def _load_pipeline_copy(tmp_path: Path):
     spec = importlib.util.spec_from_file_location(
         "day05_pipeline_copy", day / "src" / "data_pipeline.py"
     )
+    assert spec is not None and spec.loader is not None
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     return module, day

@@ -8,10 +8,10 @@ import numpy as np
 import pandas as pd
 import pytest
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-import data_pipeline
-from anomaly import (
+from src import data_pipeline
+from src.anomaly import (
     FEATURE_COLUMNS,
     apply_rules,
     build_timeline,
@@ -22,7 +22,7 @@ from anomaly import (
     inject_anomalies,
     run_detection,
 )
-from data_pipeline import clean_chart, compute_daily, generate_synthetic
+from src.data_pipeline import clean_chart, compute_daily, generate_synthetic
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 COINS = ("bitcoin", "ethereum", "solana")
@@ -72,10 +72,10 @@ def test_trailing_z_score_excludes_today_and_warms_up():
     # std 0 -> z is inf/NaN), so use slightly noisy flat returns instead.
     rng = np.random.default_rng(7)
     base_rets = rng.normal(0.001, 0.01, size=40)
-    prices = [100.0]
+    prices_list = [100.0]
     for r in base_rets:
-        prices.append(prices[-1] * (1 + r))
-    prices = np.array(prices)
+        prices_list.append(prices_list[-1] * (1 + r))
+    prices = np.array(prices_list)
     # Append a +10% jump day.
     prices = np.append(prices, prices[-1] * 1.10)
     feat = compute_features(_daily_frame(prices))

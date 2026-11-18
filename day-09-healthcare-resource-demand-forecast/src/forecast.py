@@ -16,6 +16,7 @@ from __future__ import annotations
 
 import warnings
 from pathlib import Path
+from typing import Any
 
 import numpy as np
 import pandas as pd
@@ -59,20 +60,24 @@ def classify_band(value: float) -> str:
 
 def seasonal_naive_forecast(series: pd.Series, horizon: int = 8) -> np.ndarray:
     """Seasonal-naïve forecast: each week = the same week last year."""
-    return seasonal_naive_predict(
+    # seasonal_naive_predict is dual-imported (src.metrics / metrics), so
+    # mypy sees its return as Any; pin the type explicitly (the function
+    # is annotated -> np.ndarray in metrics.py).
+    forecast: np.ndarray = seasonal_naive_predict(
         series.to_numpy(dtype=float), horizon, period=SEASONAL_PERIOD
     )
+    return forecast
 
 
 def seasonal_naive_residuals(series: pd.Series) -> np.ndarray:
     """In-sample one-step residuals of the seasonal-naïve method."""
     values = series.to_numpy(dtype=float)
-    return values[SEASONAL_PERIOD:] - values[:-SEASONAL_PERIOD]
+    return np.asarray(values[SEASONAL_PERIOD:] - values[:-SEASONAL_PERIOD], dtype=float)
 
 
 def holt_winters_forecast(
     series: pd.Series, horizon: int = 8
-) -> tuple[np.ndarray, object]:
+) -> tuple[np.ndarray, Any]:
     """Holt-Winters forecast (additive trend + additive seasonality, p=52).
 
     Returns (point forecast array, fitted model). Raises if the fit

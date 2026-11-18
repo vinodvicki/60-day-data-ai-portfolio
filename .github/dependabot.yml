@@ -1,0 +1,106 @@
+# Dependabot — weekly pip updates for the portfolio.
+# One entry per requirements file: the root dev requirements plus each
+# day's requirements.txt (Dependabot takes one directory per entry).
+# Added 2026-11-18 (best-practice retrofit). Updates arrive as pull
+# requests; CI must stay green before merging — never merge a Dependabot
+# PR that breaks a day's tests.
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "America/Los_Angeles"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "America/Los_Angeles"
+  - package-ecosystem: "pip"
+    directory: "/day-01-crypto-market-intelligence"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "America/Los_Angeles"
+  - package-ecosystem: "pip"
+    directory: "/day-02-crypto-risk-volatility-analyzer"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "America/Los_Angeles"
+  - package-ecosystem: "pip"
+    directory: "/day-03-crypto-market-anomaly-detector"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "America/Los_Angeles"
+  - package-ecosystem: "pip"
+    directory: "/day-04-youtube-video-performance-analyzer"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "America/Los_Angeles"
+  - package-ecosystem: "pip"
+    directory: "/day-05-social-media-sentiment-analyzer"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "America/Los_Angeles"
+  - package-ecosystem: "pip"
+    directory: "/day-06-viral-content-trend-explorer"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "America/Los_Angeles"
+  - package-ecosystem: "pip"
+    directory: "/day-07-disease-prevalence-dashboard"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "America/Los_Angeles"
+  - package-ecosystem: "pip"
+    directory: "/day-08-hospital-readmission-risk-model"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "America/Los_Angeles"
+  - package-ecosystem: "pip"
+    directory: "/day-09-healthcare-resource-demand-forecast"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "America/Los_Angeles"
+  - package-ecosystem: "pip"
+    directory: "/day-10-retail-sales-intelligence-dashboard"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "America/Los_Angeles"
+  - package-ecosystem: "pip"
+    directory: "/day-11-inventory-demand-forecast"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "America/Los_Angeles"
+  - package-ecosystem: "pip"
+    directory: "/day-12-customer-segmentation-engine"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "America/Los_Angeles"

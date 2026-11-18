@@ -1,5 +1,9 @@
 # 60-Day Data Analytics + AI Portfolio
 
+[![CI](https://github.com/vinodvicki/60-day-data-ai-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/vinodvicki/60-day-data-ai-portfolio/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/vinodvicki/60-day-data-ai-portfolio/blob/main/LICENSE)
+[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
+
 **60 days. 60 projects. 20 industries.** One publishable, end-to-end
 real-world data + AI project per day, built to the roadmap source document
 held locally (`60_Day_Data_Analytics_AI_GitHub_Project_Roadmap_0_4qxt.pdf`,
@@ -32,6 +36,14 @@ code, README, requirements, charts and example results.
 | [11](day-11-inventory-demand-forecast/) | Inventory Demand Forecast — UCI Online Retail, 527,795 cleaned lines, 5,241,272 units over 52 full weeks; top-20 SKU 4-week forecast 69,194 units, aggregate 627,508, reorder total 97,314; moving average wins overall (WAPE 44.16% vs naïve 44.33%), aggregate naïve 8.25% | Retail | ✅ Done (2026-11-15) |
 | [12](day-12-customer-segmentation-engine/) | Customer Segmentation Engine — UCI Online Retail, 527,795 cleaned lines, 4,334 customers; RFM + KMeans (k = 2, silhouette 0.4330): Champions 1,661 drive 84.9% of attributed revenue (£7,436,335.44), Hibernating 2,673 hold 15.1%; SBC↔KMeans agreement 51.5%, pytest 28/28 | Retail | ✅ Done (2026-11-16) |
 | 12–60 | See the roadmap catalog | — | Planned |
+
+## Live demos
+
+Dashboards are hosted on Streamlit Community Cloud (free tier), one app
+per day, deployed straight from this repo — see
+[docs/live-demos.md](docs/live-demos.md) for the deploy steps and the
+per-day entrypoints. Apps are not yet deployed; the table in
+docs/live-demos.md records each live URL as it goes up.
 
 Day 1 headline findings (live CoinGecko data (Powered by CoinGecko), 366 daily observations, 2025-11-05 → 2026-11-05):
 BTC −20.7%, ETH −26.2%, SOL −38.5% total return; max drawdowns −44.7% /
@@ -152,12 +164,18 @@ RFM + KMeans with k re-derived (k = 2, silhouette 0.4330; k = 3: 0.3374, k = 4: 
 - **Findings + one actionable recommendation** (analytical next step — never
   investment advice, never a price prediction).
 - **Clean code:** modular `src/`, type hints + docstrings, `black` formatted
-  and `ruff` clean, offline smoke tests (`pytest`) passing.
+  and `ruff` clean, `mypy` clean (gradual typing; new days strict-by-default),
+  offline smoke tests (`pytest`) passing with coverage measured
+  (`--cov=src`, threshold in CI — see `CHANGELOG.md`).
 - **No credentials, no private data, no huge raw files** committed.
-  `.gitignore` excludes `.venv/`, `__pycache__/`, `.env`, secrets — but does
-  NOT ignore `data/` (small project datasets are part of the deliverable).
-- **CI** (the single consolidated `.github/workflows/ci.yml`) runs tests + lint on every push and
-  pull request.
+  `.gitignore` excludes `.venv/`, `__pycache__/`, `.env`, `.env.*`, `*.pem`,
+  `*.key`, `credentials*`, secrets — but does NOT ignore `data/` (small
+  project datasets are part of the deliverable).
+- **CI** (the single consolidated `.github/workflows/ci.yml`) runs lint,
+  format, type-check, tests with coverage, orchestrator validation, and
+  chart/notebook smoke on every push and pull request. Dependabot opens
+  weekly pip updates. Pre-commit hooks (ruff, black, secret scan) run at
+  commit time.
 
 How the days are built: see [`docs/multi-agent-workflow.md`](docs/multi-agent-workflow.md)
 — the 6-role workflow (researcher → planner → coder → tester → optimizer →

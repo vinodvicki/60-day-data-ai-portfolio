@@ -64,7 +64,7 @@ def _finish(fig, ax, title, ylabel, source_note=True):
             fontsize=10,
             color="#555555",
         )
-    fig.tight_layout(rect=[0, 0.04, 1, 1])
+    fig.tight_layout(rect=(0, 0.04, 1, 1))
     return fig
 
 
@@ -192,7 +192,7 @@ def main() -> None:
         fontsize=10,
         color="#555555",
     )
-    fig.tight_layout(rect=[0, 0.09, 1, 1])
+    fig.tight_layout(rect=(0, 0.09, 1, 1))
     fig.savefig(CHARTS_DIR / "03_correlation_heatmap.png", dpi=150)
     plt.close(fig)
 
@@ -275,7 +275,7 @@ def main() -> None:
         fontsize=10,
         color="#555555",
     )
-    fig.tight_layout(rect=[0, 0.04, 1, 1])
+    fig.tight_layout(rect=(0, 0.04, 1, 1))
     fig.savefig(CHARTS_DIR / "04_risk_adjusted_returns_var.png", dpi=150)
     plt.close(fig)
 

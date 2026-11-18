@@ -23,9 +23,9 @@ sequential roles, never two agents writing the same file.
 |---|---|---|---|---|
 | 1 | **Researcher** | Roadmap entry for the day (problem, skills, suggested data) | `research_brief.md` — verified source, endpoints, rate limits, metric definitions, fallback parameters | One lean verification pass; endpoints/params written down once, never re-searched. No live fetch — that is the coder's job. |
 | 2 | **Planner** | Roadmap entry + `research_brief.md` | `plan.md` — problem, audience, questions, exact file tree, per-file responsibilities, success checklist (§8) | Plan is the source of truth. If brief and plan disagree, the plan wins and the difference is noted. |
-| 3 | **Coder** | `research_brief.md` + `plan.md` | Working project: `src/`, `notebooks/analysis.ipynb`, `outputs/charts/`, `tests/`, `data/` (live or labelled-synthetic), draft `README.md`, `data/README.md`, `outputs/insights_summary.md` | Handoff checklist before the tester starts: venv exists with pinned deps installed; `black --check` + `ruff check` pass; `pytest` passes; `.gitignore` matches the plan; `screenshots/dashboard.png` is a real capture of the running app (or explicitly flagged as a composite). Build only what the plan lists; no extra web searches. |
-| 4 | **Tester** | Coder's finished tree, in the coder's venv | `test_report.md` — verified result, not edits: `py_compile`, `pytest`, pipeline run, Streamlit smoke + screenshot, manual validation of one metric, chart legibility check | **Mandatory smoke gate** (see "Workflow refinement" below): Streamlit on a fresh port, HTTP 200 + health check, real screenshot captured, server killed and port verified free. Never install the project's own deps from scratch — if the venv is missing, report "blocked: no venv". Never edit code to make a test pass — report the defect with exact numbers. |
-| 5 | **Optimizer** | Tester's verified report + coder's tree | Release-ready tree: pinned `requirements.txt`, black/ruff clean, `.gitignore` per plan, missing docs filled, `screenshots/dashboard.png` verified present, root README/docs updated | Fix only clear gaps; do not refactor working code; do not re-run a live API fetch when the data is already verified. Re-run `pytest` after any change. Verify every published number against the committed CSVs; if a doc already exists and its numbers check out, fix only concrete gaps instead of rewriting it. |
+| 3 | **Coder** | `research_brief.md` + `plan.md` | Working project: `src/`, `notebooks/analysis.ipynb`, `outputs/charts/`, `tests/`, `data/` (live or labelled-synthetic), draft `README.md`, `data/README.md`, `outputs/insights_summary.md` | Handoff checklist before the tester starts: venv exists with pinned deps installed; `black --check` + `ruff check` pass; `mypy src tests` (run from inside the day folder) passes (strict-by-default — see `pyproject.toml`); `pytest` passes with coverage at or above the threshold (`--cov=src --cov-fail-under=<threshold>`); `.gitignore` matches the plan; `screenshots/dashboard.png` is a real capture of the running app (or explicitly flagged as a composite). Build only what the plan lists; no extra web searches. |
+| 4 | **Tester** | Coder's finished tree, in the coder's venv | `test_report.md` — verified result, not edits: `py_compile`, `pytest`, pipeline run, Streamlit smoke + screenshot, manual validation of one metric, chart legibility check | **Mandatory smoke gate** (see "Workflow refinement" below): Streamlit on a fresh port, HTTP 200 + health check, real screenshot captured, server killed and port verified free. Re-run `pytest --cov=src` and record the coverage number in the report. Never install the project's own deps from scratch — if the venv is missing, report "blocked: no venv". Never edit code to make a test pass — report the defect with exact numbers. |
+| 5 | **Optimizer** | Tester's verified report + coder's tree | Release-ready tree: pinned `requirements.txt`, black/ruff clean, `mypy` clean, coverage at or above the threshold, `.gitignore` per plan, missing docs filled, `screenshots/dashboard.png` verified present, root README/docs updated | Fix only clear gaps; do not refactor working code; do not re-run a live API fetch when the data is already verified. Re-run `pytest` (with coverage) and `mypy` after any change. Verify every published number against the committed CSVs; if a doc already exists and its numbers check out, fix only concrete gaps instead of rewriting it. |
 | 6 | **Publisher / reviewer** | Optimizer's release-ready tree | Pushed day folder in `vinodvicki/60-day-data-ai-portfolio`, live links checked | **Frozen-tree check immediately before pushing:** re-verify every file the READMEs reference exists on disk (charts, screenshots, CSVs) — a missing asset blocks the push. Then verify the live GitHub page renders. Final gate: roadmap success criteria (plan.md §8). Only this role touches GitHub. |
 
 ## Handoff format
@@ -78,8 +78,39 @@ context fetch to start.
   `--scaffold --slug ...`) and runs the day's pytest suite.
 - **CI**: a single consolidated `.github/workflows/ci.yml` (Stage 2,
   2026-11-05) covers every changed day folder (install → ruff → black →
-  pytest → chart + notebook smoke, offline, no CoinGecko API calls). The
-  former `daily-project.yml` was deleted.
+  mypy → pytest with coverage → `orchestrator validate` → chart + notebook
+  smoke, offline, no CoinGecko API calls). The former
+  `daily-project.yml` was deleted.
+- **Coverage**: `pytest-cov` (pinned in `requirements-dev.txt`) measures
+  `src/` per day; CI enforces `--cov-fail-under=<threshold>` (the
+  threshold is the measured floor across published days, rounded down to
+  the nearest 5, and rises over time — see `CHANGELOG.md`). Config lives
+  in each day's `pyproject.toml` (`[tool.coverage.run] source = ["src"]`).
+  Streamlit `app.py` is the largest uncovered share (exercised by the
+  smoke test, not by pytest) — that is expected, not hidden.
+- **Type checking**: `mypy` (pinned in `requirements-dev.txt`), gradual.
+  New days are strict-by-default (`disallow_untyped_defs = true` in the
+  scaffold template); Days 1–12 carry retrofit configs with per-module
+  ignores for code not yet typed (see each day's `pyproject.toml`).
+  `src/` is a package (`src/__init__.py`), so mypy runs from inside the
+  day folder — `(cd <day> && python -m mypy src tests)` — and checks
+  every module once under its canonical `src.*` name. Do NOT run mypy
+  from inside `src/` and do NOT set `mypy_path = "src"`: both make mypy
+  see each file twice (`risk_metrics` and `src.risk_metrics`) and refuse
+  to check (the src/-relative run passed only while `.mypy_cache` was
+  warm and failed on a cold cache — proven 2026-11-18). The fallback
+  bare imports in the `except ImportError` branches are unresolvable to
+  mypy and ignored via `ignore_missing_imports`; the primary `src.*`
+  imports are fully checked. The `# type: ignore[no-redef]` comments on
+  those fallback imports are required, not cruft: both branches bind
+  the same names.
+- **Pre-commit**: `.pre-commit-config.yaml` at the root (ruff, black,
+  orchestrator-validate local hook); run `pre-commit install` once after
+  cloning. New days get a copy via the orchestrator scaffold.
+- **Dependabot**: `.github/dependabot.yml` — weekly pip updates (Mondays
+  06:00 America/Los_Angeles) for the root dev requirements and every day's
+  `requirements.txt`. Never merge a Dependabot PR that breaks a day's
+  tests.
 - **Lint/format**: `ruff` + `black`, pinned in `requirements-dev.txt`
   (ruff 0.17.4, black 26.10.1); settings in each day's `pyproject.toml`.
   Coder runs them before handoff; tester re-runs them; CI enforces them.

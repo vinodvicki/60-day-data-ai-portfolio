@@ -104,7 +104,7 @@ def _run_helper(args: list[str]) -> dict:
             check=False,
         )
         if proc.returncode == 0:
-            return json.loads(proc.stdout)
+            return dict(json.loads(proc.stdout))
         err = (proc.stderr or proc.stdout or "").strip()
         code = None
         if err.startswith("HTTP "):

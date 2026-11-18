@@ -39,7 +39,7 @@ different numbers, recomputed by hand from the committed CSVs:
 ## Orchestrator validate false positive — confirmed
 
 Re-ran the check logic by hand: the only hit is
-`notebooks/analysis.ipynb:328`, the string `aKiAEJDJ5gl4N03YwLAe`, which the
+`notebooks/analysis.ipynb:328`, the string `aKiA…` (base64 fragment, middle redacted), which the
 validator's case-insensitive `AKIA[0-9A-Z]{16}` pattern matches. It sits
 inside the base64-encoded chart PNG embedded in the notebook's chart-01
 display output — random base64 image data, not a credential. No key, token,

@@ -10,9 +10,9 @@ Victor's say-so. The publisher/reviewer is the only role that touches GitHub.
 |---|---|---|---|---|
 | 1 | **Researcher** | Roadmap entry for the day (problem, skills, suggested data) | `research_brief.md` — verified source, endpoints, rate limits, metric definitions, fallback parameters | Verify once, write it down, never re-verify. No live fetch — that is the coder's job. |
 | 2 | **Planner** | Roadmap entry + `research_brief.md` | `plan.md` — problem, audience, questions, file tree, per-file responsibilities, success checklist | The plan is the source of truth for the build. If the brief and plan disagree, the plan wins and the difference is noted. |
-| 3 | **Coder** | `research_brief.md` + `plan.md` | Working project: `src/`, `notebooks/analysis.ipynb`, `outputs/charts/`, `tests/`, `data/` (live or labelled-synthetic), draft `README.md` / `data/README.md` / `outputs/insights_summary.md` | Build only what the plan lists. No extra web searches — all endpoints and parameters are already verified in the brief. |
-| 4 | **Tester** | Coder's finished tree | Verified result (report, not edits): `py_compile`, `pytest`, pipeline run, Streamlit smoke check, manual validation of one metric, chart legibility check | Reuse, don't redo: verify the coder's run, don't rebuild. Report exact numbers and exact failures. Never edit code to make a test pass — report it. |
-| 5 | **Optimizer** | Tester's verified report + coder's tree | Release-ready tree: pinned `requirements.txt`, `black`/`ruff` clean, `.gitignore` per plan, missing docs filled, `screenshots/dashboard.png`, root `README.md`, CI workflow, this workflow doc updated | Fix only clear gaps, keep changes minimal. Re-run tests after edits; re-run the live pipeline only if pipeline code changed. |
+| 3 | **Coder** | `research_brief.md` + `plan.md` | Working project: `src/`, `notebooks/analysis.ipynb`, `outputs/charts/`, `tests/`, `data/` (live or labelled-synthetic), draft `README.md` / `data/README.md` / `outputs/insights_summary.md` | Build only what the plan lists. No extra web searches — all endpoints and parameters are already verified in the brief. Handoff checklist: venv ready, `black`/`ruff` clean, `mypy src tests` clean (run from inside the day folder), `pytest` with coverage at or above the threshold. |
+| 4 | **Tester** | Coder's finished tree | Verified result (report, not edits): `py_compile`, `pytest` (with coverage number recorded), pipeline run, Streamlit smoke check, manual validation of one metric, chart legibility check | Reuse, don't redo: verify the coder's run, don't rebuild. Report exact numbers and exact failures. Never edit code to make a test pass — report it. |
+| 5 | **Optimizer** | Tester's verified report + coder's tree | Release-ready tree: pinned `requirements.txt`, `black`/`ruff` clean, `mypy` clean, coverage at or above the threshold, `.gitignore` per plan, missing docs filled, `screenshots/dashboard.png`, root `README.md`, CI workflow, this workflow doc updated | Fix only clear gaps, keep changes minimal. Re-run tests (with coverage) and `mypy` after edits; re-run the live pipeline only if pipeline code changed. |
 | 6 | **Publisher / reviewer** | Optimizer's release-ready tree | GitHub repo (`60-day-data-ai-portfolio`), pushed day folder, live links checked | Creates the repo, pushes, verifies the live GitHub page renders (README, charts, links). Final quality gate: roadmap success criteria (§8 of each `plan.md`). |
 
 **Order is fixed:** researcher → planner → coder → tester → optimizer →
@@ -148,7 +148,8 @@ checks it and either passes it on or sends it back with a specific defect.
    parallelised.
 2. **Coder's handoff checklist** (before the tester starts): venv exists
    with pinned deps installed; `black --check` + `ruff check` pass;
-   `pytest` passes; `.gitignore` matches the plan; `screenshots/dashboard.png`
+   `mypy src tests` (run from inside the day folder) passes; `pytest` passes with coverage at or above
+   the threshold; `.gitignore` matches the plan; `screenshots/dashboard.png`
    is a real capture of the running app (or explicitly flagged as a
    composite).
 3. **Tester provisions nothing.** The tester runs verification only, in the
@@ -159,9 +160,27 @@ checks it and either passes it on or sends it back with a specific defect.
    fixes only concrete gaps (stale statements, missing sections) instead of
    rewriting it.
 5. **CI from Day 1 onward.** `.github/workflows/ci.yml` at the portfolio
-   root already covers Day 1 (install → lint → pytest); each new day adds
-   its own job (or extends the matrix) rather than inventing a new
-   workflow file.
+   root already covers Day 1 (install → lint → format → type-check →
+   pytest with coverage → orchestrator validate → chart/notebook smoke);
+   each new day adds its own job (or extends the matrix) rather than
+   inventing a new workflow file.
 6. **Keep the 6 roles.** No new agent roles are added; when a day needs a
    new capability (e.g. an ML evaluator), it is a step inside the existing
    coder/tester/optimizer roles, documented in that day's `plan.md`.
+7. **Best-practice retrofit (2026-11-18, applies to all days).** An audit
+   found 7 gaps; all were fixed repo-wide and baked into the process:
+   coverage measurement + threshold (`pytest-cov`, config in each day's
+   `pyproject.toml`), gradual type checking (`mypy`, strict-by-default
+   for new days via the orchestrator scaffold), Dependabot weekly pip
+   updates, pre-commit hooks (ruff, black, orchestrator-validate),
+   `orchestrator validate` wired into CI, README badges, and the small
+   repo files (`SECURITY.md`, `CONTRIBUTING.md`, `CHANGELOG.md`,
+   `.editorconfig`, `.python-version`, issue/PR templates). Days 1–12
+   were retrofitted with the same gates; the coverage threshold is the
+   measured floor across published days and rises over time (see
+   `CHANGELOG.md`). Dashboard hosting (Streamlit Community Cloud) is
+   staged per day — see the deployment manifest in the day-log.
+8. **Scaffold carries the standards.** `agents/orchestrator.py scaffold`
+   generates each new day's `pyproject.toml` with the strict mypy +
+   coverage defaults and copies `.pre-commit-config.yaml`, so Days 13–60
+   get the gates by default instead of by retrofit.

@@ -144,7 +144,7 @@ def _run_helper(args: list[str]) -> dict:
                 continue
             raise last_error from exc
         if proc.returncode == 0:
-            return json.loads(proc.stdout)
+            return dict(json.loads(proc.stdout))
         message = (proc.stderr or proc.stdout or "").strip()
         # The helper prints "HTTP {code} from {path}: {body[:500]}".
         code = message.split()[1] if message.startswith("HTTP ") else "?"
@@ -152,7 +152,9 @@ def _run_helper(args: list[str]) -> dict:
         if code.startswith("5") and attempt == 1:
             time.sleep(RETRY_AFTER_SECONDS)
             continue
+        assert last_error is not None  # assigned just above
         raise last_error
+    assert last_error is not None  # loop always returns or raises first
     raise last_error  # pragma: no cover - loop always returns/raises
 
 
@@ -1193,7 +1195,7 @@ def main() -> None:
     )
     picks = pick_sentiment_videos(videos)
     print(f"  sentiment videos: {len(picks)} picked")
-    comment_raw: dict[str, dict] = {}
+    comment_raw_live: dict[str, dict] = {}
     comment_quota = 0
     zero_comment_videos = 0
     for i, pick in enumerate(picks):
@@ -1207,7 +1209,7 @@ def main() -> None:
                 result = {"items": []}
             else:
                 raise
-        comment_raw[pick["video_id"]] = result
+        comment_raw_live[pick["video_id"]] = result
         comment_quota += 1
         n = len(result.get("items", []))
         if n == 0:
@@ -1219,7 +1221,7 @@ def main() -> None:
             "0 comments — treating as a failed fetch (see research_brief §1.8)"
         )
     quota += comment_quota
-    comments, comment_counts = clean_comments(comment_raw, picks)
+    comments, comment_counts = clean_comments(comment_raw_live, picks)
     print(
         f"  comments fetched={comment_counts['fetched']} "
         f"analysed={comment_counts['analysed']}"
@@ -1237,7 +1239,7 @@ def main() -> None:
         search_raw,
         videos_raw,
         channels_raw,
-        comment_raw,
+        comment_raw_live,
         quota,
         counts,
         comment_counts,

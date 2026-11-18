@@ -163,7 +163,7 @@ def main() -> None:
     )
     _synthetic_label(fig)
     _source_note(fig)
-    fig.tight_layout(rect=[0, 0.04, 1, 0.97])
+    fig.tight_layout(rect=(0, 0.04, 1, 0.97))
     fig.savefig(CHARTS_DIR / "01_anomaly_timeline.png", dpi=150)
     plt.close(fig)
 
@@ -256,7 +256,7 @@ def main() -> None:
     )
     _synthetic_label(fig)
     _source_note(fig)
-    fig.tight_layout(rect=[0, 0.09, 1, 1])
+    fig.tight_layout(rect=(0, 0.09, 1, 1))
     fig.savefig(CHARTS_DIR / "02_return_volume_scatter.png", dpi=150)
     plt.close(fig)
 
@@ -344,7 +344,7 @@ def main() -> None:
     )
     _synthetic_label(fig)
     _source_note(fig)
-    fig.tight_layout(rect=[0, 0.06, 1, 0.94])
+    fig.tight_layout(rect=(0, 0.06, 1, 0.94))
     fig.savefig(CHARTS_DIR / "03_flag_counts_severity.png", dpi=150)
     plt.close(fig)
 
@@ -356,9 +356,13 @@ def main() -> None:
     width = 0.22
     colors_m = {"precision": "#2E86AB", "recall": "#F6AE2D", "f1": "#6A994E"}
     for i, m in enumerate(metrics):
-        vals = [evaluation[mth][m] for mth in methods]
+        bar_vals = [evaluation[mth][m] for mth in methods]
         bars = ax1.bar(
-            x + (i - 1) * width, vals, width, label=m.capitalize(), color=colors_m[m]
+            x + (i - 1) * width,
+            bar_vals,
+            width,
+            label=m.capitalize(),
+            color=colors_m[m],
         )
         ax1.bar_label(bars, fmt="%.2f", padding=2, fontsize=9)
     ax1.axhline(0.80, color="#C0392B", ls="--", lw=1.2, label="Recall target 0.80")
@@ -401,7 +405,7 @@ def main() -> None:
     )
     _synthetic_label(fig)
     _source_note(fig)
-    fig.tight_layout(rect=[0, 0.05, 1, 0.94])
+    fig.tight_layout(rect=(0, 0.05, 1, 0.94))
     fig.savefig(CHARTS_DIR / "04_evaluation.png", dpi=150)
     plt.close(fig)
 
