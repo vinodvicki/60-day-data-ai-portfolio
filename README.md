@@ -30,7 +30,8 @@ code, README, requirements, charts and example results.
 | [09](day-09-healthcare-resource-demand-forecast/) | Healthcare Resource Demand Forecast — 8-week Holt-Winters forecast 3.03% → 13.87%, mean RMSE 0.4693 vs seasonal naïve 0.8244, 161 weeks NSSP + bed utilisation 72.5% | Healthcare | ✅ Done (2026-11-13) |
 | [10](day-10-retail-sales-intelligence-dashboard/) | Retail Sales Intelligence Dashboard — UCI Online Retail, 527,795 cleaned lines, £10.28m revenue; Nov 2011 peak £1.46m (2.86× Feb), top 222 customers 47.94% of revenue, Holt-Winters 8-week forecast £3.06m (mean RMSE £55,505 vs naïve £62,801) | Retail | ✅ Done (2026-11-14) |
 | [11](day-11-inventory-demand-forecast/) | Inventory Demand Forecast — UCI Online Retail, 527,795 cleaned lines, 5,241,272 units over 52 full weeks; top-20 SKU 4-week forecast 69,194 units, aggregate 627,508, reorder total 97,314; moving average wins overall (WAPE 44.16% vs naïve 44.33%), aggregate naïve 8.25% | Retail | ✅ Done (2026-11-15) |
-| 11–60 | See the roadmap catalog | — | Planned |
+| [12](day-12-customer-segmentation-engine/) | Customer Segmentation Engine — UCI Online Retail, 527,795 cleaned lines, 4,334 customers; RFM + KMeans (k = 2, silhouette 0.4330): Champions 1,661 drive 84.9% of attributed revenue (£7,436,335.44), Hibernating 2,673 hold 15.1%; SBC↔KMeans agreement 51.5%, pytest 28/28 | Retail | ✅ Done (2026-11-16) |
+| 12–60 | See the roadmap catalog | — | Planned |
 
 Day 1 headline findings (live CoinGecko data (Powered by CoinGecko), 366 daily observations, 2025-11-05 → 2026-11-05):
 BTC −20.7%, ETH −26.2%, SOL −38.5% total return; max drawdowns −44.7% /
@@ -120,6 +121,11 @@ Day 11 headline findings (UCI Online Retail, Chen 2015, dataset 352, CC BY 4.0; 
 5,241,272 units over 52 full weeks; the top 20 SKUs by revenue are forecast to sell 69,194 units over the 4 weeks starting 2011-12-05 (aggregate 627,508, naïve repeating week 52's 156,877 units), with a total order-up-to of 97,314 units (69,194 forecast + 28,120 safety stock) at 95%/90% service levels, assuming zero on-hand and a 1-week lead time. On the Christmas-ramp holdout the 4-week moving average is best overall (WAPE 44.16% vs naïve 44.33%, Holt 45.52%, gradient boosting 65.51%, Croston-SBA 80.30%); per cluster, moving average wins smooth (34.03%) and erratic (47.26%), Holt wins intermittent (52.35%) and naïve wins lumpy (29.74%), while naïve wins the aggregate at 8.25%. Demand is mostly lumpy: of 3,897 SKUs with any demand, 1,932 (49.6%) are lumpy and only 137 (3.5%) smooth; the two lumpy SKUs hold 38,073 units of the reorder total and are flagged review-manually. Full detail in
 [Day 11](day-11-inventory-demand-forecast/) →
 [`outputs/insights_summary.md`](day-11-inventory-demand-forecast/outputs/insights_summary.md).
+
+Day 12 headline findings (UCI Online Retail, Chen 2015, dataset 352, CC BY 4.0; 541,909 rows fetched 2026-11-16, 527,795 cleaned lines, Dec 2010 – Dec 2011):
+RFM + KMeans with k re-derived (k = 2, silhouette 0.4330; k = 3: 0.3374, k = 4: 0.3339) — KMeans decides segment assignment, RFM scores only name and explain: Champions 1,661 customers (38.3%) drive 84.9% (£7,436,335.44) of attributed revenue, while Hibernating 2,673 (61.7%) hold 15.1% (£1,324,731.21); £1,522,177.33 (14.80%) of cleaned revenue has no CustomerID and is unattributed. The SBC cross-check agrees with KMeans for only 51.5% of multi-order customers (1,458 of 2,829), and the RFM-score rule would disagree with KMeans for 2,830 of 4,334 customers — the methods genuinely see different groups. One tailored action per segment: VIP retention for Champions (£7,436,335.44 to protect), one low-cost reactivation email for Hibernating (£1,324,731.21 already lapsed). Tests 28/28 pass. Full detail in
+[Day 12](day-12-customer-segmentation-engine/) →
+[`outputs/insights_summary.md`](day-12-customer-segmentation-engine/outputs/insights_summary.md).
 
 ## Roadmap phases
 
