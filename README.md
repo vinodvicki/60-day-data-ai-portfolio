@@ -35,7 +35,8 @@ code, README, requirements, charts and example results.
 | [10](day-10-retail-sales-intelligence-dashboard/) | Retail Sales Intelligence Dashboard — UCI Online Retail, 527,795 cleaned lines, £10.28m revenue; Nov 2011 peak £1.46m (2.86× Feb), top 222 customers 47.94% of revenue, Holt-Winters 8-week forecast £3.06m (mean RMSE £55,505 vs naïve £62,801) | Retail | ✅ Done (2026-11-14) |
 | [11](day-11-inventory-demand-forecast/) | Inventory Demand Forecast — UCI Online Retail, 527,795 cleaned lines, 5,241,272 units over 52 full weeks; top-20 SKU 4-week forecast 69,194 units, aggregate 627,508, reorder total 97,314; moving average wins overall (WAPE 44.16% vs naïve 44.33%), aggregate naïve 8.25% | Retail | ✅ Done (2026-11-15) |
 | [12](day-12-customer-segmentation-engine/) | Customer Segmentation Engine — UCI Online Retail, 527,795 cleaned lines, 4,334 customers; RFM + KMeans (k = 2, silhouette 0.4330): Champions 1,661 drive 84.9% of attributed revenue (£7,436,335.44), Hibernating 2,673 hold 15.1%; SBC↔KMeans agreement 51.5%, pytest 28/28 | Retail | ✅ Done (2026-11-16) |
-| 12–60 | See the roadmap catalog | — | Planned |
+| [13](day-13-election-campaign-finance-tracker/) | Election Campaign Finance Tracker — FEC 2024 cycle, 4,376 candidates with totals, $6,503.1M candidate receipts; Harris & Biden $1,175.2M each, ActBlue $3,821.2M, PA $2,525.2M (HQ effect), pytest 32/32 | Politics, Elections & Public Policy | ✅ Done (2026-11-19) |
+| 14–60 | See the roadmap catalog | — | Planned |
 
 ## Live demos
 
@@ -138,6 +139,11 @@ Day 12 headline findings (UCI Online Retail, Chen 2015, dataset 352, CC BY 4.0; 
 RFM + KMeans with k re-derived (k = 2, silhouette 0.4330; k = 3: 0.3374, k = 4: 0.3339) — KMeans decides segment assignment, RFM scores only name and explain: Champions 1,661 customers (38.3%) drive 84.9% (£7,436,335.44) of attributed revenue, while Hibernating 2,673 (61.7%) hold 15.1% (£1,324,731.21); £1,522,177.33 (14.80%) of cleaned revenue has no CustomerID and is unattributed. The SBC cross-check agrees with KMeans for only 51.5% of multi-order customers (1,458 of 2,829), and the RFM-score rule would disagree with KMeans for 2,830 of 4,334 customers — the methods genuinely see different groups. One tailored action per segment: VIP retention for Champions (£7,436,335.44 to protect), one low-cost reactivation email for Hibernating (£1,324,731.21 already lapsed). Tests 28/28 pass. Full detail in
 [Day 12](day-12-customer-segmentation-engine/) →
 [`outputs/insights_summary.md`](day-12-customer-segmentation-engine/outputs/insights_summary.md).
+
+Day 13 headline findings (FEC 2024 cycle bulk data + openFEC API, retrieved 2026-11-19; 5,332 candidates, 4,376 with totals; 10,102 non-candidate committees):
+Candidates raised $6,503.1M and spent $6,728.3M; Harris and Biden each report $1,175.2M (18.07%) and share principal committee C00703975, so the total counts their shared ~$1.18B twice, while the median candidate raised $814. Individuals gave $3,734.5M (59.4%) of the $6,286.0M raised by the 2,259 candidates with a published itemized/unitemized split, 32.8% of it small-dollar (≤ $200). Non-candidate committees raised $22,724.6M, led by ActBlue at $3,821.2M (16.8%). PA leads the state table at $2,525.2M (38.8%) — the Biden/Harris HQ effect, not Pennsylvania donors. Read the $1,373.5M cash total with care: $775.8M (56.5%) is one filing (Norris, P40010415) that fails the cash-identity check; excluding it, candidate cash is $597.7M. Tests 32/32 pass, coverage 51.82%. Full detail in
+[Day 13](day-13-election-campaign-finance-tracker/) →
+[`outputs/insights_summary.md`](day-13-election-campaign-finance-tracker/outputs/insights_summary.md).
 
 ## Roadmap phases
 
