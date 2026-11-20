@@ -1,0 +1,214 @@
+{
+  "source": "live",
+  "attribution": "Source: U.S. Federal Election Commission, 2024 cycle bulk data (https://www.fec.gov/data/browse-data/?tab=bulk-data) and openFEC API (https://api.open.fec.gov/v1). Retrieved 2026-11-19. Public domain.",
+  "cycle": 2024,
+  "generated_at_utc": "2026-11-19T15:58:19Z",
+  "synthetic": false,
+  "bulk_base_url": "https://www.fec.gov/files/bulk-downloads/2024/",
+  "api_base_url": "https://api.open.fec.gov/v1",
+  "zip_sizes_bytes": {
+    "cn24.zip": 356337,
+    "webk24.zip": 469667,
+    "ccl24.zip": 94262,
+    "webl24.zip": 121855
+  },
+  "unpacked_sizes_bytes": {
+    "cn24.zip": 952504,
+    "webk24.zip": 1509800,
+    "ccl24.zip": 353375,
+    "webl24.zip": 319024
+  },
+  "raw_rows": {
+    "cn": 9796,
+    "webk": 12379,
+    "ccl": 8619,
+    "webl": 2378
+  },
+  "layout": {
+    "header_row": false,
+    "date_format": "MM/DD/YYYY",
+    "money_format": "plain numbers, no $/commas",
+    "verified_by": "API match to the cent (H2AK01158, H2AK01083) + cash identity",
+    "undecoded_webl_columns": [
+      "col_04",
+      "col_09",
+      "col_12",
+      "col_13",
+      "col_14",
+      "col_15",
+      "col_16",
+      "col_26",
+      "col_27",
+      "col_29",
+      "col_30"
+    ],
+    "webl_debts_column_note": "webl f17 decoded as debts_owed_by: it equals the API's debts_owed_by_committee (934179.58) for P80000722 and P00009423; the cross-check verifies it across the sample."
+  },
+  "cleaning": {
+    "cn": {
+      "raw_rows": 9796,
+      "non_2024_election_year": 4584,
+      "duplicate_candidate_id": 0,
+      "missing_principal_committee": 1434,
+      "clean_rows": 5212
+    },
+    "webk": {
+      "raw_rows": 12379,
+      "no_financial_summary": 2253,
+      "coverage_end_outside_window": 8,
+      "duplicate_committee_id": 0,
+      "negative_receipts": 4,
+      "clean_rows": 10114
+    }
+  },
+  "ccl_rows": 8619,
+  "ccl_duplicate_candidate_committee": 35,
+  "cash_identity": {
+    "webk": {
+      "numeric_rows": 10126,
+      "failing_rows": 826,
+      "hold_rate": 0.9184278095990519,
+      "median_abs_diff_usd": 7.105427357601002e-15,
+      "max_abs_diff_usd": 268710400.0
+    },
+    "webl": {
+      "numeric_rows": 2378,
+      "failing_rows": 385,
+      "hold_rate": 0.8380992430613962,
+      "median_abs_diff_usd": 4.547473508864641e-12,
+      "max_abs_diff_usd": 861579989.0
+    }
+  },
+  "api_fetch": {
+    "api_total_count": 5321,
+    "api_pages": 54,
+    "pages_fetched": 54,
+    "pages_from_cache": 54,
+    "rows_fetched": 5321
+  },
+  "candidate_table": {
+    "api_totals_rows": 5321,
+    "duplicate_candidate_id": 1027,
+    "totals_without_master_match": 79,
+    "filed_no_totals": 956,
+    "webl_only_candidates": 82,
+    "webl_only_with_master_match": 41,
+    "cross_check_list_vs_webl": {
+      "candidates_in_both": 2296,
+      "sample_n": 21,
+      "top_candidate_id": "P80000722",
+      "max_abs_diff_usd": {
+        "receipts": 12107733.169999838,
+        "disbursements": 10580711.51999998,
+        "cash_on_hand": 0.0,
+        "debts_owed": 0.0
+      },
+      "top_candidate_diff_usd": {
+        "receipts": 12107733.169999838,
+        "disbursements": 10580711.51999998,
+        "cash_on_hand": 0.0,
+        "debts_owed": 0.0
+      }
+    },
+    "candidate_table_rows": 5332,
+    "candidate_table_with_totals": 4376,
+    "receipts_override": {
+      "n_webl_override": 2378,
+      "n_api_list_only": 1998,
+      "receipts_dollars_changed_by_override": 392029901.44999975,
+      "n_split_valid": 2259,
+      "n_split_invalid_itemized_exceeds_individual": 37,
+      "n_no_split": 2117,
+      "post_override_max_receipts_diff_usd": 0.0
+    },
+    "principal_committee_filled_from_ccl": 72
+  },
+  "principal_committees_distinct": 3714,
+  "principal_committees_in_webk": 12,
+  "committee_table": {
+    "webk_clean_rows": 10114,
+    "principal_committees_in_webk": 12,
+    "unmapped_committee_types": 0,
+    "committee_table_rows": 10102
+  },
+  "committee_types": {
+    "Q": 3272,
+    "N": 3086,
+    "O": 2059,
+    "V": 644,
+    "X": 240,
+    "Y": 239,
+    "I": 205,
+    "W": 137,
+    "H": 76,
+    "S": 69,
+    "C": 68,
+    "U": 18,
+    "P": 1
+  },
+  "committee_type_full_mapping": {
+    "C": "Communication cost",
+    "D": "Delegate committee",
+    "E": "Electioneering communication",
+    "H": "House",
+    "I": "Independent expenditor (person or group)",
+    "N": "PAC - nonqualified",
+    "O": "Independent expenditure-only (Super PACs)",
+    "P": "Presidential",
+    "Q": "PAC - qualified",
+    "S": "Senate",
+    "U": "Single-candidate independent expenditure",
+    "V": "Hybrid PAC (with Non-Contribution Account) - Nonqualified",
+    "W": "Hybrid PAC (with Non-Contribution Account) - Qualified",
+    "X": "Party - nonqualified",
+    "Y": "Party - qualified",
+    "Z": "National party nonfederal account"
+  },
+  "cross_check_webl_vs_api": {
+    "candidates_in_both": 2296,
+    "sample_n": 21,
+    "top_candidate_id": "P80000722",
+    "max_abs_diff_usd": {
+      "receipts": 12107733.169999838,
+      "disbursements": 10580711.51999998,
+      "cash_on_hand": 0.0,
+      "debts_owed": 0.0
+    },
+    "top_candidate_diff_usd": {
+      "receipts": 12107733.169999838,
+      "disbursements": 10580711.51999998,
+      "cash_on_hand": 0.0,
+      "debts_owed": 0.0
+    }
+  },
+  "cycle_totals": {
+    "candidate_receipts_usd": 6503148091.92,
+    "candidate_disbursements_usd": 6728272984.0,
+    "candidate_cash_on_hand_usd": 1373471403.75,
+    "committee_receipts_usd": 22724587172.769997,
+    "committee_disbursements_usd": 22249713539.360004,
+    "committee_cash_on_hand_usd": 1755366050.1299999,
+    "n_candidates_with_totals": 4376,
+    "n_committees_with_summary": 10102,
+    "principal_committees_in_webk": 12,
+    "principal_committees_receipts_usd": 524834005.55000305,
+    "transfer_disclosure": "Candidate and committee figures are sums of filings in two separate universes; a combined figure would double-count dollars transferred between committees. The committee total excludes the 12 principal committees present in webk (their $524.8M of receipts is already inside the candidate totals); the all-webk committee total was $23,249.4M."
+  },
+  "state_table": {
+    "n_excluded_non_state_codes": 64,
+    "excluded_receipts_usd": 36446075.56,
+    "excluded_disbursements_usd": 344058951.38,
+    "note": "Candidates whose state code is '00' or 'US' (no usable state on file, mostly presidential) are excluded from state_totals.csv; their money is still in the candidate totals."
+  },
+  "cash_concentration": {
+    "top_cash_candidate_id": "P40010415",
+    "top_cash_candidate_name": "NORRIS, JIM ALEXANDER SR",
+    "top_cash_usd": 775779979.0,
+    "top_cash_share_of_total": 0.5648315479171111,
+    "cash_total_excluding_top_usd": 597691424.75,
+    "zero_receipt_disbursements_usd": 220631310.33,
+    "zero_receipt_top_candidate_id": "P40010522",
+    "zero_receipt_top_disbursements_usd": 220504869.0,
+    "note": "One candidate's filed cash on hand is more than half the cycle total and its filing fails the cash-identity check; see README. Values are reported as filed, never altered."
+  }
+}
