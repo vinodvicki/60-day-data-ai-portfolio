@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+*.key
+*.log
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+# Synthetic fallback output is never committed; live data/raw/*.json IS committed
+data/raw/*_synthetic.json
+# Unpacked bulk text files (>1 MB, regenerated from the committed zips)
+data/raw/*.txt
+# Cached openFEC API page responses (regenerable; the processed tables are the record)
+data/raw/api_pages/
+.coverage
+.mypy_cache/
