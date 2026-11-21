@@ -1,0 +1,6 @@
+year,cycle_type,state_abv,vep_turnout_rate,rule,statistic_value
+1980,presidential,DC,37.9,iqr+z,-3.2605051658326984
+1980,presidential,SC,42.35,iqr,-2.64020538645377
+1988,presidential,SC,42.46,iqr,-2.624872133480358
+1996,presidential,NV,41.23,iqr,-2.796325780364872
+2016,presidential,HI,43.19,iqr,-2.5231150910204447

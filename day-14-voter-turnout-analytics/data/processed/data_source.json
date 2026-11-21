@@ -1,0 +1,187 @@
+{
+  "attribution": "Source: Michael McDonald, University of Florida Election Lab, General Election Turnout Rates 1980\u20132022 v1.2 and 2024 General Election Turnout Rates v0.4 (https://election.lab.ufl.edu/voter-turnout/), CC BY 4.0. Retrieved 2026-11-21.",
+  "cleaning_counts": {
+    "column5_1980_2022": {
+      "blank": 54,
+      "digits": 1039,
+      "url": 51
+    },
+    "column5_2024": {
+      "blank": 1,
+      "digits": 0,
+      "url": 51
+    },
+    "duplicate_rows_dropped": 0,
+    "null_ballots_per_year": {
+      "1980": 18,
+      "1982": 20,
+      "1984": 19,
+      "1986": 18,
+      "1988": 19,
+      "1990": 18,
+      "1992": 16,
+      "1994": 13,
+      "1996": 13,
+      "1998": 13,
+      "2000": 13,
+      "2002": 16,
+      "2004": 4,
+      "2006": 6,
+      "2008": 3
+    },
+    "null_ballots_total": 209,
+    "rows_1980_2022_file": 1144,
+    "rows_2024_file": 52,
+    "rows_cleaned": 1196,
+    "rows_concatenated": 1196,
+    "vep_reconciliation_flagged_rows": 0,
+    "vep_reconciliation_max_rel_diff": 0.0005803148862166727
+  },
+  "correlations": [
+    {
+      "indicator": "noncitizen_pct",
+      "n": 51,
+      "pearson_p": 0.6388510314554736,
+      "pearson_r": -0.06731004481715375,
+      "scope": "2024_states",
+      "spearman_p": 0.8035708251548869,
+      "spearman_r": -0.03570297302175647
+    },
+    {
+      "indicator": "felon_share_vap",
+      "n": 51,
+      "pearson_p": 0.0034158338011618574,
+      "pearson_r": -0.4024356611764755,
+      "scope": "2024_states",
+      "spearman_p": 0.0033051739531908403,
+      "spearman_r": -0.4037199623992024
+    },
+    {
+      "indicator": "overseas_share_vep",
+      "n": 0,
+      "pearson_p": null,
+      "pearson_r": null,
+      "scope": "2024_states",
+      "spearman_p": null,
+      "spearman_r": null
+    }
+  ],
+  "csv_byte_sizes": {
+    "Turnout_1980_2022_v1.2.csv": 116830,
+    "Turnout_2024G_v0.4.csv": 8378
+  },
+  "cycle_type_rule": "presidential if YEAR % 4 == 0 else midterm",
+  "derived_tables": {
+    "national_series_rows": 23,
+    "outliers_2024": [],
+    "outliers_rows": 5,
+    "skewness_midterm_pooled": 0.06016135026138506,
+    "skewness_presidential_pooled": -0.26801559891097276,
+    "state_2024_rows": 52,
+    "turnout_long_rows": 1196
+  },
+  "doc_1980_2022_date": "10/8/2024",
+  "doc_1980_2022_version": "1.2",
+  "doc_2024_date": "3/2/2026",
+  "doc_2024_version": "0.4",
+  "eavs_cross_check": {
+    "additional_states": [
+      "AR",
+      "TX"
+    ],
+    "note": "EAVS is a survey of election administrators, not a turnout-rate source; its figures cross-check the UF numerator only. UF stands.",
+    "sampled_states": [
+      "CO",
+      "CA"
+    ],
+    "source": "U.S. Election Assistance Commission, 2024 EAVS, V1",
+    "states": {
+      "AR": {
+        "diff_pct": -5.712871752990324,
+        "eavs_ballots_cast": 1122179.0,
+        "over_threshold_0.5pct": true,
+        "uf_ballots_counted": 1190172.0
+      },
+      "CA": {
+        "diff_pct": 0.15047046959723281,
+        "eavs_ballots_cast": 16164330.0,
+        "over_threshold_0.5pct": false,
+        "uf_ballots_counted": 16140044.0
+      },
+      "CO": {
+        "diff_pct": -0.011292392753122377,
+        "eavs_ballots_cast": 3240754.0,
+        "over_threshold_0.5pct": false,
+        "uf_ballots_counted": 3241120.0
+      },
+      "TX": {
+        "diff_pct": 0.7791228070175438,
+        "eavs_ballots_cast": 11488820.0,
+        "over_threshold_0.5pct": true,
+        "uf_ballots_counted": 11400000.0
+      }
+    },
+    "status": "done",
+    "url": "https://www.eac.gov/sites/default/files/2025-06/2024_EAVS_for_Public_Release_nolabel_V1_csv.zip",
+    "variable": "F1a (total ballots cast), summed by state",
+    "version": "V1"
+  },
+  "fetch_date": "2026-11-21",
+  "manual_validation": {
+    "computation": "156766239 / 243803423 * 100",
+    "diff_pp": 0.0,
+    "file_rate_pct": 64.3,
+    "metric": "2024 United States VEP turnout",
+    "note": "Recomputed by hand from the committed 2024 CSV; matches the file rate to the last digit.",
+    "result_pct": 64.3
+  },
+  "metric_definitions": {
+    "pp_change": "percentage-point change within the same cycle type only",
+    "vap_turnout": "TOTAL_BALLOTS_COUNTED / VAP * 100 (secondary metric)",
+    "vep_turnout": "TOTAL_BALLOTS_COUNTED / VEP * 100 (primary metric)"
+  },
+  "recompute_check": {
+    "max_abs_diff_pp": 0.022632981020734633,
+    "rows_checked": 987,
+    "rows_over_tolerance": 0,
+    "spot_checks": {
+      "2022 United States": {
+        "file_rate": 46.12,
+        "recomputed_rate": 46.12076394194746
+      },
+      "2024 Arkansas": {
+        "file_rate": 54.06,
+        "recomputed_rate": 54.05538468246369
+      },
+      "2024 California": {
+        "file_rate": 62.26,
+        "recomputed_rate": 62.26179911883207
+      },
+      "2024 Colorado": {
+        "file_rate": 73.4,
+        "recomputed_rate": 73.40106091292502
+      },
+      "2024 United States": {
+        "file_rate": 64.3,
+        "recomputed_rate": 64.30026169074746
+      }
+    },
+    "tolerance_pp": 0.05
+  },
+  "seed": null,
+  "shapefile_join": {
+    "jurisdictions_expected": 51,
+    "jurisdictions_joined": 51,
+    "shapefile_features": 56,
+    "source": "U.S. Census Bureau, cartographic boundary file cb_2024_us_state_500k",
+    "status": "done",
+    "unmatched_abbreviations": [],
+    "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_state_500k.zip"
+  },
+  "source": "live",
+  "synthetic": false,
+  "urls": {
+    "1980_2022": "https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_1980_2022_v1.2.csv",
+    "2024": "https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2024G_v0.4.csv"
+  }
+}
