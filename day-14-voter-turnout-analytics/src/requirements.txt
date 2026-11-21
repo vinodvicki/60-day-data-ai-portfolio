@@ -1,0 +1,17 @@
+# Day 14 — Voter Turnout Analytics
+# Pinned to the exact versions verified in the local venv (Python 3.12.3)
+# on 2026-11-21. Install with: pip install -r requirements.txt
+# Day 13 stack plus geopandas (choropleth geometry) and scipy
+# (Pearson/Spearman p-values). No scikit-learn (no model), no openpyxl
+# (no XLSX) this day (plan §6).
+pandas==3.1.1
+numpy==2.5.4
+matplotlib==3.11.2
+plotly==7.1.0
+streamlit==1.66.1
+requests==2.34.2
+pytest==9.2.0
+jupyter==1.1.1
+nbformat==5.11.1
+geopandas==1.2.0
+scipy==1.18.1

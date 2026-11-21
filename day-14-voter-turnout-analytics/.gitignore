@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+*.key
+*.log
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+# Synthetic fallback output is never committed; live data/raw/*.json IS committed
+data/raw/*_synthetic.json
+data/raw/*_synthetic.csv
+# State shapefile zip + unpacked shapefile (3,242,450 B — over 1 MB, regenerated at build)
+data/raw/cb_2024_us_state_500k.zip
+data/raw/shapefile/
+# EAVS 2024 zip + unpacked contents (2,076,499 B — over 1 MB, cross-check only)
+data/raw/2024_EAVS_for_Public_Release_nolabel_V1_csv.zip
+data/raw/eavs/
+.coverage
+.mypy_cache/
