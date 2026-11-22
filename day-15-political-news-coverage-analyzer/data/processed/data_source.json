@@ -1,0 +1,254 @@
+{
+  "project": "Day 15 \u2014 Political News Coverage Analyzer",
+  "source": "live",
+  "synthetic": false,
+  "seed": null,
+  "fetch_date": "2026-11-22",
+  "window": {
+    "start": "2026-11-08",
+    "end": "2026-11-22"
+  },
+  "outlets": {
+    "NYT": {
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "http_status": 200,
+      "byte_size": 21419,
+      "fetched_items": 10,
+      "dropped_missing_link_or_date": 0,
+      "dropped_outside_window": 0,
+      "duplicates_removed": 0,
+      "empty_text_articles": 0,
+      "final_n": 10,
+      "earliest_pub_date": "2026-11-20",
+      "latest_pub_date": "2026-11-22"
+    },
+    "WSJ": {
+      "feed_url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+      "http_status": 200,
+      "byte_size": 13317,
+      "fetched_items": 20,
+      "dropped_missing_link_or_date": 0,
+      "dropped_outside_window": 20,
+      "duplicates_removed": 0,
+      "empty_text_articles": 0,
+      "final_n": 0,
+      "earliest_pub_date": null,
+      "latest_pub_date": null
+    },
+    "Fox News": {
+      "feed_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+      "http_status": 200,
+      "byte_size": 258357,
+      "fetched_items": 25,
+      "dropped_missing_link_or_date": 0,
+      "dropped_outside_window": 1,
+      "duplicates_removed": 0,
+      "empty_text_articles": 0,
+      "final_n": 24,
+      "earliest_pub_date": "2026-11-22",
+      "latest_pub_date": "2026-11-22"
+    },
+    "CNN": {
+      "feed_url": "http://rss.cnn.com/rss/edition.rss",
+      "http_status": 200,
+      "byte_size": 130144,
+      "fetched_items": 50,
+      "dropped_missing_link_or_date": 4,
+      "dropped_outside_window": 46,
+      "duplicates_removed": 0,
+      "empty_text_articles": 0,
+      "final_n": 0,
+      "earliest_pub_date": null,
+      "latest_pub_date": null
+    },
+    "NPR": {
+      "feed_url": "https://feeds.npr.org/1001/rss.xml",
+      "http_status": 200,
+      "byte_size": 14301,
+      "fetched_items": 10,
+      "dropped_missing_link_or_date": 0,
+      "dropped_outside_window": 0,
+      "duplicates_removed": 0,
+      "empty_text_articles": 0,
+      "final_n": 10,
+      "earliest_pub_date": "2026-11-21",
+      "latest_pub_date": "2026-11-22"
+    },
+    "BBC News": {
+      "feed_url": "https://feeds.bbci.co.uk/news/rss.xml",
+      "http_status": 200,
+      "byte_size": 26437,
+      "fetched_items": 33,
+      "dropped_missing_link_or_date": 0,
+      "dropped_outside_window": 2,
+      "duplicates_removed": 0,
+      "empty_text_articles": 0,
+      "final_n": 31,
+      "earliest_pub_date": "2026-11-11",
+      "latest_pub_date": "2026-11-22"
+    }
+  },
+  "corpus_total": 75,
+  "per_outlet_n": {
+    "NYT": 10,
+    "WSJ": 0,
+    "Fox News": 24,
+    "CNN": 0,
+    "NPR": 10,
+    "BBC News": 31
+  },
+  "gdelt": {
+    "attempted": false,
+    "status": "skipped",
+    "reason": "Optional cross-check only (plan \u00a73.1). Skipped: the build is complete on RSS alone, and the researcher verified on 2026-11-22 that the GDELT DOC API rate-limits (HTTP 429) after one successful call.",
+    "permitted_query_if_attempted": "query=politics&mode=timelinevol&timespan=14d&sourcelang=english&sourcecountry=US&format=json",
+    "query_used": null,
+    "http_status": null
+  },
+  "vader_version": "3.3.2",
+  "versions": {
+    "pandas": "3.1.1",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "streamlit": "1.66.1",
+    "feedparser": "6.0.14",
+    "vaderSentiment": "3.3.2"
+  },
+  "metric_definitions": {
+    "attention_share_pct": "articles(outlet, topic) / articles(outlet, all topics) * 100; corpus-wide share uses articles(all) as the denominator",
+    "topic_assignment": "Frozen keyword dictionary (plan \u00a74.1); most hits wins, ties go to the topic whose keyword appears earliest in the text, zero hits means Other",
+    "sentiment": "VADER compound on title + ' ' + description (original-cased text); >= +0.05 positive, <= -0.05 negative, otherwise neutral",
+    "sentiment_ci": "95% CI per group: t-interval by default; bootstrap (1,000 resamples, seed 42) when |skew| > 1; see ci_method. Intervals are clipped to the compound range [-1, +1].",
+    "share_ci": "Wilson 95% CI, z = 1.96"
+  },
+  "cross_checks": {
+    "corpus_integrity": {
+      "all_pub_dates_in_window": true,
+      "urls_unique": true,
+      "per_outlet_counts_sum_to_total": true,
+      "exactly_one_topic_per_article": true,
+      "all_compounds_in_range": true,
+      "all_labels_valid": true
+    },
+    "vader_recompute_5_titles": {
+      "n_checked": 5,
+      "max_abs_diff": 0.0,
+      "passed": true,
+      "items": [
+        {
+          "outlet": "BBC News",
+          "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
+          "pipeline_compound": 0.0,
+          "direct_compound": 0.0,
+          "abs_diff_3dp": 0.0
+        },
+        {
+          "outlet": "BBC News",
+          "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+          "pipeline_compound": 0.402,
+          "direct_compound": 0.402,
+          "abs_diff_3dp": 0.0
+        },
+        {
+          "outlet": "Fox News",
+          "title": "Harvard scientist may never prove mysterious space object\u2019s origin after mission scrapped",
+          "pipeline_compound": -0.077,
+          "direct_compound": -0.077,
+          "abs_diff_3dp": 0.0
+        },
+        {
+          "outlet": "NPR",
+          "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+          "pipeline_compound": -0.896,
+          "direct_compound": -0.896,
+          "abs_diff_3dp": 0.0
+        },
+        {
+          "outlet": "NYT",
+          "title": "Would You Buy a Used Civilization From This Man?",
+          "pipeline_compound": 0.153,
+          "direct_compound": 0.153,
+          "abs_diff_3dp": 0.0
+        }
+      ]
+    },
+    "topic_dictionary_sha256": "8a0e07716e327494321636148a6748f3597d39fbc4b72b1593c5a5dab9514dff"
+  },
+  "notes": [
+    "Sentiment measures the emotional tone of the words used; it is not a measure of factual accuracy, fairness, or political bias.",
+    "Title + description text only \u2014 no full article text; no scraping of linked article pages.",
+    "Descriptive only \u2014 no predictive model, no bias score, no leaning score, no fact-checking, no causal claims.",
+    "RSS feeds are rolling latest-N lists; the window actually achieved per outlet is recorded in outlets[].earliest_pub_date / latest_pub_date."
+  ],
+  "manual_validation": {
+    "metric": "Largest attention-share cell, recomputed by hand from data/processed/articles.csv (plan \u00a74.4)",
+    "cell": {
+      "outlet": "BBC News",
+      "topic": "Other"
+    },
+    "hand_count": "19 of 31",
+    "hand_share_pct": 61.2903,
+    "committed_share_pct": 61.2903,
+    "share_diff_pp": 0.0,
+    "hand_wilson_ci": [
+      43.8238,
+      76.2671
+    ],
+    "committed_wilson_ci": [
+      43.8238,
+      76.2671
+    ],
+    "wilson_ci_diff_pp": [
+      0.0,
+      0.0
+    ],
+    "tolerance_pp": 0.01,
+    "passed": true,
+    "method": "Independent recomputation with csv + math only (no pipeline code); Wilson 95% CI, z = 1.96.",
+    "vader_5_titles": {
+      "max_abs_diff_3dp": 0.0,
+      "tolerance_3dp": 0.001,
+      "passed": true,
+      "items": [
+        {
+          "outlet": "BBC News",
+          "title": "Baby thriving after 3D-printed model used to save her heart",
+          "pipeline_compound": 0.936,
+          "direct_compound": 0.936,
+          "abs_diff_3dp": 0.0
+        },
+        {
+          "outlet": "BBC News",
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "pipeline_compound": -0.945,
+          "direct_compound": -0.945,
+          "abs_diff_3dp": 0.0
+        },
+        {
+          "outlet": "BBC News",
+          "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+          "pipeline_compound": 0.66,
+          "direct_compound": 0.66,
+          "abs_diff_3dp": 0.0
+        },
+        {
+          "outlet": "Fox News",
+          "title": "Iconic MTV star turns 60, shares her no-guilt approach to fitness, food and aging well",
+          "pipeline_compound": 0.92,
+          "direct_compound": 0.92,
+          "abs_diff_3dp": 0.0
+        },
+        {
+          "outlet": "NPR",
+          "title": "Google employees protest AI in schools policy",
+          "pipeline_compound": -0.153,
+          "direct_compound": -0.153,
+          "abs_diff_3dp": 0.0
+        }
+      ]
+    },
+    "validated_by": "coder, 2026-11-22",
+    "note": "A --live re-run of the pipeline regenerates data_source.json and drops this section; re-run this hand-validation afterwards."
+  }
+}

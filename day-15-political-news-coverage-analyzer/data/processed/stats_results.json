@@ -1,0 +1,157 @@
+{
+  "chi_square_topic_outlet": {
+    "test": "chi-square test of independence",
+    "chi2": 31.941132350117464,
+    "df": 27,
+    "p_value": 0.23427147035832194,
+    "min_expected": 0.13333333333333333,
+    "sparse": true,
+    "collapsed": true,
+    "collapsed_chi2": 18.904217987598265,
+    "collapsed_df": 12,
+    "collapsed_p_value": 0.0908663122151236,
+    "collapsed_min_expected": 0.6666666666666666,
+    "permutation_p_value": 0.2214,
+    "conclusion_basis": "permutation p-value (10,000 shuffles, seed 42) on the full table; the asymptotic p-value is reported alongside but the conclusion rests on the permutation p-value",
+    "excluded_outlets": [
+      "WSJ",
+      "CNN"
+    ],
+    "excluded_topics": [],
+    "n_outlets_tested": 4,
+    "n_topics_tested": 10
+  },
+  "sentiment_by_outlet": {
+    "test": "Kruskal-Wallis",
+    "statistic": 2.0928355331364976,
+    "p_value": 0.5533635430858705,
+    "why": "at least one outlet failed Shapiro-Wilk normality (p <= 0.05)",
+    "normality": {
+      "BBC News": {
+        "n": 31,
+        "W": 0.9186765073038288,
+        "p_value": 0.021775642628015738
+      },
+      "Fox News": {
+        "n": 24,
+        "W": 0.9353352528227189,
+        "p_value": 0.12832198627952213
+      },
+      "NPR": {
+        "n": 10,
+        "W": 0.9120767115899463,
+        "p_value": 0.29556267560242827
+      },
+      "NYT": {
+        "n": 10,
+        "W": 0.9050198365162485,
+        "p_value": 0.2485029478596038
+      }
+    },
+    "excluded_outlets": [
+      "CNN",
+      "WSJ"
+    ],
+    "outlets_tested": [
+      "BBC News",
+      "Fox News",
+      "NPR",
+      "NYT"
+    ]
+  },
+  "pairwise_tests": [
+    {
+      "outlet_a": "BBC News",
+      "outlet_b": "Fox News",
+      "mean_diff": 0.17437755376344083,
+      "p_value": 1.0,
+      "corrected": true,
+      "method": "Mann-Whitney U with Bonferroni correction"
+    },
+    {
+      "outlet_a": "BBC News",
+      "outlet_b": "NPR",
+      "mean_diff": 0.2875183870967742,
+      "p_value": 1.0,
+      "corrected": true,
+      "method": "Mann-Whitney U with Bonferroni correction"
+    },
+    {
+      "outlet_a": "BBC News",
+      "outlet_b": "NYT",
+      "mean_diff": 0.0935383870967742,
+      "p_value": 1.0,
+      "corrected": true,
+      "method": "Mann-Whitney U with Bonferroni correction"
+    },
+    {
+      "outlet_a": "Fox News",
+      "outlet_b": "NPR",
+      "mean_diff": 0.11314083333333333,
+      "p_value": 1.0,
+      "corrected": true,
+      "method": "Mann-Whitney U with Bonferroni correction"
+    },
+    {
+      "outlet_a": "Fox News",
+      "outlet_b": "NYT",
+      "mean_diff": -0.08083916666666663,
+      "p_value": 1.0,
+      "corrected": true,
+      "method": "Mann-Whitney U with Bonferroni correction"
+    },
+    {
+      "outlet_a": "NPR",
+      "outlet_b": "NYT",
+      "mean_diff": -0.19397999999999996,
+      "p_value": 1.0,
+      "corrected": true,
+      "method": "Mann-Whitney U with Bonferroni correction"
+    }
+  ],
+  "pairwise_method": "dunn",
+  "sentiment_by_topic_within_outlet": {
+    "NYT": {
+      "test": "not run",
+      "reason": "fewer than 2 topics with n >= 5 in this outlet",
+      "topics_tested": [
+        "Other"
+      ]
+    },
+    "WSJ": {
+      "test": "not run",
+      "reason": "fewer than 2 topics with n >= 5 in this outlet",
+      "topics_tested": []
+    },
+    "Fox News": {
+      "test": "one-way ANOVA",
+      "statistic": 4.259540825427352,
+      "p_value": 0.061350164708392385,
+      "why": "Shapiro-Wilk p > 0.05 for every tested topic",
+      "topics_tested": [
+        "Other",
+        "Technology & AI"
+      ]
+    },
+    "CNN": {
+      "test": "not run",
+      "reason": "fewer than 2 topics with n >= 5 in this outlet",
+      "topics_tested": []
+    },
+    "NPR": {
+      "test": "not run",
+      "reason": "fewer than 2 topics with n >= 5 in this outlet",
+      "topics_tested": []
+    },
+    "BBC News": {
+      "test": "one-way ANOVA",
+      "statistic": 0.00568015841530352,
+      "p_value": 0.9406040014951986,
+      "why": "Shapiro-Wilk p > 0.05 for every tested topic",
+      "topics_tested": [
+        "Other",
+        "Technology & AI"
+      ]
+    }
+  }
+}

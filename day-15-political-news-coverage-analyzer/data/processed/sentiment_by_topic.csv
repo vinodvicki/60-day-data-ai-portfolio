@@ -1,0 +1,26 @@
+outlet,topic,n,mean_compound,ci_low,ci_high,ci_method,median_compound,pct_positive,pct_neutral,pct_negative,small_n
+NYT,Healthcare,1,0.2748,0.2748,0.2748,n=1 (no interval),0.2748,100.0,0.0,0.0,True
+NYT,Climate/Energy,1,-0.8442,-0.8442,-0.8442,n=1 (no interval),-0.8442,0.0,0.0,100.0,True
+NYT,Foreign policy,1,0.5994,0.5994,0.5994,n=1 (no interval),0.5994,100.0,0.0,0.0,True
+NYT,Elections & campaigns,2,-0.7603500000000001,-1.0,-0.11551010963913422,t-interval,-0.7603500000000001,0.0,0.0,100.0,True
+NYT,Other,5,0.20636000000000002,-0.3682639721494321,0.780983972149432,t-interval,0.1531,60.0,20.0,20.0,False
+Fox News,Immigration,1,-0.967,-0.967,-0.967,n=1 (no interval),-0.967,0.0,0.0,100.0,True
+Fox News,Climate/Energy,1,-0.2023,-0.2023,-0.2023,n=1 (no interval),-0.2023,0.0,0.0,100.0,True
+Fox News,Elections & campaigns,3,-0.5439333333333333,-1.0,0.5353569035545923,t-interval,-0.5859,0.0,0.0,100.0,True
+Fox News,Crime & justice,2,-0.9669,-1.0,-0.7636007242212047,t-interval,-0.9669,0.0,0.0,100.0,True
+Fox News,Technology & AI,9,-0.00421111111111111,-0.36382687689593957,0.35540465467371735,t-interval,-0.049,22.2222,33.3333,44.4444,False
+Fox News,Education,3,-0.25856666666666667,-1.0,1.0,t-interval,-0.4588,33.3333,0.0,66.6667,True
+Fox News,Other,5,0.5014000000000001,0.03519432985546217,0.9676056701445379,t-interval,0.4019,80.0,20.0,0.0,False
+NPR,Healthcare,1,0.25,0.25,0.25,n=1 (no interval),0.25,100.0,0.0,0.0,True
+NPR,Elections & campaigns,2,0.061100000000000015,-1.0,1.0,t-interval,0.061100000000000015,50.0,0.0,50.0,True
+NPR,Crime & justice,1,-0.8957,-0.8957,-0.8957,n=1 (no interval),-0.8957,0.0,0.0,100.0,True
+NPR,Technology & AI,3,-0.009799999999999994,-1.0,1.0,t-interval,-0.1531,33.3333,0.0,66.6667,True
+NPR,Other,3,-0.6152666666666666,-1.0,-0.060218775865682916,t-interval,-0.6369,0.0,0.0,100.0,True
+BBC News,Economy,1,-0.5927,-0.5927,-0.5927,n=1 (no interval),-0.5927,0.0,0.0,100.0,True
+BBC News,Healthcare,1,-0.9448,-0.9448,-0.9448,n=1 (no interval),-0.9448,0.0,0.0,100.0,True
+BBC News,Climate/Energy,1,0.6597,0.6597,0.6597,n=1 (no interval),0.6597,100.0,0.0,0.0,True
+BBC News,Foreign policy,1,-0.802,-0.802,-0.802,n=1 (no interval),-0.802,0.0,0.0,100.0,True
+BBC News,Crime & justice,2,-0.2204,-1.0,1.0,t-interval,-0.2204,50.0,0.0,50.0,True
+BBC News,Technology & AI,5,0.20679999999999996,-0.5971895054192952,1.0,t-interval,0.0,40.0,20.0,40.0,False
+BBC News,Education,1,-0.9442,-0.9442,-0.9442,n=1 (no interval),-0.9442,0.0,0.0,100.0,True
+BBC News,Other,19,0.1846263157894737,-0.09040124085805312,0.4596538724370005,t-interval,0.2185,52.6316,10.5263,36.8421,False
