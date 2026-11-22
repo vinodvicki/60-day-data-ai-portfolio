@@ -37,7 +37,8 @@ code, README, requirements, charts and example results.
 | [12](day-12-customer-segmentation-engine/) | Customer Segmentation Engine — UCI Online Retail, 527,795 cleaned lines, 4,334 customers; RFM + KMeans (k = 2, silhouette 0.4330): Champions 1,661 drive 84.9% of attributed revenue (£7,436,335.44), Hibernating 2,673 hold 15.1%; SBC↔KMeans agreement 51.5%, pytest 28/28 | Retail | ✅ Done (2026-11-16) |
 | [13](day-13-election-campaign-finance-tracker/) | Election Campaign Finance Tracker — FEC 2024 cycle, 4,376 candidates with totals, $6,503.1M candidate receipts; Harris & Biden $1,175.2M each, ActBlue $3,821.2M, PA $2,525.2M (HQ effect), pytest 32/32 | Politics, Elections & Public Policy | ✅ Done (2026-11-19) |
 | [14](day-14-voter-turnout-analytics/) | Voter Turnout Analytics — 2024 national VEP turnout 64.30% (156.8M ballots ÷ 243.8M VEP), −1.69 pp vs 2020; Wisconsin 76.66% highest, Hawaii 50.26% lowest; felon-share r = −0.40, pytest 31/31 | Politics, Elections & Public Policy | ✅ Done (2026-11-21) |
-| 15–60 | See the roadmap catalog | — | Planned |
+| [15](day-15-political-news-coverage-analyzer/) | Political News Coverage Analyzer — 75 RSS articles (NYT 10, Fox News 24, NPR 10, BBC News 31; WSJ and CNN n=0), Other 42.7% of the corpus; mean language sentiment −0.240 to +0.048, no outlet difference beyond chance (Kruskal-Wallis p=0.553), sample-review agreement 55.0%, pytest 38/38 | Politics, Elections & Public Policy | ✅ Done (2026-11-22) |
+| 16–60 | See the roadmap catalog | — | Planned |
 
 ## Live demos
 
@@ -150,6 +151,11 @@ Day 14 headline findings (UF Election Lab VEP turnout, 1980–2024, retrieved 20
 2024 national VEP turnout 64.30% (156,766,239 ballots ÷ 243,803,423 VEP), down 1.69 pp from 65.99% in 2020; the 2022 midterm was 46.12%, down 3.93 pp from 50.05% in 2018. Wisconsin leads 2024 at 76.66%, Hawaii trails at 50.26%; 7 states rose vs 2020, 44 fell (median change −1.68 pp). Presidential-year national turnout ranged 55.28% (2000) to 65.99% (2020); midterm years 36.61% (2014) to 50.05% (2018). Demographic associations are descriptive only: noncitizen share vs turnout r = −0.07, p = 0.639 (n = 51, no clear association); ineligible-felon share r = −0.40, p = 0.003 (moves with turnout; association only). Five outlier rows are reported as filed, never dropped. Tests 31/31 pass, coverage 65.20%. Full detail in
 [Day 14](day-14-voter-turnout-analytics/) →
 [`outputs/insights_summary.md`](day-14-voter-turnout-analytics/outputs/insights_summary.md).
+
+Day 15 headline findings (outlet RSS feeds, 2026-11-08–2026-11-22; 75 articles: NYT 10, Fox News 24, NPR 10, BBC News 31; WSJ and CNN contributed none — their feeds served only items outside the window):
+Corpus-wide, the largest topic shares went to Other (42.7%, 32 of 75) and Technology & AI (22.7%, 17 of 75), then Elections & campaigns (9.3%, 7 of 75); the largest single cell is BBC News × Other at 61.3% (19 of 31, Wilson 95% CI 43.8%–76.3%). Mean language sentiment (VADER compound, title + description text only) was NYT −0.046, Fox News −0.127, NPR −0.240 and BBC News +0.048, and every outlet's 95% CI includes 0. The topic distribution does not differ across outlets beyond chance (chi-square χ²=31.94, p=0.234; collapsed p=0.091; permutation p=0.2214), nor does mean sentiment (Kruskal-Wallis H=2.09, p=0.553). The sample review agreed on 55.0% (11 of 20 articles) — the honest measure of the frozen keyword dictionary. Sentiment is language tone only, never factual bias. Tests 38/38 pass, coverage 56.35%. Full detail in
+[Day 15](day-15-political-news-coverage-analyzer/) →
+[`outputs/insights_summary.md`](day-15-political-news-coverage-analyzer/outputs/insights_summary.md).
 
 ## Roadmap phases
 
