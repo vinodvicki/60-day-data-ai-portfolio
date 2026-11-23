@@ -5,7 +5,7 @@
 # (Pearson/Spearman p-values). No scikit-learn (no model), no openpyxl
 # (no XLSX) this day (plan §6).
 pandas==3.1.1
-numpy==2.5.4
+numpy==2.5.5
 matplotlib==3.11.2
 plotly==7.1.0
 streamlit==1.66.1

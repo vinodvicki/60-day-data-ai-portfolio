@@ -4,7 +4,7 @@
 # No scikit-learn / scipy / openpyxl this day: no clustering, no
 # forecasting, no XLSX (plan §6).
 pandas==3.1.1
-numpy==2.5.4
+numpy==2.5.5
 matplotlib==3.11.2
 plotly==7.1.0
 streamlit==1.66.1
