@@ -38,7 +38,8 @@ code, README, requirements, charts and example results.
 | [13](day-13-election-campaign-finance-tracker/) | Election Campaign Finance Tracker — FEC 2024 cycle, 4,376 candidates with totals, $6,503.1M candidate receipts; Harris & Biden $1,175.2M each, ActBlue $3,821.2M, PA $2,525.2M (HQ effect), pytest 32/32 | Politics, Elections & Public Policy | ✅ Done (2026-11-19) |
 | [14](day-14-voter-turnout-analytics/) | Voter Turnout Analytics — 2024 national VEP turnout 64.30% (156.8M ballots ÷ 243.8M VEP), −1.69 pp vs 2020; Wisconsin 76.66% highest, Hawaii 50.26% lowest; felon-share r = −0.40, pytest 31/31 | Politics, Elections & Public Policy | ✅ Done (2026-11-21) |
 | [15](day-15-political-news-coverage-analyzer/) | Political News Coverage Analyzer — 75 RSS articles (NYT 10, Fox News 24, NPR 10, BBC News 31; WSJ and CNN n=0), Other 42.7% of the corpus; mean language sentiment −0.240 to +0.048, no outlet difference beyond chance (Kruskal-Wallis p=0.553), sample-review agreement 55.0%, pytest 38/38 | Politics, Elections & Public Policy | ✅ Done (2026-11-22) |
-| 16–60 | See the roadmap catalog | — | Planned |
+| [16](day-16-crop-yield-prediction/) | Crop Yield Prediction — USA maize yield 2000–2025 (26 years), Ridge best model held-out RMSE 0.540 t/ha; naive "last year's yield" wins at 0.287 t/ha; heat days strongest weather driver, pytest 21/21 | Agriculture & Farming | ✅ Done (2026-11-23) |
+| 17–60 | See the roadmap catalog | — | Planned |
 
 ## Live demos
 
@@ -156,6 +157,11 @@ Day 15 headline findings (outlet RSS feeds, 2026-11-08–2026-11-22; 75 articles
 Corpus-wide, the largest topic shares went to Other (42.7%, 32 of 75) and Technology & AI (22.7%, 17 of 75), then Elections & campaigns (9.3%, 7 of 75); the largest single cell is BBC News × Other at 61.3% (19 of 31, Wilson 95% CI 43.8%–76.3%). Mean language sentiment (VADER compound, title + description text only) was NYT −0.046, Fox News −0.127, NPR −0.240 and BBC News +0.048, and every outlet's 95% CI includes 0. The topic distribution does not differ across outlets beyond chance (chi-square χ²=31.94, p=0.234; collapsed p=0.091; permutation p=0.2214), nor does mean sentiment (Kruskal-Wallis H=2.09, p=0.553). The sample review agreed on 55.0% (11 of 20 articles) — the honest measure of the frozen keyword dictionary. Sentiment is language tone only, never factual bias. Tests 38/38 pass, coverage 56.35%. Full detail in
 [Day 15](day-15-political-news-coverage-analyzer/) →
 [`outputs/insights_summary.md`](day-15-political-news-coverage-analyzer/outputs/insights_summary.md).
+
+Day 16 headline findings (FAO via Our World in Data maize yields + Open-Meteo ERA5 weather, Iowa/Illinois centroids, retrieved 2026-11-23; 26 annual rows, 2000–2025):
+USA maize yield rose from 8.59 t/ha (2000) to 11.71 t/ha (2025), with the 2012 drought year lowest at 7.73 t/ha. Ridge regression is the best of three models on the held-out years 2020–2025 (RMSE 0.540 t/ha, 8.61 bu/acre), ahead of Random Forest (0.592) and OLS (0.785) — but no model beats the naive one-step baseline of last year's yield (RMSE 0.287 t/ha); all beat the train-mean baseline (1.479). The year trend dominates (r = +0.83); among weather drivers, heat hurts most (heat days standardised coefficient −0.49; July mean temperature r = −0.39) while July and June rainfall are mildly positive (r ≈ +0.23). Drivers are associations, not causation; the weather is a 2-state Corn Belt proxy for the national yield series. 2024 yield hand-validated at 11.253324 t/ha (179.28 bu/acre), diff 0.0. Tests 21/21 pass, coverage 47.58%. Full detail in
+[Day 16](day-16-crop-yield-prediction/) →
+[`outputs/insights_summary.md`](day-16-crop-yield-prediction/outputs/insights_summary.md).
 
 ## Roadmap phases
 
