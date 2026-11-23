@@ -76,13 +76,25 @@ streamlit 1.66.1, requests 2.34.2, scikit-learn 1.9.1, scipy 1.18.1
 
 - `outputs/charts/01_yield_history.png` — yield 2000–2025, train/held-out
   shading, train trend, 2012 dip annotated.
+
+  ![Yield history, 2000–2025](outputs/charts/01_yield_history.png)
+
 - `outputs/charts/02_actual_vs_predicted.png` — held-out actual vs winner
   prediction vs naive-last.
+
+  ![Actual vs predicted, held-out years](outputs/charts/02_actual_vs_predicted.png)
+
 - `outputs/charts/03_feature_drivers.png` — standardised OLS coefficients
   with Pearson r (association, not causation).
+
+  ![Feature drivers](outputs/charts/03_feature_drivers.png)
+
 - `outputs/charts/04_weather_stations_map.png` — the two Corn Belt weather
   stations (schematic lon/lat map; the plotly/kaleido route failed in this
   environment, so the plan's matplotlib fallback was used).
+
+  ![Weather stations map](outputs/charts/04_weather_stations_map.png)
+
 - `screenshots/dashboard.png` — real capture of the running Streamlit app.
 
 ## How to run
