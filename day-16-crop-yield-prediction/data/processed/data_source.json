@@ -1,0 +1,56 @@
+{
+  "project": "Day 16 \u2014 Crop Yield Prediction",
+  "fetch_date": "2026-11-23",
+  "fetched_from": "live fetch",
+  "synthetic": false,
+  "sources": {
+    "yields": {
+      "provider": "FAO via Our World in Data",
+      "url": "https://ourworldindata.org/grapher/maize-yields.csv?country=USA",
+      "licence": "CC BY 4.0",
+      "unit": "tonnes per hectare",
+      "rows_usa_2000_2025": 26
+    },
+    "weather": {
+      "provider": "Open-Meteo ERA5 archive",
+      "url": "https://archive-api.open-meteo.com/v1/archive",
+      "licence": "CC BY 4.0",
+      "states": {
+        "iowa": {
+          "latitude": 41.878,
+          "longitude": -93.0977,
+          "days": 9497
+        },
+        "illinois": {
+          "latitude": 40.6331,
+          "longitude": -89.3985,
+          "days": 9497
+        }
+      }
+    }
+  },
+  "unit_conversion": {
+    "t_per_ha_to_bu_per_acre": 15.931688958135206,
+    "note": "1 tonne corn = 39.368 bu; 1 ha = 2.47105 acres"
+  },
+  "split": {
+    "train_years": "2000\u20132019",
+    "heldout_years": "2020\u20132025"
+  },
+  "row_counts": {
+    "yield_rows": 26,
+    "joined_rows": 26,
+    "train_rows": 20,
+    "heldout_rows": 6
+  },
+  "note": "USDA Quick Stats (roadmap suggestion) needs an API key (HTTP 401 without one), so FAO/OWID national yields are used; weather is a 2-state Corn Belt proxy (Iowa + Illinois average), not a national average. See research_brief.md.",
+  "manual_validation": {
+    "metric": "2024 USA maize yield",
+    "method": "hand recomputation from committed raw CSV (csv + math only, no pipeline code)",
+    "value_t_per_ha": 11.253324,
+    "value_bu_per_acre": 179.28,
+    "diff_t_per_ha": 0.0,
+    "validated_by": "tester (stage 4)",
+    "date": "2026-11-23"
+  }
+}
