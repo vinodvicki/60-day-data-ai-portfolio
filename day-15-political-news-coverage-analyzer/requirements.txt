@@ -5,7 +5,7 @@
 # lexicon). No geopandas (no map), no scikit-learn (no model),
 # no openpyxl (no XLSX) this day (plan §6).
 pandas==3.1.1
-numpy==2.5.4
+numpy==2.5.5
 scipy==1.18.1
 matplotlib==3.11.2
 plotly==7.1.0
