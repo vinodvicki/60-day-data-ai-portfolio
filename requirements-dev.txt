@@ -8,7 +8,7 @@
 # Added 2026-11-18 (best-practice retrofit): pytest-cov for the coverage
 # gate, mypy for the gradual type-checking gate, pre-commit for the
 # pre-commit hooks. Versions verified in the Day 1 venv on 2026-11-18.
-ruff==0.17.4
+ruff==0.17.6
 black==26.10.1
 pytest-cov==7.1.0
 mypy==2.4.1
