@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+*.key
+*.log
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+# Synthetic fallback output is never committed; live data/raw/*.json IS committed
+data/raw/*_synthetic.json
+# Day 17: weekly county raw CSVs (~4 MB per 9-year block per state, ~24 MB
+# total) and the 3.2 MB county GeoJSON are NOT committed (size rule, plan
+# §3.4). The committed county_year.csv aggregates are the auditable record.
+# data/ as a whole is NOT excluded — only these two large-file patterns.
+data/raw/dsci_counties_*.csv
+data/raw/counties_geo.json
+.coverage
+.mypy_cache/
