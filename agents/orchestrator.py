@@ -744,6 +744,10 @@ def validate(day: int, root: Path = PORTFOLIO_ROOT) -> bool:
     )
 
     # Run pytest in the day's venv if one exists, else the current python.
+    # Run it from inside the day folder, like the CI direct run does: the
+    # tests do `from src import ...`, which only resolves when the day
+    # folder is the working directory (proven 2026-11-24 — running from
+    # the repo root fails collection with "No module named 'src'").
     venv_python = folder / ".venv" / "bin" / "python"
     python = str(venv_python) if venv_python.exists() else sys.executable
     if tests:
@@ -753,6 +757,7 @@ def validate(day: int, root: Path = PORTFOLIO_ROOT) -> bool:
             capture_output=True,
             text=True,
             timeout=600,
+            cwd=str(folder),
         )
         out = (proc.stdout.strip().splitlines() or [""])[-1]
         err = (proc.stderr.strip().splitlines() or [""])[-1]
