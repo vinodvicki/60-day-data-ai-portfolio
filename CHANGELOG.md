@@ -50,6 +50,16 @@ threshold is a floor, not a target. Streamlit `app.py` files are the
 largest uncovered share (they are exercised by the smoke test, not by
 pytest).
 
+## 2026-11-24 — Day 17: Drought Impact Analyzer
+
+- US Drought Monitor REST API (1,357 weekly DSCI rows/state, 5,226
+  county-years, 201 counties): growing-season DSCI vs detrended maize
+  yield r = −0.61, p = 0.0009; 2012 worst drought year (DSCI 200.4, yield
+  2.24 t/ha below trend); Davis County, IA hardest-hit (12.7% mean D2+).
+  Rain totals alone do not explain yield (r = +0.27, p = 0.18). AR(1)
+  2026 DSCI forecast 50.2 (interval 1.8–98.5). pytest 34/34, coverage
+  51.84%.
+
 ## 2026-11-18 — Day 12: Customer Segmentation Engine
 
 - RFM + KMeans (k = 2, silhouette 0.4330) on UCI Online Retail: Champions
