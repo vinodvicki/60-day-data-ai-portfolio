@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+*.key
+*.log
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+# Synthetic fallback output is never committed; live data/raw/*.json IS committed
+data/raw/*_synthetic.json
+# County GeoJSON (3.2 MB) is fetched at chart time and cached locally, never committed
+data/raw/counties_geo.json
+.coverage
+.mypy_cache/
