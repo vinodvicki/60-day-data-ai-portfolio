@@ -50,6 +50,16 @@ threshold is a floor, not a target. Streamlit `app.py` files are the
 largest uncovered share (they are exercised by the smoke test, not by
 pytest).
 
+## 2026-11-25 — Day 18: Agricultural Commodity Price Analyzer
+
+- IMF benchmark prices via FRED (417 monthly observations per commodity,
+  1992–2026): seasonality peaks in May–June (maize 1.037, wheat 1.031,
+  soybeans 1.042); worst drawdowns wheat −69.65%, maize −63.21%; 76 shock
+  months; annual weather/drought join finds no significant association
+  (all p > 0.46, regression R² = 0.016). Holt-Winters maize forecast
+  backtest RMSE $23.38/t vs $41.74/t seasonal-naïve. pytest 31/31,
+  coverage 33.33%.
+
 ## 2026-11-24 — Day 17: Drought Impact Analyzer
 
 - US Drought Monitor REST API (1,357 weekly DSCI rows/state, 5,226
