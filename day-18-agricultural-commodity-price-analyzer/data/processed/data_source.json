@@ -1,0 +1,107 @@
+{
+  "project": "Day 18 \u2014 Agricultural Commodity Price Analyzer",
+  "generated_at_utc": "2026-11-25",
+  "synthetic": false,
+  "sources": {
+    "prices": {
+      "source": "IMF Primary Commodity Prices via FRED (Federal Reserve Bank of St. Louis)",
+      "endpoint": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=<SERIES>",
+      "series": {
+        "maize": "PMAIZMTUSDM",
+        "wheat": "PWHEAMTUSDM",
+        "soybeans": "PSOYBUSDM"
+      },
+      "provenance": {
+        "maize": "live fetch",
+        "wheat": "live fetch",
+        "soybeans": "live fetch"
+      },
+      "window": "1992-01-01 to 2026-09-01",
+      "frequency": "monthly",
+      "rows_per_commodity": 417,
+      "note": "2026 is a partial year (Jan-Sep only); IMF source lags ~2 months. USDA Quick Stats not used: API requires a key (HTTP 401 without one) and no key was available to this run."
+    },
+    "weather": {
+      "source": "Open-Meteo ERA5 archive (CC BY 4.0)",
+      "endpoint": "https://archive-api.open-meteo.com/v1/archive",
+      "provenance": {
+        "iowa": "committed cache",
+        "illinois": "committed cache"
+      },
+      "copied_from": "day-16-crop-yield-prediction",
+      "fetch_date": "2026-11-23",
+      "note": "Iowa + Illinois centroids, daily, 2000-2025; growing-season (Apr-Sep) aggregates. NOAA GHCN-daily recorded as the roadmap cross-check, not fetched."
+    },
+    "drought": {
+      "source": "U.S. Drought Monitor (NDMC/USDA/NOAA)",
+      "endpoint": "https://usdmdataservices.unl.edu/api/StateStatistics/GetDSCI",
+      "provenance": {
+        "iowa": "committed cache",
+        "illinois": "committed cache"
+      },
+      "copied_from": "day-17-drought-impact-analyzer",
+      "fetch_date": "2026-11-24"
+    },
+    "county_d2plus_2012": {
+      "source": "U.S. Drought Monitor county % area, via Day 17",
+      "copied_from": "day-17-drought-impact-analyzer data/processed/county_year.csv",
+      "fetch_date": "2026-11-24",
+      "rows": 201
+    },
+    "county_geojson": {
+      "source": "US Census Bureau boundaries via plotly datasets",
+      "url": "https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json",
+      "note": "Fetched at chart time, cached locally, NOT committed."
+    }
+  },
+  "row_counts": {
+    "monthly_prices": 1251,
+    "months_per_commodity": 417
+  },
+  "backtest": {
+    "method": "Holt-Winters additive trend + additive seasonality (12)",
+    "origins": [
+      "2023-09",
+      "2024-09",
+      "2025-09"
+    ],
+    "horizon_months": 12,
+    "rmse_hw_mean": 23.379307150970167,
+    "rmse_hw_by_origin": [
+      42.388490602272775,
+      13.927645096044099,
+      13.821785754593632
+    ],
+    "rmse_seasonal_naive_mean": 41.73700368530256,
+    "rmse_seasonal_naive_by_origin": [
+      88.86102473374378,
+      18.079042841380684,
+      18.27094348078321
+    ],
+    "residual_std": 25.853606932552673,
+    "forecast_window": "2026-10 to 2027-09",
+    "note": "Statistical extrapolation, not a market prediction."
+  },
+  "manual_validation": {
+    "metric": "maize price, 2012-09 (drought peak month)",
+    "raw_value": 320.7059056390978,
+    "processed_value": 320.7059056390978,
+    "diff": 0.0,
+    "method": "read directly from data/raw/fred_maize.csv (PMAIZMTUSDM, 2012-09-01) and compared to data/processed/monthly_prices.csv",
+    "validated_by": "tester",
+    "validated_at": "2026-11-25",
+    "spot_checks": [
+      {
+        "metric": "wheat price, 2008-10 (largest shock month)",
+        "raw_value": 202.77493500000008,
+        "processed_value": 202.77493500000008,
+        "diff": 0.0
+      },
+      {
+        "metric": "2012 growing-season DSCI mean (IA+IL avg)",
+        "value": 200.3653846153846,
+        "cross_check": "Day 17 reported 200.4 for the same year and states"
+      }
+    ]
+  }
+}
