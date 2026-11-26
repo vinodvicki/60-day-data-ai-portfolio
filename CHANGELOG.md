@@ -50,6 +50,10 @@ threshold is a floor, not a target. Streamlit `app.py` files are the
 largest uncovered share (they are exercised by the smoke test, not by
 pytest).
 
+## 2026-11-26 — Day 19: Credit Card Fraud Detection
+
+- ULB / Worldline credit-card transactions via the Hugging Face mirror (284,807 rows, 492 frauds, 0.1727%): random forest PR-AUC 0.824 beats logistic regression 0.700, while logistic regression wins ROC-AUC (0.968 vs 0.944); at threshold 0.50 the forest is precise but leaky (precision 0.972, recall 0.703) and logistic regression catches more fraud (recall 0.878) at 1,806 false alarms. Cost-optimal threshold 0.10 for the forest: $785.58 per 10,000 transactions (precision 0.765, recall 0.838). The majority baseline is 99.83% accurate and catches nothing. pytest 33/33, coverage 64.50%.
+
 ## 2026-11-25 — Day 18: Agricultural Commodity Price Analyzer
 
 - IMF benchmark prices via FRED (417 monthly observations per commodity,
