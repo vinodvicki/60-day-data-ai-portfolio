@@ -1,0 +1,31 @@
+# Pre-commit hooks — copied to new days by the orchestrator scaffold.
+# (Same content as the portfolio-root .pre-commit-config.yaml.)
+# Install once after cloning:  pre-commit install
+# Run on demand:               pre-commit run --all-files
+# Versions match the pins in requirements-dev.txt (ruff 0.17.4, black
+# 26.10.1, pre-commit 4.7.0). The local hook runs the orchestrator
+# validator on every staged day folder — the same secret scan,
+# pinned-deps check, data-size rule and screenshot check that CI enforces.
+repos:
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.17.4
+    hooks:
+      - id: ruff
+        # Notebooks are excluded: CI lints src/ + tests/ only, and the
+        # delivered notebooks carry 48 pre-existing ruff findings that
+        # are out of scope for the lint gate (fixing them is a separate
+        # notebook-cleanup task, not a commit blocker).
+        exclude: notebooks/
+        args: [--fix]
+  - repo: https://github.com/psf/black
+    rev: "26.10.1"
+    hooks:
+      - id: black
+  - repo: local
+    hooks:
+      - id: orchestrator-validate
+        name: orchestrator validate (changed days)
+        entry: python scripts/pre_commit_validate.py
+        language: system
+        pass_filenames: false
+        always_run: true

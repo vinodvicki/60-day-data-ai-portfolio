@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+*.key
+*.log
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+# Synthetic fallback output is never committed; live data/raw/*.json IS committed
+data/raw/*_synthetic.json
+# Day 19: the 144 MB raw creditcard.csv is a local-only cache (see data/README.md);
+# it exceeds the 1 MB/file commit rule and is re-downloaded by --live.
+data/raw/creditcard.csv
+.coverage
+.mypy_cache/
+.ruff_cache/
