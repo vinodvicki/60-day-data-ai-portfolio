@@ -1,0 +1,4 @@
+model,tp,fp,tn,fn
+baseline_majority,0,0,85295,148
+logistic_regression,130,1806,83489,18
+random_forest,104,3,85292,44

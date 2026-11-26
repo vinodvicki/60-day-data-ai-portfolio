@@ -1,0 +1,22 @@
+{
+  "dataset": "Credit Card Fraud Detection (ULB / Worldline, Kaggle)",
+  "mirror": "https://huggingface.co/datasets/RS2k03/creditcard-fraud-dataset/resolve/main/creditcard.csv",
+  "synthetic": false,
+  "seed": 42,
+  "rows": 284807,
+  "fraud": 492,
+  "fraud_rate_pct": 0.1727,
+  "md5": "e90efcb83d69faf99fcab8b0255024de",
+  "bytes": 150828752,
+  "train_rows": 199364,
+  "test_rows": 85443,
+  "test_fraud": 148,
+  "best_model": "random_forest",
+  "best_threshold": 0.1,
+  "best_threshold_cost_per_10k_usd": 785.5751787741535,
+  "best_threshold_precision": 0.7654320987654321,
+  "best_threshold_recall": 0.8378378378378378,
+  "review_cost_usd_per_false_alarm": 5.0,
+  "review_cost_note": "ASSUMPTION: $5.00 of manual review time per false alarm; not a measured figure. Missed fraud costs its Amount.",
+  "threshold_note": "Thresholds are swept on the test set and are illustrative; a production system would tune them on a separate validation set."
+}
