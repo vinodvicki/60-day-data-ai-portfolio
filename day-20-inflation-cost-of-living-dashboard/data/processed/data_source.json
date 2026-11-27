@@ -1,0 +1,31 @@
+{
+  "source": "FRED (Federal Reserve Bank of St. Louis), fredgraph.csv",
+  "provider": "U.S. Bureau of Labor Statistics via FRED",
+  "series": {
+    "CPIAUCSL": "CPI-U All Items, SA",
+    "CPILFESL": "CPI-U Less Food & Energy, SA",
+    "CPIFABSL": "CPI-U Food at Home, SA",
+    "CPIENGSL": "CPI-U Energy, SA",
+    "CPIHOSSL": "CPI-U Housing, SA",
+    "CPITRNSL": "CPI-U Transportation, SA",
+    "CPIAPPSL": "CPI-U Apparel, SA",
+    "CPIMEDSL": "CPI-U Medical Care, SA",
+    "CPIEDUSL": "CPI-U Education, SA",
+    "CES0500000003": "Avg Hourly Earnings, Total Private, SA"
+  },
+  "window_start": "2006-03-01",
+  "window_end": "2026-10-01",
+  "n_months": 248,
+  "synthetic": false,
+  "seed": null,
+  "accessed": "2026-11-27",
+  "attribution": "Source: U.S. Bureau of Labor Statistics via FRED (Federal Reserve Bank of St. Louis).",
+  "assumptions": [
+    "All CPI series seasonally adjusted, index base 1982-84=100.",
+    "Joint window 2006-03 to 2026-10 set by earnings availability.",
+    "Latest data October 2026 (FRED lag ~1 month).",
+    "Real earnings deflated by headline CPI; no tax/benefits/hours adjustment.",
+    "$100 basket is a fixed-basket illustration (no substitution).",
+    "No forecast is made; descriptive only."
+  ]
+}
