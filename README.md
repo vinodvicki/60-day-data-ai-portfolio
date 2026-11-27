@@ -42,7 +42,8 @@ code, README, requirements, charts and example results.
 | [17](day-17-drought-impact-analyzer/) | Drought Impact Analyzer — growing-season DSCI vs detrended maize yield r = −0.61, p = 0.0009 (n = 26 years); 2012 worst drought year (DSCI 200.4, yield 2.24 t/ha below trend); Davis County, IA hardest-hit county, pytest 34/34 | Agriculture & Farming | ✅ Done (2026-11-24) |
 | [18](day-18-agricultural-commodity-price-analyzer/) | Agricultural Commodity Price Analyzer — IMF benchmark prices via FRED, 417 months (1992–2026): maize peaks May (index 1.037), wheat −69.65% worst drawdown, 76 shock months; annual weather/drought join finds no significant association (all p > 0.46); Holt-Winters maize forecast RMSE $23.38/t vs naïve $41.74/t, pytest 31/31 | Agriculture & Farming | ✅ Done (2026-11-25) |
 | [19](day-19-credit-card-fraud-detection/) | Credit Card Fraud Detection — 284,807 transactions, 492 frauds (0.17%); random forest PR-AUC 0.824 vs logistic regression 0.700; cost-optimal threshold 0.10 at $785.58 per 10,000 transactions, pytest 33/33 | Banking, Finance & Economics | ✅ Done (2026-11-26) |
-| 19–60 | See the roadmap catalog | — | Planned |
+| [20](day-20-inflation-cost-of-living-dashboard/) | Inflation & Cost of Living Dashboard — BLS CPI via FRED, Mar 2006 – Oct 2026 (248 months): prices +69.0% since Mar 2006, $100 basket now $168.99; housing +80.0%, food +79.4%, medical +79.1% vs apparel +15.0%; real hourly pay +12.2%, pytest 41/41 | Banking, Finance & Economics | ✅ Done (2026-11-27) |
+| 20–60 | See the roadmap catalog | — | Planned |
 
 ## Live demos
 
@@ -180,6 +181,11 @@ Day 19 headline findings (ULB / Worldline credit-card transactions via the Huggi
 Random forest wins on PR-AUC (0.824 vs 0.700 for logistic regression) — but logistic regression wins on ROC-AUC (0.968 vs 0.944), so the metric choice decides the ranking. At threshold 0.50 the forest is precise but leaky (precision 0.972, recall 0.703 — 104 of 148 test frauds caught, 3 false alarms, $9,762.19 missed), while logistic regression catches more fraud (recall 0.878, 130 of 148) but flags 1,806 legitimate transactions (precision 0.067). The majority baseline is the accuracy trap: 99.83% accurate, zero fraud caught, $19,311.89 missed — the most expensive option at $2,260.21 per 10,000 transactions. Dropping the forest's threshold to 0.10 is cheapest overall: recall 0.838 (124 of 148), precision 0.765 (38 false alarms), $785.58 per 10,000 transactions; best F1 (0.855) sits at threshold 0.30. Fraud rate hand-validated at 0.1727485631%, diff 0.0. Tests 33/33 pass, coverage 64.50%. Full detail in
 [Day 19](day-19-credit-card-fraud-detection/) →
 [`outputs/insights_summary.md`](day-19-credit-card-fraud-detection/outputs/insights_summary.md).
+
+Day 20 headline findings (BLS CPI via FRED, retrieved 2026-11-27; 248 months, Mar 2006 – Oct 2026; headline CPI history back to 1947):
+Prices are up 69.0% since Mar 2006 (CPI 199.70 → 337.48); the fixed $100 basket from Mar 2006 costs $168.99 in Oct 2026 and the purchasing power of $1 (1982–84 dollars) has fallen to $0.30. Inflation peaked at 8.98% year on year in Jun 2022; the latest readable year-on-year rate is 3.72% (Sep 2026) — the Oct 2026 rate is undefined because BLS published no Oct 2025 CPI (2025 lapse in appropriations). Essentials outran the average: housing +80.0%, food at home +79.4% and medical care +79.1% since Mar 2006, against apparel +15.0% and education +29.9%; energy is the live driver at +20.4% year on year (Sep 2026). Nominal hourly pay rose 89.6% ($20.04 → $38.00) but real pay only 12.2% ($10.04 → $11.26 in 1982–84 dollars), and real pay fell 0.54% year on year in Sep 2026. Energy YoY, real hourly pay and medical-care cumulative change hand-validated, diff 0.0. Tests 41/41 pass, coverage 64.88%. Full detail in
+[Day 20](day-20-inflation-cost-of-living-dashboard/) →
+[`outputs/insights_summary.md`](day-20-inflation-cost-of-living-dashboard/outputs/insights_summary.md).
 
 ## Roadmap phases
 
